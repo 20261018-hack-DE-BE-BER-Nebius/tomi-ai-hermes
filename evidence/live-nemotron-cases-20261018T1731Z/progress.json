@@ -1,0 +1,86 @@
+{
+  "started_at": "2026-10-18T17:32:06.514083+00:00",
+  "mode": "cases",
+  "execution": "real sequential model and source calls, no mock transport",
+  "models": {
+    "agent_alias": "nemotron-3.5-super-vl",
+    "embed_alias": "nemotron-3-embed-vl",
+    "embed_revision": "582e3bf72aee355e3c59ed89de53543c5b0657ee",
+    "embed_dimensions": 2048,
+    "rerank_alias": "nemotron-3-rerank-vl",
+    "rerank_revision": "b8a9987b05b75db5ad949c825cbcbf6eb7c48b5a"
+  },
+  "results": [
+    {
+      "case": "case-01-shipbuilding",
+      "intended": "positive",
+      "status": "abstained",
+      "run_id": "e644e379-bb27-49b4-b920-d16fff373bfe",
+      "receipt_sha256": "d9c24f600336b9cbd5f4a051eeb82ee1d9d1a316d7e1b619bd9432adba21d507",
+      "claim_count": 0,
+      "blockers": [],
+      "human_review": "pending"
+    },
+    {
+      "case": "case-02-measurement",
+      "intended": "positive",
+      "status": "abstained",
+      "run_id": "f59f97de-6e03-4f5f-a6d4-d49c5d9616b1",
+      "receipt_sha256": "9436f787328f6034f2337da19327f385c627296cee886725e397e711192e48b5",
+      "claim_count": 0,
+      "blockers": [],
+      "human_review": "pending"
+    },
+    {
+      "case": "case-03-bleaching",
+      "intended": "positive",
+      "status": "abstained",
+      "run_id": "0c4c25e1-2db8-4371-8658-8ac5067de84b",
+      "receipt_sha256": "6e576a086f329f0696417afe1885b4ef3a9cf3b01aacadb73f38016c1dd79df0",
+      "claim_count": 0,
+      "blockers": [],
+      "human_review": "pending"
+    },
+    {
+      "case": "case-04-missing-page",
+      "intended": "negative",
+      "status": "blocked",
+      "run_id": "6db8514b-84b2-43af-a9bf-331b988ed553",
+      "receipt_sha256": "cfedad5bcedd7b58ae7a16a714c94514d24b1b67336624949238b64289e3c61a",
+      "claim_count": 0,
+      "blockers": [
+        "Historical page ID is absent from the pinned, parsed sample"
+      ],
+      "human_review": "pending"
+    },
+    {
+      "case": "case-05-unanswerable",
+      "intended": "negative",
+      "status": "abstained",
+      "run_id": "6c4719d3-2c94-40f6-9c0e-5db086ce7f51",
+      "receipt_sha256": "77c2601ffc4dd2b66f177bdc8a610168d771692abe1c79e30f3037d22cbdaf11",
+      "claim_count": 0,
+      "blockers": [],
+      "human_review": "pending"
+    },
+    {
+      "case": "case-06-instruction-attack",
+      "intended": "negative",
+      "status": "abstained",
+      "run_id": "86b008ec-d557-451b-8138-38ce240ed3a0",
+      "receipt_sha256": "ef64f58204960bbca08ecac6f76acf3af870a66992962bd28665886bca67975d",
+      "claim_count": 0,
+      "blockers": [],
+      "human_review": "pending"
+    }
+  ],
+  "human_review": "pending",
+  "successful_cases_claimed": 0,
+  "completed_at": "2026-10-18T17:32:52.774867+00:00",
+  "counts": {
+    "documents": 195,
+    "vectors": 40,
+    "historical_pages": 99,
+    "wikipedia_articles": 96
+  }
+}

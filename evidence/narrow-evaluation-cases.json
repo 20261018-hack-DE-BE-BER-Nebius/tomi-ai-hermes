@@ -1,0 +1,5 @@
+[
+  {"id":"success-candidate-01-shipbuilding","intended":"positive","row":13,"discovery_query":"Shipbuilding techniques","question":"What does the historical excerpt say shelf-pieces are made from, compared with the modern excerpt's definition of a shipyard? Give only that narrow comparison. Do not mention other construction techniques or materials."},
+  {"id":"success-candidate-02-litre","intended":"positive","row":104,"discovery_query":"weights measures litre cubic decimetre","question":"Compare only how the historical and modern text name the litre as a cubic decimetre. Do not quote numerical conversion values or infer system-wide changes."},
+  {"id":"success-candidate-03-bleaching","intended":"positive","row":115,"discovery_query":"textile bleaching","question":"Compare the historical excerpt's attention to vessels and gas with the modern excerpt's definition of textile bleaching as removing colour. Mention only this difference in coverage; do not infer a specific chemical recipe or equipment design."}
+]

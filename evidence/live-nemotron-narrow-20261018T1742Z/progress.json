@@ -1,0 +1,54 @@
+{
+  "started_at": "2026-10-18T17:42:07.585666+00:00",
+  "mode": "cases",
+  "execution": "real sequential model and source calls, no mock transport",
+  "models": {
+    "agent_alias": "nemotron-3.5-super-vl",
+    "embed_alias": "nemotron-3-embed-vl",
+    "embed_revision": "582e3bf72aee355e3c59ed89de53543c5b0657ee",
+    "embed_dimensions": 2048,
+    "rerank_alias": "nemotron-3-rerank-vl",
+    "rerank_revision": "b8a9987b05b75db5ad949c825cbcbf6eb7c48b5a"
+  },
+  "results": [
+    {
+      "case": "success-candidate-01-shipbuilding",
+      "intended": "positive",
+      "status": "needs_review",
+      "run_id": "3b412498-6fef-4b23-82e7-4f788fd54d1c",
+      "receipt_sha256": "ed7238f8cc1377a6d3b1491e513dd6b528af39b2d2ac6141c2eab83992bfefe6",
+      "claim_count": 1,
+      "blockers": [],
+      "human_review": "pending"
+    },
+    {
+      "case": "success-candidate-02-litre",
+      "intended": "positive",
+      "status": "needs_review",
+      "run_id": "230bb357-6a12-4037-8822-c847df11cd82",
+      "receipt_sha256": "c09e08bdbfba50594255c8fa62918dcb4bc51132b2754aeeb6e6e406bae0ab76",
+      "claim_count": 1,
+      "blockers": [],
+      "human_review": "pending"
+    },
+    {
+      "case": "success-candidate-03-bleaching",
+      "intended": "positive",
+      "status": "needs_review",
+      "run_id": "6b6ede89-694d-44a7-a14b-8c52415d1461",
+      "receipt_sha256": "3c0c4447945f01d1b4a3b9c6935c30add904e9d59182c5edc6f08022c598a7dd",
+      "claim_count": 1,
+      "blockers": [],
+      "human_review": "pending"
+    }
+  ],
+  "human_review": "pending",
+  "successful_cases_claimed": 0,
+  "completed_at": "2026-10-18T17:42:36.650037+00:00",
+  "counts": {
+    "documents": 203,
+    "vectors": 56,
+    "historical_pages": 99,
+    "wikipedia_articles": 104
+  }
+}
