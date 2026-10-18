@@ -13,10 +13,14 @@ This repository contains the comparison pipeline and its reproducible evidence. 
 | Source text, versions and parser receipts | [Portable corpus](resources/corpus/) and [extraction evidence](evidence/) |
 | Static website and compiled LaTeX | [Archive](archive/), [100-page compiled volume](archive/pdfs/britannica-100-pages.pdf), and [LaTeX source](archive/latex/main.tex) |
 | Per-page comparison analysis | The `match` command writes a 100-page coverage ledger; inspect the saved [evidence](evidence/) and its explicit review state |
-| Three intended successes and three failures | [Six-case evaluator](src/tomi_ai_hermes/application/evaluation.py) and actual [run evidence](evidence/); intended positives are not automatically successful |
+| Three reviewed narrow successes and three actual failures | [Reviewed cases](evidence/reviewed-six-cases.json), [explicit questions](evidence/narrow-evaluation-cases.json), and preserved earlier [run evidence](evidence/); assistant review is separate from independent human certification |
 | Architecture, pitch and interview preparation | [Four-language project documentation](https://github.com/20261018-hack-DE-BE-BER-Nebius/tomi-project-knowledge-graph) |
 
 The NVIDIA route uses Parse 3.5, Embed VL, Rerank VL and Super VL with Hermes. A separate Astra lexical baseline is explicitly labelled in the application. Model access, an actual inference response, a reviewed comparison, and completion of the whole sample are separate checks; consult the saved receipts for their current status.
+
+All four required models have now produced real outputs through core. The reviewed narrow comparisons cover timber shelf-pieces versus shipyard definitions, litre/cubic-decimetre continuity, and bleaching coverage. The earlier broad questions failed and remain available. The [content classification](evidence/page-content-classification.json) accounts for 95 full-text pages, one partial astronomy plate, three visually confirmed blank leaves and one nontext cover. The original 98 accepted nontruncated Parse responses include those three layout-only blanks; acceptance is not certified OCR accuracy.
+
+Hermes calls one read-only evidence tool. The model selects offered span IDs, which are bound to immutable quotes and Unicode offsets before the existing strict source validator runs. Mechanical citation validity does not establish claim entailment. Model-input normalization removes Parse layout controls without changing raw source text, hashes or citation offsets.
 
 The specific participant PDF requests a three-minute submission cut. A separate walkthrough is capped at five minutes. No portal submission or acceptance is implied by publishing this repository.
 
@@ -48,11 +52,22 @@ Primary storage contract: <https://github.com/lancedb/lance/blob/main/docs/src/g
 
 `extract` requires the Parquet whose URL, bytes and SHA-256 are in `resources/upstream/britannica-manifest.json`. The immutable manifest selects 100 physical pages from 2,573 rows using seed 20261016. Corpus downloads and bulk inference are explicit operations. `evaluate` performs three intended positive cases and three intended negative cases and records actual outcomes.
 
+Reproduce the narrow reviewed questions with a fresh output directory:
+
+```sh
+uv run python evidence/run-live-evaluation.py cases --cases evidence/narrow-evaluation-cases.json --output /tmp/tomi-new-cases
+uv run python evidence/run-live-evaluation.py sample --output /tmp/tomi-new-sample
+```
+
+The runners execute sequentially because both retrieval models share one GPU. Output directories must not already exist. Original transport failures, source-query failures and repaired runs are retained separately; no synthetic success or accuracy score is inserted.
+
 ## HTTP interface
 
 `GET /health` is unauthenticated process health and returns 503 after a known storage/seed initialization or access failure. Errors expose only a bounded classification, never storage credentials or the upstream error body. `GET /ready`, `POST /v1/retrieve` and `POST /v1/compare` require `Authorization: Bearer <TOMI_SERVICE_TOKEN>`.
 
 Requests contain `question`, `locale` (`en`, `es`, `de`, `fr`), optional `historical_page_id`, `top_k` (1–10), and `require_semantic`. Retrieval may return a clearly labeled lexical baseline with `status: partial`; comparison requires the complete Nemotron/Hermes route. Source documents, traces, model failures, uncertainty, exact citation spans and receipt hashes accompany results. `/ready` is distinct from process health.
+
+`POST /v1/compare` additionally accepts optional `discovery_query` (1–512 characters). It is used only to discover source candidates; the original `question` remains the synthesis request. This preserves a user's narrow comparison scope after a gateway resolves the search topic. `/v1/retrieve` does not accept this field.
 
 ## Containers and checks
 
