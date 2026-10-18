@@ -4,7 +4,7 @@ Python 3.14 and UV service for pinned Britannica/Wikimedia evidence, Nemotron pa
 
 ## Submission entry point
 
-This repository contains the comparison pipeline and its reproducible evidence. The live application is at <https://tomi-web.graysky-dd3771ab.swedencentral.azurecontainerapps.io>; its source is the sibling [tomi-web repository](https://github.com/20261018-hack-DE-BE-BER-Nebius/tomi-web).
+This repository contains the comparison pipeline and its reproducible evidence. The live application is at <https://tomi-web.graysky-dd3771ab.swedencentral.azurecontainerapps.io>, with a [public archive](https://tomi-web.graysky-dd3771ab.swedencentral.azurecontainerapps.io/archive/) and [recorded results](https://tomi-web.graysky-dd3771ab.swedencentral.azurecontainerapps.io/archive/results.html); its source is the sibling [tomi-web repository](https://github.com/20261018-hack-DE-BE-BER-Nebius/tomi-web).
 
 | Deliverable | Location |
 | --- | --- |
@@ -55,8 +55,8 @@ Primary storage contract: <https://github.com/lancedb/lance/blob/main/docs/src/g
 Reproduce the narrow reviewed questions with a fresh output directory:
 
 ```sh
-uv run python evidence/run-live-evaluation.py cases --cases evidence/narrow-evaluation-cases.json --output /tmp/tomi-new-cases
-uv run python evidence/run-live-evaluation.py sample --output /tmp/tomi-new-sample
+.venv/bin/python evidence/run-live-evaluation.py cases --cases evidence/narrow-evaluation-cases.json --output /tmp/tomi-new-cases
+.venv/bin/python evidence/run-live-evaluation.py sample --output /tmp/tomi-new-sample
 ```
 
 The runners execute sequentially because both retrieval models share one GPU. Output directories must not already exist. Original transport failures, source-query failures and repaired runs are retained separately; no synthetic success or accuracy score is inserted.
