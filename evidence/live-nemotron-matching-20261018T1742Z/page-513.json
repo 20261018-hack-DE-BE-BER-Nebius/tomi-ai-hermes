@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "E N G [ 2756 ] E N G",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:1191490",
+      "title": "Pairing",
+      "corpus": "wikipedia",
+      "text": "In mathematics, a pairing is an R - bilinear map from the Cartesian product of two R - modules, where the underlying ring R is commutative.\n\nLet R be a commutative ring with unit, and let M, N and L be R -modules.\n\nA pairing is any R -bilinear map e: M × N → L {\\displaystyle e:M\\times N\\to L}. That is, it satisfies\n\ne (r ⋅ m, n) = e (m, r ⋅ n) = r ⋅ e (m, n) {\\displaystyle e(r\\cdot m,n)=e(m,r\\cdot n)=r\\cdot e(m,n)},\n\ne (m 1 + m 2, n) = e (m 1, n) + e (m 2, n) {\\displaystyle e(m_{1}+m_{2},n)=e(m_{1},n)+e(m_{2},n)} and e (m, n 1 + n 2) = e (m, n 1) + e (m, n 2) {\\displaystyle e(m,n_{1}+n_{2})=e(m,n_{1})+e(m,n_{2})}\n\nfor any r ∈ R {\\displaystyle r\\in R} and any m, m 1, m 2 ∈ M {\\displaystyle m,m_{1},m_{2}\\in M} and any n, n 1, n 2 ∈ N {\\displaystyle n,n_{1},n_{2}\\in N}. Equivalently, a pairing is an R -linear map\n\nM ⊗ R N → L {\\displaystyle M\\otimes _{R}N\\to L}\n\nwhere M ⊗ R N {\\displaystyle M\\otimes _{R}N} denotes the tensor product of M and N.\n\nA pairing can also be considered as an R -linear map Φ: M → Hom R (N, L) {\\displaystyle \\Phi:M\\to \\operatorname {Hom} _{R}(N,L)}, which matches the first definition by setting Φ (m) (n):= e (m, n) {\\displaystyle \\Phi (m)(n):=e(m,n)}.\n\nA pairing is called perfect if the above map Φ {\\displaystyle \\Phi } is an isomorphism of R -modules and the other evaluation map Φ ′: N → Hom R (M, L) {\\displaystyle \\Phi '\\colon N\\to \\operatorname {Hom} _{R}(M,L)} is an isomorphism also. In nice cases, it suffices that just one of these be an isomorphism, e.g. when R is a field, M,N are finite dimensional vector spaces and L=R.\n\nA pairing is called non-degenerate on the right if for the above map we have that e (m, n) = 0 {\\displaystyle e(m,n)=0} for all m {\\displaystyle m} implies n = 0 {\\displaystyle n=0}; similarly, e {\\displaystyle e} is called non-degenerate on the left if e (m, n) = 0 {\\displaystyle e(m,n)=0} for all n {\\displaystyle n} implies m = 0 {\\displaystyle m=0}.\n\nWhen N = M {\\displaystyle N=M}, a pairing is called symmetric if e (m, n) = e (n, m) {\\displaystyle e(m,n)=e(n,m)} for all m, n, and alternating if e (m, m) = 0 {\\displaystyle e(m,m)=0} for all m. In particular, this implies e (m + n, m + n) = 0 {\\displaystyle e(m+n,m+n)=0}, while bilinearity shows e (m + n, m + n) = e (m, m) + e (m, n) + e (n, m) + e (n, n) = e (m, n) + e (n, m) {\\displaystyle e(m+n,m+n)=e(m,m)+e(m,n)+e(n,m)+e(n,n)=e(m,n)+e(n,m)}. Thus, for an alternating pairing, e (m, n) = − e (n, m) {\\displaystyle e(m,n)=-e(n,m)}.\n\nFor a vector space V {\\displaystyle V} over a field k {\\displaystyle k}, a pairing V × V → k {\\displaystyle V\\times V\\to k} is also called a bilinear form. Examples include any scalar product on a real vector space V, or the determinant map (2 × 2 matrices over k) → k when viewed as a pairing k 2 × k 2 → k {\\displaystyle k^{2}\\times k^{2}\\to k}.\n\nFor the dual module M ∗ {\\displaystyle M^{*}} of M {\\displaystyle M}, the evaluation map M ∗ × M → R {\\displaystyle M^{*}\\times M\\to R}, (λ, m) ↦ λ (m) {\\displaystyle (\\lambda,m)\\mapsto \\lambda (m)} is known as the natural pairing.\n\nOther examples of pairings occur in various duality theories, such as Serre duality or Poincaré duality. See also Dual system.\n\nAnother example is the Yoneda product between Ext groups.\n\nThe Hopf map S 3 → S 2 {\\displaystyle S^{3}\\to S^{2}} written as h: S 2 × S 2 → S 2 {\\displaystyle h:S^{2}\\times S^{2}\\to S^{2}} is an example of a pairing. For instance, Hardie et al. present an explicit construction of the map using poset models.\n\nIn cryptography, often the following specialized definition is used:\n\nLet G 1, G 2 {\\displaystyle \\textstyle G_{1},G_{2}} be additive groups and G T {\\displaystyle \\textstyle G_{T}} a multiplicative group, all of prime order p {\\displaystyle \\textstyle p}. Let P ∈ G 1, Q ∈ G 2 {\\displaystyle \\textstyle P\\in G_{1},Q\\in G_{2}} be generators of G 1 {\\displaystyle \\textstyle G_{1}} and G 2 {\\displaystyle \\textstyle G_{2}} respectively.\n\nA pairing is a map: e: G 1 × G 2 → G T {\\displaystyle e:G_{1}\\times G_{2}\\rightarrow G_{T}}\n\nfor which the following holds:\n\nBilinearity: ∀ a, b ∈ Z: e (a P, b Q) = e (P, Q) a b {\\displaystyle \\textstyle \\forall a,b\\in \\mathbb {Z} :\\ e\\left(aP,bQ\\right)=e\\left(P,Q\\right)^{ab}}\n\nNon-degeneracy: e (P, Q) ≠ 1 {\\displaystyle \\textstyle e\\left(P,Q\\right)\\neq 1}\n\nFor practical purposes, e {\\displaystyle \\textstyle e} has to be computable in an efficient manner\n\nNote that it is also common in cryptographic literature for all groups to be written in multiplicative notation.\n\nIn cases when G 1 = G 2 = G {\\displaystyle \\textstyle G_{1}=G_{2}=G}, the pairing is called symmetric. As G {\\displaystyle \\textstyle G} is cyclic, the map e {\\displaystyle e} will be commutative; that is, for any P, Q ∈ G {\\displaystyle P,Q\\in G}, we have e (P, Q) = e (Q, P) {\\displaystyle e(P,Q)=e(Q,P)}. This is because for a generator g ∈ G {\\displaystyle g\\in G}, there exist integers p {\\displaystyle p}, q {\\displaystyle q} such that P = g p {\\displaystyle P=g^{p}} and Q = g q {\\displaystyle Q=g^{q}}. Therefore e (P, Q) = e (g p, g q) = e (g, g) p q = e (g q, g p) = e (Q, P) {\\displaystyle e(P,Q)=e(g^{p},g^{q})=e(g,g)^{pq}=e(g^{q},g^{p})=e(Q,P)}.\n\nThe Weil pairing is an important concept in elliptic curve cryptography; e.g., it may be used to attack certain elliptic curves (see MOV attack). It and other pairings have been used to develop identity-based encryption schemes.\n\nScalar products on complex vector spaces are sometimes called pairings, although they are not bilinear.For example, in representation theory, one has a scalar product on the characters of complex representations of a finite group which is frequently called character pairing.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1353484656",
+      "revision_id": "1353484656",
+      "text_sha256": "6394d3e8feb80e0327b843dfbc4be116524316db9701413c8ac67749c0fe8ab7",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:47:14.248972+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.217000007629395,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:36704617",
+      "title": "Hardy–Littlewood inequality",
+      "corpus": "wikipedia",
+      "text": "In mathematical analysis, the Hardy–Littlewood inequality, named after G. H. Hardy and John Edensor Littlewood, states that if f {\\displaystyle f} and g {\\displaystyle g} are nonnegative measurable real functions vanishing at infinity that are defined on n {\\displaystyle n} - dimensional Euclidean space R n {\\displaystyle \\mathbb {R} ^{n}}, then\n\n∫ R n f (x) g (x) d x ≤ ∫ R n f ∗ (x) g ∗ (x) d x {\\displaystyle \\int _{\\mathbb {R} ^{n}}f(x)g(x)\\,dx\\leq \\int _{\\mathbb {R} ^{n}}f^{*}(x)g^{*}(x)\\,dx}\n\nwhere f ∗ {\\displaystyle f^{*}} and g ∗ {\\displaystyle g^{*}} are the symmetric decreasing rearrangements of f {\\displaystyle f} and g {\\displaystyle g}, respectively.\n\nThe decreasing rearrangement f ∗ {\\displaystyle f^{*}} of f {\\displaystyle f} is defined via the property that for all r > 0 {\\displaystyle r>0} the two super-level sets\n\nE f (r) = { x ∈ X: f (x) > r } {\\displaystyle E_{f}(r)=\\left\\{x\\in X:f(x)>r\\right\\}\\quad } and E f ∗ (r) = { x ∈ X: f ∗ (x) > r } {\\displaystyle \\quad E_{f^{*}}(r)=\\left\\{x\\in X:f^{*}(x)>r\\right\\}}\n\nhave the same volume (n {\\displaystyle n} -dimensional Lebesgue measure) and E f ∗ (r) {\\displaystyle E_{f^{*}}(r)} is a ball in R n {\\displaystyle \\mathbb {R} ^{n}} centered at x = 0 {\\displaystyle x=0}, i.e. it has maximal symmetry.\n\nThe layer cake representation allows us to write the general functions f {\\displaystyle f} and g {\\displaystyle g} in the form\n\nf (x) = ∫ 0 ∞ χ f (x) > r d r {\\displaystyle f(x)=\\int _{0}^{\\infty }\\chi _{f(x)>r}\\,dr\\quad } and g (x) = ∫ 0 ∞ χ g (x) > s d s {\\displaystyle \\quad g(x)=\\int _{0}^{\\infty }\\chi _{g(x)>s}\\,ds}\n\nwhere r ↦ χ f (x) > r {\\displaystyle r\\mapsto \\chi _{f(x)>r}} equals 1 {\\displaystyle 1} for r < f (x) {\\displaystyle r<f(x)} and 0 {\\displaystyle 0} otherwise. Analogously, s ↦ χ g (x) > s {\\displaystyle s\\mapsto \\chi _{g(x)>s}} equals 1 {\\displaystyle 1} for s < g (x) {\\displaystyle s<g(x)} and 0 {\\displaystyle 0} otherwise.\n\nNow the proof can be obtained by first using Fubini's theorem to interchange the order of integration. When integrating with respect to x ∈ R n {\\displaystyle x\\in \\mathbb {R} ^{n}} the conditions f (x) > r {\\displaystyle f(x)>r} and g (x) > s {\\displaystyle g(x)>s} the indicator functions x ↦ χ E f (r) (x) {\\displaystyle x\\mapsto \\chi _{E_{f}(r)}(x)} and x ↦ χ E g (s) (x) {\\displaystyle x\\mapsto \\chi _{E_{g}(s)}(x)} appear with the superlevel sets E f (r) {\\displaystyle E_{f}(r)} and E g (s) {\\displaystyle E_{g}(s)} as introduced above:\n\n∫ R n f (x) g (x) d x = ∫ R n ∫ 0 ∞ χ f (x) > r d r ∫ 0 ∞ χ g (x) > s d s d x = ∫ R n ∫ 0 ∞ ∫ 0 ∞ χ f (x) > r χ g (x) > s d r d s d x {\\displaystyle \\int _{\\mathbb {R} ^{n}}f(x)g(x)\\,dx=\\displaystyle \\int _{\\mathbb {R} ^{n}}\\int _{0}^{\\infty }\\chi _{f(x)>r}\\,dr\\;\\int _{0}^{\\infty }\\chi _{g(x)>s}\\,ds\\,dx=\\int _{\\mathbb {R} ^{n}}\\int _{0}^{\\infty }\\int _{0}^{\\infty }\\chi _{f(x)>r}\\;\\chi _{g(x)>s}\\,dr\\,ds\\,dx}\n\n= ∫ 0 ∞ ∫ 0 ∞ ∫ R n χ E f (r) (x) χ E g (s) (x) d x d r d s = ∫ 0 ∞ ∫ 0 ∞ ∫ R n χ E f (r) ∩ E g (s) (x) d x d r d s. {\\displaystyle =\\int _{0}^{\\infty }\\int _{0}^{\\infty }\\int _{\\mathbb {R} ^{n}}\\chi _{E_{f}(r)}(x)\\;\\chi _{E_{g}(s)}(x)\\,dx\\,dr\\,ds=\\int _{0}^{\\infty }\\int _{0}^{\\infty }\\int _{\\mathbb {R} ^{n}}\\chi _{E_{f}(r)\\cap E_{g}(s)}(x)\\,dx\\,dr\\,ds.}\n\nDenoting by μ {\\displaystyle \\mu } the n {\\displaystyle n} -dimensional Lebesgue measure we continue by estimating the volume of the intersection by the minimum of the volumes of the two sets. Then, we can use the equality of the volumes of the superlevel sets for the rearrangements:\n\n= ∫ 0 ∞ ∫ 0 ∞ μ (E f (r) ∩ E g (s)) d r d s {\\displaystyle =\\int _{0}^{\\infty }\\int _{0}^{\\infty }\\mu \\left(E_{f}(r)\\cap E_{g}(s)\\right)\\,dr\\,ds}\n\n≤ ∫ 0 ∞ ∫ 0 ∞ min { μ (E f (r)), μ (E g (s)) } d r d s {\\displaystyle \\leq \\int _{0}^{\\infty }\\int _{0}^{\\infty }\\min \\left\\{\\mu (E_{f}(r)),\\,\\mu (E_{g}(s))\\right\\}\\,dr\\,ds}\n\n= ∫ 0 ∞ ∫ 0 ∞ min { μ (E f ∗ (r)), μ (E g ∗ (s)) } d r d s. {\\displaystyle =\\int _{0}^{\\infty }\\int _{0}^{\\infty }\\min \\left\\{\\mu (E_{f^{*}}(r)),\\,\\mu (E_{g^{*}}(s))\\right\\}\\,dr\\,ds.}\n\nNow, we use that the superlevel sets E f ∗ (r) {\\displaystyle E_{f^{*}}(r)} and E g ∗ (s) {\\displaystyle E_{g^{*}}(s)} are balls in R n {\\displaystyle \\mathbb {R} ^{n}} centered at x = 0 {\\displaystyle x=0}, which implies that E f ∗ (r) ∩ E g ∗ (s) {\\displaystyle E_{f^{*}}(r)\\,\\cap \\,E_{g^{*}}(s)} is exactly the smaller one of the two balls:\n\n= ∫ 0 ∞ ∫ 0 ∞ μ (E f ∗ (r) ∩ E g ∗ (s)) d r d s {\\displaystyle =\\int _{0}^{\\infty }\\int _{0}^{\\infty }\\mu \\left(E_{f^{*}}(r)\\cap E_{g^{*}}(s)\\right)\\,dr\\,ds}\n\n= ∫ R n f ∗ (x) g ∗ (x) d x {\\displaystyle =\\int _{\\mathbb {R} ^{n}}f^{*}(x)g^{*}(x)\\,dx}\n\nThe last identity follows by reversing the initial five steps that even work for general functions. This finishes the proof.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1344853634",
+      "revision_id": "1344853634",
+      "text_sha256": "fa4adcc6852b2365b9ac7e924974d08632923b8038244d14d6958e3bca6131a5",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:47:17.265320+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.230524063110352,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:27175770",
+      "title": "Watson's lemma",
+      "corpus": "wikipedia",
+      "text": "In mathematics, Watson's lemma, proved by G. N. Watson (1918, p. 133), has significant application within the theory on the asymptotic behavior of integrals.\n\nLet 0 < T ≤ ∞ {\\displaystyle 0<T\\leq \\infty } be fixed. Assume φ (t) = t λ g (t) {\\displaystyle \\varphi (t)=t^{\\lambda }\\,g(t)}, where g (t) {\\displaystyle g(t)} has an infinite number of derivatives in the neighborhood of t = 0 {\\displaystyle t=0}, with g (0) ≠ 0 {\\displaystyle g(0)\\neq 0}, and λ > − 1 {\\displaystyle \\lambda >-1}.\n\nSuppose, in addition, either that\n\n| φ (t) | < K e b t ∀ t > 0, {\\displaystyle |\\varphi (t)|<Ke^{bt}\\ \\forall t>0,}\n\nwhere K, b {\\displaystyle K,b} are independent of t {\\displaystyle t}, or that\n\n∫ 0 T | φ (t) | d t < ∞. {\\displaystyle \\int _{0}^{T}|\\varphi (t)|\\,\\mathrm {d} t<\\infty.}\n\nThen, it is true that for all positive x {\\displaystyle x} that\n\n| ∫ 0 T e − x t φ (t) d t | < ∞ {\\displaystyle \\left|\\int _{0}^{T}e^{-xt}\\varphi (t)\\,\\mathrm {d} t\\right|<\\infty }\n\nand that the following asymptotic equivalence holds:\n\n∫ 0 T e − x t φ (t) d t ∼ ∑ n = 0 ∞ g (n) (0) Γ (λ + n + 1) n ! x λ + n + 1, (x > 0, x → ∞). {\\displaystyle \\int _{0}^{T}e^{-xt}\\varphi (t)\\,\\mathrm {d} t\\sim \\ \\sum _{n=0}^{\\infty }{\\frac {g^{(n)}(0)\\ \\Gamma (\\lambda +n+1)}{n!\\ x^{\\lambda +n+1}}},\\ \\ (x>0,\\ x\\rightarrow \\infty).}\n\nSee, for instance, Watson (1918) for the original proof or Miller (2006) for a more recent development.\n\nWe will prove the version of Watson's lemma which assumes that | φ (t) | {\\displaystyle |\\varphi (t)|} has at most exponential growth as t → ∞ {\\displaystyle t\\to \\infty }. The basic idea behind the proof is that we will approximate g (t) {\\displaystyle g(t)} by finitely many terms of its Taylor series. Since the derivatives of g {\\displaystyle g} are only assumed to exist in a neighborhood of the origin, we will essentially proceed by removing the tail of the integral, applying Taylor's theorem with remainder in the remaining small interval, then adding the tail back on in the end. At each step we will carefully estimate how much we are throwing away or adding on. This proof is a modification of the one found in Miller (2006).\n\nLet 0 < T ≤ ∞ {\\displaystyle 0<T\\leq \\infty } and suppose that φ {\\displaystyle \\varphi } is a measurable function of the form φ (t) = t λ g (t) {\\displaystyle \\varphi (t)=t^{\\lambda }g(t)}, where λ > − 1 {\\displaystyle \\lambda >-1} and g {\\displaystyle g} has an infinite number of continuous derivatives in the interval {\\displaystyle } for some 0 < δ < T {\\displaystyle 0<\\delta <T}, and that | φ (t) | ≤ K e b t {\\displaystyle |\\varphi (t)|\\leq Ke^{bt}} for all δ ≤ t ≤ T {\\displaystyle \\delta \\leq t\\leq T}, where the constants K {\\displaystyle K} and b {\\displaystyle b} are independent of t {\\displaystyle t}.\n\nWe can show that the integral is finite for x {\\displaystyle x} large enough by writing\n\n(1) ∫ 0 T e − x t φ (t) d t = ∫ 0 δ e − x t φ (t) d t + ∫ δ T e − x t φ (t) d t {\\displaystyle (1)\\quad \\int _{0}^{T}e^{-xt}\\varphi (t)\\,\\mathrm {d} t=\\int _{0}^{\\delta }e^{-xt}\\varphi (t)\\,\\mathrm {d} t+\\int _{\\delta }^{T}e^{-xt}\\varphi (t)\\,\\mathrm {d} t}\n\nand estimating each term.\n\nFor the first term we have\n\n| ∫ 0 δ e − x t φ (t) d t | ≤ ∫ 0 δ e − x t | φ (t) | d t ≤ ∫ 0 δ | φ (t) | d t {\\displaystyle \\left|\\int _{0}^{\\delta }e^{-xt}\\varphi (t)\\,\\mathrm {d} t\\right|\\leq \\int _{0}^{\\delta }e^{-xt}|\\varphi (t)|\\,\\mathrm {d} t\\leq \\int _{0}^{\\delta }|\\varphi (t)|\\,\\mathrm {d} t}\n\nfor x ≥ 0 {\\displaystyle x\\geq 0}, where the last integral is finite by the assumptions that g {\\displaystyle g} is continuous on the interval {\\displaystyle } and that λ > − 1 {\\displaystyle \\lambda >-1}. For the second term we use the assumption that φ {\\displaystyle \\varphi } is exponentially bounded to see that, for x > b {\\displaystyle x>b},\n\n| ∫ δ T e − x t φ (t) d t | ≤ ∫ δ T e − x t | φ (t) | d t ≤ K ∫ δ T e (b − x) t d t ≤ K ∫ δ ∞ e (b − x) t d t = K e (b − x) δ x − b. {\\displaystyle {\\begin{aligned}\\left|\\int _{\\delta }^{T}e^{-xt}\\varphi (t)\\,\\mathrm {d} t\\right|&\\leq \\int _{\\delta }^{T}e^{-xt}|\\varphi (t)|\\,\\mathrm {d} t\\\\&\\leq K\\int _{\\delta }^{T}e^{(b-x)t}\\,\\mathrm {d} t\\\\&\\leq K\\int _{\\delta }^{\\infty }e^{(b-x)t}\\,\\mathrm {d} t\\\\&=K\\,{\\frac {e^{(b-x)\\delta }}{x-b}}.\\end{aligned}}}\n\nThe finiteness of the original integral then follows from applying the triangle inequality to (1) {\\displaystyle (1)}.\n\nWe can deduce from the above calculation that\n\n(2) ∫ 0 T e − x t φ (t) d t = ∫ 0 δ e − x t φ (t) d t + O (x − 1 e − δ x) {\\displaystyle (2)\\quad \\int _{0}^{T}e^{-xt}\\varphi (t)\\,\\mathrm {d} t=\\int _{0}^{\\delta }e^{-xt}\\varphi (t)\\,\\mathrm {d} t+O\\left(x^{-1}e^{-\\delta x}\\right)}\n\nas x → ∞ {\\displaystyle x\\to \\infty }.\n\nBy appealing to Taylor's theorem with remainder we know that, for each integer N ≥ 0 {\\displaystyle N\\geq 0},\n\ng (t) = ∑ n = 0 N g (n) (0) n ! t n + g (N + 1) (t ∗) (N + 1) ! t N + 1 {\\displaystyle g(t)=\\sum _{n=0}^{N}{\\frac {g^{(n)}(0)}{n!}}\\,t^{n}+{\\frac {g^{(N+1)}(t^{*})}{(N+1)!}}\\,t^{N+1}}\n\nfor 0 ≤ t ≤ δ {\\displaystyle 0\\leq t\\leq \\delta }, where 0 ≤ t ∗ ≤ t {\\displaystyle 0\\leq t^{*}\\leq t}. Plugging this in to the first term in (2) {\\displaystyle (2)} we get\n\n(3) ∫ 0 δ e − x t φ (t) d t = ∫ 0 δ e − x t t λ g (t) d t = ∑ n = 0 N g (n) (0) n ! ∫ 0 δ t λ + n e − x t d t + 1 (N + 1) ! ∫ 0 δ g (N + 1) (t ∗) t λ + N + 1 e − x t d t. {\\displaystyle {\\begin{aligned}(3)\\quad \\int _{0}^{\\delta }e^{-xt}\\varphi (t)\\,\\mathrm {d} t&=\\int _{0}^{\\delta }e^{-xt}t^{\\lambda }g(t)\\,\\mathrm {d} t\\\\&=\\sum _{n=0}^{N}{\\frac {g^{(n)}(0)}{n!}}\\int _{0}^{\\delta }t^{\\lambda +n}e^{-xt}\\,\\mathrm {d} t+{\\frac {1}{(N+1)!}}\\int _{0}^{\\delta }g^{(N+1)}(t^{*})\\,t^{\\lambda +N+1}e^{-xt}\\,\\mathrm {d} t.\\end{aligned}}}\n\nTo bound the term involving the remainder we use the assumption that g (N + 1) {\\displaystyle g^{(N+1)}} is continuous on the interval {\\displaystyle }, and in particular it is bounded there. As such we see that\n\n| ∫ 0 δ g (N + 1) (t ∗) t λ + N + 1 e − x t d t | ≤ sup t ∈ | g (N + 1) (t) | ∫ 0 δ t λ + N + 1 e − x t d t < sup t ∈ | g (N + 1) (t) | ∫ 0 ∞ t λ + N + 1 e − x t d t = sup t ∈ | g (N + 1) (t) | Γ (λ + N + 2) x λ + N + 2. {\\displaystyle {\\begin{aligned}\\left|\\int _{0}^{\\delta }g^{(N+1)}(t^{*})\\,t^{\\lambda +N+1}e^{-xt}\\,\\mathrm {d} t\\right|&\\leq \\sup _{t\\in }\\left|g^{(N+1)}(t)\\right|\\int _{0}^{\\delta }t^{\\lambda +N+1}e^{-xt}\\,\\mathrm {d} t\\\\&<\\sup _{t\\in }\\left|g^{(N+1)}(t)\\right|\\int _{0}^{\\infty }t^{\\lambda +N+1}e^{-xt}\\,\\mathrm {d} t\\\\&=\\sup _{t\\in }\\left|g^{(N+1)}(t)\\right|\\,{\\frac {\\Gamma (\\lambda +N+2)}{x^{\\lambda +N+2}}}.\\end{aligned}}}\n\nHere we have used the fact that\n\n∫ 0 ∞ t a e − x t d t = Γ (a + 1) x a + 1 {\\displaystyle \\int _{0}^{\\infty }t^{a}e^{-xt}\\,\\mathrm {d} t={\\frac {\\Gamma (a+1)}{x^{a+1}}}}\n\nif x > 0 {\\displaystyle x>0} and a > − 1 {\\displaystyle a>-1}, where Γ {\\displaystyle \\Gamma } is the gamma function.\n\nFrom the above calculation we see from (3) {\\displaystyle (3)} that\n\n(4) ∫ 0 δ e − x t φ (t) d t = ∑ n = 0 N g (n) (0) n ! ∫ 0 δ t λ + n e − x t d t + O (x − λ − N − 2) {\\displaystyle (4)\\quad \\int _{0}^{\\delta }e^{-xt}\\varphi (t)\\,\\mathrm {d} t=\\sum _{n=0}^{N}{\\frac {g^{(n)}(0)}{n!}}\\int _{0}^{\\delta }t^{\\lambda +n}e^{-xt}\\,\\mathrm {d} t+O\\left(x^{-\\lambda -N-2}\\right)}\n\nas x → ∞ {\\displaystyle x\\to \\infty }.\n\nWe will now add the tails on to each integral in (4) {\\displaystyle (4)}. For each n {\\displaystyle n} we have\n\n∫ 0 δ t λ + n e − x t d t = ∫ 0 ∞ t λ + n e − x t d t − ∫ δ ∞ t λ + n e − x t d t = Γ (λ + n + 1) x λ + n + 1 − ∫ δ ∞ t λ + n e − x t d t, {\\displaystyle {\\begin{aligned}\\int _{0}^{\\delta }t^{\\lambda +n}e^{-xt}\\,\\mathrm {d} t&=\\int _{0}^{\\infty }t^{\\lambda +n}e^{-xt}\\,\\mathrm {d} t-\\int _{\\delta }^{\\infty }t^{\\lambda +n}e^{-xt}\\,\\mathrm {d} t\\\\&={\\frac {\\Gamma (\\lambda +n+1)}{x^{\\lambda +n+1}}}-\\int _{\\delta }^{\\infty }t^{\\lambda +n}e^{-xt}\\,\\mathrm {d} t,\\end{aligned}}}\n\nand we will show that the remaining integrals are exponentially small. Indeed, if we make the change of variables t = s + δ {\\displaystyle t=s+\\delta } we get\n\n∫ δ ∞ t λ + n e − x t d t = ∫ 0 ∞ (s + δ) λ + n e − x (s + δ) d s = e − δ x ∫ 0 ∞ (s + δ) λ + n e − x s d s ≤ e − δ x ∫ 0 ∞ (s + δ) λ + n e − s d s {\\displaystyle {\\begin{aligned}\\int _{\\delta }^{\\infty }t^{\\lambda +n}e^{-xt}\\,\\mathrm {d} t&=\\int _{0}^{\\infty }(s+\\delta)^{\\lambda +n}e^{-x(s+\\delta)}\\,\\mathrm {d} s\\\\&=e^{-\\delta x}\\int _{0}^{\\infty }(s+\\delta)^{\\lambda +n}e^{-xs}\\,\\mathrm {d} s\\\\&\\leq e^{-\\delta x}\\int _{0}^{\\infty }(s+\\delta)^{\\lambda +n}e^{-s}\\,\\mathrm {d} s\\end{aligned}}}\n\nfor x ≥ 1 {\\displaystyle x\\geq 1}, so that\n\n∫ 0 δ t λ + n e − x t d t = Γ (λ + n + 1) x λ + n + 1 + O (e − δ x) as x → ∞. {\\displaystyle \\int _{0}^{\\delta }t^{\\lambda +n}e^{-xt}\\,\\mathrm {d} t={\\frac {\\Gamma (\\lambda +n+1)}{x^{\\lambda +n+1}}}+O\\left(e^{-\\delta x}\\right){\\text{ as }}x\\to \\infty.}\n\nIf we substitute this last result into (4) {\\displaystyle (4)} we find that\n\n∫ 0 δ e − x t φ (t) d t = ∑ n = 0 N g (n) (0) Γ (λ + n + 1) n ! x λ + n + 1 + O (e − δ x) + O (x − λ − N − 2) = ∑ n = 0 N g (n) (0) Γ (λ + n + 1) n ! x λ + n + 1 + O (x − λ − N − 2) {\\displaystyle {\\begin{aligned}\\int _{0}^{\\delta }e^{-xt}\\varphi (t)\\,\\mathrm {d} t&=\\sum _{n=0}^{N}{\\frac {g^{(n)}(0)\\ \\Gamma (\\lambda +n+1)}{n!\\ x^{\\lambda +n+1}}}+O\\left(e^{-\\delta x}\\right)+O\\left(x^{-\\lambda -N-2}\\right)\\\\&=\\sum _{n=0}^{N}{\\frac {g^{(n)}(0)\\ \\Gamma (\\lambda +n+1)}{n!\\ x^{\\lambda +n+1}}}+O\\left(x^{-\\lambda -N-2}\\right)\\end{aligned}}}\n\nas x → ∞ {\\displaystyle x\\to \\infty }. Finally, substituting this into (2) {\\displaystyle (2)} we conclude that\n\n∫ 0 T e − x t φ (t) d t = ∑ n = 0 N g (n) (0) Γ (λ + n + 1) n ! x λ + n + 1 + O (x − λ − N − 2) + O (x − 1 e − δ x) = ∑ n = 0 N g (n) (0) Γ (λ + n + 1) n ! x λ + n + 1 + O (x − λ − N − 2) {\\displaystyle {\\begin{aligned}\\int _{0}^{T}e^{-xt}\\varphi (t)\\,\\mathrm {d} t&=\\sum _{n=0}^{N}{\\frac {g^{(n)}(0)\\ \\Gamma (\\lambda +n+1)}{n!\\ x^{\\lambda +n+1}}}+O\\left(x^{-\\lambda -N-2}\\right)+O\\left(x^{-1}e^{-\\delta x}\\right)\\\\&=\\sum _{n=0}^{N}{\\frac {g^{(n)}(0)\\ \\Gamma (\\lambda +n+1)}{n!\\ x^{\\lambda +n+1}}}+O\\left(x^{-\\lambda -N-2}\\right)\\end{aligned}}}\n\nas x → ∞ {\\displaystyle x\\to \\infty }.\n\nSince this last expression is true for each integer N ≥ 0 {\\displaystyle N\\geq 0} we have thus shown that\n\n∫ 0 T e − x t φ (t) d t ∼ ∑ n = 0 ∞ g (n) (0) Γ (λ + n + 1) n ! x λ + n + 1 {\\displaystyle \\int _{0}^{T}e^{-xt}\\varphi (t)\\,\\mathrm {d} t\\sim \\sum _{n=0}^{\\infty }{\\frac {g^{(n)}(0)\\ \\Gamma (\\lambda +n+1)}{n!\\ x^{\\lambda +n+1}}}}\n\nas x → ∞ {\\displaystyle x\\to \\infty }, where the infinite series is interpreted as an asymptotic expansion of the integral in question.\n\nWhen 0 < a < b {\\displaystyle 0<a<b}, the confluent hypergeometric function of the first kind has the integral representation\n\n1 F 1 (a, b, x) = Γ (b) Γ (a) Γ (b − a) ∫ 0 1 e x t t a − 1 (1 − t) b − a − 1 d t, {\\displaystyle {}_{1}F_{1}(a,b,x)={\\frac {\\Gamma (b)}{\\Gamma (a)\\Gamma (b-a)}}\\int _{0}^{1}e^{xt}t^{a-1}(1-t)^{b-a-1}\\,\\mathrm {d} t,}\n\nwhere Γ {\\displaystyle \\Gamma } is the gamma function. The change of variables t = 1 − s {\\displaystyle t=1-s} puts this into the form\n\n1 F 1 (a, b, x) = Γ (b) Γ (a) Γ (b − a) e x ∫ 0 1 e − x s (1 − s) a − 1 s b − a − 1 d s, {\\displaystyle {}_{1}F_{1}(a,b,x)={\\frac {\\Gamma (b)}{\\Gamma (a)\\Gamma (b-a)}}\\,e^{x}\\int _{0}^{1}e^{-xs}(1-s)^{a-1}s^{b-a-1}\\,ds,}\n\nwhich is now amenable to the use of Watson's lemma. Taking λ = b − a − 1 {\\displaystyle \\lambda =b-a-1} and g (s) = (1 − s) a − 1 {\\displaystyle g(s)=(1-s)^{a-1}}, Watson's lemma tells us that\n\n∫ 0 1 e − x s (1 − s) a − 1 s b − a − 1 d s ∼ Γ (b − a) x a − b as x → ∞ with x > 0, {\\displaystyle \\int _{0}^{1}e^{-xs}(1-s)^{a-1}s^{b-a-1}\\,ds\\sim \\Gamma (b-a)x^{a-b}\\quad {\\text{as }}x\\to \\infty {\\text{ with }}x>0,}\n\nwhich allows us to conclude that\n\n1 F 1 (a, b, x) ∼ Γ (b) Γ (a) x a − b e x as x → ∞ with x > 0. {\\displaystyle {}_{1}F_{1}(a,b,x)\\sim {\\frac {\\Gamma (b)}{\\Gamma (a)}}\\,x^{a-b}e^{x}\\quad {\\text{as }}x\\to \\infty {\\text{ with }}x>0.}",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1332971614",
+      "revision_id": "1332971614",
+      "text_sha256": "c9c74b93f5e64017233a17c0c4971c47632f600fbd22232fe76859c885e6829f",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:47:16.663639+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.379239082336426,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:513",
+    "title": "Britannica page 513",
+    "corpus": "britannica",
+    "text": "<x_0.2178><y_0.0258>E N G [ 2756 ] E N G<x_0.7891><y_0.0484><class_Picture>\n\n<x_0.0273><y_0.0453>England.<x_0.0869><y_0.0609><class_Caption>\n\n<x_0.1006><y_0.0461>conquell. William earl of Poièters and duke of Gui- ene had refoled upon an expedition to the holy land; ands for this purpose, had pay himself at the head of a whilmende, according according to formal domains, of 60,000 borfe, and a much greater number of foot. Lale Roberts for Normandy, he offered to mortgage his dominations for money influence to conduct his mindt titute into Afia. The king accepted his offer; and had prepared a fleets and army to take profiofion of the defendants, when an unfortune excellent put an end to his projects and his life. He was engaged in hunting, the feel amulement, and indeed the principal occupation, of private in those rule times. Walter Tyrer), a French gentleman remarkable for his fillfll no archway, attended him in this recreation, of which the new foreld was the fence. William had different– ed after a chesy and Tyrre), impident to flow his dexterity, let by an arrow at a flag which fudduly litrated before him. The arrow glanced from a tree, and finds the king to the here. He initially fell down dead; and Tyrrel, terrified at the accident, clapi figure to his horse, halted to the tea-thows, and embarked for France, where he joined the attitude that was fetting out from that country. This happened on the art of Arydiel, 1:100, after the king had reignent 14 years, and lived about 30. His heart was found in the woods by the country-people, and buried without ceremony at Winchester.<x_0.5029><y_0.4266><class_Text>\n\n<x_0.1035><y_0.4273>After the death of William, the crown of right de- volled to Robert his elett brother; for William had no legitimate children. But even Robert had formerly led by the indulences, but was again deprived of by his abience at the holy war. Prince Henry was in the word with William Rufaa as the time the latter was killed. He or former heard the important ones, than he hurried to Winchefter, and focused the royal trava-fore. William de Betettall, keeper of the restans, arrived at the famu infants and itures, and reported his pretentions telling him, that the treature belonged to his elder brother, who was now his foreign, and for whom he was determined to keep it. But Henry, leaving his fears, threatened him with infant death if he dared to diifobey him; and others of the late king’s retirons who were my moment to Winchefter, joining the price’s party, he was obliged to disifi. Henry left no time in fully accomplishing his purpole. Ja lels than three days he gave his father drowned King England, by Maurice Bibing of London. Precise profioflon up-plied every deficiency of title; and no one dared to ap- piece in defence of the labor partner.<x_0.5039><y_0.7141><class_Text>\n\n<x_0.0322><y_0.7133>9H His charter in favour of the people.<x_0.5049><y_0.7578><class_Text>\n\n<x_0.1016><y_0.7188>The beginning of King Henry's regim promised to be favorable to the English liberty; owing chiefly to his fear of his brother. To constitute the affections of his objetsk, he paffed a charity embalted to remove many of the grievous oppréffions which had been completed during the reign of his father and brother. He promised, that, at the death of any ab-bot or bihhop, he never would farze the revenant of the fee or abby during the vacation, but would leave the whole to be repayed by the fuscifor; and that would never be to form any eectifical benefits, or difpole of it for money. To the laiy he promised, thas, up- on the death of any evil, bron, or military tenant, his her fought his admired to the profiofion of his affairs on paying a jult and lawful relief; without being ex-<x_0.5059><y_0.9258><class_Text>\n\n<x_0.5146><y_0.0469>pofed to thofe enormous exactions which had been formerly required. He remitted the wardship of mi- nors and allowed guardians to be appointed, who should be adwarefully, the truth. He promised not to difpole of any heirrels in marriage but by advice of all the barons; and if any banin intended to give his daughter, silver, minor, or kidnomas, in marriage, it should only be necefitary for him to confuls the king, who promised to take on money for his content, nor ever to seife primiffion, unlike the person to whom it was propounded to marry her fhoould happen to be his enemy. He granted his barons and military tenants the power of begotating by will their money over per- fanal elates; and if they neglected to make a will, he promised that their hero態 forced to them. He renounced the right of imposing monogerage, and of le- ying races at yielding, on the farm which the barons kept in their own hands. He made fome general pro- fiums of modernizing lines, I offered a portion for all offices; and remitted all delux due to the crown. He alfo required, that the vafial of the barons should enjoy the farm privileges which he granted his own horses and he promised a general confirmation and observance of the _lavsy of_ king _Edward_ . To give \"See Enda greater authenticity to the classifications, a copy of the Syllem, charter are logged in form ababy of each country.<x_0.9873><y_0.3961><class_Text>\n\n<x_0.5156><y_0.3977>King Henry, farther to increase his popularity, de- graded and committed to prinfan Kalpa Phambul bi- hop of Dunban who had been the chief instrument of opprillion under his brother. He tent for Anfelm who was then at Layou, inviting him to register and take profiofion of his digities. Anfelm returned; but quarrels when Henry propieded him to do the frame homage win the to him which he had done to his brother, the king next primates. with an absolute refuge. During his sole, Anfelm had fulfilled at the council of Bars; where, builds fixing the controversy between the Gods and Latin churches concerning the prestiffine of the Holy Ghost, the right of election to church-preferences was declared to be- long to the clergy alone, and spiritual centers were demonized against all celebrates the civil damage to layman for their few or berceries, and on all laymen who exacted it. The rise of homage + by the feudal f See Feadalc cultures was, that the vafial found throw benefit on _Fears_, his knees, put his joined hands between those of his fuuperior, and fhoud in that pofture fewer realty to him. But the conodt declared it seems, that pure bands which entered God, and offer him go for the falsvation of mankind, should be put, after this humility manner, between profirand lands, which be- files being injured to rapne and bloodied, were em- played day and night in impure purposes and oblicene consults. To this decree therefor Anfelm appeals, and cheated, that for for dening homage for his spiritual dignity, he would not even communicate with any eclectifiable who paid that fumillion, or who accepted of insufficient from Jayan. Henry did not infilt and therefore defined that the controversy might be fondend, and that melfengers might be faut to Rome to accommodate matters with the Pope, and to obtain his confirmation of the flaws and customs of England.<x_0.9883><y_0.8836><class_Text>\n\n<x_0.5176><y_0.8852>Heavy, now took another flep which femed capable of confirming his claims to the crown without any danger of a rival. The English remembered with regret their<x_0.918><y_0.9398><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "e7274bfd12c24f2f721ea27f46cf9754a322fe67094d27198ad4ce556c797b42",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:54:19.957729+00:00",
+    "parser_receipt_sha256": "c0dadb2d94ccef65f4ebc5cc98c1149e0e5f7e7700a7e78679d991a5888962ac",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 156,
+      "occurred_at": "2026-10-18T17:47:12.511392+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 537,
+      "occurred_at": "2026-10-18T17:47:13.048359+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 598,
+      "occurred_at": "2026-10-18T17:47:13.656602+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 582,
+      "occurred_at": "2026-10-18T17:47:14.248993+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 612,
+      "occurred_at": "2026-10-18T17:47:14.872107+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 564,
+      "occurred_at": "2026-10-18T17:47:15.448907+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 559,
+      "occurred_at": "2026-10-18T17:47:16.022397+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 625,
+      "occurred_at": "2026-10-18T17:47:16.663733+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 575,
+      "occurred_at": "2026-10-18T17:47:17.265388+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 26,
+      "occurred_at": "2026-10-18T17:47:17.316272+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 1424,
+      "occurred_at": "2026-10-18T17:47:18.740772+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 167,
+      "occurred_at": "2026-10-18T17:47:18.914684+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 9,
+      "occurred_at": "2026-10-18T17:47:18.923369+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 302,
+      "occurred_at": "2026-10-18T17:47:19.225359+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1204,
+    "modern_words": 1064,
+    "vocabulary_jaccard": 0.0673854447439353,
+    "jensen_shannon_divergence": 0.7376597727363922,
+    "historical_top_words": [
+      [
+        "the",
+        86
+      ],
+      [
+        "to",
+        59
+      ],
+      [
+        "of",
+        54
+      ],
+      [
+        "and",
+        44
+      ],
+      [
+        "his",
+        41
+      ],
+      [
+        "he",
+        26
+      ],
+      [
+        "for",
+        17
+      ],
+      [
+        "a",
+        14
+      ],
+      [
+        "was",
+        14
+      ],
+      [
+        "in",
+        14
+      ],
+      [
+        "that",
+        14
+      ],
+      [
+        "had",
+        12
+      ],
+      [
+        "be",
+        12
+      ],
+      [
+        "him",
+        11
+      ],
+      [
+        "at",
+        10
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "m",
+        101
+      ],
+      [
+        "n",
+        84
+      ],
+      [
+        "e",
+        82
+      ],
+      [
+        "displaystyle",
+        57
+      ],
+      [
+        "g",
+        52
+      ],
+      [
+        "r",
+        31
+      ],
+      [
+        "p",
+        30
+      ],
+      [
+        "q",
+        28
+      ],
+      [
+        "a",
+        26
+      ],
+      [
+        "is",
+        25
+      ],
+      [
+        "the",
+        22
+      ],
+      [
+        "in",
+        19
+      ],
+      [
+        "pairing",
+        16
+      ],
+      [
+        "for",
+        16
+      ],
+      [
+        "map",
+        13
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "e n g",
+  "semantic_input": {
+    "query": "e n g\nE N G [ 2756 ] E N G\n\nEngland.\n\nconquell. William earl of Poièters and duke of Gui- ene had refoled upon an expedition to the holy land; ands for this purpose, had pay himself at the head of a whilmende, according according to formal domains, of 60,000 borfe, and a much greater number of foot. Lale Roberts for Normandy, he offered to mortgage his dominations for money influence to conduct his mindt titute into Afia. The king accepted his offer; and had prepared a fleets and army to take profiofion of the defendants, when an unfortune excellent put an end to his projects and his life. He was engaged in hunting, the feel amulement, and indeed the principal occupation, of private in those rule times. Walter Tyrer), a French gentleman remarkable for his fillfll no archway, attended him in this recreation, of which the new foreld was the fence. William had different– ed after a chesy and Tyrre), impident to flow his dexterity, let by an arrow at a flag which fudduly litrated before him. The",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.013524055480956143,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

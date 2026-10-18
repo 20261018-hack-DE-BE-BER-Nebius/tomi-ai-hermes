@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "ET H  [ 797 ] E T H",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:30954485",
+      "title": "H-E-B Mexico",
+      "corpus": "wikipedia",
+      "text": "Supermercados Internacionales HEB, S.A. de C.V. is the Mexican division of H-E-B, a private supermarket chain based in San Antonio, Texas, U.S. It competes mainly with Soriana, Walmart México, Bodega Aurrerá, S-Mart, Chedraui and Casa Ley.\n\nIn 1997, H-E-B opened the first store in Monterrey. By the end of 1999, the company was operating six stores in Mexico—five in Monterrey and one in Saltillo, one of the stores operated under the name EconoMax, and was similar to the H-E-B Pantry stores. H-E-B caters to local customers by offering mostly Mexican-made products.\n\nSupermercados Internacionales HEB also operates a discount store called Mi Tienda del Ahorro to compete directly with Bodega Aurrerá. These stores are positioned to target low and middle income customers in areas where an HEB location may not be able to be located. The locations run by the US division, simply titled Mi Tienda, operate more as Latino-focused specialty stores.\n\nNuevo León (46): Mi Tienda Monterrey Eloy Cavazos (2917), Mi Tienda Zuazua (2920), Mi Tienda García (2921), Mi Tienda Cabezada (2923), H-E-B Tec (2924), Mi Tienda Plaza del Bosque (2925), H-E-B Puerta de Hierro (2926), H-E-B La Puerta (2929), Mi Tienda Metroplex (2932), H-E-B Las Puentes (2935), Mi Tienda Valle de Santa María (2939), H-E-B Cerradas de Anáhuac (2943), Mi Tienda Margaritas (2944), H-E-B Bosques de las Lomas (2945), H-E-B El Uro (2946), H-E-B Chipinque (2950), H-E-B Contry (2951), H-E-B San Nicolás (2952), H-E-B Los Morales (2953), Mi Tienda Aztlán (2956), H-E-B Chapultepec (2957), H-E-B Lincoln (2958), H-E-B Gonzalitos (2959), H-E-B Lindavista (2961), H-E-B Santa Catarina (2963), H-E-B Solidaridad (2965), Mi Tienda San Roque (2966), H-E-B Guadalupe Juárez (2967), H-E-B Escobedo (2974), H-E-B San Pedro (2975), H-E-B Acapulco (2976), H-E-B Guadalupe Livas (2977), H-E-B Cumbres (2978), H-E-B Sendero (2979), H-E-B Concordia (2980), H-E-B Valle Alto (2981), Mi Tienda Ciudadela (2990), H-E-B Valle (2992), Mi Tienda Huinalá (2994), H-E-B Valle Oriente (2996), Mi Tienda Buena Vista (9104), H-E-B Diego Díaz (9106), H-E-B Rinconada (9108), Mi Tienda Lincoln (9110), Mi Tienda Anzures (9113), H-E-B La Fe (9117).\n\nTamaulipas (17): Mi Tienda Matamoros Brisas (2906), Mi Tienda Nuevo Laredo Reforma (2911), H-E-B Victoria Campestre (2928), H-E-B Lauro Villar (2930), Mi Tienda Reynosa Bugambilias (2931), H-E-B Madero (2936), Mi Tienda Nuevo Laredo Revolución (2948), H-E-B Reynosa Morelos (2960), H-E-B Matamoros (2962), H-E-B Tampico Ejército (2964), H-E-B Nuevo Laredo (2968), Mi Tienda Reynosa Periférico (2969), Mi Tienda Río Bravo (2972), H-E-B Tampico Hidalgo (2973), H-E-B Reynosa Las Fuentes (2987), Mi Tienda Reynosa Aeropuerto (2995), Mi Tienda Reynosa San Fernando (9107).\n\nCoahuila (11): H-E-B Monclova Pape (2927), H-E-B Torreón Revolución (2933), H-E-B Torreón Senderos (2934), Mi Tienda Saltillo Satélite (2938), H-E-B Saltillo República (2954), H-E-B Torreón Independencia (2970), H-E-B Piedras Negras (2971), H-E-B Saltillo La Nogalera (2989), Mi Tienda Saltillo Fundadores (2991), H-E-B Saltillo San Patricio (2993), Mi Tienda Saltillo Colosio (9115).\n\nSan Luis Potosí (4): H-E-B San Luis Potosí Lomas (2912), H-E-B Carretera 57 (2922), H-E-B San Luis Potosí Los Pinos (2940), H-E-B San Luis Potosí (2986).\n\nGuanajuato (4): H-E-B León Torres Landa (2907), H-E-B Irapuato (2918), H-E-B León Cerro Gordo (2937), H-E-B León López Mateos (2984).\n\nAguascalientes (2): H-E-B Aguascalientes Santa Mónica (2913), H-E-B Aguascalientes (2985).\n\nQuerétaro (6): H-E-B El Mirador (2915), H-E-B Zibatá (2919), H-E-B Juriquilla (2982), H-E-B El Refugio (2997), H-E-B Bernardo Quintana (9100), H-E-B San Juan del Río (9105).\n\nGomez Palacio, Durango\n\nCiudad Acuna, Coahuila.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1351445565",
+      "revision_id": "1351445565",
+      "text_sha256": "866165b6b391395f35df4c8497b7cd9d68243e56a703623da5495f77b9d64625",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:13.969806+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.704868793487549,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:12857155",
+      "title": "Antimima",
+      "corpus": "wikipedia",
+      "text": "Antimima is a genus of succulent plants in the family Aizoaceae. It includes 106 species native to Namibia and the Cape Provinces and Free State of South Africa.\n\nThe Greek word \"antimimos\" means \"imitating\", and refers to the similarity some species have to the different genus Argyroderma.\n\nThe species of this varied genus typically grow as dense cushions or mats. Otherwise, Antimima species are very similar in their superficial looks to the related genus Ruschia, with 3-sided waxy succulent leaves, and pink or white flowers.\n\nPlants of the World Online accepts 106 species.\n\nAntimima addita (L.Bolus) H.E.K.Hartmann\n\nAntimima alborubra (L.Bolus) Dehn\n\nAntimima amoena (Schwantes) H.E.K.Hartmann\n\nAntimima androsacea (Marloth & Schwantes) H.E.K.Hartmann\n\nAntimima argentea (L.Bolus) H.E.K.Hartmann\n\nAntimima aurasensis H.E.K.Hartmann\n\nAntimima biformis (N.E.Br.) H.E.K.Hartmann\n\nAntimima bracteata (L.Bolus) H.E.K.Hartmann\n\nAntimima brevicarpa (L.Bolus) H.E.K.Hartmann\n\nAntimima brevicollis (N.E.Br.) H.E.K.Hartmann\n\nAntimima buchubergensis (Dinter) H.E.K.Hartmann\n\nAntimima compacta (L.Bolus) H.E.K.Hartmann\n\nAntimima compressa (L.Bolus) H.E.K.Hartmann\n\nAntimima concinna (L.Bolus) H.E.K.Hartmann\n\nAntimima condensa (N.E.Br.) H.E.K.Hartmann\n\nAntimima dasyphylla (Schltr.) H.E.K.Hartmann\n\nAntimima defecta (L.Bolus) H.E.K.Hartmann\n\nAntimima dekenahi (N.E.Br.) H.E.K.Hartmann\n\nAntimima distans (L.Bolus) H.E.K.Hartmann\n\nAntimima dolomitica (Dinter) H.E.K.Hartmann\n\nAntimima dualis (N.E.Br.) N.E.Br.\n\nAntimima eendornensis (Dinter) H.E.K.Hartmann\n\nAntimima elevata (L.Bolus) H.E.K.Hartmann\n\nAntimima emarcescens (L.Bolus) H.E.K.Hartmann\n\nAntimima erosa (L.Bolus) H.E.K.Hartmann\n\nAntimima evoluta (N.E.Br.) H.E.K.Hartmann\n\nAntimima excedens (L.Bolus) Klak\n\nAntimima exsurgens (L.Bolus) H.E.K.Hartmann\n\nAntimima fenestrata (L.Bolus) H.E.K.Hartmann\n\nAntimima fergusoniae (L.Bolus) H.E.K.Hartmann\n\nAntimima gracillima (L.Bolus) H.E.K.Hartmann\n\nAntimima granitica (L.Bolus) H.E.K.Hartmann\n\nAntimima hallii (L.Bolus) H.E.K.Hartmann\n\nAntimima hamatilis (L.Bolus) H.E.K.Hartmann\n\nAntimima hantamensis (Engl.) H.E.K.Hartmann & Stüber\n\nAntimima herrei (Schwantes) H.E.K.Hartmann\n\nAntimima insidens (L.Bolus) Chess.\n\nAntimima intervallaris (L.Bolus) H.E.K.Hartmann\n\nAntimima ivori (N.E.Br.) H.E.K.Hartmann\n\nAntimima karroidea (L.Bolus) H.E.K.Hartmann\n\nAntimima klaverensis (L.Bolus) H.E.K.Hartmann\n\nAntimima koekenaapensis (L.Bolus) H.E.K.Hartmann\n\nAntimima komkansica (L.Bolus) H.E.K.Hartmann\n\nAntimima lawsonii (L.Bolus) H.E.K.Hartmann\n\nAntimima leipoldtii (L.Bolus) H.E.K.Hartmann\n\nAntimima leucanthera (L.Bolus) H.E.K.Hartmann\n\nAntimima levynsiae (L.Bolus) S.A.Hammer\n\nAntimima limbata (N.E.Br.) H.E.K.Hartmann\n\nAntimima lodewykii (L.Bolus) H.E.K.Hartmann\n\nAntimima loganii (L.Bolus) H.E.K.Hartmann\n\nAntimima lokenbergensis (L.Bolus) H.E.K.Hartmann\n\nAntimima longipes (L.Bolus) Dehn\n\nAntimima luckhoffii (L.Bolus) H.E.K.Hartmann\n\nAntimima maleolens (L.Bolus) H.E.K.Hartmann\n\nAntimima maxwellii (L.Bolus) H.E.K.Hartmann\n\nAntimima menniei (L.Bolus) H.E.K.Hartmann\n\nAntimima mesklipensis (L.Bolus) H.E.K.Hartmann\n\nAntimima meyerae H.E.K.Hartmann\n\nAntimima microphylla (Haw.) Dehn\n\nAntimima minima (Tischer) H.E.K.Hartmann\n\nAntimima minutifolia (L.Bolus) H.E.K.Hartmann\n\nAntimima modesta (L.Bolus) H.E.K.Hartmann\n\nAntimima mucronata (Haw.) H.E.K.Hartmann\n\nAntimima mutica (L.Bolus) H.E.K.Hartmann\n\nAntimima nobilis (Schwantes) H.E.K.Hartmann\n\nAntimima nordenstamii (L.Bolus) H.E.K.Hartmann\n\nAntimima oviformis (L.Bolus) H.E.K.Hartmann\n\nAntimima papillata (L.Bolus) H.E.K.Hartmann\n\nAntimima paripetala (L.Bolus) Klak\n\nAntimima paucifolia (L.Bolus) H.E.K.Hartmann\n\nAntimima pauper (L.Bolus) H.E.K.Hartmann\n\nAntimima peersii (L.Bolus) H.E.K.Hartmann\n\nAntimima perforata (L.Bolus) H.E.K.Hartmann\n\nAntimima persistens H.E.K.Hartmann\n\nAntimima pilosula (L.Bolus) H.E.K.Hartmann\n\nAntimima piscodora (L.Bolus) H.E.K.Hartmann\n\nAntimima prolongata (L.Bolus) H.E.K.Hartmann\n\nAntimima propinqua (N.E.Br.) H.E.K.Hartmann\n\nAntimima prostrata (L.Bolus) H.E.K.Hartmann\n\nAntimima pulchella (Haw.) H.E.K.Hartmann\n\nAntimima pumila (L.Bolus ex Fedde & C.Schust.) H.E.K.Hartmann (syn. Ruschia pumila)\n\nAntimima pusilla (Schwantes) H.E.K.Hartmann\n\nAntimima pygmaea (Haw.) H.E.K.Hartmann\n\nAntimima quartzitica (Dinter) H.E.K.Hartmann\n\nAntimima radicans (L.Bolus) Klak\n\nAntimima roseola (N.E.Br.) H.E.K.Hartmann\n\nAntimima rostella (Haw.) H.E.K.Hartmann\n\nAntimima saturata (L.Bolus) H.E.K.Hartmann\n\nAntimima saxicola (L.Bolus) H.E.K.Hartmann\n\nAntimima schlechteri (Schwantes) H.E.K.Hartmann\n\nAntimima simulans (L.Bolus) H.E.K.Hartmann\n\nAntimima sobrina (N.E.Br.) H.E.K.Hartmann\n\nAntimima solida (L.Bolus) H.E.K.Hartmann\n\nAntimima stayneri (L.Bolus) H.E.K.Hartmann\n\nAntimima stokoei (L.Bolus) H.E.K.Hartmann\n\nAntimima subtruncata (L.Bolus) H.E.K.Hartmann\n\nAntimima triquetra (L.Bolus) H.E.K.Hartmann\n\nAntimima tuberculosa (L.Bolus) H.E.K.Hartmann\n\nAntimima turneriana (L.Bolus) H.E.K.Hartmann\n\nAntimima vanzylii (L.Bolus) H.E.K.Hartmann\n\nAntimima varians (L.Bolus) H.E.K.Hartmann\n\nAntimima ventricosa (L.Bolus) H.E.K.Hartmann\n\nAntimima verruculosa (L.Bolus) H.E.K.Hartmann\n\nAntimima viatorum (L.Bolus) Klak\n\nAntimima watermeyeri (L.Bolus) H.E.K.Hartmann\n\nAntimima wittebergensis (L.Bolus) H.E.K.Hartmann",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1316399785",
+      "revision_id": "1316399785",
+      "text_sha256": "34314b530b6fd1febc6c53752fde00d93f0e36087b28f5b03ed04ec8235760d5",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:12.810239+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.762581825256348,
+      "vector_distance": 0.7880839109420776,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:69682704",
+      "title": "The Existence of God (book)",
+      "corpus": "wikipedia",
+      "text": "The Existence of God is a 1979 book by British philosopher of religion Richard Swinburne, claiming the existence of the Abrahamic God on rational grounds. The argument rests on an updated version of natural theology with biological evolution using scientific inference, mathematical probability theory, such as Bayes' theorem, and of inductive logic. In 2004, a second edition was released under the same title.\n\nSwinburne discusses the intrinsic probability of theism, with an everlastingly omnipotent, omniscient and perfectly free God. He states various reasons for the existence of God, such as cosmological and teleological arguments, arguments from the consciousness of the higher vertebrates including humans, morality, providence, history, miracles and religious experience. Swinburne claims that the occurrence of evil does not diminish the probability of God, and that the hiddenness of God can be explained by his allowing free choice to humans. He concludes that on balance it is more probable than not that God exists, with a probability larger than 0.5, on a scale of 0.0 (impossible) to 1.0 (absolutely sure).\n\nSwinburne summarised the same argument in his later and shorter book Is There a God?, omitting the use of Bayes' theorem and inductive logic, but including a discussion of multiple universes and cosmological inflation in the 2010 edition.\n\nCentral to the argument of Swinburne is the use of inductive logic. He defines a correct C-inductive argument as an argument where the premisses merely add to the probability of the conclusion, and a stronger correct P-inductive argument when the premisses make the conclusion probable with a probability larger than 1 / 2.\n\nSwinburne applies mathematical conditional probability logic to various hypotheses related to the existence of Godand defines\n\ne {\\displaystyle e} as the available evidence,\n\nh {\\displaystyle h} as the hypothesis to be tested, and\n\nk {\\displaystyle k} as the so-called \" tautological \" background knowledge.\n\nThe notation P (e | k) {\\displaystyle P(e|k)} is used for the conditional probability of an event e {\\displaystyle e} occurring given that another event k {\\displaystyle k} occurred previously. This is also termed the posterior probability of e {\\displaystyle e} given k {\\displaystyle k}.\n\nThe probability of the present evidence e {\\displaystyle e} given background knowledge k {\\displaystyle k} can be written as the sum of the evidence with God existing (e & h {\\displaystyle e\\&h}, e and h) and the evidence without God (e & ∼ h {\\displaystyle e\\&\\sim h}, e and not h):\n\nP (e | k) = P (e & h | k) + P (e & ∼ h | k) {\\displaystyle P(e|k)=P(e\\&h|k)+P(e\\&\\sim h|k)}, with P (e & h | k) = P (h | k) P (e | h & k) {\\displaystyle P(e\\&h|k)=P(h|k)P(e|h\\&k)}, and P (e & ∼ h | k) = P (e | ∼ h & k) P (∼ h | k) {\\displaystyle P(e\\&\\sim h|k)=P(e|\\sim h\\&k)P(\\sim h|k)}.\n\nApplication of Bayes' theorem to P (h | e & k) {\\displaystyle P(h|e\\&k)}, the probability of the God hypothesis h {\\displaystyle h} given evidence e {\\displaystyle e} and background knowledge k {\\displaystyle k}, results in\n\nP (h | e & k) = P (e | h & k) P (h | k) P (e | h & k) P (h | k) + P (e | ∼ h & k) P (∼ h | k) ⋅ {\\displaystyle P(h|e\\&k)={\\frac {P(e|h\\&k)P(h|k)}{P(e|h\\&k)P(h|k)+P(e|\\sim h\\&k)P(\\sim h|k)}}\\cdot }\n\nThe probability of a universe of our kind, as evidenced by e {\\displaystyle e} without a single omnipotent god (∼ h {\\displaystyle \\sim h}) P (e | ∼ h & k) P (∼ h | k) {\\displaystyle P(e|\\sim h\\&k)P(\\sim h|k)} can be written as the sum of the probabilities of several optional hypotheses h i {\\displaystyle h_{i}} without a god, i = 1, 2, 3:\n\nh 1 {\\displaystyle h_{1}}: There exist many gods or limited, non-omnipotent gods\n\nh 2 {\\displaystyle h_{2}}: There are no gods but there is an initial or everlasting state of a kind to bring the present state of the universe about\n\nh 3 {\\displaystyle h_{3}}: There is no explanation at all needed, with the universe always being as it is now.\n\nThe sum of probabilities becomes P (e | ∼ h & k) P (∼ h | k) = P (e | h 1 & k) P (h 1 | k) +.. + P (e | h 3 & k) P (h 3 | k) {\\displaystyle P(e|\\sim h\\&k)P(\\sim h|k)=P(e|h1\\&k)P(h_{1}|k)+..+P(e|h_{3}\\&k)P(h_{3}|k)}\n\nSwinburne then claims to refute these three hypotheses:\n\nh 1 {\\displaystyle h_{1}} because theism should be simpler than many gods or gods of limited power. So theism has a much larger probability: P (e | h & k) P (h | k) >> P (e | h 1 & k) P (h 1 | k) {\\displaystyle P(e|h\\&k)P(h|k)>>P(e|h_{1}\\&k)P(h_{1}|k)}\n\nh 2 {\\displaystyle h_{2}} fails, because Swinburne believes an unextended physical point or any other starting points of universe, or an everlasting state are unlikely to produce the features of the universe. Theism is more probable, so either P (e | h 2 & k) < P (e | h & k) {\\displaystyle P(e|h_{2}\\&k)<P(e|h\\&k)} or P (h 2 | k) < P (h | k). {\\displaystyle P(h_{2}|k)<P(h|k).}\n\nh 3 {\\displaystyle h_{3}} is refuted as well, because according to Swinburne, there is the \"...overwhelming fact that each particle of matter throughout vast volumes of space should behave in exactly the same way as every other particle codified in laws of nature without there being some explanation of this is beyond belief.\"\n\nAdmittedly this hypothesis h 3 {\\displaystyle h_{3}} can explain the present state of affairs in the universe - the evidence e {\\displaystyle e} - without the need of a God, that means the probability is 1.0: P (e | h 3 & k) = 1 {\\displaystyle P(e|h_{3}\\&k)=1}.\n\nHowever, Swinburne estimates that the probability P (h 3 | k) {\\displaystyle P(h_{3}|k)} given the background knowledge is infinitesimally low.\n\nThen the sum of probabilities of the various hypotheses without God\n\nP (e | h 1 & k) P (h 1 | k) +.. + P (e | h 3 & k) P (h 3 | k) = P (e | ∼ h & k) P (∼ h | k) {\\displaystyle P(e|h_{1}\\&k)P(h_{1}|k)+..+P(e|h_{3}\\&k)P(h_{3}|k)=P(e|\\sim h\\&k)P(\\sim h|k)} will not exceed\n\nP (e | h & k) P (h | k) {\\displaystyle P(e|h\\&k)P(h|k)}.\n\nSo P (h | e & k) {\\displaystyle P(h|e\\&k)}, the posterior probability of theism or God h {\\displaystyle h} on the evidence e {\\displaystyle e} considered with background knowledge k {\\displaystyle k}, will be 1 / 2 or more, by a \"correct P-inductive argument\". Swinburne states that it is impossible to give exact numerical values for the probabilities used.\n\nSwinburne concludes that deductive proofs of God fail, but claims that on the basis of the above P-inductive argument, theism is probably true. He notes that in his calculation the evidence from religious experience and historical evidence of life, death and resurrection of Jesus were ignored: its addition would be sufficient to make theism overall probable with a probability larger than 1 / 2.\n\nIn 2005 Joshua Golding reviewed The Existence of God and noted that the lack of justification for the afterlife leads to skepticism about whether God exists due to the problem of evil. The principle of credulity cannot be relied on without caution. Golding would prefer a priori proof that God exists, a better inductive argument for God's existence, or an argument assuming for practical purposes, that God exists.\n\nIn 2009 Jeremy Gwiazda, a philosopher at The City University of New York argued that Swinburne did not prove his starting point that God is simple and thus likely to exist. The arguments from mathematical simplicity and scientists' preferences both fail.\n\nGabe Czobel analysed Swinburne's arguments including his use of Bayesian statistics and pointed out errors in reasoning. Even if Swinburne's logic were right, a theist could not derive much consolation from it.\n\nDutch philosopher Herman Philipse (Utrecht University) debated Swinburne in front of an academic audience at Amsterdam in 2017. He praised Swinburne for attempting a scientific approach to the probability of God's existence, at variance with Dutch theologians who refused rational arguments. A large number of points were raised, for instance Philipse claimed that a religious explanation for the universe presupposes a finite history. A class of cyclical \"bouncing universe\" theories, which could be tested, features an infinite history of the universe. According to Philipse's 2012 book God in the Age of Science? attributing mental properties to a being requires observing its bodily behaviour, so God could not be bodiless. Swinburne replied that universe itself can be viewed as God's body. According to Philipse, a hypothesis is tested scientifically not only for simplicity, but also for accordance with extensive background knowledge. Furthermore, Bayesian statistics cannot be applied if God is unfathomable.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1342743609",
+      "revision_id": "1342743609",
+      "text_sha256": "2d80294bc2534c9823cd882bf2327b48ab26dcf1548d2ca1cf6d4ac946d8de43",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:17.578316+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.833709716796875,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1415",
+    "title": "Britannica page 1415",
+    "corpus": "britannica",
+    "text": "<x_0.2002><y_0.0297>ET H  [ 797 ] E T H<x_0.7764><y_0.0508><class_Page-header>\n\n<x_0.041><y_0.0484>Ethopia, make a very beautiful appearance. The whole plant is full of a very serd and caulite milk. 7. Rack is a large tree, growing too only to: Alyffinia but in the places of Aries Felds. Its word was not touch it; for which reason it is uef by the Aruba for contributing their levels. 1 grows, like the mangrove, among the salt-water of the fed, or about lift fignings. 8. Gir-gir, or geñte-el-aube; i a kind of gratis found about Pass-Elry, growing the height of shortn three feet four inches. 9. The kantuña, a very noxious pieces of thorns, much more remoulders than any with which are are equivinated, and growing to the height of eight or more feet. The flowers have a frong fundil like the flower migiri-one. 10. The grapes, is a then trecely about an feet high, a native of Lamanham. The flowers, which are yellow and very beautiful, turn towards the fun like that of the halamanhas. 1. The variety, a tree common throughout all Abyffinia; flowers exactly over the frit dry the raint eerde. It grows as the height of 16 or oz feet; having a thick back and darkened wood (the first part of which is white), but the refl of a dark colour. The flowers of a beautiful white colour; but it does not appear to purify any other remarkable property, though it is held in great elimination by the Abyffinians, and is even won-flipped by the Galla. 12. The firstek, or Baithian acumists, grows in the country immediately adjacent to the forests of the RhS, bring found by Mr Brue ferse trees yards infant from the Roman. 7. Kuns is a beautiful tree, growing in the fourth and fourth- well parts of Abyffina. 1. Has a fruit like a ben, or a red colony, the red colony aged we made of us a weight for gold and diamonds; and hence Mr Brue is of opinion that the name of the imaginary weight _canal_ be derived. 14. The walkfully, grows in the bustell parts of Ethiopia. It is a flowering tree, with beach fill white thofum, which do on apparent till towards the middle of January. The flowers have no finally, and are accounted pernicions to bees. The wood every heavy. 15. The wogingson, or Bruce andily-fentenas, is common throughout the whole emp, but principally on the flakes of the valley. It is a five- veige remedy against the dyfemin a very common and fatal cliffs of an hot countries. Mr Bruce had ex-periments proof of its antisyferice viruses. 16. Coffo, or Bankfa anthuistics, is a very beautiful and affair tree, being a litrop authenimic, and uifed a fact by the Abyffiniana. Every perform there, whether male or female, is modeled with that kind of worm called _forderies_, a great number of which are excavated every month, and the execution is promoted by an inflation of this plant. While taking this medicine, the patients frequently, themelves from all their acquainitance, and keep clofe at home. It is faind, that the were of the medicine other countries, the media why the Abyffinians do not go out of their own country; or , if they do, that they are florellved. 17. Eff, as a kind of grain flow generally through Abyffinians and confirming the bread commonly made use of by the inhabitants. They have indeed plenty of whites, and are afful ill of forming it into around the Empowers; but this is only made uife of by people of the frit rank; however, the trifle of functions of flesh are excellent quality, that the breb made from it is held in equal education with the finet wheat. From the bread made of this<x_0.4863><y_0.9383><class_Text>\n\n<x_0.498><y_0.0492>grain a fourrifi liquor called _loza_ is prepared, which Echiopia is ufed for common drink like our final beer. A li- queor of the fine kind, but of inferior quality, is made from barley cakes. Some have been of opinion, that the uife of treff occations the worms above mentioned; but this is converted by Mr Brune. Nock, a plant not to be diliguated from the margard either in hape, fizaz, or foliage, is alto fown very generally over the country, and families all Abyffinia with oil for the kitchen and other after use.<x_0.8779><y_0.1852><class_Text>\n\n<x_0.499><y_0.1859>Abyffinia abounds with a wild variety of quadrupeds Quadra- blewild and tuna. Ismemene mixture of each every pods, where gradient themselves come of them the most bear-tiful in the world. Some have monitored burns, fail to be capable of holding 10 quarts early; but this, as our authorism us as is a deficit which proves fast to them. Buffalos are free met with in great numbers, and are very fierce and unterachably, but there are no fish animals as carnivorous balls, which have been laid to call in this and other internal parts of Africa. Antelopes and other wild animals are new with in great numbers in the uncultivated parts; feeding chicky on the leaves of trees. They abound motif of all, however, in their parts which have been one cultivated, but here deflated by the calamities of war; and where wild earabound is, for such quantities as to hide them from profits. Hyermus lona, forces, jacks, and boares, etc. are alfo found, as well as the elephant, rhinoceros, camctypeand, and others of the larger and nonre uncommon kinds. Green harvest is made in the cultivated fields by multitudes of baboons, apes, rats, and mice. There is plenty of lanes is but their being reakored under, as well as the boar, we not feed as food. The rivers abound with crocodles and hippopotami, at last the blue, and those hear means which flow into it; but a great mean have water in them only during the rainy festival, and there have neither fish nor are animal that feel upon them.<x_0.877><y_0.5578><class_Text>\n\n<x_0.4971><y_0.5586>The number of links in this countrysis immerie; nor ... 391 is the of the carnivorous kind as all chickens. Great members of regler cultures, lawks, and soldiers of that kind, and met with, and come practically every year after the tropical rains have existed.\" They tied at first upon the bed-offish which are met with in great quantities on the edges of the defects, where they find lived in the fall fprings but, being forced from their natural habitats when theft fprings were funded by the rare, who afterwards left to permit on dry land. When theffe full, their next reference is from the decades of the large animals, such as the elephant and rhinoceros, which are killed in the first country by the hunters. Their next topply is the multitude of natural didalmics which infelt the country after herself. They said daughter of cattle made by the Abyffinian armies, the multitude of persons killed, which bodies are allowed to root on the field of battle, AC fusion them with another entrance. Thiefe puppies, however, all fail at the beginning of the nearby fashion, when hunters and arms return home, and the val quantity of water which continually overflows the ground renders, it impoillike for them to find any other food.<x_0.8789><y_0.868><class_Text>\n\n<x_0.4951><y_0.8672>There are other birds which feed upon infects, and multitles which live on grain or feeds of various kinds all of which are simply supplied by the moments of guests of fruits and berries which grow in Abyffinis, and are ripe at all feathers of the year. A very rec-<x_0.876><y_0.9352><class_Text>\n\n<x_0.8057><y_0.9359>markable:<x_0.875><y_0.9477><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "c9d3afab75155f0471dd38169fadbe9aa1f06132b22b2d41156767e4929b2522",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:36.685408+00:00",
+    "parser_receipt_sha256": "e60af4b6238b5f2aca9b528d1ca765465e19201519166a8610e3a24a1484ed74",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 123,
+      "occurred_at": "2026-10-18T17:50:12.249573+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 561,
+      "occurred_at": "2026-10-18T17:50:12.810575+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 552,
+      "occurred_at": "2026-10-18T17:50:13.386651+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 557,
+      "occurred_at": "2026-10-18T17:50:13.969847+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 612,
+      "occurred_at": "2026-10-18T17:50:14.605904+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1202,
+      "occurred_at": "2026-10-18T17:50:15.830796+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 550,
+      "occurred_at": "2026-10-18T17:50:16.400460+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 560,
+      "occurred_at": "2026-10-18T17:50:16.989444+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 565,
+      "occurred_at": "2026-10-18T17:50:17.578344+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 44,
+      "occurred_at": "2026-10-18T17:50:17.639207+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 582,
+      "occurred_at": "2026-10-18T17:50:18.220930+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 87,
+      "occurred_at": "2026-10-18T17:50:18.315115+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 6,
+      "occurred_at": "2026-10-18T17:50:18.321391+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 297,
+      "occurred_at": "2026-10-18T17:50:18.618449+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1234,
+    "modern_words": 598,
+    "vocabulary_jaccard": 0.04289544235924933,
+    "jensen_shannon_divergence": 0.8420525717913676,
+    "historical_top_words": [
+      [
+        "the",
+        101
+      ],
+      [
+        "of",
+        69
+      ],
+      [
+        "and",
+        40
+      ],
+      [
+        "a",
+        32
+      ],
+      [
+        "is",
+        31
+      ],
+      [
+        "in",
+        20
+      ],
+      [
+        "which",
+        20
+      ],
+      [
+        "are",
+        20
+      ],
+      [
+        "by",
+        15
+      ],
+      [
+        "to",
+        13
+      ],
+      [
+        "but",
+        13
+      ],
+      [
+        "as",
+        13
+      ],
+      [
+        "it",
+        12
+      ],
+      [
+        "or",
+        12
+      ],
+      [
+        "with",
+        12
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "h",
+        68
+      ],
+      [
+        "e",
+        68
+      ],
+      [
+        "b",
+        68
+      ],
+      [
+        "mi",
+        28
+      ],
+      [
+        "tienda",
+        28
+      ],
+      [
+        "san",
+        11
+      ],
+      [
+        "the",
+        9
+      ],
+      [
+        "in",
+        7
+      ],
+      [
+        "saltillo",
+        7
+      ],
+      [
+        "reynosa",
+        6
+      ],
+      [
+        "de",
+        5
+      ],
+      [
+        "stores",
+        5
+      ],
+      [
+        "to",
+        5
+      ],
+      [
+        "and",
+        4
+      ],
+      [
+        "nuevo",
+        4
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "h e t",
+  "semantic_input": {
+    "query": "h e t\nET H  [ 797 ] E T H\n\nEthopia, make a very beautiful appearance. The whole plant is full of a very serd and caulite milk. 7. Rack is a large tree, growing too only to: Alyffinia but in the places of Aries Felds. Its word was not touch it; for which reason it is uef by the Aruba for contributing their levels. 1 grows, like the mangrove, among the salt-water of the fed, or about lift fignings. 8. Gir-gir, or geñte-el-aube; i a kind of gratis found about Pass-Elry, growing the height of shortn three feet four inches. 9. The kantuña, a very noxious pieces of thorns, much more remoulders than any with which are are equivinated, and growing to the height of eight or more feet. The flowers have a frong fundil like the flower migiri-one. 10. The grapes, is a then trecely about an feet high, a native of Lamanham. The flowers, which are yellow and very beautiful, turn towards the fun like that of the halamanhas. 1. The variety, a tree common throughout all Abyffinia; flowers exactly over the frit",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.05771303176879883,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

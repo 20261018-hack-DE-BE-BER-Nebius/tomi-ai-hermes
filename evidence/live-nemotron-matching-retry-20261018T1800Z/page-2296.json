@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "**POL [ 93 ]**",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:57679348",
+      "title": "Pol (given name)",
+      "corpus": "wikipedia",
+      "text": "Pol is a male given name. In Europe, it can be a form of Paul or Polydore, and sometimes of Apollonius or Leopold. It is most common in Belgium, Luxembourg, Andorra, and Spain. The name in Cambodia and Thailand likely has a different origin. Notable people with this name include:\n\nPol Abraham (1891–1966), French architect\n\nPol Albrecht (1874–1975), Luxembourg composer, conductor and bandmaster\n\nPol Amat (born 1978), Spanish field hockey player\n\nPol Anoul (1922–1990), Belgian footballer\n\nPol Antràs (born 1975), Spanish economist\n\nPol Arias (born 1996), Andorran swimmer\n\nPol Boël (1923–2007), Belgian industrialist and politician, grandson of Pol-Clovis\n\nPol Clovis Boël (1868–1941), Belgian industrialist and politician\n\nPol Braekman (1919–1994), Belgian sprinter\n\nPol Bueso (born 1985), Spanish football defender\n\nPol Bury (1922–2005), Belgian sculptor\n\nPol Calvet (born 1994), Spanish football midfielder\n\nPol Carreras (born 1990), Spanish alpine skier\n\nPol Chomchuen (born 1959), Thai football coach\n\nPol Cruchten (born 1963), Luxembourgian film director and producer\n\nPol Demeuter (1904–1934), Belgian motorcycle racer\n\nPol Duwez (1907–1984), Belgian material scientist\n\nPol Espargaró (born 1991), Spanish Grand Prix motorcycle racer\n\nPol Freixanet (born 1991), Spanish football goalkeeper\n\nPol García (born 1995), Spanish football defender\n\nPol Goffaux (1916–1977), Belgian boxer\n\nPol Goossen (born 1949), Belgian film and television actor\n\nPol Greisch (1930–2026), Luxembourgian dramatist, writer and actor\n\nPol Heyvaert, Belgian stage director and designer\n\nPol Hom (born 1946), Cambodian politician\n\nPol Hoste (born 1947), Belgian writer\n\nAlen Pol Kobryn (1949–2023), American poet, novelist, and voice actor\n\nPol Le Gourrierec (1921–1995), French diplomat\n\nPol de Leon (Paul Aurelian) (died 575), Welsh-Bréton cleric and saint\n\nPol Lirola (born 1997), Spanish football defender\n\nPol Llonch (born 1992), Spanish football midfielder\n\nPol Monen (born 1994), full name Pol Montañés Enrich, better known by his screen name Pol Monen, Spanish actor\n\nPol Medina Jr. (born 1962), Filipino cartoonist\n\nPol Mercier (1819–1874), French playwright\n\nPol de Mont (1857–1931), Belgian writer and poet\n\nPol Moya (born 1996), Andorran middle-distance runner\n\nPol Pelletier (born 1947), Canadian actor, director, and playwright\n\nPol Perritt (1891–1947), American baseball pitcher\n\nPol Pla (born 1993), Spanish rugby player\n\nPol Plançon (1851–1914), French operatic bass\n\nPol Pot (1925–1998), Cambodian revolutionary and Communist dictator\n\nPol Roigé (born 1994), Spanish football midfielder\n\nPol Rosell (born 1991), Spanish racing driver\n\nPol Sax (born 1960), Luxembourg writer\n\nPol Schmoetten (born 1958), Luxembourg writer\n\nPol Swings (1906–1983), Belgian astrophysicist\n\nPol Theis (born 1991), Luxembourger attorney and interior designer\n\nPol Toledo Bagué (born 1994), Spanish tennis player\n\nPol Valentín (born 1997), Spanish football defender\n\nPol Verschuere (born 1955), Belgian road bicycle racer",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1339968724",
+      "revision_id": "1339968724",
+      "text_sha256": "157a7986136c8dfe6e9349e7ff2d40500a9cecf3b0b7019f8ccd51b359f6498e",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:17:30.851362+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -1.9505953788757324,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:3522496",
+      "title": "Pol",
+      "corpus": "wikipedia",
+      "text": "Pol or POL may refer to:\n\nPol State, a former princely state in Gujarat, western India; originally Vijaynagar State after its first capital\n\nPol, Iran, a city in Khamir County, Hormozgan province, Iran\n\nPol, Lugo, a municipality in Spain\n\nRiver Pol, a small river in Cornwall, England\n\nPOL, ISO-3166-1 alpha-3 code for the country of Poland\n\nPOL, International Olympic Committee country code for Poland - see List of IOC country codes\n\npol, ISO 639-2 and ISO 639-3 language codes for the Polish language\n\nPOL, IATA airport code for Pemba Airport (Mozambique)\n\nPOL, National Rail station code for Polsloe Bridge railway station, Devon, England\n\nPOL, an abbreviation for port of loading\n\nPól, an Irish and Faroese given name, and a list of people so named\n\nPol (given name), usually a form of Paul or Polydore, with a list of people so named\n\nPol Pot (1925–1998), Cambodian revolutionary and Communist dictator\n\nAgusti Pol (born 1977), Andorran footballer\n\nAlejandro Pol Hurtado (born 1990), Venezuelan football midfielder\n\nAlexander Pol (1832–1890), Ukrainian archaeologist and geologist\n\nAlice Pol (born 1982), French actress\n\nAntoine Pol (1888–1971), French poet\n\nBen Pol (born 1989), Tanzanian singer and songwriter\n\nDavid Pol (born 1973), Canadian football player\n\nErnest Pohl, also known as Ernst Pol (1932–1995), Polish footballer\n\nFerran Pol (born 1983), Andorran footballer\n\nFrancisco Pol Hurtado (born 1990), Venezuelan football midfielder\n\nMiquel Martí i Pol (1929–2003), Catalan poet\n\nNicolas Pol (born 1977), French contemporary artist\n\nNicolaus Pol (c.1467–1532), Austrian physician and book collector\n\nSandra de Pol (born 1975), Swiss footballer\n\nSantosh Pol (born 1974), Indian serial killer\n\nSebastián Pol (born 1988), Argentine footballer\n\nTalitha Pol (1940–1971), Dutch actress and model, wife of John Paul Getty\n\nVictor de Pol (1865–1925), Italian-born Argentine sculptor\n\nWincenty Pol (1807–1872), Polish poet and geographer\n\nPol (character), in Melanie Rawn's Dragon Prince and Dragon Star trilogies\n\nPol (gene)\n\nPOL valve, a fitting found on LPG cylinders\n\nPol (HIV), a gene found in retroviruses\n\nPolystachya, abbreviation of a genus of orchid\n\nHNoMS Pol III, a Norwegian Navy World War II patrol boat\n\nPol language, a Bantu language of Cameroon\n\nPol (housing), in India, a district in an \"old city\" area occupied by families of a particular ethnic group or caste\n\nPOL (magazine) (1968?–1986), an Australian monthly magazine\n\n/pol/, the \"politically incorrect\" board on 4chan\n\nParty of the Left, in the Yale Political Union\n\n\"Petroleum, Oil, and Lubricants\", Class III of U.S. Armed Forces classes of supply\n\nAbbreviation for politician",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1246192529",
+      "revision_id": "1246192529",
+      "text_sha256": "a8244c7d99f8004a908c74087e4fcd3b2484551eeca6821970736e5546ca0a4d",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:17:31.547322+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.1076231002807617,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:34653492",
+      "title": "List of pols in Ahmedabad",
+      "corpus": "wikipedia",
+      "text": "A Pol (pronounced as pole) is a housing cluster which comprises many families of a particular group, linked by caste, profession, or religion. This is a list of Pols in the old walled city of Ahmedabad in Gujarat, India. Heritage of these Pols has helped Ahmedabad gain a place in UNESCO's Tentative Lists, in selection criteria II, III and IV. The secretary-general of EuroIndia Centre quoted that if 12000 homes of Ahmedabad are restored they could be very helpful in promoting heritage tourism and its allied businesses. The Art Reverie in Moto Sutharvado is Res Artis center.\n\nThe first pol in Ahmedabad was named Mahurat Pol.\n\nThe list of Pols in Ahmedabad is given below:\n\nAaka Sheth Kuva Ni Pol\n\nAmbli Ni Pol\n\nAmrutlal Ni Pol\n\nArjunlal Ni Khadki\n\nBangla Ni Pol\n\nBapa Shastri Ni Pol\n\nBaua Ni Pol\n\nBhadva Pol\n\nBhanderi Ni Pol\n\nBhau Ni Pol\n\nBhavanpura Ni Pol\n\nBoabadiya Vaidh Ni Khadki\n\nBukhara Ni Pol\n\nChagan Daftar Ni Pol\n\nChhaghara No Pol\n\nChipa Mavji Ni Pol\n\ngolwad khadia\n\ngolwad sarangur\n\nDabgarvad\n\nDerdka Ni Pol\n\nDesai Ni pol\n\nDev Ni Sheri\n\nDevji Saraia Ni Pol\n\nDevsa no pado\n\nDeydi Ni Pol\n\nDhal Ni Pol\n\nDhanashuthar Ni Pol\n\nDhanpipla Ni Khadki\n\nDhinkva Pol\n\nBado Pol\n\nDhobi Ni Pol\n\nDoshiwada ni pol\n\nDurgamata Ni Pol\n\nFafda Pol\n\nFatasa Pol\n\nGangadhiya Ni Pol\n\nGatrad Ni Pol\n\nGhanchi Ni Pol\n\nGhasiram Ni Pol\n\nGojaria Ni Pol\n\nGolwad\n\nGoti ni Sheri\n\nGusa Parekh ni Pol\n\nHabib Ni Golvad\n\nHaja Patel Ni Pol\n\nHajira Ni Pol\n\nHalim Ni Khadki\n\nHanuman Ni Khadki\n\nHanuman Pol\n\nHaran Ni Pol\n\nHari Bhakti Ni Pol\n\nHarikarsandas Sheth Ni Pol\n\nHathikhana\n\nHathi No Choro\n\nHaveli Ni Pol\n\nHinglok Joshi ni Pol\n\nHira Gandhi Ni Pol\n\nJadav Bhagat Ni Pole\n\nJalkukdi Ni Pol\n\nJani Ni Khadki\n\nJati Ni Pol\n\nJaveriwad\n\nJethabhai Ni Pol\n\nJivan Pol\n\nKachariya Pol\n\nKadva Pol\n\nKaka Baliya Ni Pol\n\nKaljug Ni Khadki\n\nKalumiya No Takyo\n\nKalushi Ni Pol\n\nKameshwar ni Pol\n\nKansara Ni Pol\n\nKavishvar Ni Pol\n\nKhatri Pol\n\nKhichda Ni Pol\n\nKhijada Ni Pol\n\nKhijda Ni Pol\n\nKhijda Sheri\n\nKikabhatt Ni Pol\n\nKokadia Ni Pol\n\nkhiskoli ni pol\n\nKokadiya Ni Pol\n\nKothari Ni Pol\n\nKuvavalo Khancho\n\nLakha Patel Ni Pol\n\nLakhiya Ni Pol\n\nLala Vasa Ni Pol\n\nLalabhai Ni Pol\n\nLamba Pada ni Pol\n\nLambeshwar ni Pol\n\nLimbu Pol\n\nLimda Sheri\n\nMahajanwado\n\nMahalaxmi Ni Pol\n\nMahalaxmi No Khancho\n\nMahurat Pol\n\nMakeriwad\n\nMali Ni Pol\n\nMamani Ni Pol\n\nMamunayak Ni Pol\n\nMandavi Ni Pol\n\nManiyasa Ni Khadki\n\nMankodi Ni Pol\n\nMarchi Pol\n\nMehta Ni Pol\n\nModhwada Ni Pol\n\nMorlidhan No Vero\n\nMoti Hamam Ni Pol\n\nMoti Rangila Pol\n\nMoti Salepari\n\nMotibhai Ni Khadki\n\nMoto Sutharwado\n\nMoti Vasansheri\n\nNani Vasansheri\n\nKhatriwad\n\nBhavsar no Khanchho\n\nLuhar Sheri\n\nKadiawad\n\nTadiyani Pol\n\nGandhini Pol\n\nMumanawad\n\nMakeriwad\n\nNavgharini Pol\n\nPipla Pol\n\nLimda Pol\n\nNadavada Ni Pol\n\nNagar Bhagat Ni Pol\n\nNagarbodi Ni Pol\n\nNagarvado\n\nNagina Pol\n\nNagjibhudar Ni Pol\n\nNagorivad\n\nNagu Master No Delo\n\nNaiwado\n\nNani Hama Ni Pol\n\nNani Rangila Pol\n\nNano Sutharwado\n\nNansha Jivan Ni Pol\n\nNavdhani Ni Pol\n\nNisha Pol\n\nPada Pol\n\nPadi Pol\n\nPagathiawalo Khancho\n\nPakhali Ni Pol\n\nPanchbhai Ni Pol\n\nPanditji Ni Pol\n\nPanjara Pol\n\nParabdi Ni Pol\n\nParekh Ni Khadki\n\nPatasa Ni Pol\n\nPipla Sheri\n\nPipardi Ni Pol\n\nPuspkala ni pole\n\nRabarivas\n\nRaja Mehta Ni Pol\n\nRanchhodji Ni Pol\n\nRatan Pol\n\nRugnath Bamb Ni Pol\n\nRupa Surchand ni Pol\n\nSadmata Ni Pol\n\nSai Baba Ni Pol\n\nSalvi Ni Pol\n\nSambhavnath Ni Pol\n\nSamet Shikhar Ni Pol\n\nSankdi Sheri\n\nSarkhedi Ni Khadki\n\nSarkivad Ni Pole\n\nSathwara No Khancho\n\nShamalji Thavar Ni Pol\n\nShamla Ni Pol\n\nShangar Sheri\n\nShantinath ni Pol\n\nSheth Ni Pol\n\nShevka Ni Wadi\n\nShriramji Ni Sheri\n\nSodagar Ni Pol\n\nSoni Ni Khadki\n\nSoni Ni Pol\n\nSoni No Khancho\n\nSurdas Sheth Ni Pol\n\nSutariya Ni Pol\n\nSyamsangha Ni Pol\n\nTaliya Ni Pol\n\nTemla Ni Pol\n\nTokarsha Ni Pol\n\nTulsi Kyara Ni Khadki\n\nVada Pol Khadia\n\nVaghan Pol\n\nVagheshvarimata Ni pol\n\nVagheshvar ni pole\n\nVerai Pada Ni Pol\n\nVinchi Ni Pol\n\nWadigaam\n\nZampada ni Pol\n\nZumkhi Ni Pol\n\nZupdi Ni Pol\n\nHavada ni Pol\n\nHera Bhagat Ni Pol\n\nTankshal Pol\n\nBakra Pol Retiyawadi\n\ndhobi ni pole khadia\n\nshree ramji ni sheri sarangpur\n\njarovali nu naku khadia\n\ngolwad khadia\n\ngilwad sarangpur\n\nbapu mehta ni pole raipur\n\ndolat khana raipur\n\nhajira ni pole raipur\n\njani wado\n\nvad ni pole raipur\n\nkach vado\n\nkalu miya no takiyo golwad khadia\n\nLalavasa ni pole",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1251273426",
+      "revision_id": "1251273426",
+      "text_sha256": "c70ddab6138ac58dd0bf27a61ac0f5cba6bb0c8820128272cfa0c61e0cda50e1",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:17:29.992286+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.4276325702667236,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2296",
+    "title": "Britannica page 2296",
+    "corpus": "britannica",
+    "text": "<x_0.2139><y_0.0375>**POL [ 93 ]**<x_0.502><y_0.0625><class_Page-header>\n\n<x_0.04><y_0.0672>**Po.**<x_0.0869><y_0.0813><class_Text>\n\n<x_0.0889><y_0.0563>Ankudlnoff's veiled was wrecked, and the crew ditti burst among the other eyes. Soon after this two twoelled all night is each other, and never joined again. Dishheff was driven about by competition winds till Quizley, who was shipwrecks confidently in the fourth of the Analyry. Having at fall reached that ri- were, he found a lotumely by the fama way that she had come, but never made the attempt. As for Alexeeff, after being allo fluyeerekek, he said died of all six furry, together with Ankudlood’s part of the crew were killed by the changes, and a few escaped to Kamilichak, where no ferled.<x_0.459><y_0.2156><class_Text>\n\n<x_0.041><y_0.2125>_See._ _Cour’s_ _Flope- reise, 95._ -<x_0.457><y_0.2586><class_Text>\n\n<x_0.042><y_0.2672>- icon.<x_0.1084><y_0.2687><class_Text>\n\n<x_0.0391><y_0.3891>23\nErfing\nmonatable\ncollecles\nin the\nnorth-self\npulge.<x_0.0986><y_0.4672><class_Text>\n\n<x_0.043><y_0.5062>31\nbe\nbarbweb\npulge.<x_0.1016><y_0.5539><class_Text>\n\n<x_0.0439><y_0.6727>See\nCook's\nHouse-\nrive, 93\nIt\nErrrag-\nwages\naccess in\nfor\na pachily\nof\nthe pole.<x_0.1035><y_0.8039><class_Text>\n\n<x_0.0449><y_0.507>43\nbe\nbarbweb\npulge.<x_0.1025><y_0.5547><class_Text>\n\n<x_0.0459><y_0.6703>See\nCook's\nHouse-\nrive, 93\nIt\nErrrag-\nwages\naccess\nin\nforce\na pachily\nof\nthe pole.<x_0.1045><y_0.8047><class_Text>\n\n<x_0.4521><y_0.0516>have reached the billions of 88.--a. From the telli-\nveyor of Captain Choyer, who gave anders to certain\nqueries drawn up by Mr Dalymple concerning the po-\nutes first appears to be lead when in the latitude of 83\". One Mr Watt informed our author, then when he was 7 years of age, as that time making his first voyage on Captain M McCallon, a le hold an fullina n-\nvigor, who commanded a Scotch whale-fishing dip, as during the time that the whales are fupped to copia the so fishing one, the carried on, the captain evolved to employ that interIn in attempting to resta the north pole. He ascondingly revealed because the lead ob-\nduction on 88; when the fea was not only open to the northwest, but they had now no ice on the last three degrees, but which he fill advanced, the ante complained that, the compils was not Ready, and the Captain was often dealt with collection to give over his attempts – TD Compell, the combination of Harris’s voyages, informed Mr Harrington, that Dr Jitalie, an-\nvivord Mullan, being in his work on board. In March\nJuly of, or which at that time was ufully feat to fu-\npenined the Greenland fishery, the captain determined, like the toocimshn above mentioned, to make an attempt to reach the pole during the intervent leaves the drift too forest fisheries. He expressed, according to the belt di Dr Campbell's recollection, as far as 88'3 when the weelwe was warm, the for free from ice, and falling like the bay of Bicky. Zullies now prefilled the expense to proceed:) but he answered, that he had already gone to for, and finally the himself it Holland has regarding his history upon which account he would differ on journal to the kept, but returned is soon as probable to Philology—— as the year (66-20), Mr Dobberg, than fercerty of the Royal Society, was ordered to regite a paper, entitled \" Several linguists concerning Greenland, minnows by Mr Gary, who had visited their posts.\" The 19th of their queries is the following: If we were hath any one been known to approach the plot? —The name is, “I once met upon the coult of Greatlanda Holderar that force me had been half a degree from the days, though one are his journal, which was sila attested by his mares, where they had ten an ice on day, but ali winter” – Go. In Captain Woods’s ac- count of a voyage its quell of the north-ent pulgage, we have the following account of a Dutch high which ended the mistake the 69/o\". Captain Condekly, who had made above 30 voyages to Greenland, did relate to his majdly, the being a Greatland form 30 years before, he was at company with two Filhamalians to the ealiward of Edge’s lineal and that the whales are ap- peemings on the shore, the Hindians were determined to be further encountered I and in a fortnight’s time return- ed, and gave it out that they had failed into the life- undys of, and that they did not meet him any face, but a free and open teas, and that there aren a very bullazing groups fail. Next, the job Bicky, Mr Gould, we bring not finished with the bare relation, they pro-duced him four journals of the two ships, which fulfilled them, none, that they agreed them four instances.\"--7. In the Philadelphia Traffletions for 167; we knew the following pulgage: «For it is well known to all that fish northward, instead of the north-ern coasts are frozen up for many fingers, though in the open fea it is not by no more under the pole right, unless by accident!\" In which pulgage, we have the following requestout of 2 Dutch high which could see the ultimate of 69/o\". Captain Thomas Robertson offand our author, that he had been in latitude 834, that the fea real open, and he was certain that he could<x_0.4795><y_0.8742><class_Text>\n\n<x_0.4541><y_0.0523>have reached the billions of 88.--a. From the telli-\nveyor of Captain Choyer, who gave anders to certain\nqueries drawn up by Mr Dalymple concerning the po-\nutes first appears to be lead when in the latitude of 83\". One Mr Watt informed our author, then when he was 7 years of age, as that time making his first voyage on Captain M McCallon, a le hold an fullina n-\nvigor, who commanded a Scotch whale-fishing dip, as during the time that the whales are fupped to copia the so fishing one, the carried on, the captain evolved to employ that interIn in attempting to resta the north pole. He ascondingly revealed because the lead ob-\nduction on 88; when the fea was not only open to the northwest, but they had now no ice on the last three degrees, but which he fill announced, the same complaint that, the compils was not Ready, and the Captain was often dealt with collections to give over his attempts – TD Compell, the combination of Harris’s voyages, informed Mr Harrington, that Dr Jitalie, an-\nvivord Mullan, being in his work on board. In March\nJuly of, or which at that time was ufully feat to fu- penined the Greatland fishery, the captain determined, like the toocimshn above mentioned, to make an attempt to reach the pole during the intervent leaves the drift too forest fisheries. He repeated, according to the belt di Dr Campbell's recollection, as far as 88'3 when the weelwe was warm, the for free from ice, and falling like the bay of Bicky. Zullies now prefilled the expense to proceed:) but he answered, that he had already gone to for, and finalide in shared it Holland has regarding his historic upon which account he would differ on journal to the kept, but returned is soon as possible to Philology—— as the year (66-20), Mr Dobberg, than fercerty of the Royal Society, was ordered to regite a paper, entitled \"Several linguists concerning Greekmains, however by Mr Gary, who had visited their posts.\" The 19th of their queries is the following: If we were hath any one been known to approach the plot? —The name is, “I once met upon the coult of Greatlanda Holderar that force me had been half a degree from the days, though one are his journal, which was sila attested by his mares, where they had ten an ice on day, but ali winter” – Go. In Captain Woods’s ac- count of a voyage its quell of the north-ent pulgage, we have the following account of a Dutch high which needed the latitude the 69/o\". Captain Condekly, who had made above 30 voyages to Greenland, did relate to his majdly, the being a Greatland form 30 years before, he was at company with two Filhamalians to the ealiward of Edge’s lineal and that the whales are ap- peemings on the shore, the Hindians were determined to be further encountered I and in a fortnight’s time return- ed, and gave it out that they had failed into the life- undys of, and that they did not meet him any face, but a free and open teas, and that there aren a very bullazing groups fail. Next, the job Bicky, Mr Gould, we bring not finished with the bare relation, they pro-duced him four journals of the two ships, which fulfilled them, none, that they agreed them four instances.\"--7. In the Philological Traffletions for 167; we knew the following purposes.» For it is well known to all that fish northward, instead of the north-ern coasts are frozen up for many fingers, though in the open fea it is not by, no more under the pole right, unless by accident!\" In which pulgage the having reached the<x_0.8438><y_0.8703><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "f451c7458b1f0fbb2b5849271c4424468d446fa304396f61e00a40f078a6d5d4",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:58:08.139953+00:00",
+    "parser_receipt_sha256": "16f8ebb678a86a80adbd0d9786d8080e402198b3c6a38c04dc9f66a83530636f",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 592,
+      "occurred_at": "2026-10-18T18:17:29.281458+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 711,
+      "occurred_at": "2026-10-18T18:17:29.992348+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 826,
+      "occurred_at": "2026-10-18T18:17:30.851407+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 665,
+      "occurred_at": "2026-10-18T18:17:31.547352+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 847,
+      "occurred_at": "2026-10-18T18:17:32.416302+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 965,
+      "occurred_at": "2026-10-18T18:17:33.407623+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1040,
+      "occurred_at": "2026-10-18T18:17:34.484578+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1102,
+      "occurred_at": "2026-10-18T18:17:35.614441+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1154,
+      "occurred_at": "2026-10-18T18:17:36.789272+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 76,
+      "occurred_at": "2026-10-18T18:17:36.895813+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 488,
+      "occurred_at": "2026-10-18T18:17:37.383859+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 116,
+      "occurred_at": "2026-10-18T18:17:37.513706+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 9,
+      "occurred_at": "2026-10-18T18:17:37.522527+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 315,
+      "occurred_at": "2026-10-18T18:17:37.837089+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1450,
+    "modern_words": 369,
+    "vocabulary_jaccard": 0.03466204506065858,
+    "jensen_shannon_divergence": 0.881724688683572,
+    "historical_top_words": [
+      [
+        "the",
+        129
+      ],
+      [
+        "to",
+        45
+      ],
+      [
+        "of",
+        41
+      ],
+      [
+        "that",
+        33
+      ],
+      [
+        "a",
+        26
+      ],
+      [
+        "in",
+        24
+      ],
+      [
+        "was",
+        22
+      ],
+      [
+        "and",
+        22
+      ],
+      [
+        "he",
+        21
+      ],
+      [
+        "had",
+        16
+      ],
+      [
+        "on",
+        16
+      ],
+      [
+        "s",
+        15
+      ],
+      [
+        "captain",
+        15
+      ],
+      [
+        "which",
+        15
+      ],
+      [
+        "his",
+        14
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "pol",
+        54
+      ],
+      [
+        "born",
+        29
+      ],
+      [
+        "and",
+        16
+      ],
+      [
+        "spanish",
+        16
+      ],
+      [
+        "belgian",
+        14
+      ],
+      [
+        "football",
+        9
+      ],
+      [
+        "name",
+        5
+      ],
+      [
+        "actor",
+        5
+      ],
+      [
+        "writer",
+        5
+      ],
+      [
+        "luxembourg",
+        4
+      ],
+      [
+        "french",
+        4
+      ],
+      [
+        "defender",
+        4
+      ],
+      [
+        "a",
+        3
+      ],
+      [
+        "in",
+        3
+      ],
+      [
+        "of",
+        3
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "pol",
+  "semantic_input": {
+    "query": "pol\n**POL [ 93 ]**\n\n**Po.**\n\nAnkudlnoff's veiled was wrecked, and the crew ditti burst among the other eyes. Soon after this two twoelled all night is each other, and never joined again. Dishheff was driven about by competition winds till Quizley, who was shipwrecks confidently in the fourth of the Analyry. Having at fall reached that ri- were, he found a lotumely by the fama way that she had come, but never made the attempt. As for Alexeeff, after being allo fluyeerekek, he said died of all six furry, together with Ankudlood’s part of the crew were killed by the changes, and a few escaped to Kamilichak, where no ferled.\n\n_See._ _Cour’s_ _Flope- reise, 95._ -\n\n- icon.\n\n23\nErfing\nmonatable\ncollecles\nin the\nnorth-self\npulge.\n\n31\nbe\nbarbweb\npulge.\n\nSee\nCook's\nHouse-\nrive, 93\nIt\nErrrag-\nwages\naccess in\nfor\na pachily\nof\nthe pole.\n\n43\nbe\nbarbweb\npulge.\n\nSee\nCook's\nHouse-\nrive, 93\nIt\nErrrag-\nwages\naccess\nin\nforce\na pachily\nof\nthe pole.\n\nhave reached the billions of 88.--a. From the telli-\nveyor o",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.1570277214050293,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

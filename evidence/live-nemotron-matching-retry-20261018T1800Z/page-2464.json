@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "C A B ( 2 ) C A B",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:26563388",
+      "title": "Half-side formula",
+      "corpus": "wikipedia",
+      "text": "In spherical trigonometry, the half side formula relates the angles and lengths of the sides of spherical triangles, which are triangles drawn on the surface of a sphere and so have curved sides and do not obey the formulas for plane triangles.\n\nFor a triangle △ A B C {\\displaystyle \\triangle ABC} on a sphere, the half-side formula is tan 1 2 a = − cos (S) cos (S − A) cos (S − B) cos (S − C) {\\displaystyle {\\begin{aligned}\\tan {\\tfrac {1}{2}}a&={\\sqrt {\\frac {-\\cos(S)\\,\\cos(S-A)}{\\cos(S-B)\\,\\cos(S-C)}}}\\end{aligned}}}\n\nwhere a, b, c are the angular lengths (measure of central angle, arc lengths normalized to a sphere of unit radius) of the sides opposite angles A, B, C respectively, and S = 1 2 (A + B + C) {\\displaystyle S={\\tfrac {1}{2}}(A+B+C)} is half the sum of the angles. Two more formulas can be obtained for b {\\displaystyle b} and c {\\displaystyle c} by permuting the labels A, B, C. {\\displaystyle A,B,C.}\n\nThe polar dual relationship for a spherical triangle is the half-angle formula,\n\ntan 1 2 A = sin (s − b) sin (s − c) sin (s) sin (s − a) {\\displaystyle {\\begin{aligned}\\tan {\\tfrac {1}{2}}A&={\\sqrt {\\frac {\\sin(s-b)\\,\\sin(s-c)}{\\sin(s)\\,\\sin(s-a)}}}\\end{aligned}}}\n\nwhere semiperimeter s = 1 2 (a + b + c) {\\displaystyle s={\\tfrac {1}{2}}(a+b+c)} is half the sum of the sides. Again, two more formulas can be obtained by permuting the labels A, B, C. {\\displaystyle A,B,C.}\n\nThe same relationships can be written as rational equations of half-tangents (tangents of half-angles). If t a = tan 1 2 a, {\\displaystyle t_{a}=\\tan {\\tfrac {1}{2}}a,} t b = tan 1 2 b, {\\displaystyle t_{b}=\\tan {\\tfrac {1}{2}}b,} t c = tan 1 2 c, {\\displaystyle t_{c}=\\tan {\\tfrac {1}{2}}c,} t A = tan 1 2 A, {\\displaystyle t_{A}=\\tan {\\tfrac {1}{2}}A,} t B = tan 1 2 B, {\\displaystyle t_{B}=\\tan {\\tfrac {1}{2}}B,} and t C = tan 1 2 C, {\\displaystyle t_{C}=\\tan {\\tfrac {1}{2}}C,} then the half-side formula is equivalent to:\n\nt a 2 = (t B t C + t C t A + t A t B − 1) (− t B t C + t C t A + t A t B + 1) (t B t C − t C t A + t A t B + 1) (t B t C + t C t A − t A t B + 1). {\\displaystyle {\\begin{aligned}t_{a}^{2}&={\\frac {{\\bigl (}t_{B}t_{C}+t_{C}t_{A}+t_{A}t_{B}-1{\\bigr)}{\\bigl (}{-t_{B}t_{C}+t_{C}t_{A}+t_{A}t_{B}+1}{\\bigr)}}{{\\bigl (}t_{B}t_{C}-t_{C}t_{A}+t_{A}t_{B}+1{\\bigr)}{\\bigl (}t_{B}t_{C}+t_{C}t_{A}-t_{A}t_{B}+1{\\bigr)}}}.\\end{aligned}}}\n\nand the half-angle formula is equivalent to:\n\nt A 2 = (t a − t b + t c + t a t b t c) (t a + t b − t c + t a t b t c) (t a + t b + t c − t a t b t c) (− t a + t b + t c + t a t b t c). {\\displaystyle {\\begin{aligned}t_{A}^{2}&={\\frac {{\\bigl (}t_{a}-t_{b}+t_{c}+t_{a}t_{b}t_{c}{\\bigr)}{\\bigl (}t_{a}+t_{b}-t_{c}+t_{a}t_{b}t_{c}{\\bigr)}}{{\\bigl (}t_{a}+t_{b}+t_{c}-t_{a}t_{b}t_{c}{\\bigr)}{\\bigl (}{-t_{a}+t_{b}+t_{c}+t_{a}t_{b}t_{c}}{\\bigr)}}}.\\end{aligned}}}",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1186505582",
+      "revision_id": "1186505582",
+      "text_sha256": "7863e2e2de3e4f1e5cc7fdd81423a2f7e023969ba5bbcba08556634b0c63bc7e",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:19:01.681008+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.5847086906433105,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:58325116",
+      "title": "Titu's lemma",
+      "corpus": "wikipedia",
+      "text": "In mathematics, the following inequality is known as Titu's lemma, Bergström's inequality, Engel's form or Sedrakyan's inequality, respectively, referring to the article About the applications of one useful inequality of Nairi Sedrakyan published in 1997, to the book Problem-solving strategies of Arthur Engel published in 1998 and to the book Mathematical Olympiad Treasures of Titu Andreescu published in 2003. It is a direct consequence of Cauchy–Bunyakovsky–Schwarz inequality. Nevertheless, in his article (1997) Sedrakyan has noticed that written in this form this inequality can be used as a proof technique and it has very useful new applications. In the book Algebraic Inequalities (Sedrakyan) several generalizations of this inequality are provided.\n\nFor any real numbers a 1, a 2, a 3, …, a n {\\displaystyle a_{1},a_{2},a_{3},\\ldots,a_{n}} and positive reals b 1, b 2, b 3, …, b n, {\\displaystyle b_{1},b_{2},b_{3},\\ldots,b_{n},} we have a 1 2 b 1 + a 2 2 b 2 + ⋯ + a n 2 b n ≥ (a 1 + a 2 + ⋯ + a n) 2 b 1 + b 2 + ⋯ + b n. {\\displaystyle {\\frac {a_{1}^{2}}{b_{1}}}+{\\frac {a_{2}^{2}}{b_{2}}}+\\cdots +{\\frac {a_{n}^{2}}{b_{n}}}\\geq {\\frac {\\left(a_{1}+a_{2}+\\cdots +a_{n}\\right)^{2}}{b_{1}+b_{2}+\\cdots +b_{n}}}.} (Nairi Sedrakyan (1997), Arthur Engel (1998), Titu Andreescu (2003))\n\nSimilarly to the Cauchy–Schwarz inequality, one can generalize Sedrakyan's inequality to random variables.In this formulation let X {\\displaystyle X} be a real random variable, and let Y {\\displaystyle Y} be a positive random variable. X and Y need not be independent, but we assume E {\\displaystyle E} and E {\\displaystyle E} are both defined.Then E ≥ E 2 / E ≥ E 2 / E. {\\displaystyle \\operatorname {E} \\geq \\operatorname {E} ^{2}/\\operatorname {E} \\geq \\operatorname {E} ^{2}/\\operatorname {E}.}\n\nExample 1. Nesbitt's inequality.\n\nFor positive real numbers a, b, c: {\\displaystyle a,b,c:} a b + c + b a + c + c a + b ≥ 3 2. {\\displaystyle {\\frac {a}{b+c}}+{\\frac {b}{a+c}}+{\\frac {c}{a+b}}\\geq {\\frac {3}{2}}.}\n\nExample 2. International Mathematical Olympiad (IMO) 1995.\n\nFor positive real numbers a, b, c {\\displaystyle a,b,c}, where a b c = 1 {\\displaystyle abc=1} we have that 1 a 3 (b + c) + 1 b 3 (a + c) + 1 c 3 (a + b) ≥ 3 2. {\\displaystyle {\\frac {1}{a^{3}(b+c)}}+{\\frac {1}{b^{3}(a+c)}}+{\\frac {1}{c^{3}(a+b)}}\\geq {\\frac {3}{2}}.}\n\nExample 3.\n\nFor positive real numbers a, b {\\displaystyle a,b} we have that 8 (a 4 + b 4) ≥ (a + b) 4. {\\displaystyle 8(a^{4}+b^{4})\\geq (a+b)^{4}.}\n\nExample 4.\n\nFor positive real numbers a, b, c {\\displaystyle a,b,c} we have that 1 a + b + 1 b + c + 1 a + c ≥ 9 2 (a + b + c). {\\displaystyle {\\frac {1}{a+b}}+{\\frac {1}{b+c}}+{\\frac {1}{a+c}}\\geq {\\frac {9}{2(a+b+c)}}.}\n\nExample 1.\n\nProof: Use n = 3, {\\displaystyle n=3,} (a 1, a 2, a 3):= (a, b, c), {\\displaystyle \\left(a_{1},a_{2},a_{3}\\right):=(a,b,c),} and (b 1, b 2, b 3):= (a (b + c), b (c + a), c (a + b)) {\\displaystyle \\left(b_{1},b_{2},b_{3}\\right):=(a(b+c),b(c+a),c(a+b))} to conclude: a 2 a (b + c) + b 2 b (c + a) + c 2 c (a + b) ≥ (a + b + c) 2 a (b + c) + b (c + a) + c (a + b) = a 2 + b 2 + c 2 + 2 (a b + b c + c a) 2 (a b + b c + c a) = a 2 + b 2 + c 2 2 (a b + b c + c a) + 1 ≥ 1 2 (1) + 1 = 3 2. ◼ {\\displaystyle {\\frac {a^{2}}{a(b+c)}}+{\\frac {b^{2}}{b(c+a)}}+{\\frac {c^{2}}{c(a+b)}}\\geq {\\frac {(a+b+c)^{2}}{a(b+c)+b(c+a)+c(a+b)}}={\\frac {a^{2}+b^{2}+c^{2}+2(ab+bc+ca)}{2(ab+bc+ca)}}={\\frac {a^{2}+b^{2}+c^{2}}{2(ab+bc+ca)}}+1\\geq {\\frac {1}{2}}(1)+1={\\frac {3}{2}}.\\blacksquare }\n\nExample 2.\n\nWe have that (1 a) 2 a (b + c) + (1 b) 2 b (a + c) + (1 c) 2 c (a + b) ≥ (1 a + 1 b + 1 c) 2 2 (a b + b c + a c) = a b + b c + a c 2 a 2 b 2 c 2 ≥ 3 a 2 b 2 c 2 3 2 a 2 b 2 c 2 = 3 2. {\\displaystyle {\\frac {{\\Big (}{\\frac {1}{a}}{\\Big)}^{2}}{a(b+c)}}+{\\frac {{\\Big (}{\\frac {1}{b}}{\\Big)}^{2}}{b(a+c)}}+{\\frac {{\\Big (}{\\frac {1}{c}}{\\Big)}^{2}}{c(a+b)}}\\geq {\\frac {{\\Big (}{\\frac {1}{a}}+{\\frac {1}{b}}+{\\frac {1}{c}}{\\Big)}^{2}}{2(ab+bc+ac)}}={\\frac {ab+bc+ac}{2a^{2}b^{2}c^{2}}}\\geq {\\frac {3{\\sqrt{a^{2}b^{2}c^{2}}}}{2a^{2}b^{2}c^{2}}}={\\frac {3}{2}}.}\n\nExample 3.\n\nWe have a 2 1 + b 2 1 ≥ (a + b) 2 2 {\\displaystyle {\\frac {a^{2}}{1}}+{\\frac {b^{2}}{1}}\\geq {\\frac {(a+b)^{2}}{2}}} so that a 4 + b 4 = (a 2) 2 1 + (b 2) 2 1 ≥ (a 2 + b 2) 2 2 ≥ ((a + b) 2 2) 2 2 = (a + b) 4 8. {\\displaystyle a^{4}+b^{4}={\\frac {\\left(a^{2}\\right)^{2}}{1}}+{\\frac {\\left(b^{2}\\right)^{2}}{1}}\\geq {\\frac {\\left(a^{2}+b^{2}\\right)^{2}}{2}}\\geq {\\frac {\\left({\\frac {(a+b)^{2}}{2}}\\right)^{2}}{2}}={\\frac {(a+b)^{4}}{8}}.}\n\nExample 4.\n\nWe have that 1 a + b + 1 b + c + 1 a + c ≥ (1 + 1 + 1) 2 2 (a + b + c) = 9 2 (a + b + c). {\\displaystyle {\\frac {1}{a+b}}+{\\frac {1}{b+c}}+{\\frac {1}{a+c}}\\geq {\\frac {(1+1+1)^{2}}{2(a+b+c)}}={\\frac {9}{2(a+b+c)}}.}",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1320085358",
+      "revision_id": "1320085358",
+      "text_sha256": "1ab7a2d6bef3e8c9fb09a17f80aae85f705333e77dd84692aaedf8de243bcb64",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:19:09.063919+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.671999454498291,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:31940975",
+      "title": "Extranatural transformation",
+      "corpus": "wikipedia",
+      "text": "In mathematics, specifically in category theory, an extranatural transformation is a generalization of the notion of natural transformation.\n\nLet F: A × B o p × B → D {\\displaystyle F:A\\times B^{\\mathrm {op} }\\times B\\rightarrow D} and G: A × C o p × C → D {\\displaystyle G:A\\times C^{\\mathrm {op} }\\times C\\rightarrow D} be two functors of categories.A family η (a, b, c): F (a, b, b) → G (a, c, c) {\\displaystyle \\eta (a,b,c):F(a,b,b)\\rightarrow G(a,c,c)} is said to be natural in a and extranatural in b and c if the following holds:\n\nη (−, b, c) {\\displaystyle \\eta (-,b,c)} is a natural transformation (in the usual sense).\n\n(extranaturality in b) ∀ (g: b → b ′) ∈ M o r B {\\displaystyle \\forall (g:b\\rightarrow b^{\\prime })\\in \\mathrm {Mor} \\,B}, ∀ a ∈ A {\\displaystyle \\forall a\\in A}, ∀ c ∈ C {\\displaystyle \\forall c\\in C} the following diagram commutes\n\nF (a, b ′, b) → F (1, 1, g) F (a, b ′, b ′) F (1, g, 1) ↓ η (a, b ′, c) ↓ F (a, b, b) → η (a, b, c) G (a, c, c) {\\displaystyle {\\begin{matrix}F(a,b',b)&\\xrightarrow {F(1,1,g)} &F(a,b',b')\\\\_{F(1,g,1)}\\downarrow \\qquad &&_{\\eta (a,b',c)}\\downarrow \\qquad \\\\F(a,b,b)&\\xrightarrow {\\eta (a,b,c)} &G(a,c,c)\\end{matrix}}}\n\n(extranaturality in c) ∀ (h: c → c ′) ∈ M o r C {\\displaystyle \\forall (h:c\\rightarrow c^{\\prime })\\in \\mathrm {Mor} \\,C}, ∀ a ∈ A {\\displaystyle \\forall a\\in A}, ∀ b ∈ B {\\displaystyle \\forall b\\in B} the following diagram commutes\n\nF (a, b, b) → η (a, b, c ′) G (a, c ′, c ′) η (a, b, c) ↓ G (1, h, 1) ↓ G (a, c, c) → G (1, 1, h) G (a, c, c ′) {\\displaystyle {\\begin{matrix}F(a,b,b)&\\xrightarrow {\\eta (a,b,c')} &G(a,c',c')\\\\_{\\eta (a,b,c)}\\downarrow \\qquad &&_{G(1,h,1)}\\downarrow \\qquad \\\\G(a,c,c)&\\xrightarrow {G(1,1,h)} &G(a,c,c')\\end{matrix}}}\n\nExtranatural transformations can be used to define wedges and thereby ends (dually co-wedges and co-ends), by setting F {\\displaystyle F} (dually G {\\displaystyle G}) constant.\n\nExtranatural transformations can be defined in terms of dinatural transformations, of which they are a special case.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1147520438",
+      "revision_id": "1147520438",
+      "text_sha256": "d0fbfc5592ff47dff14877700c9210ec51cce2a270e34acce94c553075f807f3",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:19:05.762042+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.71829080581665,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2464",
+    "title": "Britannica page 2464",
+    "corpus": "britannica",
+    "text": "<x_0.1875><y_0.0375>C A B ( 2 ) C A B<x_0.748><y_0.0563><class_Section-header>\n\n<x_0.0518><y_0.0602>which compole it a this cabbula is divided into three kinds, the gemartie, the uncommon, and the tenuta or themurah. The fifth whereof confits in taking the letters of a Hebrew word for ciphers or arithmetical numbers, and explaining every word by the arithmetic caling of the letters wherein it is composed. The fecond fort of cabbals, called notaricon, confits in takking every particular letter of a word for an entire edition; and the third, called themumafi, _I.e._ changes, confits in making different transfodions or changes of letters, placing one for the other, or one before the other.<x_0.4619><y_0.2297><class_Text>\n\n<x_0.0537><y_0.2313>Among the Christians likewise, a certain fort of magic is, by miflake, called cabbula, which confits in using improper certain puffages of ferripture for magic operations, or in forming magic characters or figures with flars and talifiments.<x_0.4609><y_0.3008><class_Text>\n\n<x_0.0547><y_0.3016>Some vitanaries, among the Jews, believe, that Jesus Christ through his miracles by virtue of the my-flerts of the cabbala.<x_0.46><y_0.3422><class_Text>\n\n<x_0.0381><y_0.343>CABBALLISTS, the Jewish doctors who profels the fluly of the cabbals.<x_0.459><y_0.3758><class_Text>\n\n<x_0.0527><y_0.3766>In the opinion of thefe men, there is not a word, letter, or accent in the law, without fome mystery in it. The Jies are divided into two general feels, the karaice, who refute to receive either tradition or the talmud, or any thing but the pure text of ferripture; and the rabbinills, or talmudits, who, befedes this, receive the traditions of the ancients, and follow the talmud.<x_0.4629><y_0.4813><class_Text>\n\n<x_0.0508><y_0.4836>The latter are again divided into two other fields; pure rabbinills, explain the ferripure, in its a rural feeling, by grammar, history, and traditions, and cabbullits, who, to difcover hidden mythical fenles, which, they foppefe God to have coached therein, make all of the cabbals, and the mythical methods at bove mentioned.<x_0.4639><y_0.5797><class_Text>\n\n<x_0.04><y_0.582>GABENIA, a professor name given to the finest films in the Half Indies, as she from Iow to so per order inferior to them are called barins. The Indian workmans endeavor to pafs them off one with the o-ther, far which reston, the more experienced European merchant take care to open the bales, and to examine all the flains one after another. The Dutch dhlfiguille two forms of cheeks, namely, the more ca-bets, and the common causes. The former is full at Amifterdam for about 215 fechellingen Elemith, and the other for about 184.<x_0.4648><y_0.7352><class_Text>\n\n<x_0.041><y_0.7359>CABENIA, a pre-town of Congo, in Africa, and fubied to the Portuguese: E. Long-129, and B. lat. 4.<x_0.4658><y_0.7641><class_Text>\n\n<x_0.043><y_0.7648>CABIDOS, or CAXIVOS, a long mesmer called at Goa, and in other places of the Rall India belonging to the Portuguele, no mesure fluffs, linens, Gv, and equal to 40 the Paris elt.<x_0.4668><y_0.8195><class_Text>\n\n<x_0.042><y_0.8203>CABIN, in the fea-language, a final room, or apartment, whereby there are a great many in fewelful parts of a flip, particularly on the quarter-deck, and on each side of the fleerage, for the officers of the flip to lie in.<x_0.4678><y_0.8898><class_Text>\n\n<x_0.0723><y_0.8906>The great cabin is the chief of ’all, and that which properly belongs to the captain, or chief commander.<x_0.4688><y_0.9211><class_Text>\n\n<x_0.4756><y_0.0594>CABINET, or CazBISY, the molt retired place in the finer part of a building, fet spart for writing, flu- dying, or preserving any thing that is precious.<x_0.8955><y_0.1039><class_Text>\n\n<x_0.4766><y_0.1047>A complete apartment conflicts of a hall, anti-cham- biz, chamber, and cobots, with a gallery on one files. Hence day, a number of paintings, curtains, ev. CAIBERT also denotes a piece of journer's workmanflap, being a kind of prels or cheft, with several doors and drawers.<x_0.8965><y_0.1859><class_Text>\n\n<x_0.4775><y_0.1875>There are common cabinets of oak or of chefnut, varnified cabbers of China and Japan, cabinets of in- leaf work, and fone of ebony, or the like force and precious woods.<x_0.8975><y_0.243><class_Text>\n\n<x_0.4785><y_0.2437>Formerly the Dutch and German cabinets were much allemented in France, but are now quite out of fibre, as well as the cabinets of ebony, which came from Venice.<x_0.8984><y_0.2992><class_Text>\n\n<x_0.4795><y_0.3>CABIRI, a term in the biology of the ancient Pagars, figuring great and powerful gods, being a name given to the gods of Samotbracia. They were allo worthipped in other parts of Greece, as Lemos and Thehees, where the cabinets were celebrated in honour of them; the fests go are laid to be, in number, four, viz. Axieros, Axiocerla, Axiocerfius, and Calinila.<x_0.8945><y_0.4102><class_Text>\n\n<x_0.4805><y_0.4117>CABIRI, fellirals in honour of the cabrii, celebrated in Thebes and Lemnos, but especially in Samotbra- cis, an island conferred to the cabin. All who were initiated into the welfare of the fests, gods, were fought to be featured thereby from florms at tea, and all other dangers. The economy of imitation was performed by placing the candidate, crowned with white-hemches, and grilled about the hons with a purple riband, on a kind of throne, about which the priets, and prisons before initiated, denoted.<x_0.8994><y_0.5523><class_Text>\n\n<x_0.4814><y_0.5531>CABILAN, the man of a kingdom and city of India, beyond the Ganges.<x_0.8936><y_0.5813><class_Text>\n\n<x_0.4824><y_0.5828>CABLE, a thick, large, frong rope, commonly of horn, which fever to keep a flap at anchor.<x_0.9004><y_0.6078><class_Text>\n\n<x_0.4834><y_0.6094>There is no merchant-thup, however weak, but has at half three cables; namely, the chief cable, or cable of the flies-anchor, a common cable, and a finaler on<y_0.6633><class_Text>\n\n<x_0.4844><y_0.6648>Cable is alfo fluid of ropes, which fever to nife heavy loads, by the help of Granatry pulling, and other engines. The name of cable is finally given to dish as have, at leal, three inches in diameter; thofe that are left as one only called ropes of different names, according to their site.<x_0.9014><y_0.7484><class_Text>\n\n<x_0.4854><y_0.7492>Every cable, of what thickness forever it be, is com-poded of three friends, every friend of three ropes; and every rope of three twiffs - the twill is made of more or leds thread, according as the cable is to bo thicker or thinner.<x_0.9023><y_0.8187><class_Text>\n\n<x_0.4863><y_0.818>In the manufacture of cables, after the ropes are made, they ufe flicks, which they pails frit between the ropes of which they make the lizards, and afterwards between the frants of which they make the cable, to the cell that they may all twill the better, and be more regularly wound together; and alfo, to prevent them from twinning or intangling, they hang.<x_0.9043><y_0.9195><class_Text>\n\n<x_0.8818><y_0.9203>az:<x_0.9033><y_0.9305><class_Page-footer>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "ca4563d6e384df719eaa01880d3377a6baf8c1433206faef512c45b6b77735c3",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:58:23.839607+00:00",
+    "parser_receipt_sha256": "2abe69fb870ad8c6b08e3340df262fc848a138eed130b594e2c7e6e5386ebdfe",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 673,
+      "occurred_at": "2026-10-18T18:18:56.192646+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 888,
+      "occurred_at": "2026-10-18T18:18:57.080584+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1001,
+      "occurred_at": "2026-10-18T18:18:58.110391+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1477,
+      "occurred_at": "2026-10-18T18:18:59.610004+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2042,
+      "occurred_at": "2026-10-18T18:19:01.681040+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2514,
+      "occurred_at": "2026-10-18T18:19:04.224582+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1508,
+      "occurred_at": "2026-10-18T18:19:05.762085+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 3270,
+      "occurred_at": "2026-10-18T18:19:09.063944+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 3503,
+      "occurred_at": "2026-10-18T18:19:12.595816+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 76,
+      "occurred_at": "2026-10-18T18:19:12.700478+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 6383,
+      "occurred_at": "2026-10-18T18:19:19.083338+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 570,
+      "occurred_at": "2026-10-18T18:19:19.662254+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 8,
+      "occurred_at": "2026-10-18T18:19:19.670011+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 3505,
+      "occurred_at": "2026-10-18T18:19:23.175396+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1005,
+    "modern_words": 572,
+    "vocabulary_jaccard": 0.048327137546468404,
+    "jensen_shannon_divergence": 0.7449171248473941,
+    "historical_top_words": [
+      [
+        "the",
+        90
+      ],
+      [
+        "of",
+        57
+      ],
+      [
+        "and",
+        38
+      ],
+      [
+        "a",
+        30
+      ],
+      [
+        "in",
+        27
+      ],
+      [
+        "to",
+        25
+      ],
+      [
+        "or",
+        22
+      ],
+      [
+        "is",
+        13
+      ],
+      [
+        "which",
+        12
+      ],
+      [
+        "are",
+        9
+      ],
+      [
+        "cable",
+        9
+      ],
+      [
+        "for",
+        8
+      ],
+      [
+        "other",
+        8
+      ],
+      [
+        "they",
+        8
+      ],
+      [
+        "at",
+        7
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "t",
+        112
+      ],
+      [
+        "a",
+        68
+      ],
+      [
+        "b",
+        57
+      ],
+      [
+        "c",
+        57
+      ],
+      [
+        "s",
+        20
+      ],
+      [
+        "the",
+        19
+      ],
+      [
+        "displaystyle",
+        17
+      ],
+      [
+        "tan",
+        16
+      ],
+      [
+        "of",
+        10
+      ],
+      [
+        "tfrac",
+        10
+      ],
+      [
+        "half",
+        9
+      ],
+      [
+        "cos",
+        8
+      ],
+      [
+        "aligned",
+        8
+      ],
+      [
+        "sin",
+        8
+      ],
+      [
+        "bigl",
+        8
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "c b",
+  "semantic_input": {
+    "query": "c b\nC A B ( 2 ) C A B\n\nwhich compole it a this cabbula is divided into three kinds, the gemartie, the uncommon, and the tenuta or themurah. The fifth whereof confits in taking the letters of a Hebrew word for ciphers or arithmetical numbers, and explaining every word by the arithmetic caling of the letters wherein it is composed. The fecond fort of cabbals, called notaricon, confits in takking every particular letter of a word for an entire edition; and the third, called themumafi, _I.e._ changes, confits in making different transfodions or changes of letters, placing one for the other, or one before the other.\n\nAmong the Christians likewise, a certain fort of magic is, by miflake, called cabbula, which confits in using improper certain puffages of ferripture for magic operations, or in forming magic characters or figures with flars and talifiments.\n\nSome vitanaries, among the Jews, believe, that Jesus Christ through his miracles by virtue of the my-flerts of the cabbala.\n\nCABBALLISTS, the",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.08729076385498047,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

@@ -1,0 +1,261 @@
+{
+  "status": "candidate",
+  "question": "HYDROSTATICS. Plate CCXXXIX.",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:527232",
+      "title": "Hydrostatics",
+      "corpus": "wikipedia",
+      "text": "Hydrostatics is the branch of fluid mechanics that studies fluids at hydrostatic equilibrium and \"the pressure in a fluid or exerted by a fluid on an immersed body\". The word \"hydrostatics\" is sometimes used to refer specifically to water and other liquids, but more often it includes both gases and liquids, whether compressible or incompressible. It encompasses the study of the conditions under which fluids are at rest in stable equilibrium. It is opposed to fluid dynamics, the study of fluids in motion.\n\nHydrostatics is fundamental to hydraulics, the engineering of equipment for storing, transporting and using fluids. It is also relevant to geophysics and astrophysics (for example, in understanding plate tectonics and the anomalies of the Earth's gravitational field), to meteorology, to medicine (in the context of blood pressure), and many other fields.\n\nHydrostatics offers physical explanations for many phenomena of everyday life, such as why atmospheric pressure changes with altitude, why wood and oil float on water, and why the surface of still water is always level according to the curvature of the earth.\n\nSome principles of hydrostatics have been known in an empirical and intuitive sense since antiquity, by the builders of boats, cisterns, aqueducts and fountains. Archimedes is credited with the discovery of Archimedes' Principle, which relates the buoyancy force on an object that is submerged in a fluid to the weight of fluid displaced by the object. The Roman engineer Vitruvius warned readers about lead pipes bursting under hydrostatic pressure.\n\nThe concept of pressure and the way it is transmitted by fluids was formulated by the French mathematician and philosopher Blaise Pascal in 1647.\n\nThe \"fair cup\" or Pythagorean cup, which dates from about the 6th century BC, is a hydraulic technology whose invention is credited to the Greek mathematician and geometer Pythagoras. It was used as a learning tool.\n\nThe cup consists of a line carved into the interior of the cup, and a small vertical pipe in the center of the cup that leads to the bottom. The height of this pipe is the same as the line carved into the interior of the cup. The cup may be filled to the line without any fluid passing into the pipe in the center of the cup. However, when the amount of fluid exceeds this fill line, fluid will overflow into the pipe in the center of the cup. Due to the drag that molecules exert on one another, the cup will be emptied.\n\nHeron's fountain is a device invented by Heron of Alexandria that consists of a jet of fluid being fed by a reservoir of fluid. The fountain is constructed in such a way that the height of the jet exceeds the height of the fluid in the reservoir, apparently in violation of principles of hydrostatic pressure. The device consisted of an opening and two containers arranged one above the other. The intermediate pot, which was sealed, was filled with fluid, and several cannula (a small tube for transferring fluid between vessels) connecting the various vessels. Trapped air inside the vessels induces a jet of water out of a nozzle, emptying all water from the intermediate reservoir.\n\nPascal made contributions to developments in both hydrostatics and hydrodynamics. Pascal's law is a fundamental principle of fluid mechanics that states that any pressure applied to the surface of a fluid is transmitted uniformly throughout the fluid in all directions, in such a way that initial variations in pressure are not changed.\n\nLiquids can have free surfaces at which they interface with gases, or with a vacuum. In general, the lack of the ability to sustain a shear stress entails that free surfaces rapidly adjust towards an equilibrium. However, on small length scales, there is an important balancing force from surface tension.\n\nWhen liquids are constrained in vessels whose dimensions are small, compared to the relevant length scales, surface tension effects become important leading to the formation of a meniscus through capillary action. This capillary action has profound consequences for biological systems as it is part of one of the two driving mechanisms of the flow of water in plant xylem, the transpirational pull.\n\nWithout surface tension, drops would not be able to form. The dimensions and stability of drops are determined by surface tension. The drop's surface tension is directly proportional to the cohesion property of the fluid.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1334920169",
+      "revision_id": "1334920169",
+      "text_sha256": "5c1476fceb9f9765976def5f15e741e01926bce4ab35fa8107bfc2451303d9d9",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:44:24.138912+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.4936349391937256,
+      "vector_distance": 0.6362208127975464,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:33926140",
+      "title": "Hydrostatic seal",
+      "corpus": "wikipedia",
+      "text": "A hydrostatic seal is a non-contacting mechanical seal that operates under an equilibrium of forces. Unlike traditional hydrodynamic seals, hydrostatic seals have two different pressure zones that are used to establish a balanced pressure zone between two seal faces. The two-pressure system makes the seal unique because typical mechanical seals have one pressure zone that created causes a buildup of pressure that will eventually cause the seal to malfunction. After pressure has come to an equilibrium at the seal face, an incompressible fluid is then released between the two seal faces. The fluid creates a film around the seal face that acts as a lubricant and as a medium for the substance flowing through the seal. Hydrostatic seals have been used in the aircraft industry; however they have seen very little commercial use because there is minimal research about the seals.\n\nOnce pressure is applied and the seal comes together, a viscous liquid is released between the two seal faces and a thin film is formed to help create an airtight seal. If the amount of pressure inside of the seal is increased and there is an excess of pressure between the face plates, the two faces move apart and the seal begins to open. On the contrary, if the pressure is dropped and there is not enough pressure within the seal, the two seal faces come together and the hydrostatic seal begins to form. The flow rate of the system can also be controlled with great accuracy by limiting the amount of pressure within the seal. Pressure zones can be changed to create an equilibrium within the system that would allow less leakage in the overall system.\n\nThe seals dual pressure zone helps maintain a constant pressure zone within the system. The constant pressure stabilizes the seal and does not allow the two seal faces to come in contact. There are face control grooves on both of seal faces that stabilize each face in the axial direction. The slightest axial movement will cause the two seal faces to touch and erosion of the seal will begin to occur.\n\nThe rear face plate consists of a small opening that houses the injection system, which feeds the incompressible fluids through the system. Once the fluid is inside the seal, it forms a thin film around the entire inner system. After creating the film, the fluids then flow out of the seal and on to the rear face plate, which cools the system and prevents any excess heat from building up. This fluid cycle is continuously repeated while the seal is in operation.\n\nHydrostatic seals were first developed in the early 1960s to control the sealing of compressor air in the aircraft industry. Recently hydrostatic seals have only been used in the compressor industry because hydrodynamic seals have much greater application. The hydrostatic seal also has great potential in the chemical industry since it can be used to transport and seal chemicals. However, the chemical industry has set very strict regulations and the seal cannot be used for certain chemicals because of the constant seal leakage.\n\nThe first hydrostatic seal was developed to replace current hydrodynamic seals; previous hydrodynamic seals were costly to manufacture and were tedious to assemble. First generation hydrostatic seals used a two pressure system to establish equilibrium at the seal face. The seal face was developed to work under high pressure conditions, however the seal face began to warp and deteriorate during stress tests. Once ammonia (the liquid used in the first hydrostatic seal) was added, the two seal faces would make contact with each other and begin the erosion process. Cold water was then tested as the incompressible fluid, it has double the viscosity as ammonia, which showed favorable results. Since cold water had double the viscosity of ammonia, the water prevented the seals from making contact with each other, thus causing the system to run properly.\n\n- High pressure conditions\n\n- recycles fluid in a continuous cycle, may have stagnant fluids which cause blockage\n\n- Seal faces began to erode under certain circumstances\n\nThe second hydrostatic seal was an attempt to resolve first generation hydrostatic seal problems: erosion of seals, high pressure build up, and stagnant fluids. Second generation hydrostatic seals had a redesigned seal face; new face control grooves were added to help stabilize the seals while under extreme conditions. Prior to the face control grooves, the seal faces were not balanced and would begin to move under high pressure conditions. Due to the movement, the seal faces would become misaligned when the seals moved, and that caused the seal faces to deteriorate, resulting in an unusable seal.\n\n- attempt to fix warping caused by system error\n\n- added face control grooves to prevent any erosion of seal faces\n\n- resolved any areas where fluid remains stagnant and cause blockage\n\nHydrostatic seals should last multiple years without any deterioration to its components due to its overall structure. There should not be any contact between the two seal faces or else the condition of the seal will begin to deteriorate. Current Hydrodynamic seals begin to deteriorate over time because the two faces are always in contact with each other.\n\nIn addition, any misalignment of the seal faces will cause them to rub which will begin to morph the seal faces and eventually cause the entire seal to become structurally unstable. Izchak Etsion, a researcher at the Lewis Research Center, conducted an experiment to test what happens to a hydrostatic seal when its faces are misaligned. Etsion discovered that high pressures directed towards the outer face of the seal would cause static instability, while high pressure on the inner face of the seal would cause the seal to become more stable. In addition, axial misalignment would also cause the horizontal shaft to shift in the vertical direction; this misalignment would result in a faulty seal if the restoring force is not great enough to correct the shift in components.\n\nThe structure of the seal brings up the problem of leakage within the system. Since there is always a minuscule gap between two parts, there is always the problem of leakage, however the system’s structure allows leakage to be controlled to a very precise level.\n\nAnother problem that arises about hydrostatic seals is that excess leakage may eventually lead to erosion of the seal’s structure. Due to the axially rotating face seal, any excess leakage will have a high fluid velocity which can erode away at the face plates, eventually leading to a faulty seal.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1227944140",
+      "revision_id": "1227944140",
+      "text_sha256": "027b92c1c9c30d0f2d21e514c05b09e6448dec59dd531c13b3827c75fc6a37f8",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:44:21.251185+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.091378688812256,
+      "vector_distance": 0.7923687696456909,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:533618",
+      "title": "Hydrostatic skeleton",
+      "corpus": "wikipedia",
+      "text": "A hydrostatic skeleton or hydroskeleton is a type of skeleton supported by hydrostatic fluid pressure or liquid, common among soft-bodied invertebrate animals colloquially referred to as \" worms \". While more advanced organisms can be considered hydrostatic, they are sometimes referred to as hydrostatic for their possession of a hydrostatic organ instead of a hydrostatic skeleton, where the two may have the same capabilities but are not the same. As the prefix hydro- meaning \"water\", being hydrostatic means being fluid-filled.\n\nAs a skeletal structure, a hydroskeleton possesses the ability to affect shape and movement, and involves two mechanical units: the muscle layers and the body wall. The muscular layers are longitudinal and circular, and part of the fluid-filled coelom within. Contractions of the circular muscles lengthen the organism's body, while contractions of the longitudinal muscles shorten the organism's body. Fluid within the organism is evenly concentrated so the forces of the muscle are spread throughout the whole organism and shape changes can persist. These structural factors also persist in a hydrostatic organ.\n\nA non-helical hydrostatic skeleton structure is the functional basis of the mammalian penis, which fills the corpus cavernosa with blood to maintain physical rigidity during coitus. Helically reinforced hydrostatic skeleton structure is typical for flexible structures as in soft-bodied animals.\n\nHydrostatic skeletons are typically arranged in a cylinder. Hydrostatic skeletons can be controlled by several different muscle types. Length can be adjusted by longitudinal muscle fibers parallel to the longitudinal axis. The muscle fibers may be found in continuous sheets or isolated bundles, and the diameter can be manipulated by three different muscle types: circular, radial, and transverse. Circular musculature wraps around the circumference of the cylinder, radial musculature extends from the center of the cylinder towards the surface, and transverse musculature arrange in parallel and perpendicular sheets crossing the diameter of the cylinder.\n\nWithin the cylinder lies fluid, most often water. The fluid is resistant to changes in volume. Contraction of circular, radial or transverse muscles increases the pressure within the cylinder, and results in an increase in length. Contraction of longitudinal muscles can shorten the cylinder.\n\nChange in shape is limited by connective tissue fibers. Connective fibers, often collagenous, are arranged in a helical shape within the wall of the hydrostatic skeleton. The helical shape formed by these fibers allows for elongation and shortening of the skeleton, while still remaining rigid to prevent torsion. As the shape of the cylinder changes, the pitch of the helix will change. The angle relative to the long axis will decrease during elongation and increase during shortening.\n\nOrganisms containing a hydrostatic skeleton have advantages and disadvantages. Their fluid shape allows them to move around easily while swimming and burrowing. They can fit through oddly shaped passages and hide themselves more effectively from predators. They are able to create a force when squeezing through rocks and create a “prying open” gesture. There is a lightweight, flexible component to them that allows this movement with very little muscle mass.\n\nThese organisms are also able to heal faster than organisms that contain hard skeletons. Healing in these organisms varies from creature to creature. However, if the cavity needs to be refilled, the “fluid” can easily be refilled if it is water or blood. If the fluid is some other type of liquid, it can take longer, but it is still faster than healing a bone. The common earthworm is also able to regrow damaged parts of its body.\n\nThese organisms have some relatively simple pathways for circulation and respiration. Also, these organisms have a cushion to allow protection for internal organs from shock. However, it does not protect internal organs from external damage very effectively.\n\nBecause the hydrostatic skeletons have limited ability for attachment of limbs, the organisms are relatively simple and do not have many abilities to grab or latch onto things. Organisms with complete hydrostatic skeletons need to be in an environment that allows them to re-fill themselves with their fluid that is necessary for survival. This is why hydrostatic skeletons are common in marine life. They have a large amount of access to the necessary elements for survival. Terrestrial organisms that have hydrostatic skeletons generally have a lack of strength because they are not in a fluid environment. If one were to expand its body too much, it would collapse under its own weight.\n\nHydrostatic skeletons are very common in invertebrates. A common example is the earthworm. Also, hydrostatic nature is common in marine life such as jellyfish and sea anemones. Earthworms have rings of muscles that are filled with fluid, making their entire body hydrostatic. A sea anemone has a hydrostatic head, with arms radiating out around the mouth. This structure is helpful in feeding and locomotion.\n\nAn example of a simple Deuterostome containing a hydrostatic skeleton would be Enteropneusta, with the common name of acorn worm. This organism is classified as a Hemichordate, and they are marine worms that use their hydrostatic skeleton to tunnel and anchor themselves into the ground. This can be used for locomotion, but also can aid in the defense of the organism against outside forces as the worm can try to \"hide\" itself within the ocean floor.\n\nThe mammalian penis is a hydrostatic organ. The hydrostatic fluid, in this case blood, fills the penis during an erection. Unlike the hydrostatic skeletons of many invertebrates, which use the bending of the animal for locomotion, the penis must resist bending and shape changes during sexual intercourse. Instead of connective fibers arranged in a helical shape, the penis contains a layer called the corpus cavernosum. The corpus cavernosum contains connective fibers arranged both parallel and perpendicular to the longitudinal axis. These fibers remain folded when the penis is flaccid, but unfold as the penis fills with blood during an erection, which allows the penis to resist bending. The penises of turtles are structured similarly, although they evolved separately.\n\nCaecilians possess a hydrostatic skeleton used for both maintaining body posture and for generating extra force during burrowing. Other vertebrates sometimes utilize a version of the hydrostatic skeleton called a muscular hydrostat. Muscular hydrostats do not contain a fluid-filled cavity. These structures are constructed of muscle and connective fibers, densely packed into a 3-D structure. In many cases, the muscular hydrostat can be manipulated in all three dimensions. This allows for more precise movement compared to a typical hydrostatic skeleton. While in typical hydrostatic skeletons, movement is generated by applying force to a fluid-filled cavity, muscular hydrostats generate movement by muscle contractions. When one muscle contracts and decreases in area, other muscles within the structure must expand in response. Helical muscles may be present, which can create torsion, an ability that is restricted in hydrostatic skeletons. Muscular hydrostats are found in mammalian, reptilian, and amphibian tongues. Mammalian tongues have the structure of a central core of muscle fibers surrounded by bundles of longitudinal muscles and alternating parallel sheets of transverse muscle fibers. Elephant trunks and tapir proboscises also utilize a muscular hydrostat. These structures are composed of longitudinal fibers surrounded by radial and helical fibers.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1338889509",
+      "revision_id": "1338889509",
+      "text_sha256": "7e96bfb6e27f4068ecc966ad166068a61cf5a6478a232b918600b004b2180295",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:46:29.706246+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.025054931640625,
+      "vector_distance": 0.8104721307754517,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:270",
+    "title": "Britannica page 270",
+    "corpus": "britannica",
+    "text": "<x_0.0><y_0.0>HYDROSTATICS. Plate CCXXXIX.<x_0.998><y_0.9984><class_Picture>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "4538f79fae86199fbed5478e3fbfe4b5e18be7e3e5fd6fe441a183c0ac76c540",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:50:09.418034+00:00",
+    "parser_receipt_sha256": "e374ef8e5925881797f6623c0acf960a44b1adabcab6a025ccbe62fd8f23fe16",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 475,
+      "occurred_at": "2026-10-18T17:44:20.614797+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 636,
+      "occurred_at": "2026-10-18T17:44:21.251207+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2878,
+      "occurred_at": "2026-10-18T17:44:24.138961+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "failed",
+      "duration_ms": 122743,
+      "error": "http: ReadTimeout",
+      "occurred_at": "2026-10-18T17:46:26.905237+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2128,
+      "occurred_at": "2026-10-18T17:46:29.033573+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 651,
+      "occurred_at": "2026-10-18T17:46:29.706296+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 540,
+      "occurred_at": "2026-10-18T17:46:30.264704+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 555,
+      "occurred_at": "2026-10-18T17:46:30.836985+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 561,
+      "occurred_at": "2026-10-18T17:46:31.415220+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 28,
+      "occurred_at": "2026-10-18T17:46:31.455086+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 887,
+      "occurred_at": "2026-10-18T17:46:32.342260+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 149,
+      "occurred_at": "2026-10-18T17:46:32.497413+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 5,
+      "occurred_at": "2026-10-18T17:46:32.502575+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 210,
+      "occurred_at": "2026-10-18T17:46:32.712798+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 3,
+    "modern_words": 727,
+    "vocabulary_jaccard": 0.006493506493506494,
+    "jensen_shannon_divergence": 0.9655128659426027,
+    "historical_top_words": [
+      [
+        "hydrostatics",
+        1
+      ],
+      [
+        "plate",
+        1
+      ],
+      [
+        "ccxxxix",
+        1
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "the",
+        72
+      ],
+      [
+        "of",
+        43
+      ],
+      [
+        "in",
+        21
+      ],
+      [
+        "a",
+        20
+      ],
+      [
+        "to",
+        20
+      ],
+      [
+        "is",
+        19
+      ],
+      [
+        "and",
+        19
+      ],
+      [
+        "fluid",
+        18
+      ],
+      [
+        "that",
+        10
+      ],
+      [
+        "cup",
+        10
+      ],
+      [
+        "pressure",
+        8
+      ],
+      [
+        "by",
+        8
+      ],
+      [
+        "it",
+        7
+      ],
+      [
+        "surface",
+        7
+      ],
+      [
+        "hydrostatics",
+        6
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "http: ReadTimeout",
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending."
+  ],
+  "candidate_query": "hydrostatics plate ccxxxix",
+  "semantic_input": {
+    "query": "hydrostatics plate ccxxxix\nHYDROSTATICS. Plate CCXXXIX.",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 1.5977437496185303,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "**C O M ( 255 ) C O M**",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:57053633",
+      "title": "List of Achilidae genera",
+      "corpus": "wikipedia",
+      "text": "This is a list of 161 genera in the family Achilidae, achilid planthoppers.\n\nAbas c g\n\nAchilla c g\n\nAchilus c g\n\nAcixiites c g\n\nAcocarinus c g\n\nAcus c g\n\nAfrachilus c g\n\nAgandecca c g\n\nAkotropis c g\n\nAlticeps c g\n\nAmblycratus c g\n\nAmphignoma c g\n\nAnabunda c g\n\nAneipo c g\n\n† Angustachilus c g\n\nApateson c g\n\nAphypia c g\n\nArgeleusa c g\n\nAristyllis c g\n\nBallomarius c g\n\nBathycephala c g\n\nBenella c g\n\nBetatropis c g\n\nBooneta c g\n\nBrachypyrrhyllis c g\n\nBunduica c g\n\nCaffropyrrhyllis c g\n\nCalerda c g\n\nCallichlamys c g\n\nCallinesia c g\n\nCaristianus c g\n\nCatonia Uhler, 1895 c g b\n\nCatonidia c g\n\nCatonoides c g\n\nCenophron c g\n\nCernea c g\n\nChroneba c g\n\nCionoderella c g\n\nCixidia Fieber, 1866 c g b\n\nClidonisma c g\n\nClusivius c g\n\nCnidus c g\n\nCocottea c g\n\nCythna c g\n\nDeferunda c g\n\nDipsiathus c g\n\nElidiptera c g\n\nEmeljanocarinus c g\n\nEpiona c g\n\nEpiptera b\n\nEpirama c g\n\nEpiusana c g\n\nEpiusanella c g\n\nErrada c g\n\nErrotasa c g\n\nEudeferunda c g\n\nEurynomella c g\n\nEurynomeus c g\n\nFaventilla c g\n\nFlatachilus c g\n\nFrancesca c g\n\nGanachilla c g\n\nGongistes c g\n\nGordiacea c g\n\nHaicixidia c g\n\nHaitiana c g\n\nHamba c g\n\nHebrotasa c g\n\nHemiplectoderes c g\n\nHooleya c g\n\nHorcomotes c g\n\nIlva c g\n\nIndorupex c g\n\nIsodaemon c g\n\nJuniperthia O'Brien, 1985 c g b\n\nKardopocephalus c g\n\nKatbergella c g\n\nKawanda c g\n\nKawandella c g\n\nKempiana c g\n\nKoloptera c g\n\nKosalya c g\n\nKurandella c g\n\nLanuvia c g\n\nLeptarciella c g\n\nMabira c g\n\nMagadha c g\n\nMagadhaideus c\n\nMahuna c g\n\nMartorella c g\n\nMaurisca c g\n\nMesseis c g\n\nMetaphradmon c g\n\nMlanjella c g\n\nMomar Fennah, 1950 c g b\n\nMoraballia c g\n\nMycarinus c g\n\nMycarus c g\n\nMyconellus c g\n\nMyconus c g\n\nMyrophenges c g\n\nNelidia c g\n\nNephelesia c g\n\nNephelia c g\n\nNiryasaburnia c g\n\nNyonga c g\n\nOlmiana c g\n\nOpsiplanon Fennah, 1945 c g b\n\nOuwea c g\n\nParabunda c g\n\nParacatonia c g\n\nParacatonidia c g\n\nParaclusivius c g\n\nParagandecca c g\n\nParakosalya c g\n\nParaphradmon c g\n\nParaphypia c g\n\nParargeleusa c g\n\nParasabecoides c g\n\nParatangia c g\n\nParatesum c g\n\nParelidiptera c g\n\nPhenelia c g\n\nPhradmonicus c g\n\nPhypia c g\n\nPlectoderes c g\n\nPlectoderoides c g\n\nPlectoringa c g\n\nPrinoessa c g\n\nProsagandecca c g\n\nProtepiptera c g\n\nProtomenocria c g\n\nPseudhelicoptera c g\n\nPsycheona c g\n\nPyrrhyllis c g\n\nQuadrana c g\n\nRemosachilus c g\n\nRhinochloris c g\n\nRhinocolura c g\n\nRhotala c g\n\nRhotaloides c g\n\nRidesa c g\n\nRupex c g\n\nSabecoides c g\n\nSalemina c g\n\nSemibetatropis c g\n\nSevia c g\n\nSpino c g\n\nSymplegadella c g\n\nSynecdoche O'Brien, 1971 c g b\n\nTaloka c g\n\nTangina c g\n\nTaractellus c g\n\nThectoceps c g\n\nTropiphlepsia c g\n\nUniptera c g\n\nUsana c g\n\nWaghilde c g\n\nWilliamsus c g\n\nXerbus c g\n\nZathauma c g\n\nData sources: i = ITIS, c = Catalogue of Life, g = GBIF, b = Bugguide.net",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1334552731",
+      "revision_id": "1334552731",
+      "text_sha256": "c8ee4faacfc1eacd3ba8639ff25bd793dca4432bf66c0f930b34594d4ebd0f47",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:18:40.568670+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.553001403808594,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:57279534",
+      "title": "List of Diapheromeridae genera",
+      "corpus": "wikipedia",
+      "text": "This is a list of 166 genera in Diapheromeridae, a family of walkingsticks in the order Phasmatodea.\n\nAcacus c g\n\nAcanthoderus c g\n\nAcanthophasma c g\n\nAdelungella c g\n\nAlienobostra c g\n\nAnarchodes c g\n\nAnasceles c g\n\nAndropromachus c g\n\nAsceles c g\n\nAschiphasmodes c g\n\nAsteliaphasma c g\n\nAsystata c g\n\nAustrosipyloidea c g\n\nBacteria c g\n\nBactricia c g\n\nBactrododema c g\n\nBostra c g\n\nBrevinecroscia c g\n\nBrockphasma c g\n\nBurria c g\n\nCalvisia c g\n\nCalynda c g\n\nCandovia c g\n\nCapuyanus c g\n\nCaribbiopheromera c g\n\nCaudasceles c g\n\nCentrophasma c g\n\nChannia c g\n\nCharmides c g\n\nCheniphasma c g\n\nClonaria c g\n\nClonistria c g\n\nCornicandovia c g\n\nDematobactron c g\n\nDiacanthoidea c g\n\nDiangelus c g\n\nDiapheromera Gray, 1835 i c g b\n\nDiardia c g\n\nDiesbachia c g\n\nDubiophasma c g\n\nDyme c g\n\nEurynecroscia c g\n\nExocnophila c g\n\nGalactea c g\n\nGargantuoidea c g\n\nGharianus c g\n\nGlobocalynda c g\n\nGlobocrania c g\n\nGratidiinilobus c g\n\nHemipachymorpha c g\n\nHemiplasta c g\n\nHemisosibia c g\n\nHennemannia c g\n\nHuananphasma c g\n\nLabanphasma c g\n\nLaciniobethra c g\n\nLaciphorus c g\n\nLadakhomorpha c g\n\nLaevediacantha c g\n\nLamachodes c g\n\nLeptynia c g\n\nLibethra c g\n\nLibethroidea c g\n\nLinocerus c g\n\nLitosermyle c g\n\nLobolibethra c g\n\nLobonecroscia c g\n\nLopaphus c g\n\nLoxopsis c g\n\nMacellina c g\n\nMacrocercius c g\n\nMaculonecroscia c g\n\nMalandella c g\n\nManomera Rehn & Hebard, 1907 i c g b\n\nMaransis c g\n\nMarmessoidea c g\n\nMegaphasma Caudell, 1903 i c g b\n\nMeionecroscia c g\n\nMesaner c g\n\nMicadina c g\n\nMicrarchus c g\n\nMiniphasma c g\n\nMoritasgus c g\n\nNanolibethra c g\n\nNecroscia c g\n\nNeoasceles c g\n\nNeoclides c g\n\nNeohirasea c g\n\nNeonescicroa c g\n\nNeoqiongphasma c g\n\nNeososibia c g\n\nNiveaphasma c g\n\nNotaspinius c g\n\nOcnophila c g\n\nOcnophiloidea c g\n\nOncotophasma c g\n\nOreophoetes c g\n\nOreophoetophasma c g\n\nOrthonecroscia c g\n\nOrthostheneboea c g\n\nOrxines c g\n\nOtraleus c g\n\nOvacephala c g\n\nOxyartes c g\n\nPachymorpha c g\n\nPachyscia c g\n\nParabacillus Caudell, 1903 i c g\n\nParacalynda c g\n\nParaclonistria c g\n\nParadiacantha c g\n\nParagongylopus c g\n\nParaloxopsis c g\n\nParamenexenus c g\n\nParanecroscia c g\n\nParaphanocles c g\n\nParaprosceles c g\n\nParasinophasma c g\n\nParasipyloidea c g\n\nParasosibia c g\n\nParastheneboea c g\n\nParocnophila c g\n\nParoxyartes c g\n\nPhaenopharos c g\n\nPhamartes c g\n\nPhanocles c g\n\nPhanoclocrania c g\n\nPhanocloidea c g\n\nPhantasca c g\n\nPhthoa c g\n\nPijnackeria c g\n\nPlanososibia c g\n\nPlatysosibia c g\n\nPomposa c g\n\nPseudobactricia c g\n\nPseudocentema c g\n\nPseudoclonistria c g\n\nPseudodiacantha c g\n\nPseudoneoclides c g\n\nPseudoparamenexenus c g\n\nPseudopromachus c g\n\nPseudosermyle Caudell, 1903 i c g b\n\nPterolibethra c g\n\nQiongphasma c g\n\nRhamphosipyloidea c g\n\nSabahphasma c g\n\nSceptrophasma c g\n\nScionecra c g\n\nSeptopenna c g\n\nSermyle Stål, 1875 i c g b\n\nSingaporoidea c g\n\nSinophasma c g\n\nSipyloidea c g\n\nSosibia c g\n\nSpinohirasea c g\n\nSpinopeplus c g\n\nSpinosipyloidea c g\n\nSpinotectarchus c g\n\nSyringodes c g\n\nTagesoidea c g\n\nTectarchus c g\n\nThrasyllus c g\n\nTrachythorax c g\n\nTrychopeplus c g\n\nVarieganecroscia c g\n\nZangphasma c g\n\nZehntneria c g\n\nData sources: i = ITIS, c = Catalogue of Life, g = GBIF, b = Bugguide.net",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1240434733",
+      "revision_id": "1240434733",
+      "text_sha256": "8978a9f596d766789dc7b759e6809a9705045710c120de582aff21657f737b69",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:18:37.189522+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.714068412780762,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:29686909",
+      "title": "List of Coleophora species",
+      "corpus": "wikipedia",
+      "text": "This is a list of all Coleophora species. Coleophora is a very large genus of moths of the family Coleophoridae. It contains some 1,350 described species. The genus is represented on all continents, but the majority are found in the Nearctic and Palaearctic regions. Many authors have tried splitting the genus into numerous smaller ones, but most of these have not become widely accepted.\n\nSpecies placed (at least provisionally) in Coleophora include: A B C D E F G H I J K L M N O P Q R S T U V U W X Y Z\n\nC. abbasella\n\nC. absinthii\n\nC. absinthivora\n\nC. acamtopappi\n\nC. acanthabortiva\n\nC. acanthophylli\n\nC. acanthyllidis\n\nC. accadica\n\nC. accola\n\nC. accordella\n\nC. acerosa\n\nC. achaenivora\n\nC. achilleae\n\nC. acmura\n\nC. acompha\n\nC. acrisella\n\nC. aculeata\n\nC. acuminatoides\n\nC. acutipennella\n\nC. acutiphaga\n\nC. adalligata\n\nC. adelogrammella\n\nC. adelpha\n\nC. adilella\n\nC. adjectella\n\nC. adjunctella\n\nC. adlecta\n\nC. adrianae\n\nC. adspersella\n\nC. adumbratella\n\nC. aegra\n\nC. aegyptiacae\n\nC. aelleniae\n\nC. aeneostrigella\n\nC. aenusella\n\nC. aequalella\n\nC. aequigesa\n\nC. aervae\n\nC. aestuariella\n\nC. aethiops\n\nC. affiliatella\n\nC. afghana\n\nC. afrohispana\n\nC. afrosarda\n\nC. afrotropicalis\n\nC. agadirensis\n\nC. agasta\n\nC. agathella\n\nC. agenjoi\n\nC. agilis\n\nC. aglabitella\n\nC. agnatella\n\nC. agnosa\n\nC. agrianella\n\nC. agridensis\n\nC. ahenella\n\nC. alabama\n\nC. alabardata\n\nC. alashiae\n\nC. albacostella\n\nC. albadomina\n\nC. albarracinica\n\nC. albella\n\nC. albens\n\nC. albicans\n\nC. albicella\n\nC. albicilia\n\nC. albicinctella\n\nC. albicosta\n\nC. albicostella\n\nC. albidella\n\nC. albidorsella\n\nC. albilineella\n\nC. albiochrella\n\nC. albipennella\n\nC. albiradiata\n\nC. albitarsella\n\nC. albostraminata\n\nC. albotitae\n\nC. albovanescens\n\nC. albulae\n\nC. alcyonipennella\n\nC. alecturella\n\nC. aleramica\n\nC. alfacarensis\n\nC. algeriensis\n\nC. algidella\n\nC. alhamaella\n\nC. aliena\n\nC. aliquanta\n\nC. almeriensis\n\nC. alniella\n\nC. alnifoliae\n\nC. alphitonella\n\nC. altaicolella\n\nC. alticolella\n\nC. alticorollina\n\nC. altivagella\n\nC. amarchana\n\nC. amasicola\n\nC. amasiella\n\nC. amellivora\n\nC. amentastra\n\nC. amethystinella\n\nC. amiculella\n\nC. amikanella\n\nC. ammodyta\n\nC. ammophora\n\nC. amphorella\n\nC. amseliella\n\nC. amygdalina\n\nC. anabaseos\n\nC. anatipennella\n\nC. ancistron\n\nC. anelpista\n\nC. anguliferella\n\nC. angustiorella\n\nC. angustipennis\n\nC. anisota\n\nC. anitella\n\nC. annulicola\n\nC. antennariella\n\nC. anthocalia\n\nC. aphanombra\n\nC. aphrocrossa\n\nC. apicialbella\n\nC. apicidentata\n\nC. aporiella\n\nC. apta\n\nC. apythana\n\nC. aquaecadentis\n\nC. arachnias\n\nC. arachosiae\n\nC. arctostaphyli\n\nC. ardesicola\n\nC. arefactella\n\nC. arenbergerella\n\nC. arenicola\n\nC. arenifera\n\nC. areniphila\n\nC. arens\n\nC. argentella\n\nC. argenteonivea\n\nC. argentialbella\n\nC. argentifimbriata\n\nC. argentinae\n\nC. argentula\n\nC. argopleura\n\nC. argyrella\n\nC. arizoniella\n\nC. arkaimella\n\nC. armeniae\n\nC. arta\n\nC. artemisicolella\n\nC. asiaeminoris\n\nC. asirensis\n\nC. asperginella\n\nC. assyriae\n\nC. astericola\n\nC. asteris\n\nC. asterophagella\n\nC. asterosella\n\nC. asthenella\n\nC. astragalella\n\nC. astragalorum\n\nC. atlanti\n\nC. atrilineella\n\nC. atriplicis\n\nC. atriplicivora\n\nC. atromarginata\n\nC. attalicella\n\nC. audeoudi\n\nC. aularia\n\nC. auricella\n\nC. austrina\n\nC. autumnella\n\nC. azishtella\n\nC. azyma\n\nC. bactrianae\n\nC. badiipennella\n\nC. bagorella\n\nC. baischi\n\nC. bajkalella\n\nC. balkara\n\nC. ballotella\n\nC. bandiamirella\n\nC. bantuella\n\nC. barbaricina\n\nC. basimaculella\n\nC. basistrigella\n\nC. bassii\n\nC. batangica\n\nC. bazae\n\nC. bedella\n\nC. beduina\n\nC. bella\n\nC. benestrigatella\n\nC. berbera\n\nC. berdjanski\n\nC. berlandella\n\nC. beticella\n\nC. betulella\n\nC. bidens\n\nC. bidentella\n\nC. biforis\n\nC. bifrondella\n\nC. bifurca\n\nC. bifurcella\n\nC. bihastulifera\n\nC. bilineatella\n\nC. bilineella\n\nC. biminimmaculella\n\nC. binderella\n\nC. binotapennella\n\nC. bipunctella\n\nC. biseriatella\n\nC. biskraensis\n\nC. bispinatella\n\nC. bistrigella\n\nC. bitlisella\n\nC. bivittella\n\nC. bogdoensis\n\nC. bojalyshi\n\nC. borea\n\nC. boreella\n\nC. bornicensis\n\nC. botaurella\n\nC. brandbergella\n\nC. brevipalpella\n\nC. breviuscula\n\nC. breyeri\n\nC. brunneipennis\n\nC. brunneosignata\n\nC. buettikeri\n\nC. bulganella\n\nC. burhinella\n\nC. burmanni\n\nC. buteella\n\nC. byrsostola\n\nC. cadella\n\nC. caelebipennella\n\nC. caespititiella\n\nC. caganella\n\nC. calandrella\n\nC. calida\n\nC. calligoni\n\nC. callipepla\n\nC. calycotomella\n\nC. campella\n\nC. campestriphaga\n\nC. canadensisella\n\nC. canariipennella\n\nC. capella\n\nC. capillata\n\nC. capitargentella\n\nC. cappadociae\n\nC. capricornis\n\nC. captiosa\n\nC. caradjai\n\nC. caraganae\n\nC. carchara\n\nC. carelica\n\nC. carmaniae\n\nC. caroxyli\n\nC. cartilaginella\n\nC. castalia\n\nC. caucasica\n\nC. cavillosa\n\nC. cecidophorella\n\nC. celsa\n\nC. centaureivora\n\nC. centralis\n\nC. centrota\n\nC. ceratoidis\n\nC. cercidiphyllella\n\nC. certhiella\n\nC. cervinella\n\nC. chalcogrammella\n\nC. chalepa\n\nC. chamaedriella\n\nC. chambersella\n\nC. changaica\n\nC. charadriella\n\nC. charistis\n\nC. chenopodii\n\nC. cherasforella\n\nC. chiclanensis\n\nC. chordoscelis\n\nC. chotticola\n\nC. chretieni\n\nC. chretieniella\n\nC. christenseni\n\nC. chrysanthemi\n\nC. chumanensis\n\nC. ciconiella\n\nC. ciliataephaga\n\nC. cinclella\n\nC. cinerea\n\nC. cirsiella\n\nC. cisoriella\n\nC. citrarga\n\nC. climacopterae\n\nC. clypeiferella\n\nC. cnossiaca\n\nC. coarctataephaga\n\nC. cochleata\n\nC. coenosipennella\n\nC. cogitata\n\nC. coliella\n\nC. colutella\n\nC. comata\n\nC. comperta\n\nC. comptoniella\n\nC. concolorella\n\nC. confluella\n\nC. confusa\n\nC. congeriella\n\nC. conspersa\n\nC. conspicuella\n\nC. consumpta\n\nC. contrariella\n\nC. conyzae\n\nC. coracipennella\n\nC. coriacea\n\nC. cormicola\n\nC. cornella\n\nC. cornivorella\n\nC. cornutella\n\nC. coronata\n\nC. coronillae\n\nC. corsicella\n\nC. corticosa\n\nC. corylifoliella\n\nC. cousiniae\n\nC. coxi\n\nC. cracella\n\nC. crassa\n\nC. crassicornella\n\nC. cratipennella\n\nC. creola\n\nC. crepidinella\n\nC. cretaticostella\n\nC. crexella\n\nC. crinita\n\nC. crispella\n\nC. cristata\n\nC. crossanthes\n\nC. crypsineura\n\nC. crypsiphanes\n\nC. cteis\n\nC. cuprariella\n\nC. cuprea\n\nC. currucipennella\n\nC. curta\n\nC. curvidentatella\n\nC. curvirostra\n\nC. cycnea\n\nC. cyrniella\n\nC. cyrta\n\nC. cythisanthi\n\nC. cytisivora\n\nC. daeva\n\nC. daglarica\n\nC. damarella\n\nC. dangchuanica\n\nC. darica\n\nC. darigangae\n\nC. darwini\n\nC. deauratella\n\nC. debilella\n\nC. decipiens\n\nC. decoratella\n\nC. delgerella\n\nC. delicatella\n\nC. delmastroella\n\nC. demaculella\n\nC. demissella\n\nC. dendroidis\n\nC. denigrella\n\nC. dentatella\n\nC. denticulata\n\nC. dentiferella\n\nC. dentiferoides\n\nC. depunctella\n\nC. derasofasciella\n\nC. derbendella\n\nC. derrai\n\nC. desultrix\n\nC. detractella\n\nC. deviella\n\nC. dextrella\n\nC. dianthi\n\nC. dianthivora\n\nC. didymella\n\nC. diffusa\n\nC. dignella\n\nC. dilabens\n\nC. diluta\n\nC. diogenes\n\nC. dipalliata\n\nC. diplodon\n\nC. directella\n\nC. discifera\n\nC. discomaculella\n\nC. discopunctata\n\nC. discordella\n\nC. discostriata\n\nC. dissecta\n\nC. dissociella\n\nC. dissona\n\nC. ditella\n\nC. dividua\n\nC. dorita\n\nC. dormiens\n\nC. dorsiproducta\n\nC. dracontea\n\nC. drangianae\n\nC. drymidis\n\nC. drymophila\n\nC. dubiella\n\nC. duplicis\n\nC. echinacea\n\nC. echinopsilonella\n\nC. echyropis\n\nC. efflua\n\nC. eichleri\n\nC. eilatica\n\nC. elaeagnisella\n\nC. elamita\n\nC. elbursella\n\nC. elegans\n\nC. elephantacolorella\n\nC. elephantella\n\nC. elodella\n\nC. eltonica\n\nC. emberizella\n\nC. enchitis\n\nC. enkomiella\n\nC. entoloma\n\nC. epijudaica\n\nC. eremodes\n\nC. eremosparti\n\nC. ericoides\n\nC. erratella\n\nC. esignata\n\nC. estriatella\n\nC. eteropennella\n\nC. etrusca\n\nC. eucalla\n\nC. eucasia\n\nC. eucoleos\n\nC. eumorphella\n\nC. eupepla\n\nC. eupreta\n\nC. eurasiatica\n\nC. euryaula\n\nC. exalbida\n\nC. exarga\n\nC. exlentii\n\nC. explorata\n\nC. expressella\n\nC. exul\n\nC. facilis\n\nC. fagicorticella\n\nC. falcigerella\n\nC. falcipenella\n\nC. falkovitshella\n\nC. famella\n\nC. felixella\n\nC. femorella\n\nC. fengxianica\n\nC. feoleuca\n\nC. feomicrella\n\nC. fergana\n\nC. ferruginea\n\nC. festivella\n\nC. filaginella\n\nC. fiorii\n\nC. flabelligerella\n\nC. flammea\n\nC. flavicornis\n\nC. flavicosta\n\nC. flaviella\n\nC. flavipennella\n\nC. flavovena\n\nC. follicularis\n\nC. fragilella\n\nC. frankii\n\nC. fraternella\n\nC. fretella\n\nC. fringillella\n\nC. frischella\n\nC. frivolella\n\nC. frustrata\n\nC. fulgidella\n\nC. fuliginosa\n\nC. fulvociliella\n\nC. fuscicornis\n\nC. fuscinervella\n\nC. fuscoaenea\n\nC. fuscociliella\n\nC. fuscocuprella\n\nC. fuscolineata\n\nC. fuscopictella\n\nC. fuscosquamata\n\nC. fuscostrigella\n\nC. gabralensis\n\nC. galatellae\n\nC. galbulipennella\n\nC. galligena\n\nC. gallipennella\n\nC. gallivora\n\nC. gallurella\n\nC. ganglionella\n\nC. gardesanella\n\nC. gaviaepennella\n\nC. gaylussaciella\n\nC. gazella\n\nC. gedrosiae\n\nC. geghardella\n\nC. gemmiformis\n\nC. genistae\n\nC. genuina\n\nC. genviki\n\nC. gerasimovi\n\nC. ghorella\n\nC. gibberosa\n\nC. gielisi\n\nC. glareolella\n\nC. glaseri\n\nC. glaucella\n\nC. glaucicolella\n\nC. glissandella\n\nC. glitzella\n\nC. glycyrrhizae\n\nC. glymma\n\nC. gnaphalii\n\nC. gobincola\n\nC. goluensis\n\nC. gongliuensis\n\nC. gossypinae\n\nC. gracilella\n\nC. graeca\n\nC. graminicolella\n\nC. granifera\n\nC. granulatella\n\nC. granulosella\n\nC. gredosella\n\nC. griseomixta\n\nC. gryphipennella\n\nC. guadicensis\n\nC. gulinovi\n\nC. gurunensis\n\nC. guttella\n\nC. guttiferella\n\nC. gymnocarpella\n\nC. gypsella\n\nC. hackmani\n\nC. hadrocerella\n\nC. halimodendri\n\nC. halmodes\n\nC. halocnemi\n\nC. halophilella\n\nC. halostachydis\n\nC. halothamni\n\nC. haloxyli\n\nC. haloxylonella\n\nC. hamata\n\nC. hancola\n\nC. haoma\n\nC. harbinensis\n\nC. hartigi\n\nC. hatamae\n\nC. haywardi\n\nC. heihensis\n\nC. heinrichella\n\nC. helgada\n\nC. helianthemella\n\nC. helichrysiella\n\nC. helvolella\n\nC. hemerobiella\n\nC. hemerobiola\n\nC. heringi\n\nC. hermanniella\n\nC. hernia\n\nC. hiberica\n\nC. hieratica\n\nC. hieronella\n\nC. himyarita\n\nC. hinnula\n\nC. hippodromica\n\nC. hipponae\n\nC. hirsutella\n\nC. hoeneella\n\nC. hololeucella\n\nC. honestella\n\nC. hongorella\n\nC. honshuella\n\nC. horakae\n\nC. horatioella\n\nC. horridula\n\nC. hospitiella\n\nC. hsiaolingensis\n\nC. hungariae\n\nC. hydrella\n\nC. hydrolapathella\n\nC. hymenocrateri\n\nC. hypomona\n\nC. hypoxantha\n\nC. hyssopi\n\nC. hystricella\n\nC. ibipennella\n\nC. ichthyura\n\nC. idaeella\n\nC. ignobilis\n\nC. ignotella\n\nC. iljiniae\n\nC. illustrata\n\nC. imbecilla\n\nC. immersa\n\nC. impalella\n\nC. impercepta\n\nC. impexa\n\nC. implicitella\n\nC. impunctata\n\nC. inclita\n\nC. inconstans\n\nC. incultella\n\nC. indefinitella\n\nC. inequidentella\n\nC. inermis\n\nC. infolliculella\n\nC. infuscatella\n\nC. innermongoliensis\n\nC. inopinata\n\nC. insulicola\n\nC. intensa\n\nC. intercalaris\n\nC. intermediella\n\nC. intermixta\n\nC. internitens\n\nC. intexta\n\nC. inulae\n\nC. inusitatella\n\nC. inversella\n\nC. involucrella\n\nC. iperspinata\n\nC. iranella\n\nC. irinae\n\nC. irinella\n\nC. irroratella\n\nC. isabellina\n\nC. islamella\n\nC. isodonta\n\nC. isomoera\n\nC. ispartae\n\nC. issikii\n\nC. ivrizensis\n\nC. izenella\n\nC. jaculatoria\n\nC. jaernaensis\n\nC. japonicella\n\nC. jebeli\n\nC. jefreniensis\n\nC. jerusalemella\n\nC. judaica\n\nC. juglandella\n\nC. juncicolella\n\nC. juncivora\n\nC. jynxella\n\nC. kabulensis\n\nC. kahaourella\n\nC. kaiynella\n\nC. kalidii\n\nC. kalmiella\n\nC. kamchatica\n\nC. kamiesella\n\nC. kandevanella\n\nC. kandymella\n\nC. kantarica\n\nC. karakurti\n\nC. kargani\n\nC. karsholti\n\nC. kashkaella\n\nC. kaszabi\n\nC. katangica\n\nC. katunella\n\nC. kautzi\n\nC. kearfottella\n\nC. keireuki\n\nC. kenyaensis\n\nC. kitella\n\nC. kizildashi\n\nC. klimeschiella\n\nC. kolymella\n\nC. kondarensis\n\nC. kononenkoi\n\nC. korbi\n\nC. koreana\n\nC. koshmella\n\nC. kosteri\n\nC. kotalensis\n\nC. kroneella\n\nC. kruegeri\n\nC. kudrosella\n\nC. kuehnella\n\nC. kunenensis\n\nC. kurokoi\n\nC. kuznetzovi\n\nC. kyffhusana\n\nC. lacera\n\nC. laconiae\n\nC. ladonia\n\nC. laevipennis\n\nC. lagopella\n\nC. laniella\n\nC. laricella\n\nC. lasiocharis\n\nC. lasloella\n\nC. lassella\n\nC. laticornella\n\nC. lativalva\n\nC. lativittella\n\nC. latronella\n\nC. laurentella\n\nC. lebedella\n\nC. ledi\n\nC. legitima\n\nC. lenae\n\nC. lentella\n\nC. lentiginosa\n\nC. leonensis\n\nC. lepyropis\n\nC. lessinica\n\nC. leucaula\n\nC. leucobela\n\nC. leucocephala\n\nC. leucochares\n\nC. leucochrysella\n\nC. leucopodella\n\nC. leucostoma\n\nC. levantis\n\nC. lewandowskii\n\nC. libanella\n\nC. libyca\n\nC. lima\n\nC. limacella\n\nC. limosipennella\n\nC. lineapulvella\n\nC. lineata\n\nC. lineolea\n\nC. linoplecta\n\nC. linosyridella\n\nC. linosyris\n\nC. liriophorella\n\nC. lithargyrinella\n\nC. littorella\n\nC. lixella\n\nC. lonchodes\n\nC. longicornella\n\nC. longicornuta\n\nC. longiductella\n\nC. longipalpella\n\nC. longispina\n\nC. loti\n\nC. loxodon\n\nC. lucida\n\nC. luciennella\n\nC. lunensis\n\nC. lurida\n\nC. lusciniaepennella\n\nC. lusitanica\n\nC. lutatiella\n\nC. luteochrella\n\nC. luteocostella\n\nC. luteolella\n\nC. lutipennella\n\nC. lycaoniae\n\nC. lycii\n\nC. lynosyridella\n\nC. macedonica\n\nC. machinopis\n\nC. macilenta\n\nC. macrobiella\n\nC. macrura\n\nC. maculipennella\n\nC. maghrebina\n\nC. magnatella\n\nC. magyarica\n\nC. majuscula\n\nC. makuensis\n\nC. malatiella\n\nC. manifesta\n\nC. manitoba\n\nC. marcarolensis\n\nC. marcella\n\nC. margarita\n\nC. maritella\n\nC. maritimarum\n\nC. maritimella\n\nC. markisaakovitshi\n\nC. maroccana\n\nC. maturella\n\nC. mausoleae\n\nC. mausolella\n\nC. mayrella\n\nC. mcdunnoughiella\n\nC. medelichensis\n\nC. mediae\n\nC. mediocris\n\nC. mediodens\n\nC. mediterranea\n\nC. megaloptila\n\nC. melanograpta\n\nC. mendica\n\nC. menephilella\n\nC. meridionella\n\nC. mexicana\n\nC. meyi\n\nC. microalbella\n\nC. microdon\n\nC. micromeriae\n\nC. micronotella\n\nC. microspinella\n\nC. microsticta\n\nC. microtitae\n\nC. microxantha\n\nC. millefolii\n\nC. milvipennis\n\nC. minaxella\n\nC. minimella\n\nC. minipalpella\n\nC. minipunctella\n\nC. minoica\n\nC. minutula\n\nC. mirabibella\n\nC. moehringiae\n\nC. molesta\n\nC. molothrella\n\nC. monardae\n\nC. monardella\n\nC. monoceros\n\nC. monstruosa\n\nC. montana\n\nC. monteiroi\n\nC. monticola\n\nC. moronella\n\nC. morosa\n\nC. mosasaurus\n\nC. motacillella\n\nC. mucronata\n\nC. multicristatella\n\nC. multipulvella\n\nC. murciana\n\nC. murinella\n\nC. musculella\n\nC. nairica\n\nC. namakella\n\nC. namangana\n\nC. namaqua\n\nC. namella\n\nC. namibiae\n\nC. nanophyti\n\nC. napolovi\n\nC. narbonensis\n\nC. necessaria\n\nC. neglecta\n\nC. neli\n\nC. nemorella\n\nC. neobagorella\n\nC. neolycii\n\nC. nepetae\n\nC. nepetellae\n\nC. nesiotidella\n\nC. nevadella\n\nC. neviusiella\n\nC. nielseni\n\nC. nigridorsella\n\nC. nigrosparsella\n\nC. nigrostriata\n\nC. nikiella\n\nC. ningxiana\n\nC. niphocrossa\n\nC. niphomesta\n\nC. nitidipennella\n\nC. niveiciliella\n\nC. niveicostella\n\nC. niveistrigella\n\nC. niveopictella\n\nC. noaeae\n\nC. nomgona\n\nC. novisqualorella\n\nC. nubivagella\n\nC. numeniella\n\nC. nurmahal\n\nC. nutantella\n\nC. nyingchiensis\n\nC. obducta\n\nC. obscenella\n\nC. obscuripalpella\n\nC. obtectella\n\nC. obviella\n\nC. occasi\n\nC. occatella\n\nC. occitana\n\nC. ochrea\n\nC. ochripennella\n\nC. ochroflava\n\nC. ochroptera\n\nC. ochrostriata\n\nC. octagonella\n\nC. odorariella\n\nC. ofaistoni\n\nC. ogmotona\n\nC. okuella\n\nC. oligostropha\n\nC. olympica\n\nC. omanica\n\nC. onobrychiella\n\nC. ononidella\n\nC. onopordiella\n\nC. opulens\n\nC. orbata\n\nC. orbitella\n\nC. ordinaria\n\nC. orenburgella\n\nC. orientalis\n\nC. oriolella\n\nC. ornatipennella\n\nC. orogella\n\nC. orotavensis\n\nC. orphnoceros\n\nC. ortneri\n\nC. ortrina\n\nC. ossaedeaga\n\nC. ostryae\n\nC. otidipennella\n\nC. ovata\n\nC. oxyphaea\n\nC. pachyderma\n\nC. paeltsaella\n\nC. pagodella\n\nC. pakistana\n\nC. palifera\n\nC. pallidata\n\nC. pallidiptera\n\nC. paludoides\n\nC. pandionella\n\nC. pannosa\n\nC. paphlagoniae\n\nC. pappiferella\n\nC. paracousiniae\n\nC. paradoxella\n\nC. paradrymidis\n\nC. paragallivora\n\nC. paragiraudi\n\nC. paramayrella\n\nC. paraononidella\n\nC. parapredotella\n\nC. paraptarmica\n\nC. parasymi\n\nC. paravestalella\n\nC. parcella\n\nC. parenthella\n\nC. parilis\n\nC. paripennella\n\nC. parki\n\nC. parthenica\n\nC. parthenogenella\n\nC. parthica\n\nC. partitella\n\nC. parvella\n\nC. parvicuprella\n\nC. passeripennella\n\nC. pastranai\n\nC. pathana\n\nC. patzaki\n\nC. pauperculella\n\nC. pechi\n\nC. peisoniella\n\nC. pelinopis\n\nC. pellicornella\n\nC. pendulivalvula\n\nC. pennella\n\nC. percnoceros\n\nC. peri\n\nC. peribenanderi\n\nC. perissa\n\nC. perplexella\n\nC. persana\n\nC. persimplexella\n\nC. peterseni\n\nC. petraea\n\nC. phaeocentra\n\nC. phlomidella\n\nC. phlomidis\n\nC. phoenicia\n\nC. phrygiae\n\nC. physophorae\n\nC. picardella\n\nC. pilion\n\nC. pinii\n\nC. pinkeri\n\nC. platyphyllae\n\nC. plicipunctella\n\nC. plumbella\n\nC. plurifoliella\n\nC. plurispinella\n\nC. poecilella\n\nC. pokrovkella\n\nC. polemoniella\n\nC. poliacantha\n\nC. polichomriensis\n\nC. polonicella\n\nC. polycarpaeae\n\nC. polynella\n\nC. pontica\n\nC. portulacae\n\nC. potentillae\n\nC. praecipua\n\nC. praeclara\n\nC. praecursella\n\nC. pratella\n\nC. preisseckeri\n\nC. prepostera\n\nC. presbytica\n\nC. principiella\n\nC. propinqua\n\nC. propinquoides\n\nC. protecta\n\nC. pruniella\n\nC. prunifoliae\n\nC. psamata\n\nC. psammodes\n\nC. pseudociconiella\n\nC. pseudodianthi\n\nC. pseudodirectella\n\nC. pseudoditella\n\nC. pseudofuscoaenea\n\nC. pseudolinosyris\n\nC. pseudopoecilella\n\nC. pseudorepentis\n\nC. pseudosquamosella\n\nC. psilopterella\n\nC. psychropa\n\nC. ptarmicia\n\nC. pterosparti\n\nC. puberuloides\n\nC. pulchricornis\n\nC. pulmonariella\n\nC. punctulatella\n\nC. purifica\n\nC. pustulosa\n\nC. pyrenaica\n\nC. pyrrhulipennella\n\nC. quadrifariella\n\nC. quadrifurca\n\nC. quadrilineella\n\nC. quadristraminella\n\nC. quadristrigella\n\nC. quadruplex\n\nC. quercicola\n\nC. querciella\n\nC. qulikushella\n\nC. ramitella\n\nC. ramosella\n\nC. raphidon\n\nC. raptans\n\nC. ravillella\n\nC. rebeli\n\nC. rectilineella\n\nC. rectimarginalis\n\nC. recula\n\nC. remizella\n\nC. remotella\n\nC. repentis\n\nC. resupina\n\nC. retifera\n\nC. retrodentella\n\nC. rhanteriella\n\nC. rhinoceros\n\nC. ribasella\n\nC. riffelensis\n\nC. romieuxi\n\nC. roridella\n\nC. rosacella\n\nC. rosaefoliella\n\nC. rosaevorella\n\nC. rostrata\n\nC. rudella\n\nC. rugosae\n\nC. rupestrella\n\nC. rustica\n\nC. sabaea\n\nC. sacramenta\n\nC. safadella\n\nC. sahariana\n\nC. salicivorella\n\nC. salicorniae\n\nC. salinella\n\nC. salinoidella\n\nC. salsolella\n\nC. saltae\n\nC. salviella\n\nC. samarensis\n\nC. sanella\n\nC. santolinella\n\nC. saponariella\n\nC. saratovi\n\nC. sardiniae\n\nC. sardocorsa\n\nC. sarehma\n\nC. satellitella\n\nC. sattleri\n\nC. saturatella\n\nC. saudita\n\nC. saxauli\n\nC. saxicolella\n\nC. scabrida\n\nC. scaleuta\n\nC. scariphota\n\nC. schahkuhensis\n\nC. schauffeleella\n\nC. schibendyella\n\nC. schmidti\n\nC. scioleuca\n\nC. seguiella\n\nC. semicinerea\n\nC. seminalis\n\nC. seminella\n\nC. semistrigata\n\nC. sequens\n\nC. sergiella\n\nC. serinipennella\n\nC. seriphidii\n\nC. serpylletorum\n\nC. serratella\n\nC. serratulella\n\nC. settarii\n\nC. sexdentatella\n\nC. sibirica\n\nC. sibiricella\n\nC. siccifolia\n\nC. silenella\n\nC. simplex\n\nC. simulans\n\nC. sinensis\n\nC. singreni\n\nC. sisteronica\n\nC. sittella\n\nC. skanesella\n\nC. sobria\n\nC. sobrinella\n\nC. sodae\n\nC. soffneriella\n\nC. sogdianae\n\nC. solenella\n\nC. solidaginella\n\nC. solitariella\n\nC. soriaella\n\nC. spargospinella\n\nC. sparsiatomella\n\nC. sparsipulvella\n\nC. sparsipuncta\n\nC. spartana\n\nC. spinella\n\nC. spiraeella\n\nC. spiralis\n\nC. spumosella\n\nC. squalorella\n\nC. squamella\n\nC. squamosella\n\nC. stachi\n\nC. stachydis\n\nC. staehelinella\n\nC. statherota\n\nC. stegosaurus\n\nC. stenidella\n\nC. stepposa\n\nC. sternipennella\n\nC. stramentella\n\nC. straminella\n\nC. striatipennella\n\nC. strigiferella\n\nC. strigosella\n\nC. striolatella\n\nC. strophingella\n\nC. struella\n\nC. strutiella\n\nC. stuposa\n\nC. stylosa\n\nC. suaedae\n\nC. suaedicola\n\nC. subapicis\n\nC. subgilva\n\nC. sublata\n\nC. sublineariella\n\nC. subnivea\n\nC. subparcella\n\nC. subsolana\n\nC. subtremula\n\nC. subula\n\nC. succursella\n\nC. sudanella\n\nC. summivola\n\nC. sumptuosa\n\nC. superlonga\n\nC. supinella\n\nC. surniella\n\nC. svenssoni\n\nC. swatensis\n\nC. sylvaticella\n\nC. symmicta\n\nC. symphistropha\n\nC. synchrocera\n\nC. synchrona\n\nC. syriaca\n\nC. tabelli\n\nC. tacera\n\nC. tadzhikiella\n\nC. taeniipennella\n\nC. taizensis\n\nC. talynella\n\nC. tamara\n\nC. tamesis\n\nC. tanaceti\n\nC. tanitella\n\nC. tanyleuca\n\nC. taurica\n\nC. tauricella\n\nC. taygeti\n\nC. tecta\n\nC. teheranella\n\nC. telonica\n\nC. teneriffella\n\nC. tenuis\n\nC. terebrans\n\nC. teredo\n\nC. teregnathella\n\nC. terenaula\n\nC. tesquorum\n\nC. testudo\n\nC. tetraciliata\n\nC. tetrazonella\n\nC. tetrodonta\n\nC. texanella\n\nC. textoria\n\nC. therinella\n\nC. thiophaea\n\nC. thulea\n\nC. thurneri\n\nC. thymi\n\nC. thymiphaga\n\nC. tibetana\n\nC. tiliaefoliella\n\nC. timarella\n\nC. tleu\n\nC. tolensis\n\nC. tollamseliella\n\nC. tolli\n\nC. tornata\n\nC. toxotis\n\nC. tractella\n\nC. tragacanthae\n\nC. traganella\n\nC. traugotti\n\nC. tremefacta\n\nC. tremula\n\nC. treskaensis\n\nC. trichopterella\n\nC. tricolor\n\nC. tridentifera\n\nC. trientella\n\nC. trifariella\n\nC. triflua\n\nC. trifolii\n\nC. trigeminella\n\nC. trilineella\n\nC. trimaculella\n\nC. tringella\n\nC. tripeniella\n\nC. triplicis\n\nC. tripolitana\n\nC. tristella\n\nC. tristraminata\n\nC. trivalvis\n\nC. trochilella\n\nC. tsherkesi\n\nC. tshiligella\n\nC. tshogoni\n\nC. tuberculata\n\nC. tundrosa\n\nC. tunisiae\n\nC. turbatella\n\nC. turca\n\nC. turkestanica\n\nC. turolella\n\nC. tuvensis\n\nC. tyrrhaenica\n\nC. tytri\n\nC. ucrainae\n\nC. ugabensis\n\nC. uliginosella\n\nC. ulmifoliella\n\nC. ulmivorella\n\nC. umbratica\n\nC. unicrenata\n\nC. uniformis\n\nC. unigenella\n\nC. uniphalli\n\nC. unipunctella\n\nC. univittella\n\nC. uralensis\n\nC. uxorella\n\nC. vacciniella\n\nC. vacciniivorella\n\nC. vagans\n\nC. valesianella\n\nC. vancouverensis\n\nC. vanderwolfi\n\nC. vansoni\n\nC. varensis\n\nC. variicornis\n\nC. varisequens\n\nC. varnella\n\nC. vegrandis\n\nC. velocella\n\nC. ventadelsolella\n\nC. verbljushkella\n\nC. vermiculatella\n\nC. vernoniaeella\n\nC. versurella\n\nC. vestalella\n\nC. vestianella\n\nC. vibicella\n\nC. vibicigerella\n\nC. viburniella\n\nC. vicinella\n\nC. viettella\n\nC. villosa\n\nC. violacea\n\nC. virgatella\n\nC. virgaureae\n\nC. viridicuprella\n\nC. viscidiflorella\n\nC. vitilis\n\nC. vitisella\n\nC. vivesella\n\nC. voluta\n\nC. vulnerariae\n\nC. vulpecula\n\nC. walsinghami\n\nC. weymarni\n\nC. willinki\n\nC. wiltshirei\n\nC. wockeella\n\nC. wolschrijni\n\nC. wyethiae\n\nC. xanthoargentea\n\nC. xanthochlora\n\nC. xanthoptera\n\nC. xinjiangensis\n\nC. xyridella\n\nC. yemenita\n\nC. yomogiella\n\nC. yunnanica\n\nC. yuzhongensis\n\nC. zagella\n\nC. zagrosella\n\nC. zapluta\n\nC. zelleriella\n\nC. zernyi\n\nC. zhusani\n\nC. zhusguni\n\nC. zophodella\n\nC. zukowskii\n\nC. zygodon\n\nC. zygotaenia\n\nC. zymotica\n\nColeophora defessella Herrich-Schäffer, 1855 This species was described from Germany.\n\nColeophora leucogrammella Herrich-Schäffer, 1855. This species was described from the Alps. The identity remains questionable. It has been recorded feeding on the leaves of Inula conyza. The larvae live in a black, laterally compressed, bivalved case with a mouth angle of less than 45°. The larvae have been recorded from autumn to May of the following year.\n\nColeophora leugrammella Herrich-Schäffer, 1855\n\nColeophora montihospitella Bruand, 1851\n\nColeophora poteriella Amsel & Hering 1931 (Nomen nudum)\n\nColeophora semilineariella Bruand, 1859 (Nomen dubium)\n\nColeophora thymiella Herrich-Schäffer, 1861 This species was described from Germany.\n\nThese species have recently been excluded from the genus Coleophora. However, not all have been placed in another genus yet.\n\nBatrachedra aphypnota Meyrick 1917 (formerly Coleophora aphypnota)\n\nColeophora crossophanes Meyrick, 1917\n\nColeophora tarsocoma Meyrick, 1917\n\nPammeces picticornis (Walsingham, 1897) (formerly Coleophora picticornis)",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1311936688",
+      "revision_id": "1311936688",
+      "text_sha256": "130446eafbf821eb48121b387df7e5b906b9a8bc645c4c0ba112ce699884a74a",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:18:19.497311+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.716134071350098,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2448",
+    "title": "Britannica page 2448",
+    "corpus": "britannica",
+    "text": "<x_0.1777><y_0.0305>**C O M ( 255 ) C O M**<x_0.7383><y_0.0484><class_Page-header>\n\n<x_0.0264><y_0.0539>makes one of a group, and thinks in wretched unanity with the throng. Incumbered with the notions of others, and impoverified by their abundance, he concecites not the leaf embryo of few thoughts: open out the life wilts through the glown of ordinary writers into the bright walks of rare imagination, and singular design while the true genius is crafting all public roads into fresh untenden ground, like, up to the knees in antique try, is treading the faced foodless of great examples, with the blind-versation of a bigot faluting the papal too; comfortably hoping full: solutions for the fine on his own understanding, from the powerful charm of touching his idol's infallibility.<x_0.4502><y_0.2352><class_Text>\n\n<x_0.0273><y_0.2336>Such meanings of mind, fact profission of our own power, proceeds from too great admiration of others. Admiration has generally a degree of two very bad in-gedcters in its: if ignorance, and or fears, and does mifcher in compoffion, and in fic. Proof as the world is, there is more foperiously in it given, than af-funds: and its grandes of all kinds owe more of their elviation to the litlands of others minds, than to the greatest of their own. We no podficate spirit their voluntary pedefells, the figure they make among mankind would now find a high. _Infinityer and transfi-_ are forehead what the pedefull kind, and sometimes rather raife their _original’s reputation_ by flowing him to be by them immobile, than their own. Homer has been tradition into mid languages: Allan tells this, that the Indians, (hopeful tutors!) have taught him to speak their tongue. When expect we from them? Not Ho-mer's Achilles, but formething, which, like Parrocius, affumes his name, and, at its peril, appears in the dead nor expedite women’s Ulyfles gloriously betting out of his cloud too royal grandeir, but an Ulyfles under dis-guir, and a begant to our left. Such is that immurable father of poetry, and oracle of all the wife, whom Lycusgis transformed, and for an annual public record of wife works Solon enacted a law, that it is much to be feared, that his fo numerous translations are but as the published tellimomials of fo many nations, and ages, that this author to divine is untraflated fill.<x_0.4512><y_0.6188><class_Text>\n\n<x_0.0479><y_0.6195>But here,<x_0.0908><y_0.632><class_Text>\n\n<x_0.0488><y_0.6312>_Gristhus nurem_ _Ville -_ Vare. and demands justice for his favourite, and ours. Great things he has done; but he might have done greater. What a fall is is from Home’s eures, free as air, lofy and harmonious as the fpherer, into chillich face kies, and tinkling found! But,-in his fall, he is ill great<x_0.4961><y_0.7445><class_Text>\n\n<x_0.2744><y_0.743>_Nor appears_<x_0.374><y_0.7578><class_Section-header>\n\n<x_0.0654><y_0.7547>_Left than archangel ruin'd, and the exact_ Of _Ivyself._<x_0.3799><y_0.7812><class_Caption>\n\n<x_0.0254><y_0.7828>Had Milton never wrote. Pope had been felt to blame; but when in Milton’s genius. Homer, as it were, perfoally role to boriblighters doing him that google wrong; it is lels paradisable, lay that _affirmish_, decoration, to par Achilles in petticas a second time. How much nobler had it been, if his numbers had rolled on in fall flow, through the various modulations of maculoline melo-dy, into those grandeurs of folcmn found, which are in<x_0.4492><y_0.8945><class_Text>\n\n<x_0.0596><y_0.8938>Vor. H., No. 40. 3<x_0.4434><y_0.9102><class_Footnote>\n\n<x_0.4629><y_0.0523>dipenfully demanded by the native dignity of heroic fong? How much nobler, if he had refilled the tempta-tion of that Gootile demos, which modern poody talking, because moral! I don willke the doubtlets, divine har-many of three great names (how jully joined) of _Wil- ton, Greece,_ and _Rome?_ His verfe, but for his little feck of mortality, in its extreme parts, as his hero had in his heel; like him, had been insulterable, and imoro-tal. But, unfortunately, _that_ was undute to Helicon; as _this_ in Stryx. Harmony as well as duquencais effen-tial to potify, and a murder of a number of us about you. We made by blank verfe is, verfe unfallen, uncurlt; verfe reclaimed, remithrored in the true _language of the girls_ who ever understood, not suffered their Homer to thunder in rhime.<x_0.8877><y_0.2734><class_Text>\n\n<x_0.4619><y_0.2742>But topping Pops: His to have been perfect in its kind; yet it is a _translation_ filly, which differs as much from an _origini_, as the moon from the fun.<x_0.8857><y_0.3164><class_Text>\n\n<x_0.4639><y_0.3156>But as nothing is more caly than to write originally wrong; originals are not here recommended, but under the theory graed of the fruit rule--_Know _byful/_ La- cian, who was an original, neglected not this rule, if we may judge by the reply to one who took fone freedom with him. He was as first a happened to a fortury; and when he was reflected on as fach, by being called _Premichaela_, he applied, \"I am indeed the inventor of a new work. He model of which I owe to mine, and, if I do not execute it well, I deferve to be tom by twelve vulures, instead of one.\"<x_0.8867><y_0.468><class_Text>\n\n<x_0.4648><y_0.4688>Bacon fays, \" Mer feek not to know their own flock, and abilities, but fancy their puffellions to be greater, and their abilities lets, than they really arc.\" Which is in effect dying. \" That we ought to exert more than we do, and that, on exertion, our probability of fuccefs is greater than we conceive.\"<x_0.8848><y_0.5523><class_Text>\n\n<x_0.4609><y_0.5531>Now have welcom soon only, but in different too, in favor of originals. His puppy mist travelled around the intellectual world; and, with a more than eagle’s eye, fairy, and has pointed out, blank places, or dark spots in it, on which the human minder house flows of thefe have been embrightened faces; Some are being fulfilled.<x_0.8838><y_0.6367><class_Text>\n\n<x_0.46><y_0.6359>Moreover, to boundless ear the bold excursions of the human mind, that in the vail voit beyond real coffences, it can call forth shadowy beings, and unknown worlds, as numerous, as bright, and perhaps as falling as the flats , fuch quite-original beatuities we may call parodi-faical.<x_0.8828><y_0.7156><class_Text>\n\n<x_0.5029><y_0.7164>_Nates fine feminine facets._<x_0.6826><y_0.7312><class_Section-header>\n\n<x_0.459><y_0.7305>When fish an ample area for renowned adventure in ori-gird attempts lies before on, frail we be as mere denim types, conserving to the prent age final fireman of ex- excellence from its grand referoir in antiquity; and thole too perhaps mudded in the pafs / Originals due likeoc-nuts; have no more teeth and, yet stalled by none, and the gaze of all: all other compotions (if they hine at all) fine in clafers; like the flies in the galaxy; where, like bad neighbours, all suffer from all; each particular being diminished, and should loft in the thing.<x_0.8818><y_0.8711><class_Text>\n\n<x_0.458><y_0.8719>If thoughts of this nature prevailed; if ancients and moderates were no longer confidered as matters and pupils,<x_0.8809><y_0.8992><class_Text>\n\n<x_0.6543><y_0.9016>T<x_0.6816><y_0.9156><class_Picture>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "a88be9cc0d295568cc39598677f97d3b9e5fb0aac703b4cc2ea7eb8ea7d57e42",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:58:21.520938+00:00",
+    "parser_receipt_sha256": "83a36a391d85f9523a00d372a40ccf37de4ae599ca677fada941e9d25fe36234",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 278,
+      "occurred_at": "2026-10-18T18:18:17.485223+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2012,
+      "occurred_at": "2026-10-18T18:18:19.497384+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 3867,
+      "occurred_at": "2026-10-18T18:18:23.395177+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1751,
+      "occurred_at": "2026-10-18T18:18:25.174692+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 6135,
+      "occurred_at": "2026-10-18T18:18:31.331058+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2161,
+      "occurred_at": "2026-10-18T18:18:33.514828+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1675,
+      "occurred_at": "2026-10-18T18:18:35.219406+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1925,
+      "occurred_at": "2026-10-18T18:18:37.189558+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 3352,
+      "occurred_at": "2026-10-18T18:18:40.568690+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 80,
+      "occurred_at": "2026-10-18T18:18:40.674067+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 11791,
+      "occurred_at": "2026-10-18T18:18:52.464770+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 1459,
+      "occurred_at": "2026-10-18T18:18:53.934369+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 11,
+      "occurred_at": "2026-10-18T18:18:53.945687+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 1349,
+      "occurred_at": "2026-10-18T18:18:55.294261+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1095,
+    "modern_words": 520,
+    "vocabulary_jaccard": 0.013458950201884253,
+    "jensen_shannon_divergence": 0.9536512609931285,
+    "historical_top_words": [
+      [
+        "the",
+        48
+      ],
+      [
+        "of",
+        43
+      ],
+      [
+        "and",
+        37
+      ],
+      [
+        "in",
+        30
+      ],
+      [
+        "to",
+        25
+      ],
+      [
+        "as",
+        20
+      ],
+      [
+        "is",
+        16
+      ],
+      [
+        "a",
+        15
+      ],
+      [
+        "his",
+        14
+      ],
+      [
+        "but",
+        14
+      ],
+      [
+        "that",
+        12
+      ],
+      [
+        "their",
+        11
+      ],
+      [
+        "by",
+        9
+      ],
+      [
+        "he",
+        9
+      ],
+      [
+        "it",
+        9
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "c",
+        161
+      ],
+      [
+        "g",
+        160
+      ],
+      [
+        "b",
+        8
+      ],
+      [
+        "of",
+        2
+      ],
+      [
+        "o",
+        2
+      ],
+      [
+        "brien",
+        2
+      ],
+      [
+        "fennah",
+        2
+      ],
+      [
+        "this",
+        1
+      ],
+      [
+        "is",
+        1
+      ],
+      [
+        "a",
+        1
+      ],
+      [
+        "list",
+        1
+      ],
+      [
+        "genera",
+        1
+      ],
+      [
+        "in",
+        1
+      ],
+      [
+        "the",
+        1
+      ],
+      [
+        "family",
+        1
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "c o m",
+  "semantic_input": {
+    "query": "c o m\n**C O M ( 255 ) C O M**\n\nmakes one of a group, and thinks in wretched unanity with the throng. Incumbered with the notions of others, and impoverified by their abundance, he concecites not the leaf embryo of few thoughts: open out the life wilts through the glown of ordinary writers into the bright walks of rare imagination, and singular design while the true genius is crafting all public roads into fresh untenden ground, like, up to the knees in antique try, is treading the faced foodless of great examples, with the blind-versation of a bigot faluting the papal too; comfortably hoping full: solutions for the fine on his own understanding, from the powerful charm of touching his idol's infallibility.\n\nSuch meanings of mind, fact profission of our own power, proceeds from too great admiration of others. Admiration has generally a degree of two very bad in-gedcters in its: if ignorance, and or fears, and does mifcher in compoffion, and in fic. Proof as the world is, there is more foperio",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.16106700897216797,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "I N D T A",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:5069711",
+      "title": "List of Nepenthes species by distribution",
+      "corpus": "wikipedia",
+      "text": "This list of Nepenthes species is a comprehensive listing of all known species of the carnivorous plant genus Nepenthes arranged according to their distribution. It is based on the 2009 monograph Pitcher Plants of the Old World and, unless otherwise stated, all information is taken from this source.\n\nSeveral species with an expansive geographical range are mentioned more than once. Species that are not endemic to a given region are marked with an asterisk (*).\n\nNepenthes species recorded from the Philippines.\n\nN. abalata\n\nN. abgracilis\n\nN. aenigma\n\nN. alata\n\nN. alfredoi\n\nN. alzapan\n\nN. argentii\n\nN. armin\n\nN. attenboroughii\n\nN. barcelonae\n\nN. bellii\n\nN. burkei\n\nN. cabanae\n\n? N. campanulata *\n\nN. candalaga\n\nN. ceciliae\n\nN. cid\n\nN. copelandii\n\nN. cornuta\n\nN. deaniana\n\nN. erucoides\n\nN. extincta\n\nN. gantungensis\n\nN. graciliflora\n\nN. hamiguitanensis\n\nN. higaonon\n\nN. justinae\n\nN. kampalili\n\nN. kitanglad\n\nN. leonardoi\n\nN. leyte\n\nN. maagnawensis\n\nN. malimumuensis\n\nN. manobo\n\nN. mantalingajanensis\n\nN. maximoides\n\nN. merrilliana\n\nN. micramphora\n\nN. mindanaoensis\n\nN. mira\n\nN. mirabilis *\n\nN. nebularum\n\nN. negros\n\nN. palawanensis\n\nN. pantaronensis\n\nN. peltata\n\nN. petiolata\n\nN. philippinensis\n\nN. pulchra\n\nN. ramos\n\nN. robcantleyi\n\nN. samar\n\nN. saranganiensis\n\nN. sibuyanensis\n\nN. sumagaya\n\nN. surigaoensis\n\nN. talaandig\n\nN. tboli\n\nN. truncata\n\nN. ultra\n\nN. ventricosa\n\nN. viridis\n\nN. zygon\n\nN. sp. Anipahan\n\nNepenthes species recorded from Borneo.\n\nN. albomarginata *\n\nN. ampullaria *\n\nN. appendiculata\n\nN. bicalcarata\n\nN. boschiana\n\nN. burbidgeae\n\nN. campanulata *\n\nN. chaniana\n\nN. clipeata\n\nN. edwardsiana\n\nN. ephippiata\n\nN. epiphytica\n\nN. faizaliana\n\nN. fractiflexa\n\nN. fusca\n\nN. glandulifera\n\nN. gracilis *\n\nN. hemsleyana\n\nN. hirsuta\n\nN. hispida\n\nN. hurrelliana\n\nN. lowii\n\nN. macrophylla\n\nN. macrovulgaris\n\nN. mapuluensis\n\nN. mirabilis *\n\nN. mollis\n\nN. muluensis\n\nN. murudensis\n\nN. northiana\n\nN. pilosa\n\nN. platychila\n\nN. pongoides\n\nN. pudica\n\nN. rafflesiana *\n\nN. rajah\n\nN. reinwardtiana *\n\nN. stenophylla\n\nN. tentaculata *\n\nN. veitchii\n\nN. villosa\n\nN. vogelii\n\nNepenthes species recorded from Sumatra.\n\nN. adnata\n\nN. albomarginata *\n\nN. ampullaria *\n\nN. angasanensis\n\nN. aristolochioides\n\nN. beccariana\n\nN. bongso\n\nN. densiflora\n\nN. diatas\n\nN. dubia\n\nN. eustachya\n\nN. flava\n\nN. gracilis *\n\nN. gymnamphora *\n\nN. harauensis\n\nN. inermis\n\nN. izumiae\n\nN. jacquelineae\n\nN. jamban\n\nN. junghuhnii\n\nN. lavicola\n\nN. lingulata\n\nN. longifolia\n\nN. longiptera\n\nN. mikei\n\nN. mirabilis *\n\nN. naga\n\nN. ovata\n\nN. putaiguneung\n\nN. rafflesiana *\n\nN. reinwardtiana *\n\nN. rhombicaulis\n\nN. rigidifolia\n\nN. samudera\n\nN. singalana\n\nN. spathulata *\n\nN. spectabilis\n\nN. sumatrana\n\nN. talangensis\n\nN. taminii\n\nN. tenuis\n\nN. tobaica\n\nNepenthes species recorded from Peninsular Malaysia.\n\nN. alba\n\nN. albomarginata *\n\nN. ampullaria *\n\nN. benstonei\n\nN. berbulu\n\nN. domei\n\nN. gracilis *\n\nN. gracillima\n\nN. kerrii\n\nN. latiffiana\n\nN. limiana\n\nN. macfarlanei\n\nN. malayensis\n\nN. mirabilis *\n\nN. rafflesiana *\n\nN. ramispina\n\nN. sanguinea *\n\nN. sericea\n\nN. ulukaliana\n\nN. sp. Titiwangsa (pesonawangsa223)\n\nNepenthes species recorded from Sulawesi\n\nN. diabolica\n\nN. eymae\n\nN. glabrata\n\nN. gracilis *\n\nN. hamata\n\nN. maryae\n\nN. maxima *\n\nN. minima\n\nN. mirabilis *\n\nN. nigra\n\nN. pitopangii\n\nN. tentaculata *\n\nN. tomoriana\n\nN. undulatifolia\n\nNepenthes species recorded from Thailand.\n\nN. ampullaria *\n\nN. andamana\n\nN. bracteosa\n\nN. chang\n\nN. gracilis *\n\nN. hirtella\n\nN. kampotiana *\n\nN. kerrii\n\nN. kongkandana\n\nN. krabiensis\n\nN. mirabilis *\n\nN. orbiculata\n\nN. rosea\n\nN. sanguinea *\n\nN. smilesii *\n\nN. suratensis\n\nN. thai\n\nNepenthes species recorded from New Guinea.\n\nN. ampullaria *\n\nN. calcicola *\n\nN. insignis\n\nN. klossii\n\nN. lamii\n\nN. maxima *\n\nN. mirabilis *\n\nN. monticola\n\nN. neoguineensis *\n\nN. paniculata\n\nN. papuana\n\nN. treubiana *\n\nNepenthes species recorded from Cambodia.\n\nN. bokorensis\n\nN. gracilis *\n\nN. holdenii\n\nN. kampotiana *\n\nN. mirabilis *\n\nN. smilesii *\n\nNepenthes species recorded from the Maluku Islands.\n\nN. ampullaria *\n\nN. halmahera\n\nN. maxima *\n\nN. mirabilis *\n\nN. weda\n\nNepenthes species recorded from Australia.\n\nN. mirabilis *\n\nN. parvula\n\nN. rowaniae\n\nN. tenax\n\nNepenthes species recorded from Vietnam.\n\nN. kampotiana *\n\nN. mirabilis *\n\nN. smilesii *\n\nN. thorelii\n\nNepenthes species recorded from the Raja Ampat Islands.\n\nN. danseri\n\n? N. neoguineensis *\n\n? N. treubiana *\n\nN. sp. Misool\n\nNepenthes species recorded from the D'Entrecasteaux Islands.\n\nN. maxima *\n\nN. mirabilis *\n\nN. neoguineensis *\n\nNepenthes species recorded from Java.\n\nN. gymnamphora *\n\nN. mirabilis *\n\nN. spathulata *\n\nNepenthes species recorded from Singapore.\n\nN. ampullaria *\n\nN. gracilis *\n\nN. rafflesiana *\n\nNepenthes species recorded from Madagascar.\n\nN. madagascariensis\n\nN. masoalensis\n\nNepenthes species recorded from Laos.\n\nN. mirabilis *\n\nN. smilesii *\n\nNepenthes species recorded from India.\n\nN. khasiana\n\nNepenthes species recorded from New Caledonia.\n\nN. vieillardii\n\nNepenthes species recorded from Schouten Islands.\n\nN. biak\n\nNepenthes species recorded from the Seychelles.\n\nN. pervillei\n\nNepenthes species recorded from Sri Lanka.\n\nN. distillatoria\n\nNepenthes species recorded from the Caroline Islands\n\nN. mirabilis *\n\nNepenthes species recorded from China (including Hong Kong and Macau).\n\nN. mirabilis *\n\nNepenthes species recorded from the Louisiade Archipelago.\n\nN. mirabilis *\n\nNepenthes species recorded from Myanmar.\n\nN. mirabilis *",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1340442803",
+      "revision_id": "1340442803",
+      "text_sha256": "f6ef153e48decd4849386823321f4858ecba3ea364d9c38d08a72758bde6c2ad",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:47:07.313959+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.518666744232178,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:5067412",
+      "title": "List of Nepenthes natural hybrids",
+      "corpus": "wikipedia",
+      "text": "This list of Nepenthes natural hybrids is a comprehensive listing of all recorded natural hybrids involving species of the carnivorous plant genus Nepenthes. Hybrids that are not endemic to a given region are marked with an asterisk.\n\nNepenthes natural hybrids recorded from Borneo.\n\nN. albomarginata × N. ampullaria *\n\n? N. albomarginata × N. chaniana\n\nN. albomarginata × N. clipeata\n\nN. albomarginata × N. hirsuta\n\nN. albomarginata × N. macrovulgaris\n\nN. albomarginata × N. northiana\n\nN. albomarginata × N. rafflesiana\n\nN. albomarginata × N. reinwardtiana *\n\nN. albomarginata × N. veitchii\n\nN. ampullaria × N. bicalcarata\n\nN. ampullaria × N. gracilis *\n\n(N. ampullaria × N. gracilis) × N. bicalcarata\n\nN. ampullaria × N. hemsleyana\n\nN. ampullaria × N. hirsuta\n\nN. ampullaria × N. mirabilis *\n\nN. ampullaria × N. rafflesiana *\n\n? (N. ampullaria × N. rafflesiana) × N. mirabilis\n\nN. bicalcarata × N. gracilis\n\nN. bicalcarata × N. mirabilis (including N. bicalcarata × N. mirabilis var. echinostoma)\n\nN. bicalcarata × N. rafflesiana\n\n? (N. bicalcarata × N. rafflesiana) × N. mirabilis var. echinostoma\n\nN. burbidgeae × N. edwardsiana\n\nN. burbidgeae × N. fusca\n\nN. burbidgeae × N. rajah\n\nN. burbidgeae × N. tentaculata\n\nN. chaniana × N. veitchii\n\nN. clipeata × N. rafflesiana\n\nN. clipeata × N. reinwardtiana\n\nN. edwardsiana × N. rajah\n\nN. edwardsiana × N. villosa\n\n? N. faizaliana × N. veitchii\n\nN. fusca × N. lowii\n\nN. fusca × N. platychila\n\nN. fusca × N. rajah\n\nN. fusca × N. reinwardtiana\n\nN. fusca × N. stenophylla\n\nN. fusca × N. tentaculata\n\nN. fusca × N. veitchii\n\nN. gracilis × N. mirabilis * (including N. gracilis × N. mirabilis var. echinostoma)\n\nN. gracilis × N. northiana\n\nN. gracilis × N. rafflesiana *\n\nN. gracilis × N. reinwardtiana *\n\nN. hemsleyana × N. rafflesiana\n\n? N. hirsuta × N. lowii\n\nN. hispida × N. reinwardtiana\n\nN. hurrelliana × N. lowii\n\nN. hurrelliana × N. veitchii\n\nN. lowii × N. macrophylla\n\nN. lowii × N. muluensis\n\nN. lowii × N. rajah\n\nN. lowii × N. stenophylla\n\n? N. lowii × N. tentaculata\n\nN. lowii × N. veitchii\n\nN. macrovulgaris × N. rajah\n\nN. macrovulgaris × N. reinwartdiana\n\nN. macrovulgaris × N. tentaculata\n\nN. mirabilis × N. northiana\n\nN. mirabilis × N. rafflesiana * (including N. mirabilis var. echinostoma × N. rafflesiana)\n\nN. mirabilis × N. reinwardtiana\n\n? N. muluensis × N. tentaculata N. muluensis ]\n\nN. rajah × N. stenophylla\n\nN. rajah × N. tentaculata\n\nN. rajah × N. villosa\n\nN. reinwardtiana × N. stenophylla\n\nN. reinwardtiana × N. tentaculata\n\nN. stenophylla × N. tentaculata\n\nN. stenophylla × N. veitchii\n\nEndemic species with no known natural hybrids:\n\nN. appendiculata\n\nN. boschiana\n\nN. campanulata\n\nN. ephippiata\n\nN. epiphytica\n\nN. glandulifera\n\nN. mapuluensis\n\nN. mollis\n\nN. murudensis\n\nN. pilosa\n\nN. vogelii\n\nNepenthes hurrelliana and N. murudensis are of putative hybrid origin, but are considered species by most taxonomists, as they form stable, fertile populations independent of their original parent species. The same could be said for stable hybrids such as N × kinabaluensis. Indeed, species status has been proposed for this taxon in the past.\n\nNepenthes natural hybrids recorded from Sumatra.\n\nN. albomarginata × N. ampullaria *\n\nN. albomarginata × N. eustachya\n\nN. albomarginata × N. reinwardtiana *\n\nN. ampullaria × N. eustachya\n\nN. ampullaria × N. gracilis *\n\nN. ampullaria × N. mirabilis *\n\nN. ampullaria × N. rafflesiana *\n\nN. ampullaria × N. reinwardtiana\n\nN. ampullaria × N. spathulata\n\nN. ampullaria × N. tobaica\n\nN. angasanensis × N. densiflora\n\nN. aristolochioides × N. singalana\n\n? N. beccariana × N. sumatrana\n\nN. bongso × N. gymnamphora\n\nN. bongso × N. singalana\n\nN. bongso × N. talangensis\n\nN. diatas × N. mikei\n\nN. dubia × N. izumiae\n\n? N. dubia × N. jacquelineae\n\n? N. dubia × N. jamban\n\n? N. eustachya × N. gracilis\n\nN. eustachya × N. longifolia\n\nN. eustachya × N. sumatrana\n\nN. flava × N. ovata\n\nN. flava × N. rhombicaulis\n\nN. gracilis × N. mirabilis *\n\nN. gracilis × N. rafflesiana *\n\nN. gracilis × N. reinwardtiana *\n\nN. gracilis × N. sumatrana\n\nN. gymnamphora × N. mikei\n\nN. gymnamphora × N. ovata\n\nN. gymnamphora × N. reinwardtiana\n\n? N. gymnamphora × N. rhombicaulis\n\nN. gymnamphora × N. singalana\n\nN. gymnamphora × N. spathulata\n\nN. gymnamphora × N. spectabilis\n\nN. gymnamphora × N. talangensis\n\nN. inermis × N. singalana\n\nN. inermis × N. spathulata\n\nN. inermis × N. talangensis\n\nN. izumiae × N. jacquelineae\n\nN. jamban × N. lingulata\n\n? N. longifolia × N. sumatrana\n\nN. mikei × N. ovata\n\nN. mikei × N. spectabilis\n\nN. mirabilis × N. rafflesiana *\n\nN. mirabilis × N. spathulata\n\nN. mirabilis × N. sumatrana\n\nN. ovata × N. rhombicaulis\n\nN. ovata × N. spectabilis\n\nN. reinwardtiana × N. spathulata\n\nN. reinwardtiana × N. tobaica\n\nN. rhombicaulis × N. spectabilis\n\nN. rhombicaulis × N. tobaica\n\nN. rigidifolia × N. spectabilis\n\n? N. singalana × N. spathulata\n\nN. spathulata × N. tobaica\n\nN. spectabilis × N. tobaica\n\nEndemic species with no known natural hybrids:\n\nN. adnata\n\nN. junghuhnii\n\nN. lavicola\n\nN. naga\n\nN. tenuis\n\nNepenthes natural hybrids recorded from the Philippines. The N. alata hybrids listed below involve N. alata in the broad sense (sensu lato); this polymorphic taxon has recently been split into a large number of daughter species that now form the so-called \" N. alata group\".\n\nN. alata × N. burkei\n\nN. alata × N. merrilliana\n\n? (N. alata × N. merrilliana) × N. mirabilis\n\nN. alata × N. mindanaoensis\n\nN. alata × N. mirabilis\n\n? N. alata × N. petiolata\n\nN. alata × N. pulchra\n\nN. alata × N. truncata\n\nN. alata × N. ventricosa\n\n? N. pantaronensis × N. sumagaya\n\nN. bellii × N. merrilliana\n\nN. bellii × N. mindanaoensis\n\nN. ceciliae × N. pulchra\n\nN. merrilliana × N. mindanaoensis\n\nN. merrilliana × N. mirabilis\n\nN. mindanaoensis × N. truncata\n\nN. mindanaoensis × N. erucoides\n\nN. palawanensis × N. aff. philippinensis\n\n? N. petiolata × N. truncata\n\nIn addition, certain plants from Mount Hamiguitan are likely to represent crosses involving N. hamiguitanensis, N. justinae (previously identified as N. mindanaoensis), N. micramphora, and N. peltata.\n\nEndemic species with no known natural hybrids:\n\nN. abalata\n\nN. abgracilis\n\nN. aenigma\n\nN. alzapan\n\nN. argentii\n\nN. armin\n\nN. attenboroughii\n\nN. barcelonae\n\nN. cid\n\nN. copelandii\n\nN. cornuta\n\nN. deaniana\n\nN. extincta\n\nN. gantungensis\n\nN. graciliflora\n\nN. halmahera\n\nN. kitanglad\n\nN. leonardoi\n\nN. leyte\n\nN. mantalingajanensis\n\nN. mira\n\nN. negros\n\nN. philippinensis\n\nN. ramos\n\nN. robcantleyi\n\nN. samar\n\nN. saranganiensis\n\nN. sibuyanensis\n\nN. surigaoensis\n\nN. talaandig\n\nN. tboli\n\nN. ultra\n\nN. viridis\n\nN. weda\n\nN. zygon\n\nN. sp. Anipahan\n\nNepenthes petiolata may itself have evolved from a cross between N. alata and N. truncata. It has been suggested that N. extincta might represent a natural hybrid between N. merrilliana and N. mindanaoensis, as both of these species grow near the type locality of N. extincta and share many morphological features with it.\n\nPlants from Mount Hamiguitan that were originally thought to represent the natural hybrid N. micramphora × N. peltata are now recognised as belonging to a distinct species of possible hybridogenic origin, N. hamiguitanensis.\n\nNepenthes natural hybrids recorded from Peninsular Malaysia and Singapore.\n\nN. albomarginata × N. ampullaria *\n\nN. albomarginata × N. gracilis\n\n? N. albomarginata × N. sanguinea\n\nN. ampullaria × N. gracilis *\n\nN. ampullaria × N. mirabilis *\n\nN. ampullaria × N. rafflesiana *\n\nN. benstonei × N. mirabilis\n\nN. benstonei x N. rafflesiana\n\nN. gracilis × N. mirabilis *\n\nN. macfarlanei × N. ramispina\n\nN. macfarlanei × N. sanguinea\n\nN. mirabilis × N. rafflesiana *\n\nN. ramispina × N. sanguinea\n\nTwo natural hybrids have been recorded from Singapore: N. × hookeriana and N. × trichocarpa. As such, all three species from Singapore are known to hybridise.\n\nNepenthes natural hybrids recorded from Sulawesi.\n\n? N. eymae × N. maxima\n\nN. glabrata × N. hamata\n\nN. glabrata × N. maxima\n\nN. glabrata × N. nigra\n\nN. glabrata × N. tentaculata\n\nN. hamata × N. tentaculata\n\nN. maxima × N. tentaculata\n\nN. mirabilis × N. tomoriana\n\nN. nigra × N. tentaculata\n\nN. pitopangii × N. tentaculata\n\nEndemic species with no known natural hybrids:\n\nN. diabolica\n\nN. maryae\n\nN. undulatifolia\n\nNepenthes natural hybrids recorded from Indochina. For the purpose of this list, the area encompasses Cambodia, Laos, Myanmar, Thailand, and Vietnam.\n\nN. ampullaria × N. gracilis *\n\nN. ampullaria × N. mirabilis *\n\nN. andamana × N. mirabilis (including N. andamana × N. mirabilis var. globosa)\n\nN. bokorensis × N. kampotiana\n\nN. gracilis × N. mirabilis *\n\nN. kampotiana × N. mirabilis\n\nN. kongkandana × N. mirabilis\n\nN. mirabilis × N. smilesii\n\nN. mirabilis × N. thorelii\n\nIn addition, infraspecific hybrids between N. mirabilis var. globosa and N. mirabilis var. mirabilis are known to occur.\n\nEndemic species with no known natural hybrids:\n\nN. bokorensis\n\nN. chang\n\nN. holdenii\n\nN. kerrii\n\nN. rosea\n\nN. suratensis\n\nN. thai\n\nNepenthes natural hybrids recorded from New Guinea, the Maluku Islands, and surrounding islands.\n\nN. ampullaria × N. mirabilis *\n\nN. ampullaria × N. neoguineensis\n\nN. insignis × N. mirabilis\n\nN. klossii × N. maxima\n\nN. maxima × N. neoguineensis\n\n? N. paniculata × N. papuana\n\nEndemic species with no known natural hybrids:\n\nN. biak\n\nN. danseri\n\nN. lamii\n\nN. monticola\n\nN. treubiana\n\nN. sp. Misool\n\nNepenthes natural hybrids recorded from Australia.\n\nN. mirabilis × N. rowaniae\n\nN. mirabilis × N. tenax\n\nN. rowaniae × N. tenax\n\nComplex hybrids involving all three species are also common.\n\nAll three species from Australia are known to hybridise.\n\nThere are six additional species endemic to areas other than those listed above. These are:\n\nN. distillatoria (Sri Lanka)\n\nN. khasiana (India)\n\nN. madagascariensis (Madagascar)\n\nN. masoalensis (Madagascar)\n\nN. pervillei (Seychelles)\n\nN. vieillardii (New Caledonia)\n\nOf these, the only species that could conceivably hybridise in the wild are N. madagascariensis and N. masoalensis. Although the ranges of the two species used to meet near Cape Masoala, no natural hybrids have ever been recorded.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348558005",
+      "revision_id": "1348558005",
+      "text_sha256": "8dc7df1c80a0f1a8612cf20fd11af9bd7eaa0a15ad2848a64e210ad2c941e8bc",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:47:06.118754+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.674936294555664,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:77167075",
+      "title": "List of flora of Pennsylvania",
+      "corpus": "wikipedia",
+      "text": "This page alphabetically lists some known plant species occurring in the US state of Pennsylvania. Currently about 2,100 native and 1,300 non-native plant species are known in Pennsylvania. According to Pennsylvania Department of Conservation and Natural Resources, the known species make up 37% of Pennsylvania's total wild plant flora. More non-native species present in Pennsylvania are identified every year.\n\nNatives are marked with (N), non-natives marked with (I). As-of-yet uncertain entries not marked. Plants generally under scientific name.\n\nAbies balsamea balsamea (I)\n\nAbies balsamea phenerolepis (N)\n\nAcer negundo (N)\n\nAcer nigrum (N)\n\nAcer pensylvanicum (N)\n\nAcer rubrum (N)\n\nAcer saccharinum (N)\n\nAcer saccharum (N)\n\nAcer spicatum (N)\n\nAcorus americanus (N)\n\nAdiantum pedatum (N)\n\nAdlumia fungosa (N)\n\nAesculus flava (N)\n\nAesculus glabra (N)\n\nAilanthus altissima (I)\n\nAlisma subcordatum (N)\n\nAlisma triviale (N)\n\nAllium canadense (N)\n\nAllium tricoccum (N)\n\nAmauropelta noveboracensis (N)\n\nAmelanchier bartramiana (N)\n\nAmelanchier canadensis (N)\n\nAmelanchier humilis (N)\n\nAmelanchier laevis (N)\n\nAmelanchier nantucketensis (N)\n\nAmelanchier sanguinea (N)\n\nAmpelopsis cordata (N)\n\nAmphicarpaea bracteata (N)\n\nAndromeda polifolia latifolia (N)\n\nApios americana (N)\n\nApocynum cannabinum (N)\n\nAquilegia canadensis (N)\n\nAralia hispida (N)\n\nAralia nudicaulis (N)\n\nAralia racemosa (N)\n\nAralia spinosa (N)\n\nArctostaphylos uva-ursi (N)\n\nArisaema dracontium (N)\n\nArisaema triphyllum (N)\n\nAristolochia macrophylla (N)\n\nAronia arbutifolia (N)\n\nAronia melanocarpa (N)\n\nAsarum canadense (N)\n\nAsimina triloba (N)\n\nAsplenium rhizophyllum (N)\n\nAthyrium filix-femina (N)\n\nBarbarea orthoceras (N)\n\nBerberis aquifolium (I)\n\nBerberis canadensis (N)\n\nBerberis thunbergii (I)\n\nBetula alleghaniensis (N)\n\nBetula lenta (N)\n\nBetula nigra (N)\n\nBetula papyrifera (N)\n\nBetula populifolia (N)\n\nBlephilia ciliata (N)\n\nBlephilia hirsuta (N)\n\nBorodinia laevigata (N)\n\nCaltha palustris (N)\n\nCalycanthus floridus (N)\n\nCamassia scilloides (N)\n\nCampsis radicans (N)\n\nCardamine pensylvanica (N)\n\nCarex abscondita (N)\n\nCarex aestivalis (N)\n\nCarex aggregata (N)\n\nCarex alata (N)\n\nCarex albicans (N)\n\nCarex albolutescens (N)\n\nCarex albursina (N)\n\nCarex alopecoidea (N)\n\nCarex amphibola (N)\n\nCarex annectens (N)\n\nCarex appalachica (N)\n\nCarex aquatilis (N)\n\nCarex arctata (N)\n\nCarex argyrantha (N)\n\nCarex atherodes (N)\n\nCarex atlantica (N)\n\nCarex aurea (N)\n\nCarex backii (N)\n\nCarex baileyi (N)\n\nCarex barrattii (N)\n\nCarex bebbii (N)\n\nCarex bicknellii (N)\n\nCarex blanda (N)\n\nCarex brevior (N)\n\nCarex bromoides (N)\n\nCarex brunnescens (N)\n\nCarex bullata (N)\n\nCarex bushii (N)\n\nCarex buxbaumii (N)\n\nCarex canescens (N)\n\nCarex careyana (N)\n\nCarex cephalophora (N)\n\nCarex chordorrhiza (N)\n\nCarex collinsii (N)\n\nCarex communis (N)\n\nCarex comosa (N)\n\nCarex conjuncta (N)\n\nCarex conoidea (N)\n\nCarex crawei (N)\n\nCarex crawfordii (N)\n\nCarex crinita (N)\n\nCarex cristatella (N)\n\nCarex cryptolepis (N)\n\nCarex cumberlandensis (N)\n\nCarex cumulata (N)\n\nCarex davisii (N)\n\nCarex debilis (N)\n\nCarex deflexa (N)\n\nCarex demissa (I)\n\nCarex deweyana (N)\n\nCarex diandra (N)\n\nCarex digitalis (N)\n\nCarex disperma (N)\n\nCarex eburnea (N)\n\nCarex echinata (N)\n\nCarex emoryi (N)\n\nCarex exilis (N)\n\nCarex ferruginea (I)\n\nCarex festucacea (N)\n\nCarex flacca (I)\n\nCarex flava (N)\n\nCarex foenea (N)\n\nCarex folliculata (N)\n\nCarex formosa (N)\n\nCarex frankii (N)\n\nCarex fraseriana (N)\n\nCarex garberi (N)\n\nCarex gracillima (N)\n\nCarex granularis (N)\n\nCarex gravida (N)\n\nCarex grayi (N)\n\nCarex grisea (N)\n\nCarex gynandra (N)\n\nCarex haydenii (N)\n\nCarex hirsutella (N)\n\nCarex hirtifolia (N)\n\nCarex hitchcockiana (N)\n\nCarex houghtoniana\n\nCarex hystericina (N)\n\nCarex interior (N)\n\nCarex intumescens (N)\n\nCarex jamesii (N)\n\nCarex juniperorum\n\nCarex kobomugi (I)\n\nCarex lacustris (N)\n\nCarex lasiocarpa (N)\n\nCarex laxiculmis laxiculmis (N)\n\nCarex leporina\n\nCarex leptalea harperi (N)\n\nCarex leptonervia (N)\n\nCarex limosa (N)\n\nCarex livida\n\nCarex longii (N)\n\nCarex lucorum (N)\n\nCarex lupuliformis (N)\n\nCarex lupulina (N)\n\nCarex lurida (N)\n\nCarex trisperma (N)\n\nCarex willdenowii (N)\n\nCarex woodii (N)\n\nCarpinus caroliniana (N)\n\nCarya cordiformis (N)\n\nCarya glabra (N)\n\nCarya laciniosa (N)\n\nCarya ovalis (N)\n\nCarya ovata (N)\n\nCarya tomentosa (N)\n\nCastanea dentata (N)\n\nCeanothus americanus (N)\n\nCeltis occidentalis (N)\n\nCercis canadensis (N)\n\nChaerophyllum procumbens (N)\n\nChamaedaphne calyculata (N)\n\nChimaphila maculata (N)\n\nChimaphila umbellata cisatlantica (N)\n\nCichorium intybus (I)\n\nClematis occidentalis (N)\n\nClematis ochroleuca (N)\n\nClematis viorna (N)\n\nClematis virginiana (N)\n\nClinopodium vulgare\n\nClintonia borealis (N)\n\nClitoria mariana (N)\n\nConopholis americana (N)\n\nCornus alternifolia (N)\n\nCornus amomum (N)\n\nCornus canadensis (N)\n\nCornus florida (N)\n\nCornus obliqua (N)\n\nCornus racemosa (N)\n\nCornus rugosa (N)\n\nCorylus americana (N)\n\nCorylus cornuta (N)\n\nCrataegus arcana (N)\n\nCrataegus brainerdii (N)\n\nCrataegus calpodendron (N)\n\nCrataegus chrysocarpa (N)\n\nCrataegus crus-galli (N)\n\nCrataegus flabellata (N)\n\nCrataegus intricata (N)\n\nCrataegus macrosperma (N)\n\nCrataegus pennsylvanica (N)\n\nCrataegus persimilis (N)\n\nCrataegus pruinosa (N)\n\nCrataegus punctata (N)\n\nCrataegus succulenta (N)\n\nCroton monanthogynus (N)\n\nCryptotaenia canadensis (N)\n\nCunila origanoides (N)\n\nDrosera intermedia (N)\n\nEchinocystis lobata (N)\n\nEpigaea repens (N)\n\nEquisetum arvense (N)\n\nEquisetum fluviatile (N)\n\nEquisetum laevigatum (N)\n\nEquisetum palustre (N)\n\nEquisetum sylvaticum (N)\n\nErigenia bulbosa (N)\n\nEuonymus alatus (I)\n\nEuonymus atropurpureus (N)\n\nEuphorbia marginata (N)\n\nFagus grandifolia (N)\n\nFranklinia alatamaha (I)\n\nFraxinus americana (N)\n\nFraxinus nigra (N)\n\nFraxinus pennsylvanica (N)\n\nFraxinus profunda (N)\n\nGaultheria hispidula (N)\n\nGaultheria procumbens (N)\n\nGaylussacia baccata\n\nGaylussacia brachycera (N)\n\nGaylussacia dumosa\n\nGaylussacia frondosa (N)\n\nGleditsia triacanthos (N)\n\nGlycyrrhiza lepidota (N)\n\nGymnocladus dioicus (N)\n\nHamamelis virginiana (N)\n\nHeracleum maximum (N)\n\nHumulus lupulus lupuloides (N)\n\nIlex glabra (N)\n\nIlex montana (N)\n\nIlex mucronata (N)\n\nIlex opaca (N)\n\nIlex verticillata (N)\n\nJuglans cinerea (N)\n\nJuglans nigra (N)\n\nJuniperus virginiana (N)\n\nKalmia angustifolia (N)\n\nKalmia latifolia (N)\n\nKrigia biflora (N)\n\nLarix laricina (N)\n\nLepidium virginicum (N)\n\nLigusticum canadense (N)\n\nLilium canadense (N)\n\nLilium lancifolium (I)\n\nLilium philadelphicum (N)\n\nLindera benzoin (N)\n\nLycopodium clavatum clavatum (N)\n\nLycopodium lagopus (N)\n\nLyonia ligustrina (N)\n\nLysimachia borealis (N)\n\nMagnolia acuminata (N)\n\nMaianthemum canadense (N)\n\nMaianthemum racemosum (N)\n\nMalus coronaria (N)\n\nMedeola virginiana (N)\n\nMenispermum canadense (N)\n\nMentha arvensis (N)\n\nMentha canadensis (N)\n\nMenyanthes trifoliata minor (N)\n\nMikania scandens (N)\n\nMitchella repens (N)\n\nMonarda clinopodia (N)\n\nMonarda didyma (N)\n\nMonarda fistulosa (N)\n\nMonarda media (N)\n\nMonarda punctata\n\nMonotropa hypopitys (N)\n\nMonotropa uniflora (N)\n\nMorus rubra (N)\n\nMyrica pensylvanica (N)\n\nNelumbo lutea (N)\n\nNuphar advena (N)\n\nNyssa sylvatica (N)\n\nOenothera biennis (N)\n\nOnoclea sensibilis (N)\n\nOryzopsis asperifolia (N)\n\nOstrya virginiana (N)\n\nOxalis dillenii (N)\n\nOxalis grandis (N)\n\nOxalis montana (N)\n\nOxalis stricta (N)\n\nOxalis violacea (N)\n\nOxydendrum arboreum (N)\n\nPanax quinquefolius (N)\n\nPanax trifolius (N)\n\nParthenocissus inserta (N)\n\nPassiflora lutea (N)\n\nPersicaria amphibia (N)\n\nPersicaria arifolia (N)\n\nPersicaria extremiorientalis (I)\n\nPersicaria hydropiperoides (N)\n\nPersicaria lapathifolia (N)\n\nPersicaria longiseta (I)\n\nPersicaria maculosa (I)\n\nPersicaria nepalensis (I)\n\nPersicaria pensylvanica (N)\n\nPersicaria punctata (N)\n\nPersicaria sagittata (N)\n\nPersicaria virginiana (N)\n\nPhaseolus polystachios (N)\n\nPhoradendron leucarpum (N)\n\nPhragmites americanus (N)\n\nPhragmites australis (I)\n\nPhysalis virginiana (N)\n\nPhysocarpus opulifolius (N)\n\nPilea pumila (N)\n\nPinus echinata (N)\n\nPinus pungens (N)\n\nPinus resinosa (N)\n\nPinus rigida (N)\n\nPinus strobus (N)\n\nPinus virginiana (N)\n\nPlatanus occidentalis (N)\n\nPodophyllum peltatum (N)\n\nPolystichum acrostichoides (N)\n\nPopulus balsamifera (N)\n\nPopulus deltoides (N)\n\nPopulus grandidentata (N)\n\nPopulus tremuloides (N)\n\nProsartes lanuginosa (N)\n\nPrunus alleghaniensis (N)\n\nPrunus pensylvanica (N)\n\nPrunus pumila depressa (N)\n\nPrunus pumila susquehannae (N)\n\nPrunus serotina (N)\n\nPrunus virginiana (N)\n\nPtelea trifoliata (N)\n\nPycnanthemum incanum (N)\n\nPycnanthemum muticum (N)\n\nPycnanthemum pilosum (N)\n\nPycnanthemum tenuifolium (N)\n\nPycnanthemum torreyi (N)\n\nPycnanthemum virginianum (N)\n\nPyrularia pubera (N)\n\nQuercus alba (N)\n\nQuercus bicolor (N)\n\nQuercus coccinea (N)\n\nQuercus ilicifolia (N)\n\nQuercus macrocarpa (N)\n\nQuercus marilandica (N)\n\nQuercus michauxii\n\nQuercus montana (N)\n\nQuercus muehlenbergii (N)\n\nQuercus palustris (N)\n\nQuercus phellos (N)\n\nQuercus prinoides (N)\n\nQuercus rubra (N)\n\nQuercus shumardii (N)\n\nQuercus stellata (N)\n\nQuercus velutina (N)\n\nRanunculus allegheniensis (N)\n\nRanunculus pensylvanicus (N)\n\nRhododendron calendulaceum (N)\n\nRhododendron canadense (N)\n\nRhododendron canescens (N)\n\nRhododendron groenlandicum (N)\n\nRhododendron periclymenoides (N)\n\nRhus copallinum (N)\n\nRhus glabra (N)\n\nRhus typhina (N)\n\nRibes americanum (N)\n\nRibes aureum (I)\n\nRibes cynosbati (N)\n\nRibes glandulosum (N)\n\nRibes hudsonianum\n\nRibes lacustre (N)\n\nRibes triste (N)\n\nRobinia pseudoacacia (N)\n\nRorippa aquatica\n\nRosa canina (I)\n\nRosa carolina carolina (N)\n\nRosa multiflora (I)\n\nRosa palustris (N)\n\nRosa rugosa (I)\n\nRosa setigera (N)\n\nRosa virginiana (N)\n\nRubus allegheniensis (N)\n\nRubus argutus (N)\n\nRubus depavitus\n\nRubus flagellaris (N)\n\nRubus hispidus (N)\n\nRubus invisus (N)\n\nRubus occidentalis (N)\n\nSalicornia maritima (N)\n\nSalix amygdaloides\n\nSalix bebbiana (N)\n\nSalix caroliniana (N)\n\nSalix discolor (N)\n\nSalix exigua (N)\n\nSalix lucida (N)\n\nSalix myricoides\n\nSalix nigra (N)\n\nSalix pedicellaris (N)\n\nSalix petiolaris (N)\n\nSalix sericea (N)\n\nSambucus canadensis (N)\n\nSambucus racemosa pubens (N)\n\nSarracenia purpurea purpurea (N)\n\nSicyos angulatus (N)\n\nSitobolium punctilobulum (N)\n\nSorbus americana (N)\n\nStaphylea trifolia (N)\n\nStreptopus amplexifolius (N)\n\nStreptopus lanceolatus (N)\n\nTaraxacum officinale (I)\n\nThuja occidentalis (N)\n\nTilia americana (N)\n\nToxicodendron vernix (N)\n\nTrapa natans (I)\n\nTsuga canadensis (N)\n\nTypha angustifolia (I)\n\nTypha latifolia (N)\n\nUtricularia cornuta (N)\n\nUtricularia geminiscapa (N)\n\nUtricularia gibba (N)\n\nUtricularia inflata (I)\n\nUtricularia intermedia (N)\n\nUtricularia juncea (N)\n\nUtricularia macrorhiza (N)\n\nUtricularia minor (N)\n\nUtricularia ochroleuca (N)\n\nUtricularia olivacea (N)\n\nUtricularia purpurea (N)\n\nUtricularia radiata (N)\n\nUtricularia resupinata (N)\n\nUtricularia striata (N)\n\nUvularia grandiflora (N)\n\nUvularia perfoliata (N)\n\nUvularia puberula (N)\n\nUvularia sessilifolia (N)\n\nVaccinium angustifolium (N)\n\nVaccinium corymbosum (N)\n\nVaccinium formosum\n\nVaccinium macrocarpon (N)\n\nVaccinium pallidum (N)\n\nVaccinium stamineum\n\nVeratrum viride (N)\n\nViburnum acerifolium (N)\n\nViburnum cassinoides\n\nViburnum dentatum (N)\n\nViburnum dilatatum (I)\n\nViburnum edule (N)\n\nViburnum lantanoides\n\nViburnum lentago (N)\n\nViburnum nudum (N)\n\nViburnum prunifolium (N)\n\nViburnum rafinesqueanum (N)\n\nViburnum recognitum\n\nViburnum trilobum (N)\n\nViola adunca\n\nViola alba (N)\n\nViola appalachiensis (N)\n\nViola blanda (N)\n\nViola brittoniana (N)\n\nViola canadensis (N)\n\nViola cucullata (N)\n\nViola epipsila (I)\n\nViola eriocarpa (N)\n\nViola hastata\n\nViola hirsutula (N)\n\nViola labradorica\n\nViola lanceolata (N)\n\nViola macloskeyi (N)\n\nViola minuscula (N)\n\nViola nephrophylla (N)\n\nViola palmata (N)\n\nViola palustris\n\nViola pedata\n\nViola pubescens (N)\n\nViola rafinesquei (N)\n\nViola renifolia\n\nViola rostrata (N)\n\nViola sagittata (N)\n\nViola selkirkii (N)\n\nViola sororia (N)\n\nViola striata\n\nViola subsinuata (N)\n\nViola tricolor (I)\n\nVitis aestivalis (N)\n\nVitis labrusca\n\nWisteria frutescens (N)\n\nZanthoxylum americanum (N)",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1323031896",
+      "revision_id": "1323031896",
+      "text_sha256": "ff31f7fc9d44a3efb09348ad4e78eae5ed59070b18f497f20b5e398ebf08376a",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:47:08.026827+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.806889533996582,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:499",
+    "title": "Britannica page 499",
+    "corpus": "britannica",
+    "text": "<x_0.377><y_0.032>I N D T A<x_0.5615><y_0.057><class_Page-header>\n\n<x_0.8848><y_0.0414>187<x_0.9336><y_0.0625><class_Caption>\n\n<x_0.0742><y_0.0539>astonished that he should have given any credit). Also ander was the first who had invaded India. Arrin informed us that the Assocen, and other people who inhabited the country may called _Canadian_, had been tributary first to the Assyrians and then to the Alaska and Persians. As all this fertile provinces on the north-west of the Indus were incluently rekendent to be part of India, it is probable that what could travel from them is the sum mentioned in the ethnicized from which Hendreta drew his accounts of the annual revenue of the Persian empire, and that none of the provinces to the south of the Indus were ever subject to the kings of Peruis.\"—Deze Doctor offers free Mr Renel with respect to the surprise which Alexander and its many expressed when they saw the high tides at the month of the Indus. This he thinks might very naturally have been the case, notwithstanding what Herodeos had written, concerning the six and reflux observable in the Red sea. All that has been questioned by Hendodus concerning this phenomenon is, thus \"in the Red sea there is a regular abu and low of the tide every day!\" No wonder, therefore, the Macedonia should be surprised and terrified at the very high tides which presented themselves in the Indian ocean, which the few words of Herodotus above-mentioned bad by no means led them to ex poet. In like the commoner the Romans were surprised at the tides in the Atlantic, who they had compared some of the countries borrowing upon that ocean. Cea searches the attainment of life soalers as a proper tide in Britain which greatly damaged his feet; and, indeed, considering the very little rise of the tide in the Mediterranean, by which alone the Greek oil Roman had access, we may reckon the account given us by Arrian highly probablyaba.<x_0.4629><y_0.525><class_Text>\n\n<x_0.0586><y_0.5242>The country on each side the Indus was found, in the time of Alexander, to be in an degree inferior in populination to the Kingdom of Peter already mentioned. The climate, soil and production of India, as well as the manners and costumes of the inhabitants, are exactly described, and the descriptions found to correspond in a surprising manner wild modern accounts. The stated change of seasons now known by the name of musosaurs, the periodical mines, the resulting and in-undations of the rivers, will the appearance of the country during the time they continue, are particularly described. Two descriptions of the inhabitants are equally particular; their living entirely upon vegetable food, theiriction and tribes or casts, with many of the authorities related under the settled Burrow are to be met with in the accounts of Alexander’s expolitions. The military operations, however, extended but a very little way into India projects are called; so further indeed than the modern province of Labor, and the countries on the banks of the Indus from Mother to the sea ( though, had the lived to undertake another expedition as be intended, it is very probable that he would have subdued a system greater track of country nor indeed until any thing probably have set bounds to his conquests but dark or revoke in distant provinces of His empire. In order to reverse the abolition of these countries he subsided, Alexander found in necessary to build a number of fortified cities; and the farther eastward be extended his conquests, the more necessary did he find this task. Three he built in Ladia itself; two<x_0.459><y_0.9383><class_Text>\n\n<x_0.4727><y_0.0586>on the banks of the Hyddarpes, and a third on the Ace-since, both navigable rivers, falling into the Indus after they have united their streams. By means of these cities, it recorded not only to keep the adjacent com-ins in awe, but to promote a commercial intercourse betwix different parts both by land and water. With view view, also, on the return to Sues, ha surveyed in person the corner of the Diplomat and Parking, causing the marates or dams to be removed which the Persian monarcha had built to distract the separation of those rivers, in conformity to means of their superstition, that it was unlawful to eddie any of the elements,which they imagined was done by integration. After the navigation was opened in this manner, he proposed that the valuable commodities of India should be imported to the other parts of his dominions by means of the Persian gulf; while through the Red sea they were con-veyed to Alexandria in Egypt, and theme dispersed all were Europe.<x_0.8584><y_0.3148><class_Text>\n\n<x_0.4746><y_0.3133>The death of Alexander having put an end to all his great reference, the eastern part of his dominions devoted first on Pyde the son of Agence, and afterwards on Seleucus. The latter was very sensible of the advantage to the derived from keeping India in its projection. With this the underside mix ex-of Selecuse pedilion into that country, partly to establish him to India. Authority more perfectly, and partly to defend the Macedonia territories against Sanderson King of the Prasti, who threatened to attack them. The particulation of his expedition are very little towns; albeit being the only author that mentions them, and his authority in but of little weight, unless corroborated by the tenancy of other historians. Pittersch, who tells us that Selecons carried his names further into India than Alexander, is subject to an inspiration of the same body but Putty, whose authority for of considerably greater weight, corroborates the tenitoy of Pitarta to this instance, though this works are so obscure, that learned men differ in opinion concerning their meaning. Bayern thinke they imply that Selecus managed from the Hyghacs, the boundary of Alexander’s congests, to the Hydration, from theme to Pali-bohra, and then to the mouth of the Ganges ; the distances of the principal stations being marked, and amounting in all to 242 Russian miles. Notwithstanding this authority, however, Dr. Robertson thinks it very improbends that the expedition of Selecuses should have continued so long, as in the case \"the animals would have had a more accurate knowledge of that part of the country that they seen ever to have possessed?\"<x_0.959><y_0.725><class_Text>\n\n<x_0.4736><y_0.7242>The career of Seleucus in the east was stopped by Antiguous, who prepared to invade the western part of his dominions. The former washer to obliged to conclude a treaty with Sandrocuttos, whom he allowed to remain in quietness of his territories but Dr. Robertson is of opining, that during the lifetime of Seleucus, which continued 23 years after the death of Alexander, in domination of the Macedonia that territories of the place. With a view of keeping up a friendly intercourse with the Indian prime, Selecus sent Magistrates, one of Alexander officers on Pallethorn, capital of the kingdom of the Pacificholders. situated on the banks of the Ganges. This city is by Dr. Robertson supposed to be the modern Allahabad, seated at the codlox of the Jimna and Gangos coun-<x_0.8545><y_0.9422><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "a7283ea471b1eee6844dabd61c7f7b50a5e9f1e71852e693b74b82be8fd7bec9",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:54:17.386326+00:00",
+    "parser_receipt_sha256": "22783e15c2a798ce6b155c3cd3d90e0ddfa238b06598ade1daa897888931f7a2",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 369,
+      "occurred_at": "2026-10-18T17:47:05.294282+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 825,
+      "occurred_at": "2026-10-18T17:47:06.118836+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 567,
+      "occurred_at": "2026-10-18T17:47:06.708463+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 580,
+      "occurred_at": "2026-10-18T17:47:07.313993+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 696,
+      "occurred_at": "2026-10-18T17:47:08.026858+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 625,
+      "occurred_at": "2026-10-18T17:47:08.665158+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 603,
+      "occurred_at": "2026-10-18T17:47:09.281690+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 755,
+      "occurred_at": "2026-10-18T17:47:10.057501+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 843,
+      "occurred_at": "2026-10-18T17:47:10.922844+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 35,
+      "occurred_at": "2026-10-18T17:47:10.975207+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 818,
+      "occurred_at": "2026-10-18T17:47:11.792811+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 127,
+      "occurred_at": "2026-10-18T17:47:11.924680+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 4,
+      "occurred_at": "2026-10-18T17:47:11.928293+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 334,
+      "occurred_at": "2026-10-18T17:47:12.261891+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1162,
+    "modern_words": 743,
+    "vocabulary_jaccard": 0.036989795918367346,
+    "jensen_shannon_divergence": 0.8682637954268256,
+    "historical_top_words": [
+      [
+        "the",
+        127
+      ],
+      [
+        "of",
+        71
+      ],
+      [
+        "to",
+        43
+      ],
+      [
+        "in",
+        31
+      ],
+      [
+        "and",
+        26
+      ],
+      [
+        "that",
+        19
+      ],
+      [
+        "a",
+        13
+      ],
+      [
+        "his",
+        13
+      ],
+      [
+        "by",
+        12
+      ],
+      [
+        "this",
+        10
+      ],
+      [
+        "on",
+        10
+      ],
+      [
+        "be",
+        9
+      ],
+      [
+        "which",
+        9
+      ],
+      [
+        "alexander",
+        9
+      ],
+      [
+        "he",
+        8
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "n",
+        256
+      ],
+      [
+        "species",
+        30
+      ],
+      [
+        "nepenthes",
+        28
+      ],
+      [
+        "from",
+        27
+      ],
+      [
+        "recorded",
+        26
+      ],
+      [
+        "mirabilis",
+        18
+      ],
+      [
+        "the",
+        10
+      ],
+      [
+        "ampullaria",
+        7
+      ],
+      [
+        "gracilis",
+        7
+      ],
+      [
+        "islands",
+        5
+      ],
+      [
+        "of",
+        4
+      ],
+      [
+        "rafflesiana",
+        4
+      ],
+      [
+        "maxima",
+        4
+      ],
+      [
+        "smilesii",
+        4
+      ],
+      [
+        "is",
+        3
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "i n d t",
+  "semantic_input": {
+    "query": "i n d t\nI N D T A\n\n187\n\nastonished that he should have given any credit). Also ander was the first who had invaded India. Arrin informed us that the Assocen, and other people who inhabited the country may called _Canadian_, had been tributary first to the Assyrians and then to the Alaska and Persians. As all this fertile provinces on the north-west of the Indus were incluently rekendent to be part of India, it is probable that what could travel from them is the sum mentioned in the ethnicized from which Hendreta drew his accounts of the annual revenue of the Persian empire, and that none of the provinces to the south of the Indus were ever subject to the kings of Peruis.\"—Deze Doctor offers free Mr Renel with respect to the surprise which Alexander and its many expressed when they saw the high tides at the month of the Indus. This he thinks might very naturally have been the case, notwithstanding what Herodeos had written, concerning the six and reflux observable in the Red sea. All that has b",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.15626955032348633,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

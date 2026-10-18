@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "E S S [ 729 ] E S S",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:23988417",
+      "title": "Erioptera",
+      "corpus": "wikipedia",
+      "text": "Erioptera is a genus of crane fly in the family Limoniidae.\n\nSubgenus Alcheringa Theischinger, 1994\n\nE. amabilis Alexander, 1926\n\nSubgenus Ctenerioptera Alexander, 1961\n\nE. caledonia Alexander, 1948\n\nE. derasa Edwards, 1931\n\nE. ferruginea Brunetti, 1912\n\nE. pectinella Alexander, 1961\n\nE. sziladyi Alexander, 1934\n\nSubgenus Erioptera Meigen, 1803\n\nE. abrasa Edwards, 1928\n\nE. acucuspis Alexander, 1976\n\nE. alanstonei Alexander, 1977\n\nE. alboguttata Edwards, 1916\n\nE. aletschina Stary, 1997\n\nE. alta Alexander, 1932\n\nE. andina Alexander, 1913\n\nE. angolana Alexander, 1963\n\nE. angusticincta Alexander, 1956\n\nE. annulipes Williston, 1896\n\nE. apicialba Alexander, 1921\n\nE. badicincta Alexander, 1974\n\nE. beckeri Kuntze, 1914\n\nE. beebeana Alexander, 1950\n\nE. bequaerti Alexander, 1923\n\nE. biaculeata Savchenko, 1981\n\nE. biarmata Alexander, 1934\n\nE. biobtusa Alexander, 1956\n\nE. brahma Alexander, 1966\n\nE. brevirama Alexander, 1931\n\nE. bryantiana Alexander, 1929\n\nE. cacuminis Edwards, 1926\n\nE. carior Alexander, 1920\n\nE. carissima Alexander, 1920\n\nE. celestissima Alexander, 1956\n\nE. cervula Savchenko, 1972\n\nE. chlorophylla Osten Sacken, 1860\n\nE. chlorophylloides Alexander, 1919\n\nE. circumambiens Alexander, 1957\n\nE. cladophora Alexander, 1920\n\nE. cladophoroides Alexander, 1921\n\nE. connata Alexander, 1972\n\nE. coolbyngga Theischinger, 1994\n\nE. cornuta Savchenko, 1984\n\nE. cristata Alexander, 1956\n\nE. dama Alexander, 1958\n\nE. dampfi Alexander, 1927\n\nE. diplacantha Alexander, 1931\n\nE. distinguenda Stary, 1983\n\nE. divisa (Walker, 1848)\n\nE. dyari Alexander, 1924\n\nE. ebenina Alexander, 1926\n\nE. euzona Alexander, 1970\n\nE. flavata (Westhoff, 1882)\n\nE. flavohumeralis Alexander, 1924\n\nE. funesta Alexander, 1926\n\nE. furcifer Alexander, 1919\n\nE. fuscipennis Meigen, 1818\n\nE. fusculenta Edwards, 1938\n\nE. galbinocosta Alexander, 1960\n\nE. gaspeana Alexander, 1929\n\nE. genuatra Alexander, 1953\n\nE. georgei Alexander, 1956\n\nE. gorgona Savchenko, 1981\n\nE. grandior Brunetti, 1912\n\nE. griseipennis Meigen, 1838\n\nE. haplostyla Alexander, 1934\n\nE. himalayae Alexander, 1930\n\nE. hohensis Alexander, 1949\n\nE. horii Alexander, 1924\n\nE. impensa Alexander, 1957\n\nE. interrita Alexander, 1970\n\nE. inusitata Alexander, 1976\n\nE. juvenilis Alexander, 1933\n\nE. karisimbii Alexander, 1956\n\nE. kluaneana Alexander, 1955\n\nE. laticrista Savchenko, 1977\n\nE. leptostyla Alexander, 1940\n\nE. leucosticta Alexander, 1933\n\nE. limbata Loew, 1873\n\nE. litostyla Alexander, 1966\n\nE. longicauda Loew, 1871\n\nE. lucerna Alexander, 1926\n\nE. lunicola Alexander, 1932\n\nE. lunigera Alexander, 1929\n\nE. lutea Meigen, 1804\n\nE. luteicornis Alexander, 1930\n\nE. mediofusca Alexander, 1940\n\nE. megalops Alexander, 1975\n\nE. megophthalma Alexander, 1918\n\nE. meijerei Edwards, 1921\n\nE. micromyia Alexander, 1920\n\nE. minor de Meijere, 1920\n\nE. multiannulata Alexander, 1937\n\nE. murudensis Edwards, 1926\n\nE. nielseni de Meijere, 1921\n\nE. nigripalpis de Meijere, 1913\n\nE. nitidiuscula Alexander, 1920\n\nE. oceanica Alexander, 1914\n\nE. orbitalis Alexander, 1924\n\nE. orientalis Brunetti, 1912\n\nE. osceola Alexander, 1933\n\nE. otayba Theischinger, 1994\n\nE. palliclavata Alexander, 1936\n\nE. pallidivena Alexander, 1938\n\nE. parviclava Alexander, 1974\n\nE. pederi Tjeder, 1969\n\nE. perexquisita Alexander, 1978\n\nE. peringueyi Bergroth, 1888\n\nE. phoinix Savchenko, 1972\n\nE. pila Alexander, 1966\n\nE. polydonta Alexander, 1944\n\nE. polytricha Alexander, 1945\n\nE. pompalis Alexander, 1957\n\nE. quadricincta Alexander, 1927\n\nE. quadrihamata Savchenko, 1972\n\nE. quinquecincta Alexander, 1927\n\nE. rubripes Alexander, 1931\n\nE. scolophora Alexander, 1973\n\nE. scolostyla Alexander, 1962\n\nE. seminole Alexander, 1933\n\nE. septemtrionis Osten Sacken, 1860\n\nE. setipennis Alexander, 1956\n\nE. sexaculeata Alexander, 1940\n\nE. sordida Zetterstedt, 1838\n\nE. squalida Loew, 1871\n\nE. straminea Osten Sacken, 1869\n\nE. subchlorophylla Alexander, 1919\n\nE. subfurcifer Alexander, 1929\n\nE. subhalterata Alexander, 1960\n\nE. subirrorata Alexander, 1920\n\nE. susurra Alexander, 1945\n\nE. tahanensis Edwards, 1928\n\nE. tenuirama Savchenko, 1972\n\nE. tordi Tjeder, 1973\n\nE. transmarina Bergroth, 1889\n\nE. trivittata Lindner, 1958\n\nE. uliginosa Alexander, 1930\n\nE. urania Alexander, 1944\n\nE. verralli Edwards, 1921\n\nE. vespertina Osten Sacken, 1860\n\nE. villosa Osten Sacken, 1860\n\nE. viridula Alexander, 1929\n\nE. wellsae Theischinger, 1994\n\nE. xanthoptera Alexander, 1924\n\nE. yarraga Theischinger, 1994\n\nE. yarto Theischinger, 1994\n\nE. yukonensis Alexander, 1955\n\nSubgenus Hespererioptera Alexander, 1972\n\nE. oregonensis Alexander, 1920\n\nSubgenus Lepidocyphona Alexander, 1972\n\nE. rubia Alexander, 1914\n\nSubgenus Mesocyphona Osten Sacken, 1869\n\nE. aglaia Alexander, 1945\n\nE. albicapitella (Edwards, 1912)\n\nE. apicinigra Alexander, 1927\n\nE. bicinctipes Alexander, 1913\n\nE. bievexa Alexander, 1967\n\nE. bivittata (Loew, 1873)\n\nE. caliptera Say, 1823\n\nE. celestior Alexander, 1957\n\nE. conica (Savchenko, 1972)\n\nE. costalis Alexander, 1913\n\nE. cynthia Alexander, 1946\n\nE. diffusa Alexander, 1921\n\nE. distincta Alexander, 1912\n\nE. dulcis Osten Sacken, 1877\n\nE. eiseni Alexander, 1913\n\nE. euphrosyne Alexander, 1945\n\nE. evergladea Alexander, 1933\n\nE. factiosa Alexander, 1943\n\nE. femoraatra Alexander, 1950\n\nE. fossarum (Loew, 1873)\n\nE. fuscodiscalis Alexander, 1938\n\nE. gagneana Alexander, 1970\n\nE. gulosa Alexander, 1943\n\nE. histrio Alexander, 1945\n\nE. immaculata Alexander, 1913\n\nE. incurvata Alexander, 1971\n\nE. inornatipes Alexander, 1925\n\nE. intercepta Alexander, 1947\n\nE. invariegata Alexander, 1921\n\nE. iquitosensis Alexander, 1946\n\nE. knabi Alexander, 1913\n\nE. latilimbata Alexander, 1970\n\nE. leonensis Alexander, 1946\n\nE. leucopasta Alexander, 1927\n\nE. lilliputina (Savchenko, 1972)\n\nE. maculosa (Edwards, 1912)\n\nE. melanderiana Alexander, 1946\n\nE. minuta (Lackschewitz, 1940)\n\nE. modica Alexander, 1927\n\nE. needhami Alexander, 1918\n\nE. pachyrhampha Alexander, 1967\n\nE. parva Osten Sacken, 1860\n\nE. portoricensis Alexander, 1933\n\nE. quadrifurcata Alexander, 1928\n\nE. saturata Alexander, 1927\n\nE. scabrifolia Alexander, 1967\n\nE. serpentina Alexander, 1941\n\nE. spinifera (Savchenko, 1972)\n\nE. splendida Alexander, 1913\n\nE. subcynthia Alexander, 1967\n\nE. subdulcis Alexander, 1937\n\nE. subhistrio Alexander, 1967\n\nE. surinamensis Alexander, 1947\n\nE. tantilla Alexander, 1916\n\nE. testacea (Lackschewitz, 1964)\n\nE. thalia Alexander, 1945\n\nE. triangularis Alexander, 1945\n\nE. troglodyta Edwards, 1918\n\nE. turrialbae Alexander, 1945\n\nE. venustipes Alexander, 1926\n\nE. whitei Alexander, 1930\n\nE. withycombei Alexander, 1930\n\nSubgenus Meterioptera Alexander, 1934\n\nE. ablusa Alexander, 1958\n\nE. angustifascia Alexander, 1920\n\nE. bengalensis Alexander, 1921\n\nE. beninensis Alexander, 1976\n\nE. bicornifer Alexander, 1921\n\nE. dewulfi Alexander, 1956\n\nE. ensifera Alexander, 1930\n\nE. fervida Alexander, 1934\n\nE. festiva Alexander, 1934\n\nE. fumipennis Alexander, 1921\n\nE. geniculata Edwards, 1931\n\nE. genualis Edwards, 1934\n\nE. halterata Brunetti, 1912\n\nE. illingworthi Alexander, 1920\n\nE. insignis Edwards, 1916\n\nE. javanensis de Meijere, 1911\n\nE. luzonica Alexander, 1917\n\nE. nigrospica Alexander, 1976\n\nE. notata de Meijere, 1911\n\nE. pergracilis Alexander, 1975\n\nE. persinuata Alexander, 1964\n\nE. quadripilata Alexander, 1958\n\nE. quadrispicata Alexander, 1949\n\nE. raphidostyla Alexander, 1978\n\nE. scioptera Alexander, 1956\n\nE. simulans Alexander, 1926\n\nE. subaurea Bergroth, 1888\n\nE. thaumasta Alexander, 1950\n\nE. thelema Alexander, 1962\n\nSubgenus Tasiocerodes Alexander, 1958\n\nE. cnephosa Alexander, 1966\n\nE. nepalensis Alexander, 1957\n\nE. persessilis Alexander, 1958\n\nE. subsessilis Alexander, 1924\n\nSubgenus Teleneura Alexander, 1931\n\nE. acanthapophysis Alexander, 1973\n\nE. annandaleana Alexander, 1953\n\nE. argentifrons Edwards, 1928\n\nE. ctenophora Alexander, 1966\n\nE. fusca de Meijere, 1913\n\nE. laetipes Alexander, 1968\n\nE. leucopoda Alexander, 1932\n\nE. lushaiensis Alexander, 1966\n\nE. luteiclavata Alexander, 1932\n\nE. melanotaenia Alexander, 1931\n\nE. nebulifera Alexander, 1953\n\nE. nigribasis Edwards, 1928\n\nE. parallela Brunetti, 1912\n\nE. pennigera Alexander, 1954\n\nE. perlugubris Alexander, 1940\n\nE. perornata Alexander, 1934\n\nE. subfusca Edwards, 1919\n\nSubgenus Teucherioptera Alexander, 1972\n\nE. chrysocoma Osten Sacken, 1860\n\nE. chrysocomoides Alexander, 1929\n\nUnplaced\n\nE. amamiensis Alexander, 1956\n\nE. balioptera Alexander, 1966\n\nE. fuscoradialis Alexander, 1950\n\nE. grumula Alexander, 1957\n\nE. incerta Brunetti, 1912\n\nE. incompleta Senior-White, 1922\n\nE. paivai Alexander, 1927\n\nE. perpictula Alexander, 1931\n\nE. regina Alexander, 1959\n\nE. rex Alexander, 1952\n\nE. rhadinostyla Alexander, 1957\n\nE. rogersi Alexander, 1923\n\nE. tiro Alexander, 1954\n\nUncertain (these additional species may have a subgenus)\n\nE. armata Osten Sacken, 1859\n\nE. armillaris Osten Sacken, 1869\n\nE. asiatica Alexander, 1919\n\nE. bipartita Osten Sacken, 1877\n\nE. bispinigera Alexander, 1930\n\nE. bispinosa\n\nE. bisulca Alexander, 1949\n\nE. cana\n\nE. carsoni Alexander, 1955\n\nE. chaetophora Alexander, 1968\n\nE. churchillensis Alexander, 1938\n\nE. cramptonella (Alexander, 1931)\n\nE. denali Alexander, 1955\n\nE. dorothea Alexander, 1914\n\nE. ecalcar Alexander, 1949\n\nE. empedoides\n\nE. estella Alexander, 1955\n\nE. graphica Osten Sacken, 1859\n\nE. grata Loew\n\nE. hybrida (Meigen, 1804)\n\nE. hygropetrica Alexander, 1943\n\nE. indianensis Alexander, 1922\n\nE. irata Alexander, 1949\n\nE. laticeps Alexander, 1916\n\nE. lucia Alexander, 1914\n\nE. maria Alexander, 1948\n\nE. mckinleyana Alexander, 1955\n\nE. megarhabda (Alexander, 1943)\n\nE. microcellula Alexander, 1914\n\nE. neomexicana Alexander, 1929\n\nE. nitida\n\nE. novaezemblae\n\nE. nubilosa Alexander, 1956\n\nE. octobris Gavryushin, 2011\n\nE. palomarica\n\nE. pauliani Seguy, 1960\n\nE. peayi Alexander, 1948\n\nE. pilipes\n\nE. platymera Alexander, 1968\n\nE. polycantha Alexander, 1945\n\nE. rainieria Alexander, 1943\n\nE. recurva Alexander, 1949\n\nE. sheldoni Alexander, 1955\n\nE. shoshone Alexander, 1945\n\nE. sinawava Alexander, 1948\n\nE. sparsa Alexander, 1919\n\nE. squamosa\n\nE. stictica Meigen\n\nE. sunwapta Alexander, 1952\n\nE. sweetmani Alexander, 1940\n\nE. telfordi Alexander, 1948\n\nE. tripartita\n\nE. venusta Osten Sacken, 1859\n\nE. zukeli Alexander, 1940",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1336764383",
+      "revision_id": "1336764383",
+      "text_sha256": "fc5cf5d52f9b691194eb36b6f76b0072dd8d3ff36d53e8b0ee84aefedc129eaa",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:36.377799+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.189795970916748,
+      "vector_distance": 0.8698282241821289,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:23988412",
+      "title": "Epiphragma",
+      "corpus": "wikipedia",
+      "text": "Epiphragma is a genus of crane fly in the family Limoniidae.\n\nSubgenus Epiphragma Osten Sacken, 1860\n\nE. adoxum Alexander, 1953\n\nE. adspersum (Wiedemann, 1828)\n\nE. amphileucum Alexander, 1941\n\nE. ancistrum Mao & Yang, 2009\n\nE. annulicorne Alexander, 1921\n\nE. arizonense Alexander, 1946\n\nE. atroterminatum Alexander, 1943\n\nE. auricosta Alexander, 1939\n\nE. bicinctiferum Alexander, 1935\n\nE. binigrocinctum Alexander, 1962\n\nE. breve Mao & Yang, 2009\n\nE. buscki Alexander, 1913\n\nE. caligatum Alexander, 1954\n\nE. caribicum Alexander, 1970\n\nE. celator Alexander, 1946\n\nE. chionopezum Alexander, 1960\n\nE. circinatum Osten Sacken, 1886\n\nE. claudia Alexander, 1946\n\nE. collessi Theischinger, 1996\n\nE. commopterum Alexander, 1966\n\nE. cordillerense Alexander, 1913\n\nE. cubense Alexander, 1930\n\nE. cynotis Alexander, 1946\n\nE. delectabile Alexander, 1979\n\nE. deliberatum Alexander, 1939\n\nE. delicatulum Osten Sacken, 1888\n\nE. diadema Alexander, 1939\n\nE. distivena Alexander, 1932\n\nE. divisum Alexander, 1923\n\nE. dysaithrium Alexander, 1966\n\nE. dysommatum Alexander, 1965\n\nE. elongatum Mao & Yang, 2009\n\nE. enixoides Alexander, 1962\n\nE. enixum Alexander, 1939\n\nE. evanescens Alexander, 1940\n\nE. fabricii Alexander, 1913\n\nE. farri Alexander, 1951\n\nE. fasciapenne (Say, 1823)\n\nE. felix Alexander, 1943\n\nE. filiforme Alexander, 1940\n\nE. fuscodiscale Alexander, 1936\n\nE. fuscoterminale Alexander, 1948\n\nE. gaigei Alexander, 1929\n\nE. genuale Alexander, 1934\n\nE. gloriolum Alexander, 1936\n\nE. gracilicorne Alexander, 1916\n\nE. gracilistylus Alexander, 1933\n\nE. hardyi Alexander, 1922\n\nE. hebridense Alexander, 1924\n\nE. hirtistylatum Alexander, 1939\n\nE. histrio Schiner, 1868\n\nE. howense Alexander, 1922\n\nE. illingworthi (Alexander, 1921)\n\nE. imitans Alexander, 1913\n\nE. immaculipes Alexander, 1941\n\nE. inaequicinctum Alexander, 1941\n\nE. inornatipes Alexander, 1939\n\nE. insigne van der Wulp, 1878\n\nE. insperatum Alexander, 1960\n\nE. interspersum Alexander, 1953\n\nE. juquicola Alexander, 1945\n\nE. jurator Alexander, 1948\n\nE. kempi Brunetti, 1913\n\nE. kerberti de Meijere, 1919\n\nE. klossi Brunetti, 1918\n\nE. lipophleps Alexander, 1979\n\nE. mediale Mao & Yang, 2009\n\nE. melaxanthum Alexander, 1943\n\nE. mephistophelicum Alexander, 1947\n\nE. meridionalis Alexander, 1928\n\nE. mithras Alexander, 1949\n\nE. muscicola Alexander, 1943\n\nE. nebulosum (Bellardi, 1859)\n\nE. nephele Alexander, 1948\n\nE. nigripleuralis Alexander, 1945\n\nE. nigroplagiatum Alexander, 1939\n\nE. nymphicum Alexander, 1928\n\nE. ocellare (Linnaeus, 1760)\n\nE. oreonympha Alexander, 1928\n\nE. ornatipenne (Brunetti, 1918)\n\nE. oxyphallus Alexander, 1939\n\nE. parviseta Alexander, 1941\n\nE. pendleburyi Edwards, 1928\n\nE. perocellatum Alexander, 1966\n\nE. persanctum Alexander, 1938\n\nE. petalinum Alexander, 1947\n\nE. petulantia Alexander, 1948\n\nE. phaeoxanthum Alexander, 1944\n\nE. punctatissimum (Wiedemann, 1828)\n\nE. pupillatum Alexander, 1913\n\nE. retrorsum Alexander, 1968\n\nE. rhododendri Alexander, 1966\n\nE. risorium Alexander, 1962\n\nE. sackeni Williston, 1896\n\nE. sappho Alexander, 1943\n\nE. schmiederi Alexander, 1968\n\nE. scoptes Alexander, 1965\n\nE. septuosum Alexander, 1962\n\nE. serristyla Alexander, 1945\n\nE. signatum de Meijere, 1911\n\nE. solatrix (Osten Sacken, 1860)\n\nE. subenixum Alexander, 1939\n\nE. subfascipenne Alexander, 1920\n\nE. subinsigne Alexander, 1920\n\nE. subobsoletum Alexander, 1936\n\nE. subsolatrix Alexander, 1939\n\nE. subvicinum Alexander, 1966\n\nE. sultanum Alexander, 1938\n\nE. sybariticum Alexander, 1947\n\nE. terraereginae Alexander, 1922\n\nE. trichomerum Alexander, 1955\n\nE. varium (Wiedemann, 1828)\n\nE. vicinum Brunetti, 1918\n\nE. xanthomela Alexander, 1939\n\nE. yunnanense Mao & Yang, 2009\n\nSubgenus Eupolyphragma Alexander, 1948\n\nE. angusticrenulum Alexander, 1931\n\nE. apoense Alexander, 1931\n\nE. bakeri Alexander, 1922\n\nE. caninotum Alexander, 1931\n\nE. cinereinotum Alexander, 1931\n\nE. crenulatum Alexander, 1930\n\nE. flavosternatum Alexander, 1930\n\nE. fulvinotum Alexander, 1931\n\nE. fuscinotum Alexander, 1931\n\nE. fuscofasciatum Alexander, 1931\n\nE. fuscosternatum Alexander, 1930\n\nE. griseicapillum Alexander, 1931\n\nE. hastatum Alexander, 1931\n\nE. incisurale Alexander, 1932\n\nE. joculator Alexander, 1960\n\nE. latitergatum Alexander, 1931\n\nE. minahassanum Alexander, 1935\n\nE. multiplex Alexander, 1960\n\nE. nigrotibiatum Alexander, 1931\n\nE. ochrinotum Alexander, 1930\n\nE. parvilobum Alexander, 1931\n\nE. riveranum Alexander, 1932\n\nE. staplesi Alexander, 1948\n\nE. subcrenulatum Alexander, 1931\n\nE. triarmatum Alexander, 1931\n\nSubgenus Lipophragma Alexander, 1978\n\nE. garrigoui (Alexander, 1948)\n\nSubgenus Parepiphragma Alexander, 1960\n\nE. (Parepiphragma) perideles Alexander, 1960\n\nUncertain placement:\n\nE. infractum Alexander, 1948",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1250106972",
+      "revision_id": "1250106972",
+      "text_sha256": "443ba3923983cbbc8823df6ad15a3db40a70fa308810736a8354f58f4c6ee96c",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:37.671371+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.276165962219238,
+      "vector_distance": 0.8773978352546692,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:75165526",
+      "title": "List of Aldama species",
+      "corpus": "wikipedia",
+      "text": "This is a list of the plant species in the genus Aldama. Many are former species of Viguiera (subtribe Helianthinae) that were transferred over after DNA analysis in 2011.\n\nAs of 10 October 2023, the Plants of the World Online lists up to 118 species, while World Flora Online lists about 115 species.\n\nAldama adenotricha (S.F.Blake) E.E.Schill. & Panero\n\nAldama amphichlora (S.F.Blake) E.E.Schill. & Panero\n\nAldama anchusifolia (DC.) E.E.Schill. & Panero\n\nAldama angustifolia (Hook. & Arn.) E.E.Schill. & Panero\n\nAldama angustissima (S.F.Blake) E.E.Schill. & Panero\n\nAldama apiculata (S.F.Blake) E.E.Schill. & Panero\n\nAldama arenaria (Baker) E.E.Schill. & Panero\n\nAldama aspilioides (Baker) E.E.Schill. & Panero\n\nAldama atacamensis (Phil.) E.E.Schill. & Panero\n\nAldama australis (S.F.Blake) E.E.Schill. & Panero\n\nAldama ayutlana (B.L.Turner) B.L.Turner\n\nAldama bakeriana (S.F.Blake) E.E.Schill. & Panero\n\nAldama bishopii (H.Rob.) E.E.Schill. & Panero\n\nAldama bracteata (Gardner) E.E.Schill. & Panero\n\nAldama brandegeei (A.M.Carter) E.E.Schill. & Panero\n\nAldama breviflosculosa (S.F.Blake) E.E.Schill. & Panero\n\nAldama brittonii (Hochr.) E.E.Schill. & Panero\n\nAldama buddlejiformis (DC.) E.E.Schill. & Panero\n\nAldama canescens (B.L.Rob.) E.E.Schill. & Panero\n\nAldama congesta (Rose ex O.Hoffm.) E.E.Schill. & Panero\n\nAldama coraniana (A.A.Sáenz) E.E.Schill. & Panero\n\nAldama cordifolia (A.Gray) E.E.Schill. & Panero\n\nAldama cornifolia (Kunth) E.E.Schill. & Panero\n\nAldama corumbensis (Malme) Magenta & Pirani\n\nAldama densifolia (Baker) E.E.Schill. & Panero\n\nAldama dentata La Llave\n\nAldama dilloniorum (A.J.Moore & H.Rob.) E.E.Schill. & Panero\n\nAldama discolor (Baker) E.E.Schill. & Panero\n\nAldama ellenbergii (Cuatrec.) E.E.Schill. & Panero\n\nAldama emaciata (H.Rob. & A.J.Moore) E.E.Schill. & Panero\n\nAldama ensifolia (Sch.Bip.) E.E.Schill. & Panero\n\nAldama excelsa (Willd.) E.E.Schill. & Panero\n\nAldama fabrisii (A.A.Sáenz) E.E.Schill. & Panero\n\nAldama filifolia (Sch.Bip. ex Baker) E.E.Schill. & Panero\n\nAldama flava (Hemsl.) E.E.Schill. & Panero\n\nAldama fruticosa (Brandegee) E.E.Schill. & Panero\n\nAldama fusiformis (S.F.Blake) E.E.Schill. & Panero\n\nAldama gardneri (Baker) E.E.Schill. & Panero\n\nAldama gentryi (B.L.Turner) E.E.Schill. & Panero\n\nAldama ghiesbreghtii (Hemsl.) E.E.Schill. & Panero\n\nAldama gilliesii (Hook. & Arn.) E.E.Schill. & Panero\n\nAldama glomerata (Brandegee) E.E.Schill. & Panero\n\nAldama goldmanii (Greenm.) E.E.Schill. & Panero\n\nAldama goyasensis (H.Rob. & A.J.Moore) E.E.Schill. & Panero\n\nAldama goyazii E.E.Schill. & Panero\n\nAldama grahamii (McVaugh) E.E.Schill. & Panero\n\nAldama grandiflora (Gardner) E.E.Schill. & Panero\n\nAldama guaranitica (Chodat) E.E.Schill. & Panero\n\nAldama hatschbachii (H.Rob. & A.J.Moore) E.E.Schill. & Panero\n\nAldama helianthoides (Rich.) E.E.Schill. & Panero\n\nAldama hilairei (S.F.Blake) E.E.Schill. & Panero\n\nAldama hispida (Kunth) E.E.Schill. & Panero\n\nAldama huajicoria (B.L.Turner) B.L.Turner\n\nAldama hypochlora (S.F.Blake) E.E.Schill. & Panero\n\nAldama hypoleuca (S.F.Blake) E.E.Schill. & Panero\n\nAldama iltisii (B.L.Turner) B.L.Turner\n\nAldama incana (Pers.) E.E.Schill. & Panero\n\nAldama kingii (H.Rob.) E.E.Schill. & Panero\n\nAldama knobiana (Mondin & Magenta) E.E.Schill. & Panero\n\nAldama kunthiana (Gardner) E.E.Schill. & Panero\n\nAldama lanceolata (Britton) E.E.Schill. & Panero\n\nAldama latibracteata (Hemsl.) E.E.Schill. & Panero\n\nAldama laxicymosa (H.Rob. & A.J.Moore) E.E.Schill. & Panero\n\nAldama linearifolia (Chodat) E.E.Schill. & Panero\n\nAldama linearis (Cav.) E.E.Schill. & Panero\n\nAldama macbridei (S.F.Blake) E.E.Schill. & Panero\n\nAldama macropoda (S.F.Blake) E.E.Schill. & Panero\n\nAldama macrorhiza (Baker) E.E.Schill. & Panero\n\nAldama media (S.F.Blake) E.E.Schill. & Panero\n\nAldama megapotamica (Malme) Magenta & Pirani\n\nAldama meridionalis (Magenta) E.E.Schill. & Panero\n\nAldama mesoamericana N.A.Harriman\n\nAldama michoacana (B.L.Turner & F.G.Davies) E.E.Schill. & Panero\n\nAldama misionensis (A.A.Sáenz) S.E.Freire\n\nAldama mollis (Griseb.) E.E.Schill. & Panero\n\nAldama montana (Rose) E.E.Schill. & Panero\n\nAldama morelensis (S.F.Blake) E.E.Schill. & Panero\n\nAldama nervosa (Gardner) E.E.Schill. & Panero\n\nAldama nesomii (B.L.Turner) E.E.Schill. & Panero\n\nAldama nudibasillaris (S.F.Blake) E.E.Schill. & Panero\n\nAldama nudicaulis (Baker) E.E.Schill. & Panero\n\nAldama oblongifolia (Gardner) E.E.Schill. & Panero\n\nAldama pachycephala (DC.) E.E.Schill. & Panero\n\nAldama palmeri (A.Gray) E.E.Schill. & Panero\n\nAldama paranensis (Malme) Magenta & Pirani\n\nAldama parkinsonii (Hemsl.) E.E.Schill. & Panero\n\nAldama perennans (B.L.Turner & F.G.Davies) E.E.Schill. & Panero\n\nAldama peruviana (A.Gray) E.E.Schill. & Panero\n\nAldama phenax (S.F.Blake) E.E.Schill. & Panero\n\nAldama pilicaulis (S.F.Blake) E.E.Schill. & Panero\n\nAldama pilosa (Baker) E.E.Schill. & Panero\n\nAldama pringlei (B.L.Rob. & Greenm.) E.E.Schill. & Panero\n\nAldama purisimae (Brandegee) E.E.Schill. & Panero\n\nAldama retroflexa (S.F.Blake) E.E.Schill. & Panero\n\nAldama revoluta (Meyen) E.E.Schill. & Panero\n\nAldama robusta (Gardner) E.E.Schill. & Panero\n\nAldama rojasii (S.F.Blake) E.E.Schill. & Panero\n\nAldama rubra (Magenta & Pirani) E.E.Schill. & Panero\n\nAldama salicifolia (Hassl.) E.E.Schill. & Panero\n\nAldama santacatarinensis (H.Rob. & A.J.Moore) E.E.Schill. & Panero\n\nAldama seemannii (Sch.Bip.) E.E.Schill. & Panero\n\nAldama sodiroi (Hieron.) E.E.Schill. & Panero\n\nAldama speciosa (Hassl.) E.E.Schill. & Panero\n\nAldama squalida (S.Moore) E.E.Schill. & Panero\n\nAldama squarrosa (Sch.Bip.) E.E.Schill. & Panero\n\nAldama subcanescens (S.F.Blake) E.E.Schill. & Panero\n\nAldama subdentata (S.F.Blake) E.E.Schill. & Panero\n\nAldama subtruncata (H.Rob. & A.J.Moore) E.E.Schill. & Panero\n\nAldama tenuifolia (Gardner) E.E.Schill. & Panero\n\nAldama torresii (B.L.Turner) E.E.Schill. & Panero\n\nAldama trichophylla (Dusén) Magenta\n\nAldama truxillensis (Kunth) E.E.Schill. & Panero\n\nAldama tuberculata (S.F.Blake) E.E.Schill. & Panero\n\nAldama tuberosa (Griseb.) E.E.Schill. & Panero\n\nAldama tukumanensis (Hook. & Arn.) E.E.Schill. & Panero\n\nAldama veredensis (Magenta & Pirani) E.E.Schill. & Panero\n\nAldama vernonioides (Baker) E.E.Schill. & Panero\n\nAldama weddellii (Sch.Bip. ex S.F.Blake) E.E.Schill. & Panero",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1187169052",
+      "revision_id": "1187169052",
+      "text_sha256": "8da898c5ac4cefba51d52c4bd0c4f87016963907303725e96b8a249f59b38e34",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:36.986570+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.356570243835449,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1466",
+    "title": "Britannica page 1466",
+    "corpus": "britannica",
+    "text": "<x_0.1924><y_0.0312>E S S [ 729 ] E S S<x_0.7344><y_0.0516><class_Page-header>\n\n<x_0.0068><y_0.0563>Effaying weighed, and made of paper not impregnated with alum. It is to be dried at frift with a gentle heat, but afterwards expelled for five minutes to a beat of 10:00 On cooling, it to the weights together with the fiter; the brown weight of which mult afterwards be fobricked. The fedmena is both included in bottle for a filter than once impregnated with false matter cannot be freed from it again without great difficulty, especially if an internal of one burns intervents.<x_0.4492><y_0.1734><class_Text>\n\n<x_0.0078><y_0.1727>The alkali mute ufc of in Mr Bergantis experiments, was that of fols faturated with aerial acid, also ploughedicated skills needed by defibrating equal weights of poor mice and create on tartrationally mixed together; the reifulaum is the common white flux. Half an onces of this is indifferent in half a quadrans of distilled water. This is the adda, as a digital heat, two ounces of Prulfian blue, carefully avoiding (ch) an evervidence upon throw any thing or, which cellily happen if the quantity be too large. The pig-ment footo lodes its beautiful blue colour, growing not red but blacks, which shows that a decomposition has taken place. The Prussian blue rule of in his expert mentioned in 100 parts only 33 of the pigment and 57 of the earth is low. If we employ the blue male exact way alum, 22 grams of K will saturate the half onces of alkaline fat more completely than the two causes of the final already described. But in whatever manner the operation is performed, after the addition of the hall quantity, the whole mult to ex-paid to a stronger diguling heat, and differed with wooden faults. If the liquor be too much diminishely on proportion, the deficit mult be figured by adding more water. When the liquor becomes clear the réiduum mult be collected upon filtering paper, and gradually washed with warm water until all the fullable part is intended, where, if the proportion has been properly conducted, the filtered liquor amounts to a whole quamings, of a brown yellow color, and fo well futurated with colouring matters, that it does not change the colour of paper tinged with Brafl wood. This historic, however, contains a funqu-tivity of Prulfian blue, about 3d, No a ctwy of the al-kali. Thefe should be previously farparted by an acid, or, which is better, corrected by flutstanding from the weight of the delinattor of clay grounds for each quasrans of the likivium. When we with to examine the colour of the products exactly, however, the likivium we employ mult mustically be well departedly, for by neglecting this precaution we may easily perturbeour-fleew that any mist precipitated by the likivion has a blue color. When we out with to ascertain the weight, the likivium, having the final proportion of Prulfian blue becomes, may be greatest, but fill the proper correction mult ultimately do made ufc of; for the precipitating said is wont to impair the quali-tion of the likivium, and even to deliver them altogether, especially in a warm temperature. Calcorous cards, whether in its mild or canific fixate, is also capable of ablifting a coloured fuhlance from iron and other metals.<x_0.4443><y_0.8539><class_Text>\n\n<x_0.0039><y_0.8547>Int the precipitation of metal the metal, it is to be ordered, that the card of the foliation ought to be somewhat predominant; but any confidable excess mult be corrected occasionally, either by alkali, water, or spirit of wine.<x_0.4453><y_0.9273><class_Text>\n\n<x_0.4619><y_0.0523>In the following experiments an effay ewt. was always employed, unlels where it is expressly mentioned otherwise; conclusions sufficiently accurate may in- dred be obtained from 37th, my functions from used in Mr smaller quantities. In their cafes our author mentions Respond a the initial quantity, applying to them thoir formula of reperi- calculation which are founded on the mutual purpose results. tons of the proximate principles confluiting metallic fails. By us early fuhlition, one time broke may be useful by those who employ 5 or 4 vet. We now come to defer the method of elifying the ones of the partities mental.<x_0.8457><y_0.2133><class_Text>\n\n<x_0.4629><y_0.2141>1. _Ores of Gold._ This metal occurs in the bowels of the earth native, poffelling a complete metallic forms of the area although in general the small particles of it are for in-of gold.<x_0.9443><y_0.2586><class_List-item>\n\n<x_0.4609><y_0.2594>Forperfected various mattons that they are entirely invisible. It is also found mineralized, or united with fulpharby means of iron or from other me- inclined. Therefore ten types of cost we feel counterly fe-partably.<x_0.8838><y_0.3211><class_Text>\n\n<x_0.4639><y_0.3219>Native gold is very felddom, if every, free from hote- Native rogreous matters; the molt uful mixtures are cop-gold, per, silver, and formtimes iron. The first of the remaining the medium, and may be particularly calefed by diffusing the gold in auguegies, and precipitating by by martial virtvel; the second falls during the following yielding a flatelry, which, being washed and dried, allows the weight of the fiber cou-tained, and the iron may be discovered by pholgills- coated alkali. The precipitate occurred by martial vis-fold in pure gold in its metallic base, but very definitely divided, and therefore its weight requires so correction.<x_0.8828><y_0.482><class_Text>\n\n<x_0.4648><y_0.4813>Hence it appears how small a portion of gold in herrent in the ones of other metals may be extracted; besides, it follows containing the molt minute parcle of gold initially produces the purple precipitate of Caffius, with a foliation of its property pre-parallel.<x_0.8438><y_0.5602><class_Text>\n\n<x_0.4551><y_0.5625>As to the ore which contains gold adhering to and Ores of this furrounded by flony particles, r. We mult reduce a deter-metal pro-mined weight to an impulsive powdery texture and pretty da-alitarian. Then let the powdery weighted forvolume, for boiled in aqua regis, as long as any thing is taken, by the mediums), after which, let the exhausted ore, well washed, be collected, refecuted to spinism, and weighed. Let the clear features (the colour of which, in forens above affords a method of judging) be precipitated in the natural way by martial virtvel; the precipitate well washed, dried, and weighed, flows the gold, which, added to the weight of the exhausted ore, might to be equal to the original weight, unless fenome what has been dispersed by the pulverification, or beliefs force of the mattons has entered the meltdown. The former of thefts delivered by comparing the weights before and after pulverification; the latter by precipitants.<x_0.8447><y_0.8><class_Text>\n\n<x_0.4541><y_0.8031>When grains of gold are mixed with loofe earthy particles, they are sometimes easily ferated by mec- channel application of water.<x_0.8311><y_0.8453><class_Text>\n\n<x_0.4531><y_0.8461>When the metal is mineralised by fulphur, as in the golden pyster, let too an more effay ctw, reduced to arilized by powder be gently boiled in the nitrated acid, or rather fulphur, digested in a heat of 50’—80°, left the fulphur should be delayed. It is even neceffary to employ a more gentle brat for this purports, that the fulphurcous pr-ticles<x_0.8467><y_0.9258><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "8730e1ecd921bd501c1ff29253449764745e86bd558d5cc11b3e54f26b4820a0",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:43.844808+00:00",
+    "parser_receipt_sha256": "14f7d771d1566472f8eae79f1176f342e9231e46dcccc6ea45d18d044a7f3f6c",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 135,
+      "occurred_at": "2026-10-18T17:50:33.768183+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 565,
+      "occurred_at": "2026-10-18T17:50:34.333165+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 637,
+      "occurred_at": "2026-10-18T17:50:34.983132+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 688,
+      "occurred_at": "2026-10-18T17:50:35.696842+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 655,
+      "occurred_at": "2026-10-18T17:50:36.377871+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 579,
+      "occurred_at": "2026-10-18T17:50:36.986643+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 657,
+      "occurred_at": "2026-10-18T17:50:37.671388+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 608,
+      "occurred_at": "2026-10-18T17:50:38.293522+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 570,
+      "occurred_at": "2026-10-18T17:50:38.885329+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 53,
+      "occurred_at": "2026-10-18T17:50:38.961371+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 589,
+      "occurred_at": "2026-10-18T17:50:39.550006+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 122,
+      "occurred_at": "2026-10-18T17:50:39.677548+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 6,
+      "occurred_at": "2026-10-18T17:50:39.683637+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 295,
+      "occurred_at": "2026-10-18T17:50:39.978748+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1139,
+    "modern_words": 1043,
+    "vocabulary_jaccard": 0.0087527352297593,
+    "jensen_shannon_divergence": 0.971716994188396,
+    "historical_top_words": [
+      [
+        "the",
+        96
+      ],
+      [
+        "of",
+        59
+      ],
+      [
+        "in",
+        26
+      ],
+      [
+        "to",
+        23
+      ],
+      [
+        "be",
+        23
+      ],
+      [
+        "a",
+        23
+      ],
+      [
+        "by",
+        23
+      ],
+      [
+        "and",
+        19
+      ],
+      [
+        "is",
+        18
+      ],
+      [
+        "with",
+        14
+      ],
+      [
+        "it",
+        11
+      ],
+      [
+        "gold",
+        11
+      ],
+      [
+        "which",
+        10
+      ],
+      [
+        "or",
+        9
+      ],
+      [
+        "for",
+        8
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "e",
+        327
+      ],
+      [
+        "alexander",
+        236
+      ],
+      [
+        "edwards",
+        18
+      ],
+      [
+        "osten",
+        14
+      ],
+      [
+        "sacken",
+        14
+      ],
+      [
+        "subgenus",
+        11
+      ],
+      [
+        "savchenko",
+        11
+      ],
+      [
+        "theischinger",
+        6
+      ],
+      [
+        "brunetti",
+        6
+      ],
+      [
+        "meigen",
+        6
+      ],
+      [
+        "loew",
+        6
+      ],
+      [
+        "de",
+        6
+      ],
+      [
+        "meijere",
+        6
+      ],
+      [
+        "bergroth",
+        3
+      ],
+      [
+        "erioptera",
+        2
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "e s",
+  "semantic_input": {
+    "query": "e s\nE S S [ 729 ] E S S\n\nEffaying weighed, and made of paper not impregnated with alum. It is to be dried at frift with a gentle heat, but afterwards expelled for five minutes to a beat of 10:00 On cooling, it to the weights together with the fiter; the brown weight of which mult afterwards be fobricked. The fedmena is both included in bottle for a filter than once impregnated with false matter cannot be freed from it again without great difficulty, especially if an internal of one burns intervents.\n\nThe alkali mute ufc of in Mr Bergantis experiments, was that of fols faturated with aerial acid, also ploughedicated skills needed by defibrating equal weights of poor mice and create on tartrationally mixed together; the reifulaum is the common white flux. Half an onces of this is indifferent in half a quadrans of distilled water. This is the adda, as a digital heat, two ounces of Prulfian blue, carefully avoiding (ch) an evervidence upon throw any thing or, which cellily happen if the quanti",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.08636999130249023,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

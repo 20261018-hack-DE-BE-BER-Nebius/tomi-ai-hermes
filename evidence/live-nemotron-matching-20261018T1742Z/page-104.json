@@ -1,0 +1,308 @@
+{
+  "status": "candidate",
+  "question": "WEIGHTS AND MEASURES.",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:32368790",
+      "title": "Weights and measures (disambiguation)",
+      "corpus": "wikipedia",
+      "text": "Weights and measures are units of measurement subject to governmental regulation, to ensure fairness and transparency.\n\nWeights and Measures may also refer to:\n\nVarious Weights and Measures Acts\n\nThe International Bureau of Weights and Measures, the international standards organisation and its subsidiary\n\nInternational Committee for Weights and Measures, the 18-member core group that meets every year and\n\nGeneral Conference on Weights and Measures, a larger group that meets only every four to six years\n\nWeights and Measures (Spirit of the West album), 1997\n\nWeights & Measures (Hyland album), 2011\n\nOn Weights and Measures (Epiphanius)",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1004908713",
+      "revision_id": "1004908713",
+      "text_sha256": "db072f33d497cc959d3c7ffc1d28f3def2ee7a5159fe1a10c844f1aa88bf38d7",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:42:44.555401+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.31622314453125,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:46450138",
+      "title": "Weights and Measures Act",
+      "corpus": "wikipedia",
+      "text": "A weights and measures act is a kind of legislative act found in many jurisdictions establishing technical standards for weights and measures.\n\nNotable acts of this type include:\n\nVarious Weights and Measures Acts (UK) or the various legislative acts preceding them in England, Wales and Scotland\n\nR.S. 1985 c. W-6, the Weights and Measures Act, in Canada\n\nAct No.XXXI of 1871, the Act to Regulate the Weights and Measures of Capacity of British India\n\nAct No.8 of 1936, the Irish Weights and Measures Act\n\nThe Weights and Measures Act 1972, in Malaysia\n\nThe Weights and Measures Acts may refer to:\n\nThe Weights and Measures Acts of the United Kingdom, particularly the Weights and Measures Acts of 1878 to 1893\n\nThe Weights and Measures Acts of Ireland, from 1878 to 1936\n\nThe Weights and Measures Acts of India, from 1871 to 1889\n\nThe Weights and Measures Act 1987 of New Zealand\n\nWeights and measures acts may also refer to similar legislation in other countries.\n\nIn the United States, the National Conference on Weights and Measures functions as a regular meeting of the states and maintains several handbooks which are available at the website of the National Institute of Standards and Technology. Most of the states have enacted these handbooks into law.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1316539567",
+      "revision_id": "1316539567",
+      "text_sha256": "9ad2efdccf64647714e97b68295b264d897e44135df9754b2527851e3cc1e0a7",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:42:43.934893+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.159547328948975,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:51143693",
+      "title": "Weights and Measures Act 1972",
+      "corpus": "wikipedia",
+      "text": "The Weights and Measures Act 1972 (Malay: Akta Timbang dan Sukat 1972) is an Act of the Parliament of Malaysia. It was enacted to establish units of measurement and standards of mass and measure based on the International System of Units, to regulate weights and measures and instruments for weighing and measuring and to make provisions for matters connected therewith and ancillary thereto.\n\nThe Weights and Measures Act 1972, in its current form (1 January 2009), consists of 5 Parts containing 35 sections and 4 schedules (including 7 amendments).\n\nPart I: Preliminary\n\nPart II: Units of Measurement\n\nPart III: Weights and Measures for Trade Purposes\n\nPart IV: Administration\n\nPart V: General\n\nSchedules",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1256534587",
+      "revision_id": "1256534587",
+      "text_sha256": "08711fac0836a4775e0858d7adbafafe027a877aaba6a58eaea81fb7e9c6deab",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:42:46.183737+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.564484119415283,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:104",
+    "title": "Britannica page 104",
+    "corpus": "britannica",
+    "text": "<x_0.252><y_0.0375>WEIGHTS AND MEASURES.<x_0.6191><y_0.0563><class_Page-header>\n\n<x_0.8896><y_0.0453>853<x_0.9326><y_0.0586><class_Text>\n\n<x_0.041><y_0.0625>is litre or cubic decimetre = 10 diclitres = 100 centiltes = 27/430 Brit. cubic inches, and so liere was nearly I Brit. Als. Also lo litre as 10 dec metres a 1 becollires ≈ 27/10/7 lb. bubels s and 22 becollires are nearly equal to 11 Brit; quarters, the satellites no 10 kiltser or cubic meters at 3hr 34:300698 Brit. quarters.<x_0.4355><y_0.1242><class_Text>\n\n<x_0.04><y_0.125>The parents is a weight equal that of 1 cubic centimetre of war it in maximum density. It contains 10 decigmumes ± 100 organisms have lost by raw materially into grams of hexagons, a Hexagonmas e 1 klorgmases – 2479514 lbs. ez 224887 lb word). Also No Mlkgummeses 10 mayгges pas a vertical crystal 22-0-08 his word), and 10 quals a weight of cubic meter of water = 1 millier or marine lies 12 yr. on 20 hls. In 57-you.<x_0.4473><y_0.2047><class_Text>\n\n<x_0.0391><y_0.2039>be System Uncle, or Binary System, of the French, was irure for all 1013. For the accommodation used that trade, to make some companies with the common people, who showed in irreceable version of the innovations from its markets for their ability. Even instead of being fetral, are clearly binary, that is he proved especially by continually linking our domain some classes standards, though partly according to other divisions of this system means that we cannot be used because they have a decent weights and measures are employed, annexing the term of one each. They, the idea sends the ones worth of the tokens, and is subi- sided into wildlife or niches. The same nameules a 13 decks mean a 47-2448 Brit. inches. The line uses a 11 m a 17600 Brit. print. The Boissens uses lao is one eight of of the besthole, and a 25/12 Brit. ambitions, like Torre stands is the Ikblograme, and a 1-10245 lb. avoid. The halvesque, que leggie, dek, the most of the more of the in use. A many of the ancient French system will be found in its pre- recognition of this article.<x_0.4434><y_0.4109><class_Text>\n\n<x_0.0381><y_0.4102>weight of six Mokes—Of the weights, 128 drachnes = 32 let = 2 marks a 1 bars by barely - 12114 but a novel, which avel. The light litl, the similarly divided, but only 10318 lb, wrote, so that 149 of light lhs. make only 100 of the heavy or content weight. The Copper sample was a two point gali a niv. The Frankfort foot contains 114-2 Brit inches, and of 1014. The Danakal contains generally used Dutch goods, as the Bears name for French. Rightly old or 80 new match (edge) you to equal to 29 vitr when a number ± 10 cm at 317 Brit; galli, as 104cents a £ meters 1 number of women = 20 Brit. baskets.<x_0.4424><y_0.568><class_Text>\n\n<x_0.0371><y_0.5727>Sometimes are two sorts of pounds, piese nottile lbs, and tpes grossosibb. The latter at teeth pert here's than the far visited the central 100 ha, per section 30-929 lb, avoids, or the station of 100 lac. peso grosso = 76-88. The latter is of for bed, very small, and the former for girls, given, and articles of small bulk. The palms o al 4722 Brit. inches, and then resta the canna posed by possessions of pinit, the cumma genus of the merc-ots = 12 pat, and the national tenants ema a realmal. Of tournaments 98 matches a sport i must = 23-18 bushals. Also 100 points a 2 barliar 1 mezzarols of wine = 32-67 is, gil; and 64 quarterout a 4 quarter + idul battle = 14 22 is gali.<x_0.4414><y_0.6555><class_Text>\n\n<x_0.0361><y_0.6609>Cornay—Combine diversity of weights and measures is 10 found in the various states lines which this extensive coun- is divided, and the most important of them will be found instantly. But now a few of their students, though differing in amount, are similar in their multiples and additions. the weights, 100 percent 32 st pomings = 16oz quantities 1 moz = 16 courses = 2 marks a 1 commercial lb, j and 5700 ms, 280 wrc= 408 arms = 3 z oz., a 1 spolents ib, e, 43cz eten xon = 02 bolings a 260 omings a 64 questions - lots ał oz of ocz = 4 Colgorne mark– 2-500 grains try. By this do and allow we needed, and the distance of the last expressed 3d parts are carried as in British, but the finances of silver by the keys. For forgetting there is a cant of 3417 pg. view. Of measures, 144 inches a 12 feet = 6 oils a 2 chatter = ruthe, a tubular and even up averages over a 1238 Brit. inches, the eg mine a 10,129 Brit, also, the latter mine a 6639, and the specific and an Irish. yds. The Rhinand morgon of ot = 40,18 Brit. say, yd.<x_0.4404><y_0.843><class_Text>\n\n<x_0.0518><y_0.8398>Double--Bubble the British standards, the allowing Spanish to use. The first one is 28 the corn images a 130 donuts, provided in 100 = 1017s lbs. avord. i- corn images a 13-30 br. bubels, pas= 117 godt and 117 godt and 17 godt and 200 minutes a 7 bit. gasi, and the wag allan = 1094 Brit. gain.<x_0.4395><y_0.8891><class_Text>\n\n<x_0.0527><y_0.8898>Onetime as in a Portugal except that crusty of ever ends as aSo like a word. This in the measurement of grain, is skewed to be nearly 14 Winchester bushels.<x_0.4385><y_0.9258><class_Text>\n\n<x_0.4521><y_0.0633>Greece...The same as in France.<x_0.667><y_0.0797><class_Text>\n\n<x_0.4512><y_0.0742>Geism (Britslu)—In general the same as in Britain’s, but the drawing, originally introduced by the Dutch, are also used the the Is = 100 lbs. avord. i and the ell of 26 inches = 27 Britths inches.<x_0.8643><y_0.1102><class_Text>\n\n<x_0.4502><y_0.1117>Geisms (Dutch)—In general the same as in Holland, but chefle y quite oil system.<x_0.5898><y_0.1336><class_Text>\n\n<x_0.4492><y_0.1344>Heatsburg—Of the weights, 122 drachesme = 32 lotta = 16 ox. ez = 2 marks a 1 b. 14062lb, a avoid, 1112 lb. a 2 lipadoles a 1 centree = 1019 fls his, avent, and counted 2 ahifunds. Van the = 1 at some of owl or feathers a half at stone of flax. Of but, ter, 280 lion form the green, and 24 the stems below. A type of all is seconded at 200 lat. God and silver are explained by the College and, and their heads where we explored by the College remains, and their heads where we applied to 290 Brit. Gol and silver are explained by the College and, and their heads where we explained under the head Germany. Of measures, 6 palms = 2 feet = 1ell = 22-78 Brit. indicates the Rhinand effecting and everyces a 12:30 Brit. inches. Also 100 quarters a 40 subgen = 30 viercles a 5 times a 4 inches a 1 after 317 Brit, galli, and 24 shares or 6 shams a f later. Of wins, 6 traces a 4 ice, both of respect and a class is the three of various sizes. Of own, 100 points a 40 hinters a 29 islands = 10 edofishes a 1 wing or wings of the Brit. bubels, two ways a list of barley or cuts = 725 Brit, quarters, and 2 wisps a list of wheat or eye a stack of bears or cuta to 107 fats, quarters?<x_0.8652><y_0.318><class_Text>\n\n<x_0.4531><y_0.3187>Hanewer... The Is = 1073 lb. avord. i 112 lbs = 1 centrer; and 20 lbs, a 1 at none of her or 4 stones of wood. Also 600 los. 14 stupings a 27 comes a funny / and 320 lb. a 40 legends a 134 hands a 1last. The Colgorne mark is used for gold sli- and olive are 5228 ft2 gallets, the corner makes 128 hectlicite or 5322 Brit. busheds.<x_0.8662><y_0.4797><class_Text>\n\n<x_0.4551><y_0.4805>Rute-Derastold...Two Iss a 1 French Kilogramsome = 229488 lb. devol, Then feel a 1 klator = 20 metres a 209 Brit. fact, five olhs a 3 acreses a 209 Brit. four morgens = 1 lecte force a 24711 kitril. acres. Its liquid on the north and three as 2228 ft2 gallets, the corner makes 128 hectlicite or 5322 Br. busheds.<x_0.8672><y_0.5742><class_Text>\n\n<x_0.4561><y_0.5875>Holland...In 129, the decimal system of France was introu- ted, but with the old Dutch manufacture, be explained under the Kingdom. Of the old weights still used in any place, 10240 as a 320 engels = 16 oz. = 2 marks a Dutch lie; try to 114911 a revolves. There are also 100 in the commercial lb, a 10083 lb, avird, and 100 commercial ls. = 1 centner. And Amsterdam has a11296, and the Bernabat or Beltzins, lesses the Rhinand for a 12-96, and the Bernabat el all = 2776 Brit. inches. Nineteen Dutch leguses make one degree of the mentalities.<x_0.8682><y_0.643><class_Text>\n\n<x_0.4541><y_0.6422>Legame..The weights are almost the same as in China. The role of 52 Brit feet. Yet the measure of capacity have been compared.<x_0.6982><y_0.6703><class_Text>\n\n<x_0.457><y_0.6711>Same–In thin and the other Dutch colonies in India, the weights of China are certainly employed; but the peut, instead of being exactly 133-21b, avoir to be 14050 Is. Of Yes, the corry as 3601 libs, avard, and the timangs a 10 seekss = 6 qidat = 67/125 lb. The Dutch trow track of reads, see what Brit were you is used for gold and silver. The Sono is 1236, and the ell = 2775 Brit. inches. The tunnel, the massus = 3282 Brit. and the other organs are seen in a longer of arm.<x_0.8691><y_0.7664><class_Text>\n\n<x_0.458><y_0.768>Pada–Colonia presents gold by weight, as also liquids, except wines and spirits, which at all the three presidents are sold by British measures. Of the Bengal weights, the blacks = 100 years a 1 factory storeau = 747 if the award, or two thinks of a British bear. The bear menant lao serve the greater than the bear, and mainly British. Gold and silver are weighted by the new telo or vice of 130 gram trasy. Two cubils a red prz = 1 Brit. yd. The case or end of Benzys = 4000 yorks, and 1000 sq. the 20 cotton as 1 biggh. At Bombay of sees a 1 mmand = the quarter of British Brit, and 32 inchs a candy, which a corn is counted at 343 Brit. bushels. At Madras, 320 polmss = 1 vis± 1 μmula 25 lb, avrid, while 20 months a 10 months. The avord a 100 inches but the British yearI is una for cloth; and in land measure, 24 maumes a 1 cavry = 6400 Brit. sq. yds. Also 320 measures = 400 macrats = 1 go parals = 1 guarse<x_0.8701><y_0.9203><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "004b7e594ad00eb4a8b991c060453349d2039a3f9d4079cf5f4cf32109c46bef",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:49:05.705384+00:00",
+    "parser_receipt_sha256": "56007914cdc8d94ddb4b62784b550d0f62888347ea15d529dc0ea1cbfb514bd5",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 166,
+      "occurred_at": "2026-10-18T17:42:43.387658+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 547,
+      "occurred_at": "2026-10-18T17:42:43.934946+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 603,
+      "occurred_at": "2026-10-18T17:42:44.555439+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 535,
+      "occurred_at": "2026-10-18T17:42:45.104550+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 532,
+      "occurred_at": "2026-10-18T17:42:45.650791+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 516,
+      "occurred_at": "2026-10-18T17:42:46.183758+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 526,
+      "occurred_at": "2026-10-18T17:42:46.721368+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 531,
+      "occurred_at": "2026-10-18T17:42:47.267827+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 588,
+      "occurred_at": "2026-10-18T17:42:47.863479+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 24,
+      "occurred_at": "2026-10-18T17:42:47.905674+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 396,
+      "occurred_at": "2026-10-18T17:42:48.302219+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 54,
+      "occurred_at": "2026-10-18T17:42:48.365423+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 3,
+      "occurred_at": "2026-10-18T17:42:48.368585+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 180,
+      "occurred_at": "2026-10-18T17:42:48.548412+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1460,
+    "modern_words": 91,
+    "vocabulary_jaccard": 0.030837004405286344,
+    "jensen_shannon_divergence": 0.6997343510505072,
+    "historical_top_words": [
+      [
+        "the",
+        117
+      ],
+      [
+        "a",
+        89
+      ],
+      [
+        "of",
+        75
+      ],
+      [
+        "and",
+        61
+      ],
+      [
+        "brit",
+        33
+      ],
+      [
+        "in",
+        25
+      ],
+      [
+        "is",
+        24
+      ],
+      [
+        "or",
+        21
+      ],
+      [
+        "are",
+        16
+      ],
+      [
+        "as",
+        15
+      ],
+      [
+        "lb",
+        15
+      ],
+      [
+        "inches",
+        13
+      ],
+      [
+        "by",
+        13
+      ],
+      [
+        "to",
+        11
+      ],
+      [
+        "at",
+        11
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "and",
+        11
+      ],
+      [
+        "weights",
+        9
+      ],
+      [
+        "measures",
+        9
+      ],
+      [
+        "to",
+        4
+      ],
+      [
+        "the",
+        4
+      ],
+      [
+        "of",
+        3
+      ],
+      [
+        "international",
+        3
+      ],
+      [
+        "group",
+        2
+      ],
+      [
+        "that",
+        2
+      ],
+      [
+        "meets",
+        2
+      ],
+      [
+        "every",
+        2
+      ],
+      [
+        "on",
+        2
+      ],
+      [
+        "album",
+        2
+      ],
+      [
+        "are",
+        1
+      ],
+      [
+        "units",
+        1
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Untrusted source instruction markers detected: secret_request"
+  ],
+  "candidate_query": "weights measures",
+  "semantic_input": {
+    "query": "weights measures\nWEIGHTS AND MEASURES.\n\n853\n\nis litre or cubic decimetre = 10 diclitres = 100 centiltes = 27/430 Brit. cubic inches, and so liere was nearly I Brit. Als. Also lo litre as 10 dec metres a 1 becollires ≈ 27/10/7 lb. bubels s and 22 becollires are nearly equal to 11 Brit; quarters, the satellites no 10 kiltser or cubic meters at 3hr 34:300698 Brit. quarters.\n\nThe parents is a weight equal that of 1 cubic centimetre of war it in maximum density. It contains 10 decigmumes ± 100 organisms have lost by raw materially into grams of hexagons, a Hexagonmas e 1 klorgmases – 2479514 lbs. ez 224887 lb word). Also No Mlkgummeses 10 mayгges pas a vertical crystal 22-0-08 his word), and 10 quals a weight of cubic meter of water = 1 millier or marine lies 12 yr. on 20 hls. In 57-you.\n\nbe System Uncle, or Binary System, of the French, was irure for all 1013. For the accommodation used that trade, to make some companies with the common people, who showed in irreceable version of the innovations from its m",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.8433241844177246,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

@@ -1,0 +1,255 @@
+{
+  "status": "candidate",
+  "question": "Plate. XLVI",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:59205109",
+      "title": "Kebon Kopi I inscription",
+      "corpus": "wikipedia",
+      "text": "6°31′40″S 106°40′20″E / 6.5278048°S 106.6721078°E\n\nKebon Kopi I also known as Tapak Gajah inscription (elephant footprint inscription), is one of several inscriptions dated from the era of Tarumanagara Kingdom circa 5th century. The inscription bearing the image of elephant footprint, which was copied from the elephant ride of King Purnawarman of Tarumanagara, which is equated with Airavata, the elephant vahana (vehicle) of Indra.: 16\n\nThe inscription was discovered in Kebon Kopi village, Bogor, near Kebon Kopi II inscription, and named as such to differ it from this later inscription dated from Sunda Kingdom era.\n\nThis inscription is written with Pallawa script in Sanskrit which are arranged into the form of the Anustubh metrum Shloka, which is flanked by a pair of carved images of the elephant's foot.\n\nTranscription: ~ ~ jayavisalasya Tarumendrasya hastinah ~ ~ Airwavatabhasya vibhatidam ~ padadvayam\n\nTranslation: \"Behold, here it looks like a pair of feet...like Airavata, the elephant ride of the great Taruma ruler in... and (?) glory\"\n\nH.P. Hoepermans \"Hindoe-Oudheden va Java (1864)\" ROD 1913:74\n\nJ.F.G. Brumund \"Bijdragen tot de kennis va het Hindoeisme op Java\" VBG. XXXIII 1868:63-64\n\nA.B. Cohen Stuart \"Heilige Voetsporen op Java\" BKI 3(X) 1875:163-168. Juga di bahasa Inggris berjudul: \"Sacred Footprints in Java\" Indian AntiQuary IV. 1875:355-dst\n\nH. Kern \"Eenige Oude Sanskrit-Opschrifte n van 't Maleische-schiereil and\" VMKAWL 3(1).1884:9\n\nP.J. Veth, Java II. 1878:46; I.1896:27\n\nR.D.M. Verbeek \"Oudheden van Java\" VBG. XLVI. 1891:30-31.\n\nJ. Ph. Vogel \"the Earliest Sanskrit Inscription opsachriften of Java\" POD. I. 1925:27-28. Plate 32,33.\n\nBambang Soemadio (et.al. editor) Sejarah Nasional Indonesia II, Jaman Kuno. Jakarta: Departemen Pendidikan dan Kebudayaan 1975: 39-40; 1984: 40",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1352627268",
+      "revision_id": "1352627268",
+      "text_sha256": "455624ccef2c7d45a3a1be65ba044684abae08208ad1042ba97c075f3889134a",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:16:43.113712+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.526774883270264,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:81071116",
+      "title": "Orlando del Fierro",
+      "corpus": "wikipedia",
+      "text": "Orlando Del Fierro Demartini (born 1939) is a Chilean lawyer and politician. A member of the Christian Democratic Party, he served as Deputy for the 25th Departamental Group during the XLVI Legislative Period (1969–1973).\n\nDel Fierro was born in Santiago on 23 October 1939, the son of Orlando Del Fierro Sotomayor and Adelina Demartini Gavetti. In 1960 he married Sonia Rüedlinger Urbina, with whom he had four children.\n\nHe studied at the Liceo M. Arriarán Barros and later pursued law at the Pontifical Catholic University of Chile, qualifying as a lawyer.\n\nHe worked as provincial head of the Corporación de Servicios Habitacionales of Chiloé. By May 2011, he was serving as substitute notary in Santiago, frequently traveling to Chiloé.\n\nDel Fierro was a member of the Christian Democratic Party, where he served as communal president in La Cisterna.\n\nIn the 1969 elections, he was elected Deputy for the 25th Departamental Group (Ancud, Castro, Quinchao, and Palena). He served until 15 May 1973, participating in the legislative debates of the XLVI Legislative Period.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1324934029",
+      "revision_id": "1324934029",
+      "text_sha256": "8f458108c8e180d8d8ba489463631b59f0c6a870f6da0a2159b66ab039f6ddc3",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:16:41.731688+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.137694835662842,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:81071132",
+      "title": "Manuel Ferreira Guzmán",
+      "corpus": "wikipedia",
+      "text": "Manuel Ferreira Guzmán (1910–1986) was a Chilean physician, farmer and politician. A member of the Radical Party, he served as Deputy for the 25th Departamental Group during the XLVI Legislative Period (1969–1973).\n\nFerreira was born in Santiago on 9 November 1910, the son of Manuel Enrique Ferreira Cañas and María Antonia Guzmán. He married Augusta Gabriela Parker Mucke, with whom he had three children.\n\nHe studied at the Liceo Alemán in Santiago and graduated as a physician from the University of Chile in 1936, specializing in pediatrics and radiology.\n\nAlongside his medical practice, he was a farmer dedicated to dairy production and pine plantations, owning the 400-hectare estate “Purranque.”\n\nFerreira joined the Radical Party in 1956 and presided over the Radical Assembly of Ancud between 1963 and 1964.\n\nHe served as regidor and later as mayor of Ancud between 1963 and 1969.\n\nIn the 1969 elections, he was elected Deputy for the 25th Departamental Group. He served until 15 May 1973, participating in the legislative debates of the XLVI Legislative Period.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1341030705",
+      "revision_id": "1341030705",
+      "text_sha256": "cb8ba1e98f5933cc5f241090221a3dd919f1a575e937a823571e1316b78e5deb",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:16:40.291784+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.216279983520508,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2209",
+    "title": "Britannica page 2209",
+    "corpus": "britannica",
+    "text": "<x_0.0><y_0.0>Plate. XLVI<x_0.999><y_0.993><class_Picture>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "7a3e561cff2ba99947a03910d5dbe9c68a6a54b3fc2169dd2d4c5b2681f11998",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:57:49.163950+00:00",
+    "parser_receipt_sha256": "6334f1bb07abb019e9ffcd8ae3fd7667c0c4bfdbe14cdcd0dbcae38f2c0b756e",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 1514,
+      "occurred_at": "2026-10-18T18:16:37.899706+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 938,
+      "occurred_at": "2026-10-18T18:16:38.838213+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1424,
+      "occurred_at": "2026-10-18T18:16:40.291807+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1411,
+      "occurred_at": "2026-10-18T18:16:41.731725+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1357,
+      "occurred_at": "2026-10-18T18:16:43.113728+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 689,
+      "occurred_at": "2026-10-18T18:16:43.823573+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1011,
+      "occurred_at": "2026-10-18T18:16:44.862580+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 555,
+      "occurred_at": "2026-10-18T18:16:45.437879+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 556,
+      "occurred_at": "2026-10-18T18:16:46.013901+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 73,
+      "occurred_at": "2026-10-18T18:16:46.106300+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 391,
+      "occurred_at": "2026-10-18T18:16:46.497556+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 96,
+      "occurred_at": "2026-10-18T18:16:46.601303+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 6,
+      "occurred_at": "2026-10-18T18:16:46.607746+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 209,
+      "occurred_at": "2026-10-18T18:16:46.817146+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 2,
+    "modern_words": 259,
+    "vocabulary_jaccard": 0.011976047904191617,
+    "jensen_shannon_divergence": 0.9673163733708062,
+    "historical_top_words": [
+      [
+        "plate",
+        1
+      ],
+      [
+        "xlvi",
+        1
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "of",
+        12
+      ],
+      [
+        "the",
+        12
+      ],
+      [
+        "inscription",
+        8
+      ],
+      [
+        "java",
+        7
+      ],
+      [
+        "elephant",
+        6
+      ],
+      [
+        "is",
+        4
+      ],
+      [
+        "from",
+        4
+      ],
+      [
+        "which",
+        4
+      ],
+      [
+        "in",
+        4
+      ],
+      [
+        "s",
+        3
+      ],
+      [
+        "kebon",
+        3
+      ],
+      [
+        "kopi",
+        3
+      ],
+      [
+        "i",
+        3
+      ],
+      [
+        "ii",
+        3
+      ],
+      [
+        "and",
+        3
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending."
+  ],
+  "candidate_query": "plate xlvi",
+  "semantic_input": {
+    "query": "plate xlvi\nPlate. XLVI",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.6109199523925781,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "6046",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:877975",
+      "title": "U engine",
+      "corpus": "wikipedia",
+      "text": "A U engine is a piston engine made up of two separate straight engines (complete with separate crankshafts) placed side-by-side and coupled to a shared output shaft. When viewed from the front, the engine block resembles the letter \"U\".\n\nAlthough much less common than the similar V engine design, several U engines were produced from 1915 to 1989 for use in airplanes, racing cars, racing and road motorcycles, locomotives, and tanks.\n\nThe main benefit of a U engine layout is the ability to share common parts with a straight engine upon which is it based. Additionally, if the two crankshafts rotate in opposite directions, the gyroscopic effect of the rotating components in each cylinder bank cancel each other out.\n\nA V engine is typically more compact and lighter than a U engine, in part due to the lack of a second crankshaft, making V engines far more common than U engines. However, the V engine does not cancel the gyroscopic effect.\n\nThe H engine layout uses a similar concept to U engines, whereby two flat engines are stacked vertically.\n\nThe first U engine known to have been built was the 1915–1916 Bugatti U-16 aircraft engine, which had 16 cylinders and a displacement of 24.3 L (1,483 cu in). Approximately 40 engines were built at the Duesenberg factory in the United States during World War I. A small number of engines based on the Bugatti U engine were also produced after the war by Breguet Aviation in France.\n\nThe Fiat 806 was a 1927 Grand Prix racing car that was powered by a 1.5 L (92 cu in) twelve-cylinder U engine. This engine, designated the 'Type 406', used a supercharger and had a single centrally mounted intake camshaft which operated the intake valves located on the inside of each cylinder bank. Two separate camshafts operated the exhaust valves (one per bank). On test the unit delivered 187 bhp at 8,500 rpm at maximum boost. The Fiat 806 car competed in only one race, the 50 km (31 mi) Milan Grand Prix on 4 September 1927 (not to be confused with the 500 km 1927 Italian Grand Prix held on the same day). The race was won by the Fiat 806; however, Fiat then retired from Grand Prix racing and the Type 806 did not race again.\n\nThe 1931–1959 Ariel Square Four motorcycle used a four-cylinder engine (also called a 'square four' engine). The engine was compact and had as narrow a frontal area as a 500 cc, parallel twin. The rear pair of cylinders on this air-cooled engine were prone to overheating.\n\nThe 1985–1989 Suzuki RG500 motorcycle, developed from the Suzuki RG 500 gamma racing motorcycles, used a water-cooled, four-cylinder, two-stroke U engine. The racing machines were successful, but the road legal version was dropped from production in 1989.\n\nIn the 1930s Sulzer Brothers Ltd. began production of an 'LD series' twelve-cylinder U engine for use in rail locomotives. The LD series was replaced by the LDA series, for a combined production period of over 50 years. The Sulzer 12LDA twin-bank engine formed the mainstay of British locomotives built in the 1960s, with over 700 used in the Peak and Class 47 locomotives. The Sulzer LDA engine used a smaller gear for the central output shaft than the two gears attached to the crankshaft. This resulted in the output shaft rotating at approximately 1000 rpm while the crankshafts rotated at approximately 750 rpm. The purpose of this gearing was to allow the use of a smaller, and lighter, electrical generator when the engine was used in a diesel-electric locomotive.\n\nThe General Motors 6046 is a twin-engine setup that was used by Sherman tanks during World War II. The 6046 was built using two straight-six engines that were separately clutched to a single output shaft, which was itself clutched to the transmission unit. A total of 10,968 6046D-powered M4A2 Shermans were produced. After World War II, the Soviet Union produced several tanks powered by 16-cylinder and 18-cylinder engines that were reverse-engineered from the General Motors 6046 engine. These Soviet engines were designated Russkiy Dizel (Diesel Energo) DPN23/2H30 and the DRPN23/2H30.\n\nA tandem twin engine, occasionally used in motorcycles and go-karts, is a two-cylinder engine which uses a similar design to U engines.The motor has two crankshafts, one for each cylinder which are joined and kept in co-ordination by load carrying, crank-phasing gears connecting the two cylinders.\n\nThe tandem twin layout is used only with two-stroke engines since these must have a discrete crankcase chamber per cylinder. The prime advantage of a tandem-twin two-stroke is that the engine can be very narrow while allowing chain final drive without a power-wasting 90° turn.\n\nBetween 1975 and 1982, Kawasaki used the design to win four 250 cc and four 350 cc world championships before they retired from Grand Prix racing. The engine design was also used for a road legal production motorcycle inspired by the racer. The Kawasaki KR models were instrumental in establishing the company as a manufacturer of high-performance motorcycles.\n\nRotax developed a similar tandem twin design, the model 256, which it sold to independent constructors. The CCM Armstrong 250 cc, Waddon, EMC, Hejira, Decorite, and Cotton racers used this engine. CCM Armstrong developed a 350 cc version of the engine. Aprilia 's 1985 GP racing bikes also used the Rotax model 256.\n\nAn unusual variation on the U engine is the use of a single crankshaft which is linked to the pistons in both cylinder banks by rocking beams. This system was used in an eight-cylinder petrol engine produced by the All-British Car Company between 1906 and 1908.\n\nAt EICMA 2025, MV Agusta presented the prototype of a five-cylinder engine in an U configuration called \"Cinque Cilindri.\" Initial press reports referred to it as a VR engine, while others already called it an U engine. After MV Agusta itself published the first technical datas, it became clear that it is an U engine. MV Agusta has announced, that upcoming models with this engine will complement the current model lineup rather than replacing any model in it. The engine is scheduled to go into series production in the next few years. When the engine goes into series production, the Italian manufacturer will achieve two firsts in engine construction: This engine will be the first U engine with an odd number of cylinders ever and also the first five-cylinder engine in the serial production of motorcycles.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1327743977",
+      "revision_id": "1327743977",
+      "text_sha256": "45580102cde8a3d6d855abd23c3429d11552d4761d5918dc9b1002a79d7d18cc",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:15:09.452034+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.161656379699707,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:7512347",
+      "title": "Dedications II",
+      "corpus": "wikipedia",
+      "text": "The jazz album Dedications II was recorded by two configurations of the Toshiko Akiyoshi Trio in Los Angeles in April 1977. It was released by Discomate Records (and later by Alfa Records) in Japan and by Inner City Records (as simply Dedications) in the USA.\n\nLP side A\n\n\"Swingin' till the Girls Come Home\" (Pettiford) – 6:17\n\n\"Israel\" (Carisi) – 5:05\n\n\" Solar \" (Davis) – 5:21\n\nLP side B\n\n\"Two Bass Hit\" (Lewis, Gillespie) – 3:10\n\n\"Enigma\" (Johnson) – 4:58\n\n\" In Your Own Sweet Way \" (Brubeck) – 5:19\n\n\" Tempus Fugit \" (Powell) – 5:00\n\nTracks A1, 3, B2, 4:\n\nToshiko Akiyoshi – piano\n\nJimmie Smith – drums\n\nBob Daugherty – bass\n\nTracks A2, B1, 3:\n\nToshiko Akiyoshi – piano\n\nPeter Donald – drums\n\nAndy Simpkins – bass\n\nDiscomate DSP-5006\n\nInner City 6046\n\nAlfa Records (Japan) ALCR-162\n\nAllmusic",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1301587414",
+      "revision_id": "1301587414",
+      "text_sha256": "4f580f7f3c369d4cc5fbf2a5b48a2f435d58a54273ac0dd6542b32a64cc0730d",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:15:03.772604+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.533343315124512,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:51508759",
+      "title": "Brilanestrant",
+      "corpus": "wikipedia",
+      "text": "Brilanestrant (INN; developmental codes GDC-0810, ARN-810, RG-6046, and RO-7056118) is a nonsteroidal combined selective estrogen receptor modulator (SERM) and selective estrogen receptor degrader (SERD) that was discovered by Aragon Pharmaceuticals and was under development by Genentech for the treatment of locally advanced or metastatic estrogen receptor (ER)-positive breast cancer.\n\nDevelopment of brilanestrant was discontinued by Roche in April 2017. It reached phase II clinical trials for the treatment of breast cancer prior to the discontinuation of its development.\n\nSimilarly to tamoxifen, a SERM, brilanestrant shows some capacity to activate the ER in certain contexts and possesses weak estrogenic activity in the rat uterus, and unlike fulvestrant, which is currently the only SERD to have been marketed, brilanestrant is not a steroid and is orally bioavailable and does not need to be administered by intramuscular injection. Brilanestrant has been found to be active in tamoxifen- and fulvestrant-resistant in vitro models of human breast cancer. Side effects observed in clinical studies of brilanestrant thus far have included diarrhea, nausea, and fatigue of mostly mild-to-moderate severity.\n\nBrilanestrant is a structural analogue of etacstil, an earlier combined SERM and SERD that was abandoned in 2001 for commercial reasons.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1329034700",
+      "revision_id": "1329034700",
+      "text_sha256": "17cb3ef470dd3e0df8ff631aebe26ee9790b7518864d768ec5f3e1775a0ed925",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:15:04.653839+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.597591400146484,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1942",
+    "title": "Britannica page 1942",
+    "corpus": "britannica",
+    "text": "<x_0.0264><y_0.0266>6046<x_0.083><y_0.0453><class_Page-header>\n\n<x_0.3779><y_0.0258>PHAR MACY.<x_0.623><y_0.0445><class_Title>\n\n<x_0.8906><y_0.0273>Part II.<x_0.9707><y_0.0461><class_Section-header>\n\n<x_0.0254><y_0.0469>Prepara-\ntions.<x_0.0781><y_0.0727><class_Caption>\n\n<x_0.082><y_0.0578>brought from Italy, are prepared in this manner. The\nodorous parts may be again separated from the oil,\nand transferred into water or fpirit, by distillation with\nthose liquors.<x_0.0898><y_0.1><class_Text>\n\n<x_0.0811><y_0.1062>Sect: IV. _Conferration of recent Vegetables and_\n_their Infusions, etc. by Sugar and Honey._<x_0.4912><y_0.1375><class_Section-header>\n\n<x_0.2227><y_0.1391>§ 1. CONSERVES.<x_0.3604><y_0.1531><class_Section-header>\n\n<x_0.0869><y_0.1547>454. CONSERVES are compollions of recent vege\ntable matters and fugar beaten together into an uni-\nform mafs.<x_0.4883><y_0.1938><class_Text>\n\n<x_0.085><y_0.1945>This management was introduced for preferving\ncertain samples, undried, in an agreeable form, with\nas little attention to poblin in their native viruses;\nand to fome subjects it is very advantageously applied.\nVegetables, whole virus use all or delivered in dry-\ning, except in this form be kept unjusted for a length\nof time; For, by carefully focusing the mouth of the\ncontaining wells, the alteration, as well as diffusion,\nof their either principles, is generally prevented, and\nthe fugar preserves them from the corruption which\njoley vegetable would otherwise undergo.<x_0.4893><y_0.3383><class_Text>\n\n<x_0.0859><y_0.3391>There are, however, fundry vegetables whole vi-\ntous are impaired by this treatment. Muchaginous\nfubilances, by long lying with fugar, become leis glu-\ntionus, and that甚antly fully follow them the pa-\nlate. Many of the fingers flowers are of to tender\nand delicate a texture, as almost entirely to lode their\npeculiar qualities on being been on brushed\nin general. It is obvious, that in this form, on ac-\ncount of the large admixture of fugar, only fulbliances\nof considerable activity can be taken to advantage as\nmedicines. And indeed, conferve are at perfect con-\nfidered chiefly as auxiliaries to medicines of greater\nefficacy, as interventions for joining them together.\nThey are very convenient for echoing into boubles or\npills the more pondrous powders, as mecurunu dul-\ncies, the colors of iron, and other mineral preparations;\nwhich will liquid or leis confident matters, as fyrroup,\nwill not cohere.<x_0.4902><y_0.5742><class_Text>\n\n<x_0.084><y_0.575>The flops were formerly ecumulated with many\nconferences altogether insignificant; the few now retain-\ned have in general either an agreeable flavour to re-\ncommend them, or are capable of answering some\nofeful purpose as medicine. Their common dole is\nthe bulk of a nutmey, or as much as can be taken up\nat once or twice upon the point of a knife. There is\nin general no great danger of exceeding in this parti-\ncular.<x_0.4873><y_0.6906><class_Text>\n\n<x_0.1309><y_0.6937>455. _General method of preferring conferences_.<x_0.4453><y_0.7109><class_Section-header>\n\n<x_0.0879><y_0.7117>Leaves are picked from the flalks, and flowers from\ntheir crops. They are beaten in a marble mortar,\nwith a wooden peille, into a smooth mafs after\nwhich three there weight of double-refined fugar is\nadded by degrees, and the beating continued till\nthey are uniformly mixed.<x_0.4863><y_0.7961><class_Text>\n\n<x_0.0889><y_0.7984>The fugar should be pulverified by infilt, and patfed\nthrough a fleeve, before it is mixed with the vegetable\nmafs; otherwise it cannot easily be reduced to folfix-\ncleine friends, fo as to be daily incorporated. Some\nvegetables are cause reducible to the requisite finerals\nby beating in a mortar; fuch is orange-peel. This\nis molt conveniently raffed or grated off from the\nfinis, then well mixed with the fugar, and the com-<x_0.4854><y_0.9055><class_Text>\n\n<x_0.5098><y_0.0477>pound fet by in a clole veffel for fome weeks; after\nwhich it may be beaten Smooth with confidierably leis\nlabour than at frift. This peel, and red role-buds,\nare commonly ground in a wooden mill made for that\npurpole.<x_0.9062><y_0.1141><class_Text>\n\n<x_0.5117><y_0.1195>456. _Conferve of the leaves of garden fuancy-grafs_. L.<x_0.9023><y_0.1367><class_Section-header>\n\n<x_0.5078><y_0.1359>This is the only form that feury-grafs in futultance\ncan be kept in without the total line of its virtues.\nThe conferve retains the full suite and virtue of the\nherb for a very conferable length of time, as a year\ntwo, provided the veffel be made perfectly cleo\nand ice in a cool place. It must be given in Ecurbotic\nhabits three or four times a-day, so efficient.<x_0.9072><y_0.2305><class_Text>\n\n<x_0.5293><y_0.2375>437. _Conferve of the leaves of wood-forrel_. L.<x_0.8838><y_0.2531><class_Section-header>\n\n<x_0.5088><y_0.2539>This is a very elegant and grateful conferve y in\ntalte it is lightly cushion, with a peculiar flavory\nwhich home refranchise totals of green-taa. It is taken\nbecause for quenching thirk, and cooling the\nmouth and fauces, in hot distempers. It may be uife-\nfully joined to the foregoing preparation, whole vic-\nture to fomelan promotes, at the same time that it\nimproves the taille.<x_0.9082><y_0.3609><class_Text>\n\n<x_0.5273><y_0.3664>458. _Conferve of the leaves of jewarmist_.<x_0.8691><y_0.3812><class_Section-header>\n\n<x_0.5068><y_0.3828>The conferve of mini retains the safe and virtues\nof the herb. It is given in weakouts of the stomach\nand perhaps to omit; and not unfrequently deea\nfervice in fome cafes of this kind, where the warmer\nand more active preparations of mini would be leis\nproper.<x_0.9092><y_0.4625><class_Text>\n\n<x_0.5615><y_0.4664>459. _Conferve of the leaves of rugs_. L.<x_0.8545><y_0.4828><class_Section-header>\n\n<x_0.5059><y_0.4844>This conferve is given from a dram to half an ounce\nin crudities of the prime via, for promoting digestion,\nand in by their disorders; I gently illuminate the fo-\nlids, attenuates vital juices, and excites the natural\nfeecretions. Some have had a great opinion of it, ta-\nken in a morning, as a preferative against the effects\nof contagious air or calitation.<x_0.9043><y_0.5773><class_Text>\n\n<x_0.5283><y_0.582>460. _Conferve of the tops of jau-mesorwood_. L.<x_0.8799><y_0.5977><class_Section-header>\n\n<x_0.5049><y_0.5984>The conferve of wormwood has been celebrated in\ndroplets. Mathihulus relates, that several persons were\ncured by it of that diltemper, without the diffiance\nof any other medicine. Where the diforder indeed\nproceeds from a simple laxity or flagidity of the fo-\nlids, the contained use of this medicine may be of bone\nferives, as it appears to be a not malignant mild cor-\nrobranant. It is directed to be given in the dole of\nhalf an ounce, about three hours before meals.<x_0.9053><y_0.7164><class_Text>\n\n<x_0.5264><y_0.7242>461. _Conferve of the buds of red refer_.<x_0.8457><y_0.7375><class_Section-header>\n\n<x_0.5039><y_0.7383>This is a very apparent and useful concre. A\ndram or two, diluted in warm milk, are frequently\ngiven as a light refrigerant in weakness of the blo-\nmonth, and likewise in couple and phithical com-\nplaints. In the German Ephemerides, examples are\nrelated of very dangerous phihifies cured by the con-\ntinned out of this medicine; in one of the cafes, zo\npounds of the conferve were taken in the face of a\nmonth; and in another, upwards of go. Riverius\nmentions federal other influences of this kind.<x_0.9033><y_0.8695><class_Text>\n\n<x_0.542><y_0.8742>461. _Conferve of refractory-flowers_. L.<x_0.8418><y_0.8891><class_Section-header>\n\n<x_0.5029><y_0.8867>Rofernary-flowers in great incature loft their pecu-\nliar<x_0.9014><y_0.9141><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "2c1f89af03d97fd8969ac8fec7edc85691a052d127a526bd3afc61da74f28381",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:57:27.147920+00:00",
+    "parser_receipt_sha256": "73ec39e3777afba51b851fe7f1e30083b746ae52e16fc0292df2408f9b72e0ba",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 3575,
+      "occurred_at": "2026-10-18T18:15:03.076158+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 696,
+      "occurred_at": "2026-10-18T18:15:03.772670+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 848,
+      "occurred_at": "2026-10-18T18:15:04.653856+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 604,
+      "occurred_at": "2026-10-18T18:15:05.275123+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 601,
+      "occurred_at": "2026-10-18T18:15:05.894995+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 651,
+      "occurred_at": "2026-10-18T18:15:06.565880+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1317,
+      "occurred_at": "2026-10-18T18:15:07.901447+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 929,
+      "occurred_at": "2026-10-18T18:15:08.849006+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 583,
+      "occurred_at": "2026-10-18T18:15:09.452060+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 76,
+      "occurred_at": "2026-10-18T18:15:09.547708+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 629,
+      "occurred_at": "2026-10-18T18:15:10.176870+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 233,
+      "occurred_at": "2026-10-18T18:15:10.417943+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 6,
+      "occurred_at": "2026-10-18T18:15:10.424024+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 830,
+      "occurred_at": "2026-10-18T18:15:11.254397+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1030,
+    "modern_words": 1054,
+    "vocabulary_jaccard": 0.09417596034696406,
+    "jensen_shannon_divergence": 0.6021420114836776,
+    "historical_top_words": [
+      [
+        "the",
+        61
+      ],
+      [
+        "of",
+        58
+      ],
+      [
+        "in",
+        35
+      ],
+      [
+        "and",
+        30
+      ],
+      [
+        "a",
+        27
+      ],
+      [
+        "as",
+        17
+      ],
+      [
+        "is",
+        17
+      ],
+      [
+        "this",
+        16
+      ],
+      [
+        "be",
+        16
+      ],
+      [
+        "to",
+        16
+      ],
+      [
+        "are",
+        15
+      ],
+      [
+        "it",
+        15
+      ],
+      [
+        "conferve",
+        14
+      ],
+      [
+        "or",
+        12
+      ],
+      [
+        "by",
+        12
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "the",
+        89
+      ],
+      [
+        "engine",
+        45
+      ],
+      [
+        "a",
+        41
+      ],
+      [
+        "in",
+        26
+      ],
+      [
+        "of",
+        21
+      ],
+      [
+        "u",
+        19
+      ],
+      [
+        "and",
+        19
+      ],
+      [
+        "to",
+        18
+      ],
+      [
+        "cylinder",
+        15
+      ],
+      [
+        "was",
+        14
+      ],
+      [
+        "used",
+        14
+      ],
+      [
+        "two",
+        13
+      ],
+      [
+        "engines",
+        13
+      ],
+      [
+        "is",
+        12
+      ],
+      [
+        "by",
+        11
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "6046",
+  "semantic_input": {
+    "query": "6046\n6046\n\nPHAR MACY.\n\nPart II.\n\nPrepara-\ntions.\n\nbrought from Italy, are prepared in this manner. The\nodorous parts may be again separated from the oil,\nand transferred into water or fpirit, by distillation with\nthose liquors.\n\nSect: IV. _Conferration of recent Vegetables and_\n_their Infusions, etc. by Sugar and Honey._\n\n§ 1. CONSERVES.\n\n454. CONSERVES are compollions of recent vege\ntable matters and fugar beaten together into an uni-\nform mafs.\n\nThis management was introduced for preferving\ncertain samples, undried, in an agreeable form, with\nas little attention to poblin in their native viruses;\nand to fome subjects it is very advantageously applied.\nVegetables, whole virus use all or delivered in dry-\ning, except in this form be kept unjusted for a length\nof time; For, by carefully focusing the mouth of the\ncontaining wells, the alteration, as well as diffusion,\nof their either principles, is generally prevented, and\nthe fugar preserves them from the corruption which\njoley vegetable wou",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.3716869354248047,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

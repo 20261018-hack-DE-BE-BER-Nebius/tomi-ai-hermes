@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "ESC 1723 I ESC",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:18009617",
+      "title": "European Society of Cardiology",
+      "corpus": "wikipedia",
+      "text": "The European Society of Cardiology (ESC) is an independent non-profit, non-governmental professional association that works to advance the prevention, diagnosis and management of diseases of the heart and blood vessels, and improve scientific understanding of the heart and vascular system. This is done by:\n\nDisseminating evidence-based, scientific knowledge through courses, webinars, scientific journals, books and an annual cardiovascular congress.\n\nHarmonising standards of care through the publication of ESC Clinical Practice Guidelines.\n\nShaping heart-health policy and regulation by fostering partnerships and providing scientific expertise and independent data.\n\nMost of the approximately 100,000 ESC members are cardiologists, cardiovascular nurses and allied professionals wishing to increase their knowledge and update their skills.The association adheres to the Alliance for Biomedical Research in Europe Code of Conduct.\n\nThe ESC was founded in 1950. Its headquarters is located in the technology park of Sophia Antipolis between Nice and Cannes, in the south of France. The first ESC-organised congress, The European Congress of Cardiology was held in London in September 1952.\n\nIn February 2013, the ESC opened the European Heart Agency in Brussels, close to the European Parliament complex, in order to have a base in the political and legislative capital of Europe.\n\nThe ESC is governed by an elected board of volunteers who are cardiovascular experts.\n\nIts activities are overseen by dedicated committees made up of more than 2,000 volunteers.\n\nEmployed staff support ESC volunteers in the development and management of its activities. ESC staff report to the chief executive officer, who reports to the president and management group of the ESC Board.\n\nThe ESC comprises 57 National Cardiac Societies, 7 sub-specialty associations and 22 sub-specialty working groups and councils. Since 2013, additional support has been developed within the sub-specialty communities to address the special interests and needs of young physicians.\n\nThe ESC organises numerous cardiology congresses each year, including the largest cardiology congress in the world, ESC Congress.\n\nAnnual or biennial sub-specialty congresses address acute cardiac care (Acute CardioVascular Care), cardiac imaging (EuroEcho), prevention, rehabilitation and sports cardiology (ESC Preventive Cardiology), nuclear cardiology and cardiac CT (ICNC-CT), magnetic resonance (EuroCMR congress), interventional cardiology (EuroPCR), heart failure (Heart Failure), heart rhythm and electrophysiology (EHRA), as well as basic science (Frontiers in CardioVascular Biolomedicine).\n\nThe ESC produces clinical practice guidelines for cardiology professionals from evidence-based clinical trials data. The guidelines aim to present all the relevant evidence on a particular clinical issue in order to help physicians weigh the benefits and risks of particular diagnostic or therapeutic procedures.\n\nA Fellow of the European Society of Cardiology is a cardiologist considered to be a person who has had a significant experience in the field and who has distinguished themself individually in clinical, educational, investigational, organisational or professional aspects of cardiology. Fellows have the right to use the postnominal designation of the FESC.\n\nThe ESC publishes 17 periodicals covering cardiovascular medicine and research:\n\nCardiovascular Research (CVR)\n\ne-Journal of Cardiology Practice\n\nEuropean Heart Journal (EHJ)\n\nEuropean Heart Journal – Acute Cardiovascular Care (EHJ-ACVC)\n\nEuropean Heart Journal – Cardiovascular Imaging (EHJ-CI)\n\nEuropean Heart Journal – Cardiovascular Pharmacotherapy (EHJ-CVP)\n\nEuropean Heart Journal – Case Reports (EHJ-CR)\n\nEuropean Heart Journal – Digital Health (EHJ-DH)\n\nEuropean Heart Journal – Open (EHJ-O)\n\nEuropean Heart Journal – Quality of Care and Clinical Outcomes (EHJ-QCCO)\n\nEuropean Heart Journal – Supplements (EHJ-S)\n\nEuropean Journal of Cardiovascular Nursing (EJCN)\n\nEuropean Journal of Heart Failure (EJHF)\n\nEuropean Journal of Preventive Cardiology (EJPC)\n\nESC Heart Failure (ESC HF)\n\nEP Europace\n\nEuroIntervention\n\nThe ESC publishes numerous books for those studying cardiology and subspecialties in the field:\n\nThe EACVI Echo Handbook\n\nThe EACVI Textbook of Cardiovascular Magnetic Resonance\n\nThe EACVI Textbook of Echocardiography, 2nd edn.\n\nThe EHRA Book of Interventional Electrophysiology\n\nThe EHRA Book of Pacemaker, ICD, and CRT Troubleshooting\n\nESC CardioMed\n\nThe ESC Handbook of Cardiovascular Rehabilitation\n\nThe ESC Handbook of Preventive Cardiology\n\nThe ESC Handbook on Cardiovascular Pharmacotherapy\n\nThe ESC Textbook of Cardiovascular Development\n\nThe ESC Textbook of Cardiovascular Imaging, 3rd edn.\n\nThe ESC Textbook of Cardiovascular Medicine, 3rd edn.\n\nThe ESC Textbook of Intensive and Acute Cardiovascular Care, 3rd edn.\n\nThe ESC Textbook of Preventive Cardiology\n\nThe ESC Textbook of Sports Cardiology\n\nThe ESC Textbook of Vascular Biology\n\nPCR–EAPCI Percutaneous Interventional Cardiovascular Medicine Textbook\n\nThe ESC supports continuing medical training and development by offering a broad portfolio of needs-based education initiatives, including online and in-person courses as well as post-graduate programmes led by experts in cardiology.\n\nGrants to help offset education costs are offered by the association.\n\nAmong the educational products produced by the ESC are interactive webinars that include case-based presentations, online assessments, and live discussions with key opinion leaders in cardiology. The society hosts an online platform for these presentations called ESC 365.\n\nDespite advances in cardiovascular medicine, cardiovascular disease (CVD) remains the world's biggest killer. The ESC collects cardiovascular data from across its 57 members countries through its 'Atlas of Cardiology' to better understand why and how CVD mortality can be reduced.\n\nThis compendium underlines major healthcare gaps and inequalities and provides robust data for budget owners and decision-makers who can improve population health at a European level.\n\nThe ESC operates a registry programme supported by pharmaceutical industry sponsors.\n\nThe ESC leverages the knowledge, network and influence of the cardiology profession to promote policy, regulation and research funding that advances cardiovascular science, supports high quality healthcare, and encourages evidence-based decision making.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1353859480",
+      "revision_id": "1353859480",
+      "text_sha256": "1f951042b2ce960f81a7afa167bdf19f432aa63344b4269bce22706d1bc8e210",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:41.984958+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.529507637023926,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:420943",
+      "title": "Electronic stability control",
+      "corpus": "wikipedia",
+      "text": "Electronic stability control (ESC), also referred to as electronic stability program (ESP) or dynamic stability control (DSC), is a computerized technology that improves a vehicle's stability by detecting and reducing loss of traction (skidding). When ESC detects loss of steering control, it automatically applies the brakes to help steer the vehicle where the driver intends to go. Braking is automatically applied to wheels individually, such as the outer front wheel to counter oversteer, or the inner rear wheel to counter understeer. Some ESC systems also reduce engine power until control is regained. ESC does not improve a vehicle's cornering performance; instead, it helps reduce the chance of the driver losing control of the vehicle on a slippery road.\n\nAccording to the U.S. National Highway Traffic Safety Administration and the Insurance Institute for Highway Safety in 2004 and 2006, one-third of fatal accidents could be prevented by the use of this technology. In Europe the electronic stability program had saved an estimated 15,000 lives as of 2020. ESC became mandatory in new cars in Canada, the US, and the European Union in 2011, 2012, and 2014, respectively. Worldwide, 82 percent of all new passenger cars feature the anti-skid system.\n\nIn 1983, a four-wheel electronic \" Anti-Skid Control \" system was introduced on the Toyota Crown. In 1987, Mercedes-Benz, BMW and Toyota introduced their first traction control systems. Traction control works by applying individual wheel braking and throttle to maintain traction under acceleration, but unlike ESC, it is not designed to aid in steering.\n\nIn 1990, Mitsubishi released the Diamante in Japan. Developed to help the driver maintain the intended line through a corner; an onboard computer monitored several vehicle operating parameters through various sensors. When too much throttle had been used when taking a curve, engine output and braking were automatically regulated to ensure the proper line through a curve and to provide the proper amount of traction under various road surface conditions. While conventional traction control systems at the time featured only a slip control function, Mitsubishi's TCL system had an active safety function, which improved course tracing performance by automatically adjusting the traction force (called \"trace control\"), thereby restraining the development of excessive lateral acceleration while turning. Although not a 'proper' modern stability control system, trace control monitors steering angle, throttle position and individual wheel speeds, although there is no yaw input. The TCL system's standard wheel slip control function enabled better traction on slippery surfaces or during cornering. In addition to the system's individual effect, it also worked together with the Diamante's electronically controlled suspension and four-wheel steering to improve total handling and performance.\n\nBMW, working with Bosch and Continental, developed a system to reduce engine torque to prevent loss of control and applied it to most of the BMW model line for 1992, excluding the E30 and E36. This system could be ordered with the winter package, which came with a limited-slip differential, heated seats, and heated mirrors. From 1987 to 1992, Mercedes-Benz and Bosch co-developed a system called Elektronisches Stabilitätsprogramm (\"Electronic Stability Program\", trademarked as ESP) to control lateral slippage.\n\nIn 1995, three automobile manufacturers introduced ESC systems. Mercedes-Benz, supplied by Bosch, was the first to implement ESP with their Mercedes-Benz S 600 Coupé. Toyota 's Vehicle Stability Control (VSC) system appeared on the Toyota Crown Majesta in 1995.\n\nGeneral Motors worked with Delphi Automotive and introduced its version of ESC, called \"StabiliTrak\", in 1996 for the 1997 model year on select Cadillac models. StabiliTrak was made standard equipment on all GM SUVs and vans sold in the U.S. and Canada by 2007, except for certain commercial and fleet vehicles. While the StabiliTrak name is used on most General Motors vehicles for the U.S. market, \"Electronic Stability Control\" is used for GM's overseas brands, such as Opel, Holden and Saab, except in the cases of Saab's 9-7X and 9-4X (which also use the StabiliTrak name).\n\nThe same year, Cadillac introduced an integrated vehicle handling and software control system called the Integrated Chassis Control System (ICCS), on the Cadillac Eldorado. It involves an omnibus computer integration of engine, traction control, Stabilitrak electronic stability control, steering, and adaptive continuously variable road sensing suspension (CVRSS), with the intent of improving responsiveness to driver input, performance, and overall safety, similar to Toyota/ Lexus Vehicle Dynamics Integrated Management.\n\nIn 1997, Audi introduced the first series production ESP for all-wheel drive vehicles (Audi A8 and Audi A6 with quattro (four-wheel drive system)). In 1998, Volvo Cars began to offer their version of ESC called Dynamic Stability and Traction Control (DSTC) on the new Volvo S80. Meanwhile, others investigated and developed their own systems.\n\nDuring a moose test, Swedish journalist Robert Collin of Teknikens Värld rolled a Mercedes A-Class (without ESC) at 78 km/h in October 1997. Because Mercedes Benz promoted a reputation for safety, they recalled and retrofitted 130,000 A-Class cars with firmer suspension and sportier tyres; all newly produced A- class featured ESC as standard along with the upgraded suspension and wheels. This produced a significant reduction in crashes, and the number of vehicles with ESC rose. The availability of ESC in small cars like the A-Class ignited a market trend; thus, ESC became available for all models (whether standard or as an option).\n\nFord 's version of ESC, called AdvanceTrac, was launched in the year 2000. Ford later added Roll Stability Control to AdvanceTrac which was first introduced in the Volvo XC90 in 2003. It has been implemented in many Ford vehicles since.\n\nFord and Toyota announced that all their North American vehicles would be equipped with ESC standard by the end of 2009 (it was standard on Toyota SUVs as of 2004, and after the 2011 model year, all Lexus, Toyota, and Scion vehicles had ESC; the last one to get it was the 2011 model-year Scion tC). However, as of November 2010, Ford still sold models in North America without ESC. General Motors had made a similar announcement for the end of 2010.\n\nIn 2003 in Sweden the purchase rate on new cars with ESC was 15%. The Swedish road safety administration issued a strong ESC recommendation and in September 2004, 16 months later, the purchase rate was 58%. A stronger ESC recommendation was then given and in December 2004, the purchase rate on new cars had reached 69% and by 2008 it had grown to 96%. ESC advocates around the world are promoting increased ESC use through legislation and public awareness campaigns and by 2012, most new vehicles should be equipped with ESC.\n\nIn 2009, the European Union decided to make ESC mandatory. Since November 1, 2011, EU type approval is only granted to models equipped with ESC. Since November 1, 2014, ESC has been required on all newly registered cars in the EU.\n\nThe NHTSA required all new passenger vehicles sold in the US to be equipped with ESC as of the 2012 model year, and estimated it will prevent 5,300–9,600 annual fatalities.\n\nDuring normal driving, ESC continuously monitors steering and vehicle direction. It compares the driver's intended direction (determined by the measured steering wheel angle) to the vehicle's actual direction (determined through measured lateral acceleration, vehicle rotation, and individual road wheel speeds).\n\nESC intervenes only when it detects a probable loss of steering control, such as when the vehicle is not going where the driver is steering. This may happen, for example, when skidding during emergency evasive swerves, understeer or oversteer during poorly judged turns on slippery roads, or hydroplaning. During high-performance driving, ESC can intervene when unwanted, because steering input may not always be indicative of the intended direction of travel (such as during controlled drifting). ESC estimates the direction of the skid, and then applies the brakes to individual wheels asymmetrically in order to create torque about the vehicle's vertical axis, opposing the skid and bringing the vehicle back in line with the driver's commanded direction. Additionally, the system may reduce engine power or operate the transmission to slow the vehicle down.\n\nESC can function on any surface, from dry pavement to frozen lakes. It reacts to and corrects skidding much faster and more effectively than the typical human driver, often before the driver is even aware of any imminent loss of control. This has led to some concern that ESC could allow drivers to become overconfident in their vehicle's handling and/or their own driving skills. For this reason, ESC systems typically alert the driver when they intervene, so that the driver is aware that the vehicle's handling limits have been reached. Most activate a dashboard indicator light and/or alert tone; some intentionally allow the vehicle's corrected course to deviate very slightly from the driver-commanded direction, even if it is possible to more precisely match it.\n\nAll ESC manufacturers emphasize that the system is not a performance enhancement nor a replacement for safe driving practices, but rather a safety technology to assist the driver in recovering from dangerous situations. ESC does not increase traction, so it does not enable faster cornering (although it can facilitate better-controlled cornering). More generally, ESC works within the limits of the vehicle's handling and available traction between the tyres and road. A reckless maneuver can still exceed these limits, resulting in loss of control. For example, during hydroplaning, the wheels that ESC would use to correct a skid may lose contact with the road surface, reducing its effectiveness.\n\nDue to the fact that stability control can be incompatible with high-performance driving, many vehicles have an override control which allows the system to be partially or fully deactivated. In simple systems, a single button may disable all features, while more complicated setups may have a multi-position switch or may never be fully disengaged.\n\nESC systems—due to their ability to enhance vehicle stability and braking—often work to improve traction in off-road situations, in addition to their on-road duties. The effectiveness of traction control systems can vary significantly, due to the significant number of external and internal factors involved at any given time, as well as the programming and testing performed by the manufacturer.\n\nAt a rudimentary level, off-road traction varies from typical operational characteristics of on-road traction, depending on the terrain encountered. In an open differential setup, power transfer takes the path of least resistance. In slippery conditions, this means when one wheel loses traction, power will counter-productively be fed to that axle instead of the one with higher grip. ESCs focus on braking wheels that are spinning at a rate drastically different from the opposing axle. While on-road application often supplements rapidly intermittent wheel braking with a reduction of power in loss-of-traction situations, off-road use will typically require consistent (or even increased) power delivery to retain vehicle momentum while the vehicle's braking system applies intermittent braking force over a longer duration to the slipping wheel until excessive wheel-spin is no longer detected.\n\nIn intermediate level ESC systems, ABS will be disabled, or the computer will actively lock the wheels when brakes are applied. In these systems, or in vehicles without ABS, the performance in emergency braking in slippery conditions is greatly improved as grip state can change extremely rapidly and unpredictably off-road when coupled with inertia. When the brakes are applied and wheels are locked, the tyres do not have to contend with the wheel rolling (providing no braking force) and braking repeatedly. Grip provided by the tyres is constant and as such can make full use of traction wherever it is available. This effect is enhanced where more aggressive tread patterns are present as the large tread lugs dig into the imperfections on the surface or below the substrate, as well as dragging dirt in front of the tyre to increase the rolling resistance even further.\n\nMany newer vehicles designed for off-road duties from the factory, are equipped with Hill Descent Control systems to minimise the risk of such runaway events occurring with novice drivers and provide a more consistent and safe descent than either no ABS, or on-road orientated ABS. These systems aim to keep a fixed speed (or user selected speed) while descending, applying strategic braking or acceleration at the correct moments to ensure wheels all rotate at the same rate while applying full locking braking when required.\n\nIn some vehicles, ESC systems automatically detect whether to operate in off- or on-road mode, depending on the engagement of the 4WD system. Mitsubishi's unique Super-Select 4WD system (found in Pajero, Triton and Pajero Sport models), operates in on-road mode in 2WD as well as 4WD High-range with the centre differential unlocked. However, it automatically activates off-road traction control and disables ABS braking when shifted into 4WD High-range with centre differential locked, or 4WD Low-range with centre differential locked. Most modern vehicles with fully electronically controlled 4WD systems such as various Land Rovers and Range Rovers, also automatically switch to an off-road-orientated mode of stability and traction control once low range, or certain terrain modes are manually selected.\n\nNumerous studies around the world have confirmed that ESC is highly effective in helping the driver maintain control of the car, thereby saving lives and reducing the probability of occurrence and severity of crashes. In the fall of 2004, the American National Highway and Traffic Safety Administration (NHTSA) confirmed international studies, releasing results of a field study of ESC effectiveness in the USA. The NHTSA concluded that ESC reduces crashes by 35%. Additionally, SUVs with stability control are involved in 67% fewer accidents than SUVs without the system. The United States Insurance Institute for Highway Safety (IIHS) issued its own study in June 2006 showing that up to 10,000 fatal US crashes could be avoided annually if all vehicles were equipped with ESC. The IIHS study concluded that ESC reduces the likelihood of all fatal crashes by 43%, fatal single-vehicle crashes by 56%, and fatal single-vehicle rollovers by 77–80%.\n\nESC is described as the most important advance in auto safety by many experts, including Nicole Nason, administrator of the NHTSA, Jim Guest and David Champion of Consumers Union of the Fédération Internationale de l'Automobile (FIA), E-Safety Aware, Csaba Csere, former editor of Car and Driver, and Jim Gill, long time ESC proponent of Continental Automotive Systems.\n\nThe European New Car Assessment Program (Euro NCAP) \"strongly recommends\" that people buy cars fitted with stability control. The IIHS requires that a vehicle must have ESC as an available option in order for it to qualify for their Top Safety Pick award for occupant protection and accident avoidance.\n\nESC incorporates yaw rate control into the anti-lock braking system (ABS). Anti-lock brakes enable ESC to slow down individual wheels. Many ESC systems also incorporate a traction control system (TCS or ASR), which senses drive-wheel slip under acceleration and individually brakes the slipping wheel or wheels and/or reduces excess engine power until control is regained. However, ESC serves a different purpose from that of ABS or traction control.\n\nThe ESC system uses several sensors to determine where the driver intends to travel. Other sensors indicate the actual state of the vehicle. The control algorithm compares driver input to vehicle response and decides, when necessary, to apply brakes and/or reduce throttle by the amounts calculated through the state space (set of equations used to model the dynamics of the vehicle). The ESC controller can also receive data from and issue commands to other controllers on the vehicle such as an all-wheel drive system or an active suspension system to improve vehicle stability and controllability.\n\nThe sensors in an ESC system have to send data at all times in order to detect a loss of traction as soon as possible. They have to be resistant to possible forms of interference, such as precipitation or potholes. The most important sensors are as follows:\n\nA steering wheel angle sensor that determines where the driver wants to steer. This kind of sensor often uses AMR elements.\n\nA yaw rate sensor that measures the rotation rate of the car. The data from the yaw sensor is compared with the data from the steering wheel angle sensor to determine regulating action.\n\nA lateral acceleration sensor that measures the vehicle's lateral acceleration. This is often called an accelerometer.\n\nWheel speed sensors that measure wheel speed.\n\nOther sensors can include:\n\nA longitudinal acceleration sensor that is similar to the lateral acceleration sensor in design, but provides additional information about road pitch, as well as being another sensor for vehicle acceleration and speed.\n\nA roll rate sensor that is similar to the yaw rate sensor in design, but improves the fidelity of the controller's vehicle model and provides more accurate data in combination with the other sensors.\n\nESC uses a hydraulic modulator to assure that each wheel receives the correct brake force. A similar modulator is used in ABS. Whereas ABS reduces hydraulic pressure during braking, ESC may increase pressure in certain situations, and an active vacuum brake booster unit may be utilised in addition to the hydraulic pump to meet these demanding pressure gradients.\n\nAt the centre of the ESC system is the electronic control unit (ECU), which contains various control techniques. Often, the same ECU is used for different systems at the same time (such as ABS, traction control, or climate control). The input signals are sent through an input circuit to the digital controller. The desired vehicle state is determined based upon the steering wheel angle, its gradient, and the wheel speed. Simultaneously, the yaw sensor measures the vehicle's actual yaw rate. The controller computes the needed brake or acceleration force for each wheel and directs the valves of the hydraulic modulator. The ECU is connected with other systems via a Controller Area Network interface in order to avoid conflicting with them.\n\nMany ESC systems have an override switch so the driver can disable ESC, which may be used on loose surfaces such as mud or sand, or if using a small spare tire, which could interfere with the sensors. Some systems also offer an additional mode with raised thresholds, so that a driver can utilize the limits of their vehicle's grip with less electronic intervention. However, the ESC reactivates when the ignition is restarted. Some ESC systems that lack an off switch, such as on many recent Toyota and Lexus vehicles, can be temporarily disabled through an undocumented series of brake pedal and handbrake operations.\n\nWhile Sweden used public awareness campaigns to promote ESC use, others implemented or proposed legislation.\n\nThe Canadian province of Quebec was the first jurisdiction to implement an ESC law, making it compulsory for carriers of dangerous goods (without data recorders) in 2005.\n\nThe United States followed, with the National Highway Traffic Safety Administration implementing FMVSS 126, which requires ESC for all passenger vehicles under 10,000 pounds (4536 kg). The regulation phased in starting with 55% of 2009 models (effective 1 September 2008), 75% of 2010 models, 95% of 2011 models, and all 2012 and later models. The standard endorses the use of the Sine with Dwell test. In 2015 NHTSA finalized updated regulations requiring ESC for truck tractors and certain buses.\n\nCanada required all new passenger vehicles to have ESC from 1 September 2011.\n\nThe Australian government announced on 23 June 2009 that ESC would be compulsory from 1 November 2011 for all new passenger vehicles sold in Australia, and for all new vehicles from November 2013, however the State Government of Victoria preceded this unilaterally on Jan 1 2011, much as they had done seatbelts 40 years before. The New Zealand government followed suit in February 2014 making it compulsory on all new vehicles from 1 July 2015 with a staggered roll-out to all used-import passenger vehicles by 1 January 2020.\n\nThe European Parliament has also called for the accelerated introduction of ESC. The European Commission has confirmed a proposal for the mandatory introduction of ESC on all new cars and commercial vehicle models sold in the EU from 2012, with all new cars being equipped by 2014.\n\nArgentina requires all new normal cars to have ESC since 1 January 2022, for all new normal vehicles from January 2024.\n\nChile requires all new cars to have ESC from August 2022.\n\nBrazil has required all new cars to have ESC from 1 January 2024.\n\nThe United Nations Economic Commission for Europe has passed a Global Technical Regulation to harmonize ESC standards. Global Technical Regulation No. 8 ELECTRONIC STABILITY CONTROL SYSTEMS was sponsored by the United States of America, and is based on Federal Motor Vehicle Safety Standard FMVSS 126.\n\nIn Unece countries, approval is based on UN Regulation 140: Electronic Stability Control (ESC) Systems.\n\nESC is built on top of an anti-lock brake system, and all ESC-equipped vehicles are fitted with traction control. ESC components include a yaw rate sensor, a lateral acceleration sensor, a steering wheel sensor, and an upgraded integrated control unit. In the US, federal regulations have required that ESC be installed as a standard feature on all passenger cars and light trucks as of the 2012 model year. According to NHTSA research, ABS in 2005 cost an estimated US$ 368; ESC cost a further US$111. The retail price of ESC varies; as a stand-alone option it retails for as little as US$250. ESC was once rarely offered as a sole option, and was generally not available for aftermarket installation. Instead, it was frequently bundled with other features or more expensive trims, so the cost of a package that included ESC was several thousand dollars. Nonetheless, ESC is considered highly cost-effective and may pay for itself in reduced insurance premiums.\n\nAvailability of ESC in passenger vehicles has varied between manufacturers and countries. In 2007, ESC was available in roughly 50% of new North American models compared to about 75% in Sweden. However, consumer awareness affects buying patterns, so that roughly 45% of vehicles sold in North America and the UK were purchased with ESC, contrasting with 78–96% in other European countries such as Germany, Denmark, and Sweden. While few vehicles had ESC prior to 2004, increased awareness has increased the number of vehicles with ESC on the used car market.\n\nESC is available on cars, SUVs and pickup trucks from all major automakers. Luxury cars, sports cars, SUVs, and crossovers are usually equipped with ESC. Midsize cars have also been gradually catching on, though the 2008 model years of the Nissan Altima and Ford Fusion only offered ESC on their V6 engine-equipped cars; however, some midsize cars, such as the Honda Accord, had it as standard by then. While traction control is usually included with ESC, there were vehicles such as the 2008 Chevrolet Malibu LS, 2008 Mazda6, and 2007 Lincoln MKZ that had traction control but not ESC. ESC was rare among subcompact cars in 2008. The 2009 Toyota Corolla in the United States (but not Canada) had stability control as a $250 option on all trims below that of the XRS, which had it as standard. In Canada, for the 2010 Mazda3, ESC was an option on the midrange GS trim as part of its sunroof package, and is standard on the top-of-the-line GT version. The 2009 Ford Focus had ESC as an option for the S and SE models, and it was standard on the SEL and SES models\n\nIn the UK, even mass-market superminis such as the Ford Fiesta Mk.6 and VW Polo Mk.5 came with ESC as standard.\n\nElaborate ESC and ESP systems (including Roll Stability Control) are available for many commercial vehicles, including transport trucks, trailers, and buses from manufacturers such as Daimler, Scania, and Prevost. In heavy trucks the ESC and ESP functions must be realized as part of the pneumatic brake system. Typical component and system suppliers are e.g. Bendix, and WABCO,.\n\nESC is also available on some motor homes.\n\nThe ChooseESC! campaign, run by the EU's eSafetyAware! project, provides a global perspective on ESC. One ChooseESC! publication shows the availability of ESC in EU member countries.\n\nIn the US, the Insurance Institute for Highway Safety website shows availability of ESC in individual US models and the National Highway Traffic Safety Administration website lists US models with ESC.\n\nIn Australia, the NRMA shows the availability of ESC in Australian models.\n\nJust as ESC is founded on the anti-lock braking system (ABS), ESC is the foundation for new advances such as Roll Stability Control or active rollover protection that works in the vertical plane much like ESC works in the horizontal plane. When RSC detects impending rollover (usually on transport trucks or SUVs), RSC applies brakes, reduces throttle, induces understeer, and/or slows down the vehicle.\n\nThe computing power of ESC facilitates the networking of active and passive safety systems, addressing other causes of crashes. For example, sensors may detect when a vehicle is following too closely and slow down the vehicle, straighten up seat backs, and tighten seat belts, avoiding and/or preparing for a crash.\n\nMoreover, current research on electronic stability control focuses on the integration of information: i) from systems from multiple domains within the same vehicle, for example radars, cameras, lidars and navigation system; and ii) from other vehicles, road users and infrastructure. Consistently with the trend towards the implementation of forms of model-based and predictive control, such ongoing progress is likely to bring a new generation of vehicle stability controllers in the next few years, capable of pre-emptive interventions, e.g., as a function of the expected path and road curvature ahead.\n\nElectronic stability control (ESC) is the generic term recognised by the European Automobile Manufacturers Association (ACEA), the North American Society of Automotive Engineers (SAE), the Japan Automobile Manufacturers Association, and other worldwide authorities. However, vehicle manufacturers may use a variety of different trade names for ESC:\n\nAcura: Vehicle Stability Assist (VSA) (formerly CSL 4-Drive TCS)\n\nAlfa Romeo: Vehicle Dynamic Control (VDC)\n\nAudi: Electronic Stability Program (ESP)\n\nBentley: Electronic Stability Program (ESP)\n\nBMW: Co engineering partner and inventor with Robert BOSCH GmbH and Continental (TEVES) Dynamic Stability Control (DSC) (including Dynamic Traction Control)\n\nBugatti: Electronic Stability Program (ESP)\n\nBuick: StabiliTrak\n\nCadillac: StabiliTrak and StabiliTrak3.0 with Active Front Steering (AFS)\n\nChery: Electronic Stability Program\n\nChevrolet: StabiliTrak and Active Handling (Corvette & Camaro only)\n\nChrysler: Electronic Stability Program (ESP)\n\nCitroën: Electronic Stability Program (ESP)\n\nDaihatsu: Vehicle Stability Control (VSC)\n\nDodge: Electronic Stability Program (ESP)\n\nDaimler: Electronic Stability Program (ESP)\n\nFiat: Electronic Stability Control (ESC) and Vehicle Dynamic Control (VDC)\n\nFerrari: Controllo Stabilità (CST)\n\nFord: AdvanceTrac with Roll Stability Control (RSC) and Interactive Vehicle Dynamics (IVD) and Electronic Stability Program (ESP); Dynamic Stability Control (DSC) (Australia only)\n\nGeneral Motors: StabiliTrak\n\nHonda: Vehicle Stability Assist (VSA) (formerly CSL 4-Drive TCS)\n\nHolden: Electronic Stability Program (ESP)\n\nHyundai: Electronic Stability Program (ESP), Electronic Stability Control (ESC) and Vehicle Stability Assist (VSA)\n\nInfiniti: Vehicle Dynamics Control (VDC)\n\nIsuzu: Electronic Vehicle Stability Control (EVSC)\n\nJaguar: Dynamic Stability Control (DSC), and Automatic Stability Control (ASC)\n\nJeep: Electronic Stability Program (ESP)\n\nKia: Electronic Stability Control (ESC) and Electronic Stability Program (ESP) and Vehicle Stability Assist (VSA)\n\nLamborghini: Electronic Stability Program (ESP)\n\nLand Rover: Dynamic Stability Control (DSC)\n\nLexus: Vehicle Dynamics Integrated Management (VDIM) with Vehicle Stability Control (VSC)\n\nLuxgen: Electronic Stability Control (ESC)\n\nLincoln: AdvanceTrac\n\nMaserati: Maserati Stability Program (MSP)\n\nMazda: Dynamic Stability Control (DSC) (including Dynamic Traction Control)\n\nMercedes-Benz (co-inventor) with Robert BOSCH GmbH: Electronic Stability Program (ESP)\n\nMercury: AdvanceTrac\n\nMini: Dynamic Stability Control\n\nMitsubishi: Active Skid and Traction Control MULTIMODE and Active Stability Control (ASC)\n\nNissan: Vehicle Dynamics Control (VDC)\n\nOldsmobile: Precision Control System (PCS)\n\nOpel: Electronic Stability Program (ESP) and Trailer Stability Program (TSP)\n\nPeugeot: Electronic Stability Program (ESP)\n\nPontiac: StabiliTrak\n\nPorsche: Porsche Stability Management (PSM)\n\nProton: Electronic Stability Control (ESC) or Vehicle Dynamics Control (VDC)\n\nRenault: Electronic Stability Program (ESP)\n\nRover Group: Dynamic Stability Control (DSC)\n\nSaab: Electronic Stability Program (ESP) or StabiliTrak\n\nSaturn: StabiliTrak\n\nScania: Electronic Stability Program (ESP)\n\nSEAT: Electronic Stability Program (ESP)\n\nŠkoda: Electronic Stability Program (ESP) and Electronic Stability Control (ESC)\n\nSmart: Electronic Stability Program (ESP)\n\nSubaru: Vehicle Dynamics Control (VDC)\n\nSuzuki: Electronic Stability Program (ESP)\n\nTata: Electronic Stability Programme (ESP) (not to be confused with Corner Stability Control and Brake Sway Control)\n\nToyota: Vehicle Stability Control (VSC) and Vehicle Dynamics Integrated Management (VDIM)\n\nTesla: Electronic Stability Control (ESC)\n\nVauxhall: Electronic Stability Program (ESP)\n\nVolvo: Dynamic Stability and Traction Control (DSTC)\n\nVolkswagen: Electronic Stability Program (ESP)\n\nESC system manufacturers include:\n\nFujitsu Ten Ltd.\n\nRobert Bosch GmbH\n\nAisin Advics\n\nBendix Corporation\n\nContinental Automotive Systems\n\nBeijingWest Industries\n\nHitachi\n\nITT Automotive, since 1982 part of Continental AG\n\nJohnson Electric\n\nMando Corporation\n\nVeoneer Nissin Brake Systems (former Nissin Kogyo, which owned 49% of the company). Japanese offices now part of Hitachi Astemo, US offices now part of ZF.\n\nTeves, now part of Continental AG\n\nTRW, now part of ZF\n\nWABCO\n\nHyundai Mobis\n\nKnorr-Bremse\n\nItelma",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1336320874",
+      "revision_id": "1336320874",
+      "text_sha256": "e339da19aad155965596e0f92e6bce93d62fd855c78d0404b8ada8a484c991cb",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:43.225014+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.8422698974609375,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:34805348",
+      "title": "Guggenmos ESC",
+      "corpus": "wikipedia",
+      "text": "The Guggenmos ESC is a German high-wing, single-place, rigid-wing hang glider that was designed by World Hang Gliding Champion Josef Guggenmos and produced by his company Drachenbau Josef Guggenmos.\n\nThe ESC was designed as a competition rigid wing glider. The aircraft was built in two sizes, both certified to DHV Class 3. The aircraft underwent a program of continuous improvement and refinement during its production history.\n\nESC 2002\n\nLarge size model for heavier pilots, with a 12.1 m (39.7 ft) span wing, nose angle of 143°, wing area of 13.4 m 2 (144 sq ft) and an aspect ratio of 11.1:1. The pilot hook-in weight range is 70 to 104 kg (154 to 229 lb). The price was € 8155 in 2003.\n\nESC C\n\nSmall size model for lighter pilots, with a 11.2 m (36.7 ft) span wing, nose angle of 143°, wing area of 12.1 m 2 (130 sq ft) and an aspect ratio of 10.5:1. The pilot hook-in weight range is 66 to 90 kg (146 to 198 lb). The price was €8155 in 2003.\n\nData from Bertrand\n\nGeneral characteristics\n\nCrew: one\n\nWingspan: 12.1 m (39 ft 8 in)\n\nWing area: 13.4 m 2 (144 sq ft)\n\nAspect ratio: 11:1",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1321150507",
+      "revision_id": "1321150507",
+      "text_sha256": "604ae4f1c33c1e341f4ee0cee5996264a4cc31f195ba6d0ebe4402ef691e6b17",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:45.011540+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.004822254180908,
+      "vector_distance": 0.8808014392852783,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1473",
+    "title": "Britannica page 1473",
+    "corpus": "britannica",
+    "text": "<x_0.0732><y_0.0391>ESC 1723 I ESC<x_0.7461><y_0.0414><class_Page-header>\n\n<x_0.0742><y_0.0398>ESARHADDON, the fen of Sennacherib, and his\nfavorite in the Baylorion of Alfryen. He is faid\nhave reigned to 9 years at Church, from the year 1904\nto 3322; believe which he reigned 13 years at Baby-\nton, in all 8 years. He died in the year of the week\nSSS, and was faceded by Sandoshina. Elar-\nhaddon, in the opinion of Sir Ilane Newton, feems to\nbe the Shanghai who often, as Catecharina fayo,\nold way after the result of Syria, the name _Bekriamo_\npolar being derived from _Afrhadon Pal._<x_0.459><y_0.1789><class_Text>\n\n<x_0.0752><y_0.1797>ESCAMADE, or Sealana a farism attack of a\nwall on a rampart; carnivore with ladders, to pafs the\nditch or mount the rampart; without proceeding in\nforsp, breaking ground, or carrying on regular works\nof feature the menu.<x_0.458><y_0.2461><class_Text>\n\n<x_0.0762><y_0.2469>When an throws are prepared to pafs the ditch,\nclicks with the affilance of bounds, humble, and life\ncines, when it is muddy, or with fault boats of tin, or\nbaskets covered with films or collected, where it is deep\nand filled with water, a party must be placed on the\ncounterfeary opposite for the loading-place, ready to\nfire at the garden if they are alarmed, and good the\nmounting on the rampart. It the ditch is dry, the\nladders so fixed in Some place fartheit diflant from the\ncentury and a four as they get upon the rampart\nthey put themforce in order to reverse the enemy; if\nthe country should be farparified and likely overcome,\nthe attachments halten to break open the gate and to\nlet in the raft of the party. If lifted this is wet, the\nrampart high, and provided with a reverentes, it will\nhe difficult to impute the town in the way; but if\nthere is no economic, the troops may hide chambers\nalong the outside of the rampart till all are over. Since the invention and use of gunpowder, and the\nwalls of cities have been linked, they are foldom taken\nby efcalade.<x_0.4639><y_0.5281><class_Text>\n\n<x_0.0771><y_0.6242>ESCALDOLIN, In January, a grass off the man\nmagnetor, belonging to the presumiric data of\nplants. The fruit is bluebar and poly/permons; the\npetal diftants and longest-lived; the figures headed.<x_0.457><y_0.5813><class_Text>\n\n<x_0.0781><y_0.5828>ESCAPE, in how a violent or privyvation out of\nhome lawful reflrant, without being delivered by due\ncourse of low. There are two lots of escape, valent\nbay and negligent. Voluntary, when a amreth\nanother for folony, or other crime, and afterwards lets\nhim go freely by conting, in which cafe, the party\nthat permits fich escapes and dailyly commended\nand multi author for it. Negligent eleceps, on the con-\ntrany, in where one is arrested, and afterwards deepas\nagainst the will of the perform that arred him, and is\nnot purified with fresh guards, and treaken before the\nperson containing lands left fight or him. By fast, it\noy Will. III: C. 26., the keepers of priform conviving at\nefecapes final (forter) crois; and in civil cases the flee\nrifi's a preferable for the debt.<x_0.4561><y_0.782><class_Text>\n\n<x_0.0791><y_0.7828>ESCHALOT, or Shallot. See ALUM.<x_0.4229><y_0.7961><class_Section-header>\n\n<x_0.0801><y_0.7969>ESCHAR, in foregry, the craft or fish occationed\nby home or marine medicine.<x_0.46><y_0.8227><class_Text>\n\n<x_0.0811><y_0.8234>ESCHARA, in natural history, the name of a fpec-\nence localizing, the the theories of which we in these\nthey are of a study or coral like hardwood, and reminds\na woven cloth in their texture; and the microtype ins-\nforms us, that they confidif arrangements of very\nsmall cells, whose furfaces appear much in this form,<x_0.4551><y_0.9047><class_Text>\n\n<x_0.4707><y_0.0453>Linnmus makes it a species of millepora, in the clafs\noil hobphory. See Place CLXVII, fig. you.<x_0.8701><y_0.0742><class_Text>\n\n<x_0.4717><y_0.0766>The narrow-level borrowback, fig. to divides as it\nrifes, into narrow leaves made up of regular rows of\nobbing figures shaped into placed alternates by each\nother, and opposed to an equal number on the other\nfile of the leaf, like an honeycomb, from their leaves\nproved, other still familiar difference numifications,\nmany of which femen to be connected at the lower part\nby tub), as in the corailings; by which means they\ncan play to and for those freely in the waters—Give\nthe natural appearance of this condition. E. reporters\ntwo leaves with their shall and cells magnified. E. t\nis a covid fiction of one of the leaves at E, flowing the\npartition and inner form of their cells.<x_0.8545><y_0.2477><class_Text>\n\n<x_0.4727><y_0.2484>The broad-leaved brownwork, fig. to, when fresh\ntaken out of the tea, it of a spongy salt texture, and\nfinels very little, but when it has fun for time time\non the floor, it becomes iffi and honey, like forms fort\nof nutrients below. Beff furthest, when examined by\nglallies, appears to be covered with cells; and, when a\npiece of it is cut across, one may discover the thin\nnumbers that there was a large to the cell of each face.<x_0.9893><y_0.357><class_Text>\n\n<x_0.4736><y_0.3578>The form of the cells is very remarkable, each\none being needed at the top, and contracted a littered\nthe lower part of the files to make sure for the reaches\nof the two next adjoining cells; fo that by this par-\nticulus contribution so soon is hold. The utterance\nof the cells is immediately under the arch, each cell,\nand the walls of the cells femen to be fortified with\nripises. Julfine different fossil polyps extending\nthemselves out of their cells, which lie has identified\nin the memoirs of the Academy of Sciences 1742--\nGives the natural appearance is a leafy branch of\nthis condition.<x_0.8828><y_0.5664><class_Text>\n\n<x_0.4746><y_0.5672>At the entrance of many of the cells a small triflu-\ncus body like a bivalve shell in discovered: E. z, the\nfigure of the cell, with the fluid in it; it is of a tranfi-\nparent anber colours, do clear that one may feel the\ndead until through its repetiended by the block-\nfpot.<x_0.8428><y_0.6477><class_Text>\n\n<x_0.4756><y_0.6492>ESCHEAT, in law, signifies any lands or ten-\nparts that cafinally fail to a Lord within his manor.\nIt is one of the confeugeures of tenure in divary\n(See _Fiona Sylpa, Amoran-Serous_, and Texas).\nIf the determination of the course are diflutions\nof the mutual bond between the loud and tenans, from\nthe extinction of the blood of the latter by other ana-\nural or crist means : if the deck without hers of his\nblood, or if his blood the company and named by\ncomunition of coercion or fidory; whereby every hori-\nbritable quality was entirely blasted out and doubled,\nfa fault, cakes the hand echated or fell back to the\nlost of the cry that is, the teens was determined by\nbreach of the original condition, esperified or implied\nin the fetal donation. In later once cats, there were\nno here inhibiting of the blood of the fork tettatory\nor puchader, to which hers alone the grant of the\nfeed extended: in the other, the tenant, by perpe-\ntrating an atrocious crime, showed that he was no<x_0.8477><y_0.9055><class_Text>\n\n<x_0.6309><y_0.9062>4 X Z R longer<x_0.8457><y_0.9195><class_Page-footer>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "3b52ecc93b55d3d2eb32e1e1ee1d964e4f50f35c48338d3a0d5bbd020581a290",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:46.390186+00:00",
+    "parser_receipt_sha256": "7dbca1eadaace97ddd778ae1274b54ee77372a700571b484def6ecbf7c614550",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 129,
+      "occurred_at": "2026-10-18T17:50:40.257708+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 561,
+      "occurred_at": "2026-10-18T17:50:40.818760+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 564,
+      "occurred_at": "2026-10-18T17:50:41.406025+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 565,
+      "occurred_at": "2026-10-18T17:50:41.984981+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1220,
+      "occurred_at": "2026-10-18T17:50:43.225086+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 549,
+      "occurred_at": "2026-10-18T17:50:43.797073+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 556,
+      "occurred_at": "2026-10-18T17:50:44.373697+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 621,
+      "occurred_at": "2026-10-18T17:50:45.011601+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 545,
+      "occurred_at": "2026-10-18T17:50:45.587429+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 50,
+      "occurred_at": "2026-10-18T17:50:45.661692+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 529,
+      "occurred_at": "2026-10-18T17:50:46.190750+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 81,
+      "occurred_at": "2026-10-18T17:50:46.280910+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 7,
+      "occurred_at": "2026-10-18T17:50:46.288389+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 187,
+      "occurred_at": "2026-10-18T17:50:46.475441+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1137,
+    "modern_words": 893,
+    "vocabulary_jaccard": 0.06469920544835414,
+    "jensen_shannon_divergence": 0.6430797074127624,
+    "historical_top_words": [
+      [
+        "the",
+        114
+      ],
+      [
+        "of",
+        63
+      ],
+      [
+        "and",
+        36
+      ],
+      [
+        "in",
+        30
+      ],
+      [
+        "a",
+        24
+      ],
+      [
+        "to",
+        23
+      ],
+      [
+        "or",
+        20
+      ],
+      [
+        "is",
+        18
+      ],
+      [
+        "by",
+        16
+      ],
+      [
+        "it",
+        15
+      ],
+      [
+        "with",
+        11
+      ],
+      [
+        "cells",
+        10
+      ],
+      [
+        "that",
+        9
+      ],
+      [
+        "at",
+        8
+      ],
+      [
+        "which",
+        7
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "the",
+        66
+      ],
+      [
+        "of",
+        43
+      ],
+      [
+        "and",
+        37
+      ],
+      [
+        "esc",
+        36
+      ],
+      [
+        "cardiovascular",
+        23
+      ],
+      [
+        "cardiology",
+        21
+      ],
+      [
+        "in",
+        21
+      ],
+      [
+        "european",
+        18
+      ],
+      [
+        "heart",
+        18
+      ],
+      [
+        "to",
+        15
+      ],
+      [
+        "journal",
+        13
+      ],
+      [
+        "textbook",
+        10
+      ],
+      [
+        "by",
+        9
+      ],
+      [
+        "a",
+        9
+      ],
+      [
+        "ehj",
+        9
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "esc i",
+  "semantic_input": {
+    "query": "esc i\nESC 1723 I ESC\n\nESARHADDON, the fen of Sennacherib, and his\nfavorite in the Baylorion of Alfryen. He is faid\nhave reigned to 9 years at Church, from the year 1904\nto 3322; believe which he reigned 13 years at Baby-\nton, in all 8 years. He died in the year of the week\nSSS, and was faceded by Sandoshina. Elar-\nhaddon, in the opinion of Sir Ilane Newton, feems to\nbe the Shanghai who often, as Catecharina fayo,\nold way after the result of Syria, the name _Bekriamo_\npolar being derived from _Afrhadon Pal._\n\nESCAMADE, or Sealana a farism attack of a\nwall on a rampart; carnivore with ladders, to pafs the\nditch or mount the rampart; without proceeding in\nforsp, breaking ground, or carrying on regular works\nof feature the menu.\n\nWhen an throws are prepared to pafs the ditch,\nclicks with the affilance of bounds, humble, and life\ncines, when it is muddy, or with fault boats of tin, or\nbaskets covered with films or collected, where it is deep\nand filled with water, a party must be placed on the\nco",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.3127622604370117,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

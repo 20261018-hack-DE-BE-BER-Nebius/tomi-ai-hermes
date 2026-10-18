@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "5550",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:47873636",
+      "title": "HD 5550",
+      "corpus": "wikipedia",
+      "text": "HD 5550 may refer to:\n\nThe graphics card in the Radeon HD 5000 series\n\nHR 273, a class A0 giant star in Cassiopeia",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1211251867",
+      "revision_id": "1211251867",
+      "text_sha256": "6552ffaacef4f03b8fdfa387ea77f9d4d221c5ed5c8d5113d2937c17c87334d6",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:29.298033+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.1395726203918457,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:20607348",
+      "title": "IBM 5550",
+      "corpus": "wikipedia",
+      "text": "IBM 5550 is a personal computer series that IBM marketed in Japan, Korea, Taiwan and China in the 1980s and 1990s, for business use customers. In Japan, it was introduced in 1983 and promoted as \" Multistation 5550 (マルチステーション5550) \" because it had three roles in one machine: a PC, a word processing machine which was traditionally marketed as a machine different from a PC in Japan, and an IBM-host attached terminal.\n\nThe IBM PC that had been marketed by IBM since 1981, using Intel 8088, was not powerful enough to process the far eastern languages of Japanese, Korean and Chinese. Nor was the resolution of IBM PC's display high enough to show the complex characters of these languages.\n\nThe IBM 5550 was first introduced in Japan in March 1983, using Intel 8086 microprocessor and was called \"Multistation 5550\" because it had three roles in one machine: a PC, a word processing machine which was traditionally marketed in Japan as a machine different from a PC, and an online terminal.\n\nAfter the Japanese 5550 models, Korean, Traditional Chinese and Simplified Chinese models were also introduced. IBM 5550 initially used its own architecture, but, later since 1987, was changed to use IBM Personal System/2 's Micro Channel Architecture, being renamed as Personal System/55.\n\nIn Japan, Kiyoshi Atsumi, a film actor, was used to promote the 5550. IBM later introduced IBM JX for home users in Japan, Australia and New Zealand, and DOS/V for both business and home users in Japan.\n\nThe 5550 was originally planned as a terminal with a combination of word processing and personal computing targeted for Japanese computer market. To display 24 dots Mincho kanji typeface which was also used in many Japanese word processing machines, the 5550 had high display resolution such as a 1024×768 pixel graphic screen. The first model of 5550 was designed to read a display font from an external storage for multilingual support, including Chinese and Korean languages.\n\nThe 5550 fulfills three roles, via the following components:\n\nJapanese Business Personal Computer: Japanese DOS (日本語DOS, Nihongo DOS).\n\nJapanese word processor: Writing Program (文書プログラム, Bunsho Program).\n\nJapanese online terminal: 3270 Kanji Emulation (3270漢字エミュレーション) and 5250 Kanji Emulation (5250漢字エミュレーション).\n\nThe original Bunsho Program and emulators booted from a floppy disk without Nihongo DOS. They used a proprietary disk format which couldn't be read from Nihongo DOS, so users had to replace floppy disks or set the boot partition to switch between two programs. Also, they had to use a conversion program to exchange data. Later, they were ported for Nihongo DOS, and functions were gradually implemented. 3270 Kanji Emulation, 5250 Kanji Emulation and Bunsho Program were superseded by Nihongo 3270 PC in October 1983, Nihongo 5250 PC in September 1984 and DOS Bunsho Program in May 1986.\n\nThe first generation of IBM 5550 has up to three 5¼ inch '2DD' (720 KB) floppy drives because the Bunsho Program uses three floppy disks; program disk, font disk, and user data disk. Later models contain a font ROM card as other 1980's Japanese personal computers did.\n\nYu Kawara (川原 裕) of IBM Fujisawa Development Laboratory planned the terminal with a combination of word processor and personal computer, called the Multi-functional Workstation, and he proposed it at the headquarter in March 1981. The development team was founded as an Independent Business Unit (IBU).\n\nThe team set goals for IBM 5550 that the machine was usable for both word processing and personal computing on the same architecture at least 3-5 years. They tried to build the 5550 from the IBM Displaywriter System 6580, the English word processor developed in Austin office in 1980, and the IBM Personal Computer developed in Boca Raton office, but it was difficult to combine different types of machines.\n\nConsidering price–performance ratio and continuity of an architecture, the team examined not only Intel's but also other manufacturer's processsors. The IBM PC used an Intel 8088, but the 5550 employed an Intel 8086 because bus speed largely influenced for performance of the machine which had high display resolution.\n\nTo gain an advantage over competitors in Japanese word processing, 24 pixel font models render characters in a box of 26×29 pixels, and the total display resolution is 1066×725 pixels calculated with box width by 41×25 text. 16 pixel font models render characters in a box of 18×21 pixels, and the total display resolution is 738×525 pixels. The 5550 had one more column than 40 columns of usual Japanese computers, which enabled line breaking.\n\nFor personal computing, Nihongo DOS K2.00 had been developed by Microsoft. It was the second Japanese localization of MS-DOS 2.0 followed to Toshiba's PASOPIA 16. Nihongo DOS bundled the Microsoft BASIC interpreter which designed for the 5550. Programming languages and the Japanese version of Multiplan were also provided.\n\nThe team didn't consider the machine was used for online communication, but they realized its importance during the development. They decided to add a role of a terminal in January 1982. This change extended its development term. In May 1982 Business Show (one of computer industry exhibitions in Japan), IBM Japan only displayed the IBM PC as a reference material. They unveiled the development of 5550 in fall 1982.\n\nIBM Japan didn't have a factory for mass production of personal computers, so the production of 5550 was outsourced to some companies. System units, hard disks, and monitors were manufactured by Matsushita Electric Industrial, printers by Oki Electric Industry, and keyboards by Alps Electric.\n\n5551-A/B/C/D/E/G/H/J/K/M/P (Basic models, placed beside the display. Later became a smaller size like 5540)\n\n5541-B/E/J/K/M/P (Smaller size models, on which the display can be placed. Later made even smaller)\n\n5561-G/H/J/K/M/P (Larger size models, all models employ Intel 80286)\n\n5530-G/H (Stand-alone models, without the communications adapter. Used 3½ inch floppy disk)\n\n5535-M (Laptop, using 3½ inch floppy disk)\n\nIn Japan, Multistation 5550 competed against:\n\nFujitsu FACOM 9450 and FMR series\n\nNEC PC-9801 series and N5200 /5300 series\n\nBYTE in 1983 speculated that \"we may soon see a similar machine here in America\". Describing the 5550 as \"a true workstation\", the magazine envisioned the computer as filling the \"considerable gulf above the PC\", and a rival to the IBM System/36 minicomputer. It praised the 5550's \"unprecedented\" combination of kanji support with high-end word-processing capability, and reported that in Japan an ecosystem of vendors providing products for the computer was forming. The magazine concluded that \"if the American PC is any precedent, the market should soon be filled with 5550 software\".\n\nThe 5550 was primarily sold for large enterprises who used IBM's mainframe computer. Meiji Life who used the IBM 3081 mainframe decided to purchase about 500 units of the 5550 in 1983. A manager of its System Development section said, \"IBM supports us to satisfy our demand for the communication software. We are planning to replace all of our IBM terminals. A new personal computer must respond for the host computer as fast as a terminal, and it must have various communication softwares.\"\n\nIn Japan, the 5550 had annual sales of 70,000 units in 1985, and the Nikkei Personal Computing magazine reported in 1986 that the 5550 had the largest personal computer share of 30% in the corporate sector.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1343013638",
+      "revision_id": "1343013638",
+      "text_sha256": "ff1e7add9edb801a84ea9d5257744a976ab7b0ed1bbdbfa1b141fbfee9e90fc7",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:29.876930+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.149717092514038,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:27046174",
+      "title": "Hanshin 5550 series",
+      "corpus": "wikipedia",
+      "text": "The Hanshin 5550 series (阪神電鉄5550系, Hanshin Dentetsu 5550-kei) is a commuter electric multiple unit (EMU) train operated by the private railway operator Hanshin Electric Railway in Japan since 2010.\n\nThe design was based on the earlier 5500 series trains, which were themselves developed from the 8000 series trains. The bogies are the same as those used on the 1000 series trains.\n\nTogether with the 5500 series trains, the 5550 series set is primarily used on Hanshin Main Line services.\n\nAs of 1 April 2015, one four-car set is in service, formed as shown below, with three motored \"M\" cars and one non-powered trailer \"T\" car. The \"Mc\" car is at the Umeda end.\n\nEach motored car is fitted with one single-arm pantograph.\n\nPassenger accommodation consists of longitudinal bench seating throughout, with sculpted seats finished in blue moquette.\n\nThe train entered revenue service 29 December 2010.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1338128781",
+      "revision_id": "1338128781",
+      "text_sha256": "ca659e571f9ff8a57a700da2f135c78003e68a8bd0b65519bfd24fa1fb65a3f0",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:30.476752+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.4944887161254883,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:851",
+    "title": "Britannica page 851",
+    "corpus": "britannica",
+    "text": "<x_0.0625><y_0.0508>5550<x_0.1211><y_0.0672><class_Page-header>\n\n<x_0.4004><y_0.0453>**OPTICS.**<x_0.627><y_0.0648><class_Title>\n\n<x_0.8877><y_0.0484>**Part II.**<x_0.9668><y_0.068><class_Section-header>\n\n<x_0.0596><y_0.0688>or Refletions.<x_0.125><y_0.0984><class_Caption>\n\n<x_0.1221><y_0.0664>tre is C, and focus of parallel rays is at P; and let the imaginary focus of the incident rays be as F, a point between P and B, and he DR be the refleth ray. From C and R draw the lines CH, RH, the one palling through D, the other parallel to FE. Then will the angle RHD be equal to HDD the angle of incidence, as alterant to is; and therefore equal to HDD, the angle of reflections is reflected the triangle HDR is indicates, and consequently DR is equal to RH. Now the lines FD and RH being parallel, the complex DDC and RHD are similar; and therefore RH/ or RD, is to PD as CR on CF: but BD vanthing, RD and FD coincide with RB and IB, whether RF is to TR as CR in CF; that is, the distance of the focus from the surface is to the dilance of the imaginary focus of the incident rays, at the distance of the focus from the centre is to the dilance of the imaginary focus of the incident rays from the fame. _@E.D._<x_0.5127><y_0.318><class_Text>\n\n<x_0.123><y_0.3187>Cass. Of diverging rays falling upon a concave surface, and corresponding from a point between the fo-cus of parallel rays and the surface.<x_0.5117><y_0.357><class_Text>\n\n<x_0.124><y_0.3578>Dass. Let ED and FB represent two diverging rays flowing from the point 3 as a radiant, which was the imaginary focus of the incident rays in the forgoing cafe. Then an SD as in the cafe selected with anDR, FD will be reflected into DR(, (for the region unem- tioned in Cafc the feecond), lo that the refleted ray will proceed as from the point 3, but it cane demon- flatred in the cafe manufacturing forceing, that RB is to FB as CR to CF; that is, the distance of the fo-cus from the surface is to that of the radiant from the fame, as the distance of the former from the centre is to that of the latter from the fame. _@E.D._<x_0.5137><y_0.5156><class_Text>\n\n<x_0.1201><y_0.5172>Cass 7. Of converging rays falling upon a convex surface, and including towards a point beyond the cen- tro.<x_0.5146><y_0.5555><class_Text>\n\n<x_0.1191><y_0.5563>Dass. Let AB, ED, (fig. 8) be the incident rays tending to F, a point beyond the centre C, and let DR be the refleted ray of the incident one ED. Then because the incident ray ED tend to a point beyond the centre, the refleted ray DR will proceed as from one on the contrary to, flopode 2 as as- related above under Drop, VII. Through D draw the perpendicular CD, and produce it to H. Thus will EDH and HDD be the angles of incidence and re- flelections, while being equal, their vertical ones of DF and CDR will be fo to cases confiantly the vertex of the triangle FDR and bifled by the line CD+ where- fore, RD is to DF, or (3 Elem d o) BD vanthing, RB is to DF as RC to CF; that is, the dilatance of the focus of the refleted rays is to that of the imaginary focus of the incident rays, as the dilatance the lower from the center is to the dilatance of the latter from the fame. _@E.D._<x_0.5156><y_0.7922><class_Text>\n\n<x_0.1338><y_0.7937>Cass 8. Of diverging rays falling upon a concave surface, and proceeding from a point beyond the cen- tro.<x_0.5166><y_0.8336><class_Text>\n\n<x_0.1348><y_0.8328>Dass. Let FB, ED, be the incident rays having their radiant in F, the imaginary focus of the incident rays in the foreground cafe. Then an ED was in that cafe reflected into DR(, FD will now be reflected into DR; lo that R will be the focus of the refleted rays. But it was demontrated in the foregoing cafe, that RB is to FB as RC to CF; that is, the dilatance of<x_0.5176><y_0.9289><class_Text>\n\n<x_0.5195><y_0.0656>the focus of the refleted rays from the furface is to the dilatance of the radiant from the fame, as the di- flance of the focus of the refleted rays from the cen- tre is to the dilatance of the radiant from thence. _@E.D._<x_0.9775><y_0.1336><class_Text>\n\n<x_0.5205><y_0.1344>The two remaining cafes may be confirmed as the converfe of thote under Prop. II. (p. 548-), because the incident rays in there are the reflected ones in them; or they may be demothered in the fame manner with the forgoing, as follows.<x_0.9062><y_0.2><class_Text>\n\n<x_0.5215><y_0.2008>Cass 9. Converging rays falling upon a convex fur- face, and tending to the surface of parallel rays, be- come parallel after reflection.<x_0.9053><y_0.2414><class_Text>\n\n<x_0.5225><y_0.2406>Dass. Let ED, RB, (fig. 8) reported two convergency rays inside to the convex fur- End, and tending towards F, which we will now loppole to be the focus of parallel rays; and he DR be the refleted ray and Cash center of coronavity of the re- flefling surfaces. Through C draw the line CD, and produces to FR, drawing ARH parallel to ED prod-cut to F. Now it has been demottemical Cade ? when the incident rays are loppodof to tend to the point Y, that RB is to FB as RC to CF; but F in the Cafe being loppold to be the focus of parallel rays, it is the middle point between C and B (by pro- position all), and therefore FB and FC are equal and confiantly the two outer corners in the proportion, viz. RB and RC, mitb fe toto ; which can only be upon a loppodiation that R is at an infinite diffuse from B; that is, that the refleted ray DR and DR be parallel. _@E.D._<x_0.9072><y_0.4773><class_Text>\n\n<x_0.5234><y_0.4781>Cass to Diverging rays falling upon a concave fur-ness and preceding from the focus of parallel rays, become parallel after reflection.<x_0.9082><y_0.5164><class_Text>\n\n<x_0.5244><y_0.518>Dass. Let AD, EB, BB (fig. 6) be two diverging rays incident upon the concave fur BD, as loppo- fed in Cafe 4; where it was demottemical that FB is to RB as CF to OR, then in the prefect each RB and CR are equal, because R is loppold to be the focus of parallel rays; therefore FB and FC are fo too. Which cannot be under F be taken as the nature di- fame from B; that is, and the refleted rays BF and DF be parallel. _@E.D._<x_0.9092><y_0.6344><class_Text>\n\n<x_0.5254><y_0.6359>It is here otherable, that in the cafe of diverging rays falling upon a convex furace, (fe fig. 7) the further the point It is taken from B, not never the point F, the focus of the refleted rays, approaches to B, while the radiant R remains the fame. For is in evident from the curvature of events, thus the ripet D (fig. 9) may be te ken fo far from B, that the refleted ray DE final proceed as from F, G, H, or even from B, or from points between B and R; and the further is in taken from B, the father the point from which it pro- cocis, appochoz toward R is will easily appear if we doue forced incident rays with that respec- tive reflected ones, in fashion than that angles of reflection may be all equal to their refleting angles of incidentes as at those in the figure. The fact is applicable to any of the other cafes of diverging or converging rays incident upon a spherical surface. That is the reason, that when rays are considered as es- flected from a spherical surface, the dilatance of the oblique rays from the perpendicular one is taken to [all, that it may be loppold to vanish.<x_0.9111><y_0.9195><class_Text>\n\n<x_0.8672><y_0.9203>From<x_0.9102><y_0.9375><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "7101b44c603aa59acabd133ee1fba9529a293ccd4087adfdb4f44bff255ef705",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:55:59.329200+00:00",
+    "parser_receipt_sha256": "31d0c22d016b65d1f648ad8f7d9af5c1f7d59a9364ca514428dad496676105e0",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 161,
+      "occurred_at": "2026-10-18T17:48:28.743665+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 554,
+      "occurred_at": "2026-10-18T17:48:29.298068+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 555,
+      "occurred_at": "2026-10-18T17:48:29.877032+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 574,
+      "occurred_at": "2026-10-18T17:48:30.476779+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 580,
+      "occurred_at": "2026-10-18T17:48:31.073628+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1146,
+      "occurred_at": "2026-10-18T17:48:32.245065+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 628,
+      "occurred_at": "2026-10-18T17:48:32.893127+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 546,
+      "occurred_at": "2026-10-18T17:48:33.465440+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 553,
+      "occurred_at": "2026-10-18T17:48:34.042369+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 39,
+      "occurred_at": "2026-10-18T17:48:34.109946+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 434,
+      "occurred_at": "2026-10-18T17:48:34.543688+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 76,
+      "occurred_at": "2026-10-18T17:48:34.625965+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 5,
+      "occurred_at": "2026-10-18T17:48:34.630839+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 208,
+      "occurred_at": "2026-10-18T17:48:34.839150+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1234,
+    "modern_words": 20,
+    "vocabulary_jaccard": 0.015723270440251572,
+    "jensen_shannon_divergence": 0.7756900205837447,
+    "historical_top_words": [
+      [
+        "the",
+        140
+      ],
+      [
+        "of",
+        52
+      ],
+      [
+        "to",
+        47
+      ],
+      [
+        "and",
+        41
+      ],
+      [
+        "is",
+        39
+      ],
+      [
+        "rays",
+        36
+      ],
+      [
+        "from",
+        33
+      ],
+      [
+        "be",
+        27
+      ],
+      [
+        "as",
+        25
+      ],
+      [
+        "that",
+        25
+      ],
+      [
+        "in",
+        21
+      ],
+      [
+        "focus",
+        18
+      ],
+      [
+        "a",
+        16
+      ],
+      [
+        "incident",
+        15
+      ],
+      [
+        "parallel",
+        14
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "hd",
+        2
+      ],
+      [
+        "the",
+        2
+      ],
+      [
+        "in",
+        2
+      ],
+      [
+        "a",
+        2
+      ],
+      [
+        "may",
+        1
+      ],
+      [
+        "refer",
+        1
+      ],
+      [
+        "to",
+        1
+      ],
+      [
+        "graphics",
+        1
+      ],
+      [
+        "card",
+        1
+      ],
+      [
+        "radeon",
+        1
+      ],
+      [
+        "series",
+        1
+      ],
+      [
+        "hr",
+        1
+      ],
+      [
+        "class",
+        1
+      ],
+      [
+        "giant",
+        1
+      ],
+      [
+        "star",
+        1
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "5550",
+  "semantic_input": {
+    "query": "5550\n5550\n\n**OPTICS.**\n\n**Part II.**\n\nor Refletions.\n\ntre is C, and focus of parallel rays is at P; and let the imaginary focus of the incident rays be as F, a point between P and B, and he DR be the refleth ray. From C and R draw the lines CH, RH, the one palling through D, the other parallel to FE. Then will the angle RHD be equal to HDD the angle of incidence, as alterant to is; and therefore equal to HDD, the angle of reflections is reflected the triangle HDR is indicates, and consequently DR is equal to RH. Now the lines FD and RH being parallel, the complex DDC and RHD are similar; and therefore RH/ or RD, is to PD as CR on CF: but BD vanthing, RD and FD coincide with RB and IB, whether RF is to TR as CR in CF; that is, the distance of the focus from the surface is to the dilance of the imaginary focus of the incident rays, at the distance of the focus from the centre is to the dilance of the imaginary focus of the incident rays from the fame. _@E.D._\n\nCass. Of diverging rays falling ",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.010144472122192383,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

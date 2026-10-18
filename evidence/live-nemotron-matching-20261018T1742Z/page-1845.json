@@ -1,0 +1,252 @@
+{
+  "status": "ambiguous",
+  "question": "XVII.",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:35197356",
+      "title": "XVII Reserve Corps (German Empire)",
+      "corpus": "wikipedia",
+      "text": "The XVII Reserve Corps / XVII RK (German: XVII. Reserve-Korps) was a corps level command of the German Army in World War I.\n\nThe Corps was formed in October 1914 as the temporary Corps Graudenz or Corps Zastrow named for its commander General der Infanterie Ernst von Zastrow, military governor of Graudenz. On 21 July 1915 it was established as XVII Reserve Corps. The Corps was dissolved on 17 September 1917.\n\nThe nucleus of the corps was troops collected at Graudenz Fortress. In mid-November 1914 it consisted of two divisions: Wernitz and Breugel with a strength of 26 battalions, 6 squadrons and 13 batteries.\n\nOn February 8, 1915 Zastrow Korps was organized as follows:\n\nCorps Zastrow / XVII Reserve Corps had the following commanders during its existence:",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348865248",
+      "revision_id": "1348865248",
+      "text_sha256": "205f2fcd4bf5a90984e563490e0a6e3a9b48eb3344684c0ee15eb27f2f145c75",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:52:34.787261+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.4252443313598633,
+      "vector_distance": 0.7317227125167847,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:38756019",
+      "title": "Kodam XVII/Cenderawasih",
+      "corpus": "wikipedia",
+      "text": "Komando Daerah Militer XVII/Cenderawasih or Kodam XVII/Cenderawasih (XVII Military Regional Command/Cenderawasih), is a military area command of the Indonesian Army, as the 17th (Roman numeral \"XVII\") Kodam, which is responsible for the defense of the provinces of Papua, South Papua, Central Papua and Highland Papua.\n\nThe military region was established on 8 August 1962 after Operation Trikora in which the Indonesian National Armed Forces took part in the invasion of the West Papua, in then Netherlands New Guinea. Major General Rukman was appointed its first commanding general, and the command was responsible for the Indonesian Contingent Western Papua (Kontingen Indonesia Irian Barat (KOTINDO)), the Indonesian infiltration units that were deployed to the region during Operation Trikora. It included Detachment A based in Merauke, Detachment B based in Kaimana, Detachment C based in Fakfak, and Detachment D based in Sorong. Kotindo was part of the United Nations Security Force (UNSF) which was the security force of the United Nations Temporary Executive Authority following the September 1962 New York Agreement.\n\nIts Command Day is marked every 17 May marking the 1963 formal handover of West Papua to the Republic of Indonesia. In the same year, Ahmad Yani executed Operation Wishnumurti, to send divisions from Java, Makassar, and Moluccas, to supplement Kotindo forces. The formation of Kodam XVII/Irian Barat was on 17 August 1962, although it did not have any units assigned. On 30 June 1964, the name was changed to Kodam XVII/Tjendrawasih. It was further expanded with more battalions, which includes Battalion 751/Tjendrawasih in Manokwari which was formed from Kodam VII/Diponegoro, Yonif 752/Tjendrawasih in Sorong from Kodam VI/Siliwangi, and Yonif 753/Tjendrawasih in Jayapura. These three units were reorganisation from Yonif 641/Tjendrawasih I from Diponegoro and Yonif 642/Tjendrawasih II from Siliwangi which also integrated infiltration forces of Trikora, guerrilla forces of Cassowary Battalion of Arfai, and former members of PVK after they had been trained in Siliwangi and Diponegoro.\n\nPreviously Irian Jaya and the Maluku islands were under Kodam VIII/Trikora, formed in 1984. Kodam VIII/Trikora had in 1997 six infantry battalions plus engineer detachments. The district commands in 1997 included Korem 171 (HQ Manokwari), Korem 172 (HQ Abepura), Korem 173 (HQ Biak), and Korem 174 (HQ Ambon). The South Pacific Yearbook reported three infantry battalions which were based at Manokwari, Jayapura, and Sorong, as well as mentioning a naval base at Biak. The military command derives its name (Cenderawasih) from the Indonesian word for the bird-of-paradise, which is native to Papua.\n\nOn June 8, 2012, the Indonesian Police told AFP that one person was killed and 17 wounded when Indonesian soldiers opened fire on civilians after a deadly dispute sparked by a road accident in Papua province. The shootings took place late on June 7, 2012, after residents, angry that two soldiers on a motorcycle hit and injured a child, stabbed one of the troops to death and seriously injured the other in Wamena: \"Following the road accident soldiers... arrived in two trucks and took revenge by firing gunshots toward residents and setting several houses on fire,\" national police spokesman Saud Usman Nasution said. \"The trouble then spread to the city centre where several shops and houses were also damaged by gunshots,\" he told AFP.\n\nThe Territorial Units in Kodam XVII/Cenderawasih, since 2023, are organized into four Military Area Commands (Korem):\n\n171st Military Area Command with HQ in Biak (under formation stage)\n\n172nd Military Area Command/Praja Wira Yakthi with HQ in Jayapura\n\n1701st Military District Command\n\n1702nd Military District Command\n\n1712nd Military District Command\n\n1715th Military District Command\n\n756th Infantry Battalion\n\n173rd Military Area Command/Praja Vira Braja with HQ in Biak\n\n1703rd Military District Command\n\n1705th Military District Command\n\n1708th Military District Command\n\n1709th Military District Command\n\n1714th Military District Command\n\n753rd Special Raider Infantry Battalion\n\n174th Military Area Command/Anim Ti Waninggap with HQ in Merauke\n\n1707th Military District Command\n\n1710th Military District Command\n\n1711st Military District Command\n\n757th Infantry Battalion\n\n751st Special Raider Infantry Battalion/Vira Jaya Sakti\n\n3rd Cavalry Detachment (Independent)/Srigala Ceta\n\n10th Engineers Detachment/Ksatria Yudha Dharma\n\n11th Engineers Detachment/Mit Anim\n\n12th Engineers Detachment/Ohar'o Hesowa Hubana\n\n17th Regional Training Regiment (Resimen Induk Kodam XVII/Cenderawasih)\n\nRegiment HQ\n\nSatuan Dodik Latpur (Combat Training Command Unit)\n\nSatuan Dodik Kejuruan (Specialist Training Command Unit)\n\nSekolah Calon Bintara (Non-Commissioned Officer Training School)\n\nSekolah Calon Tamtama (Enlisted Training School)\n\nSatuan Dodik Bela Negara (National Defence Training Command Unit)\n\nThe other support units are:\n\nMilitary Police Command(Pomdam XVII/Cenderawasih)\n\nPublic Relations (Pendam XVII/Cenderawasih)\n\nAdjutant General's Bureau (Anjendam XVII/Cenderawasih)\n\nMilitary Physical Fitness and Sports (Jasdam XVII/Cenderawasih)\n\nMedical Department (Kesdam XVII/Cenderawasih)\n\nVeterans and Reserves Administration (Babiminvetcadam XVII/Cenderawasih)\n\nTopograph (Topdam XVII/Cenderawasih)\n\nChaplaincy Corps (Bintaldam XVII/Cenderawasih)\n\nTreasury (Kudam XVII/Cenderawasih)\n\nLegal Affairs (Kumdam XVII/Cenderawasih)\n\nHQ Detachment (Detasemen XVII/Cenderawasih)\n\nInformation and Data Center(Infolahtadam XVII/Cenderawasih)\n\nSupply (Bekangdam XVII/Cenderawasih)\n\nTransport (Hubdam XVII/Cenderawasih)\n\nOrdnance (Paldam XVII/Cenderawasih)\n\nCorps of Engineers (Zidam XVII/Cenderawasih)\n\nSignals (Sandidam XVII/Cenderawasih)\n\nIntelligence Detachment (Deninteldam XVII/Cenderawasih)",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1230716765",
+      "revision_id": "1230716765",
+      "text_sha256": "b03b40baca750d37d140e89d6f589263f9f1837461df2c50827c5c828c0efb24",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:52:35.942231+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.803167819976806,
+      "vector_distance": 0.8147968649864197,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:33609182",
+      "title": "XVII Corps",
+      "corpus": "wikipedia",
+      "text": "17 Corps, 17th Corps, Seventeenth Corps, or XVII Corps may refer to:\n\n17th Army Corps (France)\n\nXVII Corps (German Empire), a unit of the Imperial German Army prior to and during World War I\n\nXVII Reserve Corps (German Empire), a unit of the Imperial German Army during World War I\n\nXVII Corps (India)\n\nXVII Corps (Italy)\n\nXVII Corps (Ottoman Empire)\n\n17th Army Corps (Russian Empire)\n\n17th Army Corps (Soviet Union)\n\n17th Army Corps (Ukraine)\n\nXVII Corps (United Kingdom)\n\nXVII Corps (Union Army)\n\nXVII Waffen Corps of the SS (Hungarian)",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1312313098",
+      "revision_id": "1312313098",
+      "text_sha256": "b1779ecb78dbf6138d8cd4f25f1a68dede5dcfe7c58423000f3cf40fb43e7928",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:52:32.464544+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.8642706871032715,
+      "vector_distance": 0.6359788775444031,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1845",
+    "title": "Britannica page 1845",
+    "corpus": "britannica",
+    "text": "<x_0.0><y_0.0>XVII.<x_0.999><y_0.9992><class_Picture>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "3453098e511a64445b7689f84ba4804ff13c7904a78784e179a66ecc6ecfaf77",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:57:15.195013+00:00",
+    "parser_receipt_sha256": "3c70c71ffd5aa5545f53247af8cc2a9497e78a61c8f274605235883d5b789496",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 305,
+      "occurred_at": "2026-10-18T17:52:31.908708+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 556,
+      "occurred_at": "2026-10-18T17:52:32.464560+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 567,
+      "occurred_at": "2026-10-18T17:52:33.046918+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 548,
+      "occurred_at": "2026-10-18T17:52:33.624459+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 575,
+      "occurred_at": "2026-10-18T17:52:34.223593+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 540,
+      "occurred_at": "2026-10-18T17:52:34.787276+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 563,
+      "occurred_at": "2026-10-18T17:52:35.367565+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 547,
+      "occurred_at": "2026-10-18T17:52:35.942253+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 542,
+      "occurred_at": "2026-10-18T17:52:36.501714+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 63,
+      "occurred_at": "2026-10-18T17:52:36.581211+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 422,
+      "occurred_at": "2026-10-18T17:52:37.003411+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 132,
+      "occurred_at": "2026-10-18T17:52:37.143201+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 5,
+      "occurred_at": "2026-10-18T17:52:37.148233+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 184,
+      "occurred_at": "2026-10-18T17:52:37.332570+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1,
+    "modern_words": 116,
+    "vocabulary_jaccard": 0.014925373134328358,
+    "jensen_shannon_divergence": 0.8704870008577985,
+    "historical_top_words": [
+      [
+        "xvii",
+        1
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "corps",
+        10
+      ],
+      [
+        "the",
+        8
+      ],
+      [
+        "was",
+        6
+      ],
+      [
+        "xvii",
+        5
+      ],
+      [
+        "of",
+        5
+      ],
+      [
+        "reserve",
+        4
+      ],
+      [
+        "zastrow",
+        4
+      ],
+      [
+        "in",
+        3
+      ],
+      [
+        "as",
+        3
+      ],
+      [
+        "graudenz",
+        3
+      ],
+      [
+        "on",
+        3
+      ],
+      [
+        "german",
+        2
+      ],
+      [
+        "korps",
+        2
+      ],
+      [
+        "a",
+        2
+      ],
+      [
+        "its",
+        2
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "xvii",
+  "semantic_input": {
+    "query": "xvii\nXVII.",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.3779234886169429,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

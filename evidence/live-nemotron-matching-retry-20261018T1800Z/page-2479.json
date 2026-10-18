@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "948 L A W.",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:208850",
+      "title": "Quotient of a formal language",
+      "corpus": "wikipedia",
+      "text": "In mathematics and computer science, the right quotient (or simply quotient) of a language L 1 {\\displaystyle L_{1}} with respect to language L 2 {\\displaystyle L_{2}} is the language consisting of strings w {\\displaystyle w} such that w x {\\displaystyle wx} is in L 1 {\\displaystyle L_{1}} for some string x {\\displaystyle x} in L 2 {\\displaystyle L_{2}}, where L 1 {\\displaystyle L_{1}} and L 2 {\\displaystyle L_{2}} are defined on the same alphabet Σ {\\displaystyle \\Sigma }. Formally:\n\nL 1 / L 2 = { w ∈ Σ ∗ ∣ w L 2 ∩ L 1 ≠ ∅ } = { w ∈ Σ ∗ ∣ ∃ x ∈ L 2 : w x ∈ L 1 } {\\displaystyle L_{1}/L_{2}=\\{w\\in \\Sigma ^{*}\\mid wL_{2}\\cap L_{1}\\neq \\varnothing \\}=\\{w\\in \\Sigma ^{*}\\mid \\exists x\\in L_{2}\\ \\colon \\ wx\\in L_{1}\\}}\n\nwhere Σ ∗ {\\displaystyle \\Sigma ^{*}} is the Kleene star on Σ {\\displaystyle \\Sigma }, w L 2 {\\displaystyle wL_{2}} is the language formed by concatenating w {\\displaystyle w} with each element of L 2 {\\displaystyle L_{2}}, and ∅ {\\displaystyle \\varnothing } is the empty set.\n\nIn other words, for all strings in L 1 {\\displaystyle L_{1}} that have a suffix in L 2 {\\displaystyle L_{2}}, the suffix (right part of the string) is removed.\n\nSimilarly, the left quotient of L 1 {\\displaystyle L_{1}} with respect to L 2 {\\displaystyle L_{2}} is the language consisting of strings w {\\displaystyle w} such that x w {\\displaystyle xw} is in L 1 {\\displaystyle L_{1}} for some string x {\\displaystyle x} in L 2 {\\displaystyle L_{2}}. Formally:\n\nL 2 ∖ L 1 = { w ∈ Σ ∗ ∣ L 2 w ∩ L 1 ≠ ∅ } = { w ∈ Σ ∗ ∣ ∃ x ∈ L 2 : x w ∈ L 1 } {\\displaystyle L_{2}\\backslash L_{1}=\\{w\\in \\Sigma ^{*}\\mid L_{2}w\\cap L_{1}\\neq \\varnothing \\}=\\{w\\in \\Sigma ^{*}\\mid \\exists x\\in L_{2}\\ \\colon \\ xw\\in L_{1}\\}}\n\nIn other words, for all strings in L 1 {\\displaystyle L_{1}} that have a prefix in L 2 {\\displaystyle L_{2}}, the prefix (left part of the string) is removed.\n\nNote that the operands of ∖ {\\displaystyle \\backslash } are in reverse order, so that L 2 {\\displaystyle L_{2}} precedes L 1 {\\displaystyle L_{1}}.\n\nThe right and left quotients of L 1 {\\displaystyle L_{1}} with respect to L 2 {\\displaystyle L_{2}} may also be written as L 1 L 2 − 1 {\\displaystyle L_{1}L_{2}^{-1}} and L 2 − 1 L 1 {\\displaystyle L_{2}^{-1}L_{1}} respectively.\n\nConsider L 1 = { a n b n c n ∣ n ≥ 0 } {\\displaystyle L_{1}=\\{a^{n}b^{n}c^{n}\\mid n\\geq 0\\}} and L 2 = { b i c j ∣ i, j ≥ 0 }. {\\displaystyle L_{2}=\\{b^{i}c^{j}\\mid i,j\\geq 0\\}.}\n\nIf an element of L 1 {\\displaystyle L_{1}} is split into two parts, then the right part will be in L 2 {\\displaystyle L_{2}} if and only if the split occurs somewhere after the final a {\\displaystyle a}. Assuming this is the case, if the split occurs before the first c {\\displaystyle c} then 0 ≤ i ≤ n {\\displaystyle 0\\leq i\\leq n} and j = n {\\displaystyle j=n}, otherwise i = 0 {\\displaystyle i=0} and 0 ≤ j ≤ n {\\displaystyle 0\\leq j\\leq n}. For instance:\n\na a ∣ b b c c (n = 2, i = j = 2) {\\displaystyle aa\\mid bbcc\\ \\ (n=2,i=j=2)}\n\na a a b ∣ b b c c c (n = 3, i = 2, j = 3) {\\displaystyle aaab\\mid bbccc\\ \\ (n=3,i=2,j=3)}\n\na a b b c c ∣ ϵ (n = 2, i = j = 0) {\\displaystyle aabbcc\\mid \\epsilon \\ \\ (n=2,i=j=0)}\n\nwhere ϵ {\\displaystyle \\epsilon } is the empty string.\n\nThus, the left part will be either a n b n − i {\\displaystyle a^{n}b^{n-i}} or a n b n c n − j {\\displaystyle a^{n}b^{n}c^{n-j}} (0 ≤ i, j ≤ n {\\displaystyle (0\\leq i,j\\leq n}), and L 1 / L 2 {\\displaystyle L_{1}/L_{2}} can be written as:\n\n{ a p b q c r ∣ (p ≥ q and r = 0) or p = q ≥ r ; p, q, r ≥ 0 }. {\\displaystyle \\{\\ a^{p}b^{q}c^{r}\\ \\mid \\ (p\\geq q{\\text{ and }}r=0)\\ \\ {\\text{or}}\\ \\ p=q\\geq r\\ \\ ;\\ \\ p,q,r\\geq 0\\ \\}.}\n\nIf L, L 1, L 2 {\\displaystyle L,L_{1},L_{2}} are languages over the same alphabet then:\n\n(L 1 ∪ L 2) / L = L 1 / L ∪ L 2 / L {\\displaystyle (L_{1}\\cup L_{2})/L\\ =\\ L_{1}/L\\ \\cup \\ L_{2}/L} (L 1 ∪ L 2) ∖ L = L 1 ∖ L ∪ L 2 ∖ L {\\displaystyle (L_{1}\\cup L_{2})\\backslash L\\ =\\ L_{1}\\backslash L\\ \\cup \\ L_{2}\\backslash L}\n\n(L 1 ∩ L 2) / L ⊆ L 1 / L ∩ L 2 / L {\\displaystyle (L_{1}\\cap L_{2})/L\\ \\subseteq \\ L_{1}/L\\ \\cap \\ L_{2}/L} (L 1 ∩ L 2) ∖ L ⊆ L 1 ∖ L ∩ L 2 ∖ L {\\displaystyle (L_{1}\\cap L_{2})\\backslash L\\ \\subseteq \\ L_{1}\\backslash L\\ \\cap \\ L_{2}\\backslash L}\n\nL ∖ (L 1 ∪ L 2) = L ∖ L 1 ∪ L ∖ L 2 {\\displaystyle L\\backslash (L_{1}\\cup L_{2})\\ =\\ L\\backslash L_{1}\\ \\cup \\ L\\backslash L_{2}} L ∖ (L 1 ∩ L 2) ⊆ L ∖ L 1 ∩ L ∖ L 2 {\\displaystyle L\\backslash (L_{1}\\cap L_{2})\\ \\subseteq \\ L\\backslash L_{1}\\ \\cap \\ L\\backslash L_{2}}\n\nL 1 / L − L 2 / L ⊆ (L 1 − L 2) / L {\\displaystyle L_{1}/L-L_{2}/L\\ \\subseteq \\ (L_{1}-L_{2})/L} L ∖ L 1 − L ∖ L 2 ⊆ L ∖ (L 1 − L 2) {\\displaystyle L\\backslash L_{1}-L\\backslash L_{2}\\ \\subseteq \\ L\\backslash (L_{1}-L_{2})}\n\nAs an example, the third property is proved as follows:\n\nIf w ∈ (L 1 ∩ L 2) / L {\\displaystyle w\\in (L_{1}\\cap L_{2})/L}, there exists x ∈ L {\\displaystyle x\\in L} such that w x ∈ L 1 ∩ L 2 {\\displaystyle wx\\in L_{1}\\cap L_{2}}. Since then w x ∈ L 1 {\\displaystyle wx\\in L_{1}} and w x ∈ L 2 {\\displaystyle wx\\in L_{2}}, it must be that w ∈ L 1 / L ∩ L 2 / L {\\displaystyle w\\in L_{1}/L\\cap L_{2}/L}. Conversely, let w ∈ L 1 / L {\\displaystyle w\\in L_{1}/L} and w ∈ L 2 / L {\\displaystyle w\\in L_{2}/L}, then there exists x 1, x 2 ∈ L {\\displaystyle x_{1},x_{2}\\in L} such that w x 1 ∈ L 1 {\\displaystyle wx_{1}\\in L_{1}} and w x 2 ∈ L 2 {\\displaystyle wx_{2}\\in L_{2}} (given w {\\displaystyle w}, if L 1 ≠ L 2 {\\displaystyle L_{1}\\neq L_{2}} then x 1, x 2 {\\displaystyle x_{1},x_{2}} may differ). Now w x 1 ∈ L 1 ∩ L 2 {\\displaystyle wx_{1}\\in L_{1}\\cap \\ L_{2}} and w x 2 ∈ L 1 ∩ L 2 {\\displaystyle wx_{2}\\in L_{1}\\cap \\ L_{2}} only if x 1 = x 2 {\\displaystyle x_{1}=x_{2}}, hence (L 1 ∩ L 2) / L ⊆ L 1 / L ∩ L 2 / L {\\displaystyle (L_{1}\\cap L_{2})/L\\subseteq L_{1}/L\\cap L_{2}/L}.\n\nFor instance, let L 1 = { a a b, b b b }, {\\displaystyle L_{1}=\\{aab,bbb\\},} L 2 = { a b b, b b b }, {\\displaystyle L_{2}=\\{abb,bbb\\},} L = { a b, b b } {\\displaystyle L=\\{ab,bb\\}}.\n\nThen L 1 ∩ L 2 = { b b b } {\\displaystyle L_{1}\\cap L_{2}=\\{bbb\\}}, hence (L 1 ∩ L 2) / L = { b } {\\displaystyle (L_{1}\\cap L_{2})/L=\\{b\\}}.\n\nAlso L 1 / L = { a, b } {\\displaystyle L_{1}/L=\\{a,b\\}} and L 2 / L = { a, b } {\\displaystyle L_{2}/L=\\{a,b\\}}, hence L 1 / L ∩ L 2 / L = { a, b } {\\displaystyle L_{1}/L\\cap L_{2}/L=\\{a,b\\}}.\n\nThe right and left quotients of languages L 1 {\\displaystyle L_{1}} and L 2 {\\displaystyle L_{2}} are related through the language reversals L 1 R {\\displaystyle L_{1}^{R}} and L 2 R {\\displaystyle L_{2}^{R}} by the equalities:\n\nL 1 / L 2 = (L 2 R ∖ L 1 R) R {\\displaystyle L_{1}/L_{2}=(L_{2}^{R}\\backslash L_{1}^{R})^{R}} L 2 ∖ L 1 = (L 1 R / L 2 R) R {\\displaystyle L_{2}\\backslash L_{1}=(L_{1}^{R}/L_{2}^{R})^{R}}\n\nTo prove the first equality, let w ∈ L 1 / L 2 {\\displaystyle w\\in L_{1}/L_{2}}. Then there exists x ∈ L 2 {\\displaystyle x\\in L_{2}} such that w x ∈ L 1 {\\displaystyle wx\\in L_{1}}. Therefore, there must exist y ∈ L 2 R {\\displaystyle y\\in L_{2}^{R}} such that y w R ∈ L 1 R {\\displaystyle yw^{R}\\in L_{1}^{R}}, hence by definition w R ∈ L 2 R ∖ L 1 R {\\displaystyle w^{R}\\in L_{2}^{R}\\backslash L_{1}^{R}}. It follows that w ∈ (L 2 R ∖ L 1 R) R {\\displaystyle w\\in (L_{2}^{R}\\backslash L_{1}^{R})^{R}}, and so L 1 / L 2 = (L 2 R ∖ L 1 R) R {\\displaystyle L_{1}/L_{2}=(L_{2}^{R}\\backslash L_{1}^{R})^{R}}.\n\nThe second equality is proved in a similar manner.\n\nSome common closure properties of the quotient operation include:\n\nThe quotient of a regular language with any other language is regular.\n\nThe quotient of a context free language with a regular language is context free.\n\nThe quotient of two context free languages can be any recursively enumerable language.\n\nThe quotient of two recursively enumerable languages is recursively enumerable.\n\nThese closure properties hold for both left and right quotients.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1324374911",
+      "revision_id": "1324374911",
+      "text_sha256": "5dc9b64f3ecfb3f5bbc916f287dc8b1bf095f88a609653cb6c3957f26f8ffbce",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:19:59.709104+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.974740028381348,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:6689057",
+      "title": "List of Nature Conservation Review sites",
+      "corpus": "wikipedia",
+      "text": "The following is a ' list of British conservation sites listed in Derek Ratcliffe 's 1979 book A Nature Conservation Review, the two-volume work which set out to identify the most important places for nature conservation in Great Britain.\n\nThe following headings, subheadings, site codes and site names are the same as those used in the original work.\n\nC.23 Poole Harbour, Dorset\n\nC.24 Durlston Head – Ringstead Bay, Dorset\n\nC.25 Chesil Beach / The Fleet, Dorset\n\nC.26 Axmouth – Lyme Regis Undercliffs, Devon\n\nC.27 The Lizard, Cornwall\n\nC.28 Isles of Scilly\n\nC.29 Cape Cornwall – Clodgy Point, Cornwall\n\nC.30 Godrevy Point – St. Agnes, Cornwall\n\nC.31 Boscastle to Widemouth, Cornwall\n\nC.32 Steeple Point – Blackchurch Rock, Cornwall – Devon\n\nC.33 Braunton Burrows, Devon\n\nC.34 Bridgwater Bay, Somerset\n\nC.35 New Grounds, Slimbridge, Gloucestershire\n\nC.36 Exe Estuary, Devon\n\nC.37 Lynher Estuary and St. John's Lake, Cornwall\n\nC.38 Fal-Ruan Estuary, Cornwall\n\nC.39 Porthgwarra – Pordenack Point, Cornwall\n\nC.40 Severn Estuary: Aber Hafren, Somerset – Gloucestershire – Monmouthshire\n\nC.41 South Gower Coast\n\n(a) Worms Head - Porteynon Point\n\n(b) Oxwich Point - Crawley Cliff\n\n(c) Pwll-du Head - Bishopston Valley\n\nC.42 Burry Inlet, Glamorgan\n\nC.43 Stackpole Head - Castlemartin Cliffs: Stacpol - Clogwyni Castell Martyn, Pembrokeshire\n\nC.44 Strumble Head: Pen Caer-Llechdafad, Pembrokeshire\n\nC.45 Ynysoedd Preseli, Pembrokeshire\n\n(a) Skokholm\n\n(b) Skomer\n\n(c) Grassholm\n\n(d) Ramsey: Ynys Dewi\n\nC.46 Dyfi, Cardiganshire - Merioneth - Montgomeryshire\n\nC.47 Kenfig Dunes: Tywyn Cynffig, Glamorgan\n\nC.48 Tywyn Gwendraeth: Towyn Burrows, Carmarthenshire\n\nC.49 St David's Head: Penmaendewi, Pembrokeshire\n\nC.50 Glannau Harlech, Merioneth\n\n(a) Morfa Harlech and Traeth Bach\n\n(b) Morfa Dyffryn\n\nC.51 Newborough Warren - Ynys Llanddwyn, Anglesey\n\nC.52 Glannau Ynys Gybi: Holy Island Coast, Anglesey\n\nC.53 Ynys Enlli & Glannau Aberdaron: Bardsey Island and Aberdaron Coast, Caernarvonshire\n\nC.54 Tywyn Aberffraw, Anglesey\n\nC.55 Dee Estuary: Aber Dyfrdwy, Cheshire - Flintshire\n\nC.56 Mersey Estuary, Cheshire - Lancashire\n\nC.57 Ainsdale Dunes, Lancashire\n\nC.58 Ribble Estuary, Lancashire\n\nC.59 Morecambe Bay (including Wyre-Lune), Lancashire\n\nC.60 Walney and Sandscale Dunes, Lancashire\n\nC.61 Upper Solway Flats and Marshes, Cumberland, Dunfries-shire, Kirdcudbrightshire\n\n(a) Sarkfoot - Bowness shore, Sarkfoot - Dornock shore\n\n(b) Grune Point - Bowness shore, Powfoot - Dornock shore\n\n(c) Lochar - Nith shore\n\nC.62 Humber Flats and Marshes, Yorkshire - Lincolnshire\n\n(a) Upper Humber Flats (Hull - Trent mouth)\n\n(b) Lower Humber Flats (Hull - Spurn)\n\nC.63 Bempton / Speeton Cliffs, Yorkshire\n\nC.64 Farne Islands, Northumberland\n\nC.65 Lindisfarne - Ross Links - Budle Bay, Northumberland\n\nC.66 Duddon Sands, Lancashire - Cumberland\n\nC.67 Drigg Point, Cumberland\n\nC.68 Beast Cliff / Robin Hood's Bay, Yorkshire\n\nC.69 Teesmouth Flats and Marshes, Yorkshire - Durham\n\nC.70 Hart Warren - Hawthorn Dene Coast, Durham\n\nC.71 Coquet Island, Northumberland\n\nC.72 Torrs Warren, Wigtownshire\n\nC.73 Mull of Galloway - Crammag Head, Wigtownshire\n\nC.74 Ailsa Craig, Ayrshire\n\nC.75 St Abb's Head, Berwickshire\n\nC.76 Firth of Forth, Fife, Stirlingshire, Mid-, East and West Lothian\n\nC.77 Borgue Coast, Kirkcudbrightshire\n\nC.78 Wigtown Bay, Kirkcudbrightshire - Wigtownshire\n\nC.79 Bass Rock, East Lothian\n\nC.80 Forth Islands, East and Midlothian\n\nC.81 Isle of May, Fife\n\nC.82 Tentsmuir Point, Fife\n\nC.83 Tay Estuary, Fife - Perthshire\n\nC.84 St Cyrus, Kincardineshire\n\nC.85 Fowlsheugh, Kincardineshire\n\nC.86 Sands of Forvie and Ythan Estuary, Aberdeenshire\n\nC.87 Strathbeg, Aberdeenshire\n\nC.88 Macduff - Pennan Head, Aberdeenshire - Banffshire\n\nC.89 Culbin Sands, Moray - Nairn\n\nC.90 Mousa, Shetland\n\nC.91 Noss, Shetland\n\nC.92 Hermaness, Unst, Shetland\n\nC.93 Eden Estuary, Fife\n\nC.94 North Hoy, Orkney\n\nC.95 Haaf Gruney, Shetland\n\nC.96 Foula, Shetland\n\nC.97 Fair Isle, Shetland\n\nC.98 South Ardnamurchan Coast, Argyll\n\nC.99 Loch Gruinart - Loch Indaal, Islay, Argyll\n\nC.100 Ross of Mull, Argyll\n\nC.101 Rhum, Inverness-shire\n\nC.102 South Uist Machair, Inverness-shire\n\n(a) Grogarry\n\n(b) Askernish Coast\n\nC.103 Balranald, North Uist, Inverness-shire\n\nC.104 Monach Isles, Inverness-shire\n\nC.105 St Kilda, Inverness-shire\n\nC.106 North Rona and Sula Sgeir, Ross\n\nC.107 Oldshore - Sandwood Coast, Sutherland\n\nC.108 Cape Wrath - Aodann Mhor, Sutherland\n\nC.109 Invernaver, Sutherland\n\nC.110 Loch Fleet, Sutherland\n\nC.111 Morrich More, Ross\n\nC.112 Cromarty Firth, Ross\n\nC.113 Rhunahaorine, Argyll\n\nC.114 Ruel Estuary, Argyll\n\nC.115 Barrafol and Ballevullin, Tiree, Argyll\n\nC.116 Ardmeanach, Mull, Argyll\n\nC.117 Mingulay and Berneray, Inverness-shire\n\nC.118 Baleshare / Kirkibost Dunes, North Uist, Inverness-shire\n\nC.119 Northton, Harris, Inverness-shire\n\nC.120 Shiant Isles, Ross\n\nC.121 Handa - Duartmore, Sutherland\n\nC.122 Flannan Isles, ROss\n\nC.123 Lower Dornoch Firth, Ross - Sutherland\n\nW.1 Blean Woods, Kent\n\nW.2 Ham Street Woods, Kent\n\nW.3 Alkham Valley Woods, Kent\n\nW.4 Scords Wood, Kent\n\nW.5 Asholt Wood, Kent\n\nW.6 Crookhorn Wood, Kent\n\nW.7 Wouldham - Detling Escarpment, Kent\n\nW.8 Bignor Hill, Sussex\n\nW.9 Saxonbury Hill / Eridge Park, Sussex\n\nW.10 Kingley Vale, Sussex\n\nW.11 Ebernoe Common, Sussex\n\nW.12 Wakehurst and Chiddingly Woods, Sussex\n\nW.13 The Men's and The Cut and Bedham Escarpment, Sussex\n\nW.14 Fairlight, Ecclesbourne and Warren Glens, Sussex\n\nW.15 Wormley Wood - Hoddesdon Park Wood, Hertfordshire\n\nW.16 Ellendon Wood, Kent\n\nW.17 Ashburnham Park, Sussex\n\nW.18 Parham Park, Sussex\n\nW.19 Staffhurst Wood, Surrey\n\nW.20 Colyers Hanger, Surrey\n\nW.21 Glover's Wood, Surrey\n\nW.22 Bradenham Woods, Buckinghamshire\n\nW.23 Windsor Forest, Berkshire\n\nW.24 Wychwood Forest, Oxfordshire\n\nW.25 Waterperry Wood, Oxfordshire\n\nW.26 New Forest, Hampshire\n\nW.27 Selborne Hanger, Hampshire\n\nW.28 Burnham Beeches, Buckinghamshire\n\nW.29 Aston Rowant Woods, Buckinghamshire\n\nW.30 Windsor Hill, Buckinghamshire\n\nW.31 Savernake Forest, Wiltshire\n\nW.32 Cranborne Chase, Wiltshire/Dorset\n\nW.33 Hintlesham Woods, Suffolk\n\n(a) Hintlesham and Ramsey Woods\n\n(b) Wolves Wood\n\nW.34 Staverton Park, Suffolk\n\nW.35 Felshamhall & Monks Park Woods, Suffolk\n\nW.36 Cavenham - Tuddenham Woods, Suffolk\n\nW.37 Sotterley Park, Suffolk\n\nW.38 Bure Marshes, Norfolk\n\nW.39 Swanton Novers Woods, Norfolk\n\nW.40 Hayley Wood, Cambridgeshire\n\nW.41 Holme Fen, Huntingdonshire\n\nW.42 Monks Wood, Huntingdonshire\n\nW.43 Bedford Purlieus Group, Northamptonshire, and Peterborough\n\n(a) Bedford Purlieus\n\n(b) Wittering Coppice\n\n(c) Easton Hornstocks\n\n(d) Collyweston Great Wood\n\nW.44 Castor Hanglands, Peterborough\n\nW.45 (i) Bardney Forest (Lincolnshire Limewoods), Lincolnshire\n\n(a) Hatton Wood\n\n(b) Newball and Hardy Gang Woods\n\n(c) Stainfield and Scotgrove Woods\n\n(d) Potterhanworth Wood\n\nW.45 (ii) Bardney Forest (Lincolnshire Limewoods), Lincolnshire\n\n(a) Great West - Cocklode - Spring Woods\n\n(b) Stainton - Fulnetby Woods\n\n(c) Wickenby Wood\n\nW.46 Benacre Park, Suffolk\n\nW.47 Foxley Wood, Norfolk\n\nW.48 Wayland Wood, Norfolk\n\nW.49 Sexton Wood, Norfolk\n\nW.50 Felbrigg Woods, Norfolk\n\nW.51 King's and Baker's Woods, Bedfordshire\n\nW.52 Hales Wood, Essex\n\nW.53 Canfield Hart Wood, Essex\n\nW.54 Hatfield Forest, Essex\n\nW.55 Epping Forest, Essex\n\nW.56 Overhall Grove, Cambridgeshire\n\nW.57 Hardwick Wood, Cambridgeshire\n\nW.58 Kesteven Woods, Lincolnshire\n\n(a) Dole Wood\n\n(b) Dunsby Wood\n\n(c) Kirton Wood\n\n(d) Sapperton - Pickworth Woods\n\nW.59 Melbury Park, Dorset\n\nW.60 Boconnoc Park and Woods, Cornwall\n\nW.61 Fal Estuary, Cornwall\n\nW.62 Dizzard - Millook Cliffs, Cornwall\n\nW.63 Bovey Valley and Yarner Woods, Devon\n\nW.64 Holne Chase, Devon\n\nW.65 Wistman's Wood, Devon\n\nW.66 Black Tor Copse, Devon\n\nW.67 Axmouth - Lyme Regis Undercliffs, Devon\n\nW.68 Watersmeet, Devon\n\nW.69 Holnicote and Horner Water, Somerset\n\nW.70 Avon Gorge (Leigh Woods), Gloucestershire, Somerset\n\nW.71 Mendip Woodlands, Somerset\n\n(a) Rodney Stoke\n\n(b) Asham Wood\n\n(c) Ebbor Gorge\n\nW.72 Cotswold Commons and Beechwoods, Gloucestershire\n\nW.73 Forest of Dean, Gloucestershire\n\n(a) Nagshead Inclosure\n\n(b) Dingle Wood\n\n(c) Speech House\n\nW.74 Collinpark Wood, Gloucestershire\n\nW.75 Hudnalls, Gloucestershire\n\nW.76 Merthen Wood, Cornwall\n\nW.77 Nance Wood, Cornwall\n\nW.78 Draynes Wood, Cornwall\n\nW.79 Piles Copse, Devon\n\nW.80 Dendles Wood, Devon\n\nW.81 Woody Bay, Devon\n\nW.82 Heddon Valley Woods, Devon\n\nW.83 Hobby Woods, Devon\n\nW.84 Holford and Hodder's Combes, Somerset\n\nW.85 Ashen Copse, Somerset\n\nW.86 Great Breach and Copley Woods, Somerset\n\nW.87 Weston Big Wood, Somerset\n\nW.88 Cwm Clydach, Brecknock\n\nW.89 Penmoelallt, Brecknock\n\nW.90 Coed Rheidol, Cardiganshire\n\nW.91 Cothi Tywi, Carmarthenshire\n\nW.92 Coed y Cerrig, Monmouthshire\n\nW.93 Salisbury Wood: Coed Salsbri, Monmouthshire\n\nW.94 Blackcliff - Wyndcliff - Pierce Woods: Clogwyn Du - Clogwyn Gwyn - Coed Pyrs, Monmouthshire\n\nW.95 Wye Gorge: Hafan Gwy, Monmouthshire - Gloucestershire - Herefordshire\n\nW.96 Nant Irfon, Brecknock\n\nW.97 Carn Gafallt, Brecknock\n\nW.98 Blaenau Nedd & Mellte, Brecknock\n\nW.99 Darren Fach, Brecknock\n\nW.100 Glannau, Radnor\n\nW.101 Coed Aber Edw, Radnor\n\nW.102 Coombe Woods: Coed y Cwm, Monmouthshire\n\nW.103 Coedydd Dyffryn Conwy, Caernarvonshire\n\n(a) Coed Dolgarrog\n\n(b) Coed Gorswen\n\n(c) Ceunant Dulyn\n\nW.104 Coedydd Aber, Caernarvonshire\n\nW.105 Coed Termadog, Caernarvonshire\n\nW.106 Coed Dinorwig, Caernarvonshire\n\nW.107 Coedydd Dyffryn Maentwrog, Merioneth\n\n(a) Coed Camlyn — Ceunant Llennyrch\n\n(b) Coedydd Maentwrog - Coed Cymerau\n\n(c) Coed y Rhygen\n\n(d) Ceunant Cynfal\n\n(e) Ceunant Llechrwd, Gellilydan\n\nW.108 Coed Ganllwyd, Merioneth\n\nW.109 Coed Crafnant, Merioneth\n\nW.110 Bryn Maelgwyn & Gloddaeth, Caernarvonshire\n\nW.111 Hafod Garegog, Caernarvonshire\n\nW.112 Coed Maes Yr Helmau: Torrent Walk, Merioneth\n\nW.113 Coed Llety Walter, Merioneth\n\nW.114 Coed Llechwedd, Merioneth\n\nW.115 Derbyshire Dales Woodlands, Derbyshire / Staffordshire\n\n(a) Lathkill Dale\n\n(b) Cressbrook Dale\n\n(c) Dove Dale Ashwood\n\nW.116 Halesend Wood, Herefordshire\n\nW.117 Moccas Park, Herefordshire\n\nW.118 Hill Hole Dingle, Herefordshire\n\nW.119 Tick Wood, Shropshire\n\nW.120 Long Itchington and Upton Woods, Warwickshire\n\nW.121 Wyre Forest, Worcestershire, Shropshire\n\nW.122 Cannock Chase, Staffordshire\n\nW.123 Hamps and Manifold Valleys, Staffordshire\n\nW.124 Brampton Bryan Park, Herefordshire\n\nW.125 Downton Gorge, Herefordshire\n\nW.126 Bushy Hazels and Cwmma Moors, Herefordshire\n\nW.127 Leighfield Forest, Leicestershire\n\nW.128 Pipewell Woods, Northamptonshire\n\nW.129 Whittlewood Forest, Northamptonshire\n\nW.130 Sherwood Forest, Nottinghamshire\n\nW.131 Habberley Valley, Shropshire\n\nW.132 Chaddesley - Bandan Woods, Worcestershire\n\nW.133 Borrowdale Woods, Cumberland\n\n(a) Castle Head Wood\n\n(b) The Ings\n\n(c) Great Wood\n\n(d) Lodore - Troutdale Woods\n\n(e) Johnny's Wood\n\n(f) Seatoller Wood\n\nW.134 Keskadale and Birkrigg Oaks, Cumberland\n\nW.135 Orton Moss, Cumberland\n\nW.136 Whitbarrow and Witherslack Woods, Westmorland\n\nW.137 Birk Fell, Westmorland\n\nW.138 Helbeck and Swindale Woods, Westmorland\n\nW.139 Roudsea Wood, Lancashire\n\nW.140 Gait Barrows, Lancashire\n\nW.141 Roeburndale Woods, Lancashire\n\nW.142 Ribblehead Woods, Lancashire\n\n(a) Colt Park\n\n(b) Ling Gill\n\nW.143 Conistone Old Pasture and Bastow Wood, Yorkshire\n\nW.144 Raincliffe Wood, Yorkshire\n\nW.145 Shipley Wood, Durham / Yorkshire\n\nW.146 Scales Wood, Cumberland\n\nW.147 Lyne Woods, Cumberland\n\nW.148 Gowbarrow Park, Cumberland\n\nW.149 Naddle Low Forest, Westmorland\n\nW.150 Low Wood, Hartsop, Westmorland\n\nW.151 Smardale Woods, Westmorland\n\nW.152 Lowther Park, Westmorland\n\nW.153 Eaves Wood, Lancashire\n\nW.154 Burton Wood, Lancashire\n\nW.155 Hawkswick Wood, Yorkshire\n\nW.156 Scoska Wood, Yorkshire\n\nW.157 Thornton and Twistleton Glens, Yorkshire\n\nW.158 Ashberry and Reins Woods, Yorkshire\n\nW.159 Beckhole Woods, Yorkshire\n\nW.160 Beast Cliff, Yorkshire\n\nW.161 Kisdon Force Woods, Yorkshire\n\nW.162 Castle Eden Dene, Durham\n\nW.163 Holystone Woods, Northumberland\n\nW.164 Monk Wood, Northumberland\n\nW.165 Hesleyside Park and Hareshaw Link, Northumberland\n\nW.166 Billsmoor Park and Grasslees Wood, Northumberland\n\nW.167 Tynron Juniper Wood, Dumfries-shire\n\nW.168 Kirkconnell Flow, Kirkcudbrightshire\n\nW.169 Loch Lomond Woods, Dunbartonshire / Stirlingshire\n\n(a) Inchcailloch\n\n(b) Torrinch\n\n(c) Clairinsh\n\n(d) Creinch\n\n(e) Aber Isle\n\n(f) Inchlonaig\n\n(g) Mainland Woods\n\nW.170 Avondale, Lanarkshire\n\nW.171 Glen Diomhan, Buteshire\n\nW.172 Chanlock Foot, Dumfries-shire\n\nW.173 Stenhouse Wood, Dumfries-shire\n\nW.174 Maidens - Heads of Ayr, Ayrshire\n\nW.175 Hamilton High Park, Lanarkshire\n\nW.176 Nethan Gorge, Lanarkshire\n\nW.177 Wood of Cree, Kirkcudbrightshire\n\nW.178 Fleet Woodlands, Kirkcudbrightshire\n\n(a) Castramont Wood\n\n(b) Killiegowan Wood\n\n(c) Jennoch Wood\n\n(d) Craigy Braes Wood\n\nW.179 Ravenshall Wood, Kirkcudbrightshire\n\nW.180 Dinnet Oakwood, Aberdeenshire\n\nW.181 Crathie Wood, Aberdeenshire\n\nW.182 Morrone Wood, Aberdeenshire\n\nW.183 Aviemore Woodlands, Inverness-shire\n\n(a) Craigellachie\n\n(b) Kinrara Woods (Torr Alvie)\n\nW.184 Glen Tarff, Inverness-shire\n\nW.185 Pass of Killiecrankie, Perthshire\n\nW.186 Black Wood of Rannoch, Perthshire\n\nW.187 Speyside - Deeside Pinewoods, Inverness-shire - Aberdeenshire\n\n(a) Ballochbuie Forest\n\n(b) Glen Tanar\n\n(c) Glens Quoich, Lui and Derry\n\n(d) Rothiemurchus - Invereshie\n\n(e) Abernethy Forest\n\nW.188 Earlshall Muir, Fife\n\nW.189 Keltney Burn, Coshieville, Perthshire\n\nW.190 Loch Sunart Woodlands, Argyll\n\n(a) Ariundle\n\n(b) Salen - Strontian\n\n(c) Laudale - Glen Cripesdale\n\n(d) Ben Hiant\n\nW.191 Carnach Wood, Argyll\n\nW.192 Drimnin, Argyll\n\nW.193 Glasdrum Wood, Argyll\n\nW.194 Glen Nant Woods, Argyll\n\nW.195 Meall Nah Gobhar, Argyll\n\nW.196 Taynish Wood, Argyll\n\nW.197 Mealdarroch Point - Skipness, Argyll\n\nW.198 Inverneil Burn, Argyll\n\nW.199 Urquhart Bay, Inverness-shire\n\nW.200 Loch Morar Islands, Inverness-shire\n\nW.201 Tokavaig Wood, Skye, Inverness-shire\n\nW.202 Geary Ravine, Skye, Inverness-shire\n\nW.203 Glen Strathfarrah, Inverness-shire\n\nW.204 Glen Affric, Inverness-shire\n\nW.205 Allt Nan Carnan, Ross\n\nW.206 Loch Maree Woods, Ross\n\n(a) Beinn Eighe (Coille na Glas-Leitire)\n\n(b) Loch Maree Islands\n\n(c) Letterewe Oakwoods\n\nW.207 Inverpolly Woods, Ross\n\nW.208 Rassal Ashwood, Ross\n\nW.209 Corrieshalloch Gorge, Wood\n\nW.210 Mound Alderwoods, Sutherland\n\nW.211 Strathbeag, Sutherland\n\nW.212 Coille Ardura, Mull\n\nW.213 Choille Mor, Colonsay, Argyll\n\nW.214 Claggain - Ardmore, Islay, Argyll\n\nW.215 Crannach Wood, Argyll\n\nW.216 Doire Donn, Argyll\n\nW.217 Glendaruel Wood, Argyll\n\nW.218 Kinuachrach, Jura, Argyll\n\nW.219 Clais Dhearg, Argyll\n\nW.220 Loch Na Dal, Skye, Inverness-shire\n\nW.221 Loch Moidart, Inverness-shire\n\nW.222 Shieldaig, Ross\n\n(a) Mheallaidh\n\n(b) Coille Creag Loch\n\nW.223 Fionn Loch Islands, Ross\n\nW.224 Amat Wood, Ross\n\nW.225 Eilean Na Gartaig, Cam Loch, Sutherland\n\nW.226 Loch A' Mhuillin Wood, Scourie, Sutherland\n\nW.227 Ledmore Wood, Spinningdale, Sutherland\n\nW.228 Migdale Woods, Sutherland\n\nW.229 Ardvar Woodlands, Sutherland\n\nL.1 Ashdown Forest, Sussex\n\nL.2 Thursley and Hankley Commons, Surrey\n\nL.3 Wye and Crundale Downs, Kent\n\nL.4 Castle Hill, Sussex\n\nL.5 Mount Caburn (Lewes Downs), Sussex\n\nLewes Downs\n\nMount Caburn\n\nL.6 Lullington Heath, Sussex\n\nL.7 Box Hill - Headley, Surrey\n\nBox Hill\n\nHeadley Heath\n\nL.8 Harting Down, Sussex\n\nL.9 Kingley Vale, Sussex\n\nL.10 Wouldham - Detling Escarpment, Kent\n\nL.11 Halling - Trottiscliffe, Kent\n\nL.12 White Downs, Surrey\n\nL.13 Iping and Ambersham Commons, Sussex\n\nL.14 Chobham Common, Surrey\n\nL.15 Folkestone to Etchinghill Escarpment, Kent\n\nL.16 Heyshott Down, Sussex\n\nL.17 Purple Hill and Queendown Warren, Kent\n\nL.18 Therfield Heath, Hertfordshire\n\nL.19 Fulking Escarpment / Newtimber Hill, Sussex\n\nL.20 New Forest Heaths, Hampshire\n\nL.21 Aston Rowant, Oxfordshire\n\nL.22 Aston Upthorpe DOwn, Berkshire\n\nL.23 Compton Down, Isle of Wight, Hampshire\n\nL.24 Martin Down, Hampshire\n\nL.25 Old Winchester Hill, Hampshire\n\nL.26 Pewsey DOwns, Wiltshire\n\nSouth-west Wiltshire Downs (L.27 to L.35)\n\nL.27 Wylye Down, Wiltshire\n\nL.28 Prescombe Down, Wiltshire\n\nL.29 Knighton Down, Wiltshire\n\nL.30 Steeple Langford, Cow Down and Clifford Bottom, Wiltshire\n\nL.31 Woodminton Down - Knowle Hill, Wiltshire\n\nL.32 Knapp Down, Wiltshire\n\nL.33 Starveall Down and Stony Hill, Wiltshire\n\nL.34 Parsonage Down, Wiltshire\n\nL.35 Scratchbury & Cotley Hills, Wiltshire\n\nL.36 Porton Down, Wiltshire - Hampshire\n\nL.37 Tennyson Down, Isle of Wight, Hampshire\n\nL.38 Ellesborough Warren, Buckinghamshire\n\nL.39 Burghclere Beacon, Hampshire\n\nL.40 Rushmore Down, Hampshire\n\nL.41 Bulford Down, Wiltshire\n\nL.42 Oldbury Castle and Cherhill Downs, Wiltshire\n\nL.43 North Meadow, Cricklade, Wiltshire\n\nL.44 Clattinger Farm, Oaksey, Wiltshire\n\nL.45 Bransbury Common, Hampshire\n\nL.46 Lower Woodford Water Meadows, Wiltshire\n\nL.47 Pixey and Yarnton Meads / Port Meadow, Oxfordshire\n\nL.48 Fyfield Down, Wiltshire\n\nL.49 Homington, Odstock and Coombe Bissett Downs, Wiltshire\n\nL.50 Noar Hill, Hampshire\n\nL.51 Throope Down, Wiltshire\n\nL.52 Trow Down, Wiltshire\n\nL.53 Well Bottom, Upton Lovell, Wiltshire\n\nL.54 Stockbridge Down, Hampshire\n\nL.55 Ivinghoe Hills, Steps Hill and Pitstone Hill, Buckinghamshire, Hertfordshire\n\nL.56 Coombe Hill, Wendover, Buckinghamshire\n\nL.57 Britford - Downton, Wiltshire\n\nL.58 Dunwich Heaths and marshes, Suffolk\n\nL.59 Roydon Common, Norfolk\n\nL.60 Stanford - Wretham Heaths, Norfolk\n\n(a) Stanford Practical Training Area\n\n(b) East Wretham Heath\n\n(c) Bridgham - Brettenham Heaths\n\nL.61 Icklingham Heaths, Suffolk\n\n(a) Cavenham - Tuddenham Heaths\n\n(b) Icklingham Plains and Triangle\n\n(c) Deadman's Grave\n\nL.62 Lakenheath - Elveden Heaths, Suffolk\n\n(a) Lakenheath Warren and Eriswell High and low Warrens\n\n(b) Wangford Warren - Airfield Lights\n\n(c) Wangford Carr\n\n(d) Berner's, Horn and Weather Heaths\n\n(e) Maidscross Hill\n\n(f) Lord's Well Field\n\nL.63 Foxhole Heath, Suffolk\n\nL.64 Weeting Heath, Norfolk\n\nL.65 Thetford Heaths, Suffolk - Norfolk\n\n(a) Thetford Heath\n\n(b) Sketchvar Heath\n\n(c) RAF Barnham\n\n(d) Barnhamcross Common\n\n(e) Little Heath\n\nL.66 Risby Warren, Lincolnshire\n\nL.67 Knocking Hoe, Bedfordshire\n\nL.68 Barton Hills, Bedfordshire\n\nL.69 Barnack Hills and Holes, Huntingdon and Peterborough\n\nL.70 Ouse Washes, Cambridgeshire - Norfolk\n\nL.71 Thompson Common, Norfolk\n\nL.72 Upwood Meadows, Huntingdon and Peterborough\n\nL.73 Sibson - Castor Meadows, Huntingdon and Peterborough\n\n(a) Sibson - Sutton\n\n(b) Chesterton - Castor\n\nL.74 Monewden Meadows, Suffolk\n\nL.75 Holt Lowes, Norfolk\n\nL.76 Sandringham Warren (Dersingham Bog), Norfolk\n\nL.77 Barnham Heath, Suffolk\n\nL.78 Thetford Warren, Norfolk\n\nL.79 Chalk Hill, Barton Mills, Suffolk\n\nL.80 Holywell Mound, Lincolnshire\n\nL.81 Castor Hanglands, Huntingdon and Peterborough\n\nL.82 Foulden Common, Norfolk\n\nL.83 Calceby Beck, Lincolnshire\n\nL.84 Baston Fen, Lincolnshire\n\nL.85 Port Holme, Huntingdonshire\n\nL.86 Bratoft Meadow, Lincolnshire\n\nL.87 Moors Closes, Ancaster, Lincolnshire\n\nSouth Dorset Heathlands (L.88 to L.90)\n\nL.88 Hartland Moor and Arne Heaths, Dorset\n\nL.89 Studland and Godlingston Heaths, Dorset\n\nL.90 Morden Bog, Dorset\n\nL.91 Aylesbeare Common, Devon\n\nL.92 North Dartmoor, Devon\n\nL.93 Isles of Scilly\n\nCastle Down, Tresco\n\nChapel Down, St Martin's\n\nShipman Head and Shipman Down, Bryher\n\nL.94 Chapel Porth, St Agnes, Cornwall\n\nL.95 The Lizard, Cornwall\n\nThe West Lizard\n\nGoonhilly Downs and Brays Cot\n\nTraboe Downs\n\nCrowsa Downs\n\nMain Dale\n\nCoverack Cliffs, including the Grove\n\nMullion Cliffs\n\nHayle Kimbro Pool\n\nRuan Pool\n\nSouth and East Lizard\n\nKennack to Black Head Cliffs\n\nL.96 Eggardon Hill, Haydon and Askerswell Downs, Dorset\n\nL.97 Hod and Hambledon Hills, Dorset\n\nL.98 Boxwell, Gloucestershire\n\nL.99 Barnsley Warren, Gloucestershire\n\nL.100 Rodborough Common, Gloucestershire\n\nL.101 Cleeve Hill, Gloucestershire\n\nL.102 Avon Gorge, Gloucestershire - Somerset\n\nL.103 Cheddar Gorge, Somerset\n\nL.104 Brean Down and Uphill Cliff, Somerset\n\nL.105 Berry Head, Devon\n\nL.106 Creech – Grange – Povington Heaths, Dorset\n\nL.107 Dunkery Beacon, Somerset\n\nL.108 Park Bottom, Higher Houghton, Dorset\n\nL.109 Brassey, Gloucestershire\n\nL.110 Hornsleasow Roughs, Gloucestershire\n\nL.111 Minchinhampton Common, Gloucestershire\n\nL.112 Crook Peak, Somerset\n\nL.113 Dolebury Warren, Somerset\n\nL.114 Coombe Hill Canal, Gloucestershire\n\nL.115 Glyn Perfedd, Brecknock\n\nL.116 Pen Yr Hen Allt, Brecknock\n\nL.117 Bannau Preseli & Chomin Carningli, Pembrokeshire\n\nL.118 Drostre Bank: Cefn Tros Dre, Brecknock\n\nL.119 Boxbush, Brecknock\n\nL.120 Glannau Ynys Gybi: Holy Island Coast, Anglesey\n\nL.121 Great Ormes Head: Pen y Gogarth, Caernarvonshire\n\nL.122 Yr Eifl, Caernarvonshire\n\nL.123 Stiperstones, Shropshire\n\nL.124 (i) Derbyshire Dales Grasslands, Derbyshire - Staffordshire\n\n(a) Dove Valley and Biggin Dale\n\n(b) Lathkill Dale\n\n(c) Cressbrook Dale\n\n(d) Monk's Dale\n\n(e) Long Dale and Gratton Dale\n\nL.124 (ii) Derbyshire Dales Grasslands, Derbyshire\n\n(a) Coombs Dale\n\n(b) Miller's Dale\n\n(c) Topley Pike and Deep Dale\n\nL.125 Marston Meadows, Staffordshire\n\nL.126 Foster's Green Meadows, Worcestershire\n\nL.127 Bredon Hill, Worcestershire\n\nL.128 Cribb's Lodge Meadow, Leicestershire\n\nL.129 Skipwith Common, Yorkshire\n\nL.130 Waterdale, Yorkshire\n\nL.131 Duggleby High Barn Wold, Yorkshire\n\nL.132 East Dale, Yorkshire\n\nL.133 Humphrey Head, Lancashire\n\nL.134 Gait Barrows, Lancashire\n\nL.135 Hutton Roof Crags and Farleton Knott, Westmorland\n\nL.136 Whitbarrow Scar, Westmorland\n\nL.137 Scout and Cunswick Scars, Westmorland\n\nL.138 Thrislington Plantation, Durham\n\nL.139 Orton Meadows, Westmorland\n\nL.140 Crosby Gill, Westmorland\n\nL.141 Wintringham Marsh, Yorkshire\n\nL.142 Derwent Ings, Yorkshire\n\nL.143 Gowk Bank, Cumberland\n\nL.144 Upper Teesdale Meadows, Durham - Yorkshire\n\nL.145 Strensall Common, Yorkshire\n\nL.146 Lazonby and Wan Fells, Cumberland\n\nL.147 Arnside Knott and Warton Crag, Westmorland - Lancashire\n\nL.148 Cassop Vale, Durham\n\nL.149 Ken - Dee Marshes, Kirkcudbrightshire\n\nL.150 Sands of Forvie, Aberdeenshire\n\nL.151 Oykell Marshes, Ross - Sutherland\n\nOW.1 Open Pits, Kent\n\nOW.2 Pevensey Levels, Sussex\n\nOW.3 Tring Reservoirs, Hertfordshire\n\nOW.4 Romney Marsh, Kent\n\nOW.5 River Avon system, Hampshire / Wiltshire\n\nOW.6 Oberwater, Hampshire\n\nOW.7 Woolmer Pond, Hampshire\n\nOW.8 Moors River, Hampshire / Dorset\n\nOW.9 Cotswold Water Park, Wiltshire / Gloucestershire\n\nOW.10 Hatchet Pond, Hampshire\n\nOW.11 Wychwood Ponds, Oxfordshire",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1337941120",
+      "revision_id": "1337941120",
+      "text_sha256": "b685d0ba46ca2c586dab94a02e41ba4fbd0dfbeaa475ce0ea1a14b3e761b5c3f",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:20:03.785176+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.255165100097656,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:58104681",
+      "title": "Pseudo-polynomial transformation",
+      "corpus": "wikipedia",
+      "text": "In computational complexity theory, a pseudo-polynomial transformation is a function which maps instances of one strongly NP-complete problem into another and is computable in pseudo-polynomial time.\n\nSome computational problems are parameterized by numbers whose magnitude exponentially exceeds the input size. For example, the problem of testing whether a number n is prime can be solved by naively checking candidate factors from 2 to n {\\displaystyle {\\sqrt {n}}} in n − 1 {\\displaystyle {\\sqrt {n}}-1} divisions, therefore exponentially more than the input size O (log (n)) {\\displaystyle O(\\log(n))}. Suppose that L {\\displaystyle L} is an encoding of a computational problem Π {\\displaystyle \\Pi } over alphabet Σ {\\displaystyle \\Sigma }, then\n\nNum Π: Σ ∗ → N {\\displaystyle \\operatorname {Num} _{\\Pi }:\\Sigma ^{*}\\to \\mathbb {N} }\n\nis a function that maps w I ∈ Σ ∗ {\\displaystyle w_{I}\\in \\Sigma ^{*}}, the encoding of an instance I {\\displaystyle I} of the problem Π {\\displaystyle \\Pi }, to the maximal numerical parameter of I {\\displaystyle I}.\n\nSuppose that Π 1 {\\displaystyle \\Pi _{1}} and Π 2 {\\displaystyle \\Pi _{2}} are decision problems, L 1 {\\displaystyle L_{1}} and L 2 {\\displaystyle L_{2}} are their encodings over correspondingly Σ 1 {\\displaystyle \\Sigma _{1}} and Σ 2 {\\displaystyle \\Sigma _{2}} alphabets.\n\nA pseudo-polynomial transformation from Π 1 {\\displaystyle \\Pi _{1}} to Π 2 {\\displaystyle \\Pi _{2}} is a function f: Σ 1 → Σ 2 {\\displaystyle f:\\Sigma _{1}\\to \\Sigma _{2}} such that\n\n∀ w ∈ Σ 1 w ∈ L 1 ⟺ f (w) ∈ L 2 {\\displaystyle \\forall w\\in \\Sigma _{1}\\quad w\\in L_{1}\\iff f(w)\\in L_{2}}\n\n∀ w ∈ Σ 1 f (w) {\\displaystyle \\forall w\\in \\Sigma _{1}\\quad f(w)} can be computed in time polynomial in two variables Num Π 1 (w) {\\displaystyle \\operatorname {Num} _{\\Pi _{1}}(w)} and | w | {\\displaystyle |w|}\n\n∃ Q A ∈ N ∀ w ∈ Σ 1 | w | ≤ Q A (| f (w) |) {\\displaystyle \\exists Q_{A}\\in \\mathbb {N} \\quad \\forall w\\in \\Sigma _{1}\\quad |w|\\leq Q_{A}(|f(w)|)}\n\n∃ Q B ∈ N ∀ w ∈ Σ 1 Num Π 2 (f (w)) ≤ Q B (Num Π 1 (w), | w |) {\\displaystyle \\exists Q_{B}\\in \\mathbb {N} \\quad \\forall w\\in \\Sigma _{1}\\quad \\operatorname {Num} _{\\Pi _{2}}(f(w))\\leq Q_{B}(\\operatorname {Num} _{\\Pi _{1}}(w),|w|)}\n\nIntuitively, (1) allows one to reason about instances of Π 1 {\\displaystyle \\Pi _{1}} in terms of instances of Π 2 {\\displaystyle \\Pi _{2}} (and back), (2) ensures that deciding L 1 {\\displaystyle L_{1}} using the transformation and a pseudo-polynomial decider for L 2 {\\displaystyle L_{2}} is pseudo-polynomial itself, (3) enforces that f {\\displaystyle f} grows fast enough so that L 2 {\\displaystyle L_{2}} must have a pseudo-polynomial decider, and (4) enforces that a subproblem of L 1 {\\displaystyle L_{1}} that testifies its strong NP-completeness (i.e. all instances have numerical parameters bounded by a polynomial in input size and the subproblem is NP-complete itself) is mapped to a subproblem of L 2 {\\displaystyle L_{2}} whose instances also have numerical parameters bounded by a polynomial in input size.\n\nThe following lemma allows to derive strong NP-completeness from the existence of a transformation:\n\nIf Π 1 {\\displaystyle \\Pi _{1}} is a strongly NP-complete decision problem, Π 2 {\\displaystyle \\Pi _{2}} is a decision problem in NP, and there exists a pseudo-polynomial transformation from Π 1 {\\displaystyle \\Pi _{1}} to Π 2 {\\displaystyle \\Pi _{2}}, then Π 2 {\\displaystyle \\Pi _{2}} is strongly NP-complete\n\nSuppose that Π 1 {\\displaystyle \\Pi _{1}} is a strongly NP-complete decision problem encoded by L 1 {\\displaystyle L_{1}} over Σ 1 {\\displaystyle \\Sigma _{1}} alphabet and Π 2 {\\displaystyle \\Pi _{2}} is a decision problem in NP encoded by L 2 {\\displaystyle L_{2}} over Σ 2 {\\displaystyle \\Sigma _{2}} alphabet.\n\nLet f: L 1 → L 2 {\\displaystyle f:L_{1}\\to L_{2}} be a pseudo-polynomial transformation from Π 1 {\\displaystyle \\Pi _{1}} to Π 2 {\\displaystyle \\Pi _{2}} with Q A {\\displaystyle Q_{A}}, Q B {\\displaystyle Q_{B}} as the definition specifies.\n\nFrom the definition of strong NP-completeness there exists a polynomial P ∈ N {\\displaystyle P\\in \\mathbb {N} } such that L 1 / P = { w ∈ L 1: Num Π 1 (w) ≤ P (| w |) } {\\displaystyle L_{1/P}=\\{w\\in L_{1}:\\operatorname {Num} _{\\Pi _{1}}(w)\\leq P(|w|)\\}} is NP-complete.\n\nFor P ^ (n) = Q B (P (Q A (n)), Q A (n)) {\\displaystyle {\\widehat {P}}(n)=Q_{B}(P(Q_{A}(n)),Q_{A}(n))} and any w ∈ L 1 / P {\\displaystyle w\\in L_{1/P}} there is\n\nNum Π 2 (f (w)) ≤ Q B (Num Π 1 (w), | w |) (definition of f) ≤ Q B (P (w), | w |) (property of L 1 / P) ≤ Q B (P (Q A (| f (w) |)), Q A (| f (w) |)) (definition of f) ≤ P ^ (| f (w) |) (definition of P ^) {\\displaystyle {\\begin{aligned}\\operatorname {Num} _{\\Pi _{2}}(f(w))&\\leq Q_{B}(\\operatorname {Num} _{\\Pi _{1}}(w),|w|)&&{\\text{(definition of }}f{\\text{)}}\\\\&\\leq Q_{B}(P(w),|w|)&&{\\text{(property of }}L_{1/P}{\\text{)}}\\\\&\\leq Q_{B}(P(Q_{A}(|f(w)|)),Q_{A}(|f(w)|))&&{\\text{(definition of }}f{\\text{)}}\\\\&\\leq {\\widehat {P}}(|f(w)|)&&{\\text{(definition of }}{\\widehat {P}}{\\text{)}}\\end{aligned}}}\n\nTherefore,\n\nf (L 1 / P) = { w ∈ L 2: Num Π 2 (w) ≤ P ^ (| w |) } = L 2 / P ^ {\\displaystyle f(L_{1/P})=\\{w\\in L_{2}:\\operatorname {Num} _{\\Pi _{2}}(w)\\leq {\\widehat {P}}(|w|)\\}=L_{2/{\\widehat {P}}}}\n\nSince L 1 / P {\\displaystyle L_{1/P}} is NP-complete and f | L 1 / P {\\displaystyle f|L_{1/P}} is computable in polynomial time, L 2 / P ^ {\\displaystyle L_{2/{\\widehat {P}}}} is NP-complete.\n\nFrom this and the definition of strong NP-completeness, it follows that L 2 {\\displaystyle L_{2}} is strongly NP-complete.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1307220263",
+      "revision_id": "1307220263",
+      "text_sha256": "576ac41214af3e84a6266e460224c3e66628d388b46a5fefcbff8dedf954a800",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:19:54.027823+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.297734260559082,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2479",
+    "title": "Britannica page 2479",
+    "corpus": "britannica",
+    "text": "<x_0.0947><y_0.0508>948 L A W.<x_0.7344><y_0.0703><class_Page-header>\n\n<x_0.0957><y_0.0727>extinguishable barely by the debtor’s retiring or cancel-ling them, the purifier, before a proof of the tenor is admitted, mult condescend on fuch a _cafus amifinosis_, or accident by which the writing was delivery as there it was full here in the creditors à puffilition, otherwise bonds that have been cancelled by the debtor on payment, might be reared up as fill fulfilling against him; But in writings which require current death to extingonlift their effect, as allgations, dispositions charters, etc. It is sufficient to libel that they were left, even _cafa/ferisito_.<x_0.5244><y_0.2125><class_Text>\n\n<x_0.0967><y_0.2133>23. Regularly, no deed can be served by this action, without other animals in writing, referring to that which is libelled ; for no written obligation ought to be raided up barely on the settlement of \"utterls\". If the admined allowful sufficient conviction, that the dead li-belled did once exit, the tenor is admitted to be proved by wineries, who mult depolo, either that they were pre-fort at fighting the died, or that they afterwards one it duly fulfilled. Where the relative writing contain all the fuiblantial claufes of that which is loft, the tenor is fomeines finland without vitrifles. Inna writing which is labelled to have counted uncommon claufs, all take mult appear by the admioles. Actions of proving the tenor are, on account of their importance, appropriate to the court of Sellon, and, by the old form, the tells many of the wineifts could not be received, but in pre- fence of all thejudges.<x_0.5225><y_0.45><class_Text>\n\n<x_0.0869><y_0.4492>24. The action of double or multiple pointing may be also reduced declaratory. It is competent to a debtor, who is differed, or threatened with difrdfs, by two or more perform claiming right to the debt, and who therefore bring the feveral claimants into the field, in order to debate and fettle their several preferences, that foe he may pay feeture o him who right shall be found prefie able. This action is daily justified by an erfree, in the cafe of feveral arreffments used in his hands for the fame debt; or by means in the cafe of Several adjuders, all of whom claim right to the fame rents. In thefe competitions, any of the competitors may bring an action of multiple-pointing in name of the tenants, or other debtors, without evercuters, or even though they should claim the proceeds, lose the law has introduced it as the proper remedy for getting both competitions determined. And while the subject in conversely common in realis, any third person who coercive he has a right to it, may, though he should not be cited as a defender, produce his titles, as if he were an original party to the hily, and will be admitted for his interentl in the competition.<x_0.5234><y_0.7539><class_Text>\n\n<x_0.1006><y_0.7547>25. Certain actions may be called acceffory, because they are merely preparatory or falsleviance to other actions. Thus, exhibitions al deliberant, at the inflame of an hair again! the creditedors or culodiers of his anceller's writings, are intended only to pave the way for future profesor. An action of transferment is allo of this fort, whereby an action during the pendency of which the defender happens to die, is craved to be transferenced against his representative, in the fame condition in which it stood formally. Upon the purpose death, his her may infinit in the cause again! the defender, upon producing, either a retour or a confirmed tetlament, ac-<x_0.5215><y_0.9258><class_Text>\n\n<x_0.5312><y_0.0734>cording as the fulject is heritable or movable. Transferenced being but incidental to other actions, can be pronounced by that inferior judge alone before whom the principal cause discarded, but, where the representatives of the decades live in another territory, it in the firearms court which mult transfer. Obligations may be now regilted formanly after the creditor's death ; which be fore was non admitted, without a ferrance proofs of re-pirations, to which the greater wate accordingly to be made a party.<x_0.9551><y_0.2141><class_Text>\n\n<x_0.5322><y_0.2148>26. A process of wakening is likewise affecerary. An action is find to flew, when it lies over, not limited in for a year, in which cafe its effect is lafpend ; but e-von that it may, at any time within the years of preferipo, be served or wakened by a femmas, in which the purifier recites the latl leop of the process, and concludes that it may be again carried on as if it had not been diffi continued. An action that funds upon any of the interchoufe rolls cannot fleep ; nor an action in which derece is pronounced, because it has got its full completion : Confectionently the derece maybe extracted after the year, without the uncedity of a weakening<x_0.9541><y_0.3797><class_Text>\n\n<x_0.5332><y_0.3805>27. An action of tranlumpe falls under the fame clais. Its compter to thief, who have a partial interest in writing that are not in their own collady, again! the pdfiffers thereof, for exhibiting them, that they may be transfumed for their behool. Though the ordinary title in this process be an obligation by the defender to grant unanfumage to the purifier, it is fulfilest if the purifier can flow that he has an intereit in the writings ; but, in this sale, he must framman them on his new charges. Action of unanfumng may be purified before any judge-ordinary. After the writings to be transfumed are exhibited, full duplicates are made out, collated, and figure, by one of the clicks of court, which we called transmpts, and acts as effoul us an extract from the register.<x_0.9531><y_0.5891><class_Text>\n\n<x_0.5342><y_0.5898>28. Actions proceeded anciently upon brives lifting from the chancery, directed to the judiciary or judge-ordinary, who tried the matter by a jury, upon whole verdić judgment was pronounced. And to the day, we re- certain brievers, as of _Ingafi, trees, literary, terry, perambulation,_ and perhaps two or three others: But fummonies were, immediately upon the infiltration of the college of Jultices, introduced in the place of brives. A fummons, when applied to achon purified before the fa-fion, is a writ in the King's name, iffing from his figures upon the purifier to complain, authoring selfengers to cite the defender to appear before the courts, and make his defenses ; with certification if he fail to appear, that derece will be pronounced gain!him in terms of the certification of the dommons.<x_0.9521><y_0.7969><class_Text>\n\n<x_0.5352><y_0.7977>29. The days indulged by law to a defender, between his citation and appearance, to prepare for his defense, are called _inducie legator._ I like to within the kingdom, seventy one and life days, for the lift and second diets of appearances, mult be allowed him for that purpose; and if out of its, fatty and fifteen. Defenders relating in Orkney or Zelians mult be cited on forty days. In certain fummonies which are privileged, the _inducie_ are flhortered: Spuilzies and ejections proceed on fifteen days; wakenings<x_0.9561><y_0.9367><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "c54e5a2b0d17c2881e0698364c4ca3c8b6b7a1193ec5c362f263f5e0a5f5ebc7",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:58:28.721748+00:00",
+    "parser_receipt_sha256": "9fb11573788359b68fe5dd23743e064c68ca1f9e8364452782389b9001fff409",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 559,
+      "occurred_at": "2026-10-18T18:19:46.731410+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2137,
+      "occurred_at": "2026-10-18T18:19:48.868478+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2015,
+      "occurred_at": "2026-10-18T18:19:50.912788+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1644,
+      "occurred_at": "2026-10-18T18:19:52.587718+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1408,
+      "occurred_at": "2026-10-18T18:19:54.027861+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1412,
+      "occurred_at": "2026-10-18T18:19:55.469009+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 4209,
+      "occurred_at": "2026-10-18T18:19:59.709169+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1215,
+      "occurred_at": "2026-10-18T18:20:00.958125+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2798,
+      "occurred_at": "2026-10-18T18:20:03.785220+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 79,
+      "occurred_at": "2026-10-18T18:20:03.889936+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 805,
+      "occurred_at": "2026-10-18T18:20:04.695108+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 1495,
+      "occurred_at": "2026-10-18T18:20:06.198704+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 9,
+      "occurred_at": "2026-10-18T18:20:06.207426+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 7023,
+      "occurred_at": "2026-10-18T18:20:13.230245+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1130,
+    "modern_words": 1313,
+    "vocabulary_jaccard": 0.09120521172638436,
+    "jensen_shannon_divergence": 0.7246804028452599,
+    "historical_top_words": [
+      [
+        "the",
+        88
+      ],
+      [
+        "of",
+        39
+      ],
+      [
+        "to",
+        35
+      ],
+      [
+        "in",
+        32
+      ],
+      [
+        "be",
+        24
+      ],
+      [
+        "a",
+        19
+      ],
+      [
+        "is",
+        19
+      ],
+      [
+        "or",
+        17
+      ],
+      [
+        "that",
+        17
+      ],
+      [
+        "and",
+        17
+      ],
+      [
+        "by",
+        16
+      ],
+      [
+        "which",
+        15
+      ],
+      [
+        "it",
+        14
+      ],
+      [
+        "an",
+        13
+      ],
+      [
+        "action",
+        11
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "l",
+        348
+      ],
+      [
+        "displaystyle",
+        104
+      ],
+      [
+        "r",
+        48
+      ],
+      [
+        "w",
+        47
+      ],
+      [
+        "in",
+        42
+      ],
+      [
+        "b",
+        40
+      ],
+      [
+        "x",
+        36
+      ],
+      [
+        "the",
+        34
+      ],
+      [
+        "a",
+        34
+      ],
+      [
+        "n",
+        32
+      ],
+      [
+        "and",
+        22
+      ],
+      [
+        "backslash",
+        22
+      ],
+      [
+        "cap",
+        18
+      ],
+      [
+        "i",
+        18
+      ],
+      [
+        "j",
+        18
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "l w",
+  "semantic_input": {
+    "query": "l w\n948 L A W.\n\nextinguishable barely by the debtor’s retiring or cancel-ling them, the purifier, before a proof of the tenor is admitted, mult condescend on fuch a _cafus amifinosis_, or accident by which the writing was delivery as there it was full here in the creditors à puffilition, otherwise bonds that have been cancelled by the debtor on payment, might be reared up as fill fulfilling against him; But in writings which require current death to extingonlift their effect, as allgations, dispositions charters, etc. It is sufficient to libel that they were left, even _cafa/ferisito_.\n\n23. Regularly, no deed can be served by this action, without other animals in writing, referring to that which is libelled ; for no written obligation ought to be raided up barely on the settlement of \"utterls\". If the admined allowful sufficient conviction, that the dead li-belled did once exit, the tenor is admitted to be proved by wineries, who mult depolo, either that they were pre-fort at fighting the ",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.2804250717163086,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

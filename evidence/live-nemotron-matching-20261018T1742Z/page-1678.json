@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "B I L",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:39323582",
+      "title": "Quadratic Jordan algebra",
+      "corpus": "wikipedia",
+      "text": "In mathematics, quadratic Jordan algebras are a generalization of Jordan algebras introduced by Kevin McCrimmon (1966). The fundamental identities of the quadratic representation of a linear Jordan algebra are used as axioms to define a quadratic Jordan algebra over a field of arbitrary characteristic. There is a uniform description of finite-dimensional simple quadratic Jordan algebras, independent of characteristic. If 2 is invertible in the field of coefficients, the theory of quadratic Jordan algebras reduces to that of linear Jordan algebras.\n\nA quadratic Jordan algebra consists of a vector space A over a field K with a distinguished element 1 and a quadratic map of A into the K -endomorphisms of A, a ↦ Q (a), satisfying the conditions:\n\nQ (1) = id;\n\nQ (Q (a) b) = Q (a) Q (b) Q (a) (\"fundamental identity\");\n\nQ (a) R (b, a) = R (a, b) Q (a) (\"commutation identity\"), where R (a, b) c = (Q (a + c) − Q (a) − Q (c)) b.\n\nFurther, these properties are required to hold under any extension of scalars.\n\nAn element a is invertible if Q (a) is invertible and there exists b such that Q (b) is the inverse of Q (a) and Q (a) b = a: such b is unique and we say that b is the inverse of a. A Jordan division algebra is one in which every non-zero element is invertible.\n\nLet B be a subspace of A. Define B to be a quadratic ideal or an inner ideal if the image of Q (b) is contained in B for all b in B; define B to be an outer ideal if B is mapped into itself by every Q (a) for all a in A. An ideal of A is a subspace which is both an inner and an outer ideal. A quadratic Jordan algebra is simple if it contains no non-trivial ideals.\n\nFor given b, the image of Q (b) is an inner ideal: we call this the principal inner ideal on b.\n\nThe centroid Γ of A is the subset of End (A) consisting of endomorphisms T which \"commute\" with Q in the sense that for all a\n\nT Q (a) = Q (a) T;\n\nQ (Ta) = Q (a) T 2.\n\nThe centroid of a simple algebra is a field: A is central if its centroid is just K.\n\nIf A is a unital associative algebra over K with multiplication × then a quadratic map Q can be defined from A to End (A) by Q (a) : b ↦ a × b × a. This defines a quadratic Jordan algebra structure on A. A quadratic Jordan algebra is special if it is isomorphic to a subalgebra of such an algebra, otherwise exceptional.\n\nLet A be a vector space over K with a quadratic form q and associated symmetric bilinear form q (x, y) = q (x + y) - q (x) - q (y). Let e be a \"basepoint\" of A, that is, an element with q (e) = 1. Define a linear functional T (y) = q (y, e) and a \"reflection\" y ∗ = T (y) e - y. For each x we define Q (x) by\n\nQ (x) : y ↦ q (x, y ∗) x − q (x) y ∗.\n\nThen Q defines a quadratic Jordan algebra on A.\n\nLet A be a unital Jordan algebra over a field K of characteristic not equal to 2. For a in A, let L denote the left multiplication map in the associative enveloping algebra\n\nL (a): x ↦ a x {\\displaystyle L(a):x\\mapsto ax\\ }\n\nand define a K -endomorphism of A, called the quadratic representation, by\n\nQ (a) = 2 L (a) 2 − L (a 2). {\\displaystyle \\displaystyle {Q(a)=2L(a)^{2}-L(a^{2}).}}\n\nThen Q defines a quadratic Jordan algebra.\n\nThe quadratic identities can be proved in a finite-dimensional Jordan algebra over R or C following Max Koecher, who used an invertible element. They are also easy to prove in a Jordan algebra defined by a unital associative algebra (a \"special\" Jordan algebra) since in that case Q (a) b = aba. They are valid in any Jordan algebra over a field of characteristic not equal to 2. This was conjectured by Jacobson and proved in Macdonald (1960): Macdonald showed that if a polynomial identity in three variables, linear in the third, is valid in any special Jordan algebra, then it holds in all Jordan algebras. In Jacobson (1969, pp. 19–21) an elementary proof, due to McCrimmon and Meyberg, is given for Jordan algebras over a field of characteristic not equal to 2.\n\nKoecher's arguments apply for finite-dimensional Jordan algebras over the real or complex numbers.\n\nAn element a in A is called invertible if it is invertible in R or C. If b denotes the inverse, then power associativity of a shows that L (a) and L (b) commute.\n\nIn fact a is invertible if and only if Q (a) is invertible. In that case\n\nQ (a) − 1 a = a − 1, Q (a − 1) = Q (a) − 1. {\\displaystyle \\displaystyle {Q(a)^{-1}a=a^{-1},\\,\\,\\,Q(a^{-1})=Q(a)^{-1}.}}\n\nIndeed, if Q (a) is invertible it carries R onto itself. On the other hand Q (a)1 = a 2, so\n\n(Q (a) − 1 a) a = a Q (a) − 1 a = L (a) Q (a) − 1 a = Q (a) − 1 a 2 = 1. {\\displaystyle \\displaystyle {(Q(a)^{-1}a)a=aQ(a)^{-1}a=L(a)Q(a)^{-1}a=Q(a)^{-1}a^{2}=1.}}\n\nThe Jordan identity\n\n(b) = 0 {\\displaystyle \\displaystyle {(b)=0}}\n\ncan be polarized by replacing a by a + tc and taking the coefficient of t. Rewriting this as an operator applied to c yields\n\n2 L (a b) L (a) + L (a 2) L (b) = 2 L (a) L (b) L (a) + L (a 2 b). {\\displaystyle \\displaystyle {2L(ab)L(a)+L(a^{2})L(b)=2L(a)L(b)L(a)+L(a^{2}b).}}\n\nTaking b = a −1 in this polarized Jordan identity yields\n\nQ (a) L (a − 1) = L (a). {\\displaystyle \\displaystyle {Q(a)L(a^{-1})=L(a).}}\n\nReplacing a by its inverse, the relation follows if L (a) and L (a −1) are invertible. If not it holds for a + ε1 with ε arbitrarily small and hence also in the limit.\n\nIf a and b are invertible then so is Q (a) b and it satisfies the inverse identity:\n\n(Q (a) b) − 1 = Q (a − 1) b − 1. {\\displaystyle \\displaystyle {(Q(a)b)^{-1}=Q(a^{-1})b^{-1}.}}\n\nThe quadratic representation satisfies the following fundamental identity:\n\nQ (Q (a) b) = Q (a) Q (b) Q (a). {\\displaystyle \\displaystyle {Q(Q(a)b)=Q(a)Q(b)Q(a).}}\n\nFor c in A and F (a) a function on A with values in End A, let D F (a) be the derivative at t = 0 of F (a + tc). Then\n\nc = D c (Q (a) a − 1) = 2 Q (a, c) a − 1 + Q (a) D c (a − 1), {\\displaystyle \\displaystyle {c=D_{c}(Q(a)a^{-1})=2Q(a,c)a^{-1}+Q(a)D_{c}(a^{-1}),}}\n\nwhere Q (a, b) if the polarization of Q\n\nQ (a, c) = 1 2 (Q (a + c) − Q (a) − Q (c)) = L (a) L (c) + L (c) L (a) − L (a c). {\\displaystyle \\displaystyle {Q(a,c)={1 \\over 2}(Q(a+c)-Q(a)-Q(c))=L(a)L(c)+L(c)L(a)-L(ac).}}\n\nSince L (a) commutes with L (a −1)\n\nQ (a, c) a − 1 = (L (a) L (c) + L (c) L (a) − L (a c)) a − 1 = c. {\\displaystyle \\displaystyle {Q(a,c)a^{-1}=(L(a)L(c)+L(c)L(a)-L(ac))a^{-1}=c.}}\n\nHence\n\nc = 2 c + Q (a) D c (a − 1), {\\displaystyle \\displaystyle {c=2c+Q(a)D_{c}(a^{-1}),}}\n\nso that\n\nD c (a − 1) = − Q (a) − 1 c. {\\displaystyle \\displaystyle {D_{c}(a^{-1})=-Q(a)^{-1}c.}}\n\nApplying D to L (a −1) Q (a) = L (a) and acting on b = c −1 yields\n\n(Q (a) b) (Q (a − 1) b − 1) = 1. {\\displaystyle \\displaystyle {(Q(a)b)(Q(a^{-1})b^{-1})=1.}}\n\nOn the other hand L (Q (a) b) is invertible on an open dense set where Q (a) b must also be invertible with\n\n(Q (a) b) − 1 = Q (a − 1) b − 1. {\\displaystyle \\displaystyle {(Q(a)b)^{-1}=Q(a^{-1})b^{-1}.}}\n\nTaking the derivative D in the variable b in the expression above gives\n\n− Q (Q (a) b) − 1 Q (a) c = − Q (a) − 1 Q (b) − 1 c. {\\displaystyle \\displaystyle {-Q(Q(a)b)^{-1}Q(a)c=-Q(a)^{-1}Q(b)^{-1}c.}}\n\nThis yields the fundamental identity for a dense set of invertible elements, so it follows in general by continuity. The fundamental identity implies that c = Q (a) b is invertible if a and b are invertible and gives a formula for the inverse of Q (c). Applying it to c gives the inverse identity in full generality.\n\nAs shown above, if a is invertible,\n\nQ (a, b) a − 1 = b. {\\displaystyle \\displaystyle {Q(a,b)a^{-1}=b.}}\n\nTaking D with a as the variable gives\n\n0 = Q (c, b) a − 1 + Q (a, b) D c (a − 1) = Q (c, b) a − 1 − Q (a, b) Q (a) − 1 c. {\\displaystyle \\displaystyle {0=Q(c,b)a^{-1}+Q(a,b)D_{c}(a^{-1})=Q(c,b)a^{-1}-Q(a,b)Q(a)^{-1}c.}}\n\nReplacing a by a −1 gives, applying Q (a) and using the fundamental identity gives\n\nQ (a) Q (b, c) a = Q (a) Q (a − 1, b) Q (a) c = 1 2 Q (a) Q (a) c = Q (Q (a) b, a) c. {\\displaystyle \\displaystyle {Q(a)Q(b,c)a=Q(a)Q(a^{-1},b)Q(a)c={\\frac {1}{2}}Q(a)Q(a)c=Q(Q(a)b,a)c.}}\n\nHence\n\nQ (a) Q (b, c) a = Q (Q (a) b, a) c. {\\displaystyle \\displaystyle {Q(a)Q(b,c)a=Q(Q(a)b,a)c.}}\n\nInterchanging b and c gives\n\nQ (a) Q (b, c) a = Q (a, Q (a) c) b. {\\displaystyle \\displaystyle {Q(a)Q(b,c)a=Q(a,Q(a)c)b.}}\n\nOn the other hand R (x, y) is defined by R (x, y) z = 2 Q (x, z) y, so this implies\n\nQ (a) R (b, a) c = R (a, b) Q (a) c, {\\displaystyle \\displaystyle {Q(a)R(b,a)c=R(a,b)Q(a)c,}}\n\nso that for a invertible and hence by continuity for all a\n\nQ (a) R (b, a) = R (a, b) Q (a). {\\displaystyle \\displaystyle {Q(a)R(b,a)=R(a,b)Q(a).}}\n\nThe Jordan identity a (a 2 b) = a 2 (ab) can be polarized by replacing a by a + tc and taking the coefficient of t. This gives\n\nc (a 2 b) + 2 a (a c) b) = a 2 (c b) + 2 (a c) (a b). {\\displaystyle \\displaystyle {c(a^{2}b)+2a(ac)b)=a^{2}(cb)+2(ac)(ab).}}\n\nIn operator notation this implies\n\n+ 2 = 0. {\\displaystyle \\displaystyle {+2=0.}}\n\nPolarizing in a again gives\n\nc ((a d) b) + d ((a c) b) + a ((d c) b) = (c d) (a b) + (d a) (c b) + (a c) (d b). {\\displaystyle \\displaystyle {c((ad)b)+d((ac)b)+a((dc)b)=(cd)(ab)+(da)(cb)+(ac)(db).}}\n\nWritten as operators acting on d, this gives\n\nL (c) L (b) L (a) + L ((a c) b) + L (a) L (b) L (c) = L (a b) L (c) + L (c b) L (a) + L (a c) L (b). {\\displaystyle \\displaystyle {L(c)L(b)L(a)+L((ac)b)+L(a)L(b)L(c)=L(ab)L(c)+L(cb)L(a)+L(ac)L(b).}}\n\nReplacing c by b and b by a gives\n\nL (b) L (a) 2 + L (a (a b)) + L (a) 2 L (b) = L (a 2) L (b) + 2 L (a b) L (a). {\\displaystyle \\displaystyle {L(b)L(a)^{2}+L(a(ab))+L(a)^{2}L(b)=L(a^{2})L(b)+2L(ab)L(a).}}\n\nAlso, since the right hand side is symmetric in b and ' c, interchanging b and c on the left and subtracting, it follows that the commutators are derivations of the Jordan algebra.\n\nLet\n\nQ (a) = 2 L (a) 2 − L (a 2). {\\displaystyle \\displaystyle {Q(a)=2L(a)^{2}-L(a^{2}).}}\n\nThen Q (a) commutes with L (a) by the Jordan identity.\n\nFrom the definitions if Q (a, b) = ½ (Q (a = b) − Q (a) − Q (b)) is the associated symmetric bilinear mapping, then Q (a, a) = Q (a) and\n\nQ (a, b) = L (a) L (b) + L (b) L (a) − L (a b). {\\displaystyle \\displaystyle {Q(a,b)=L(a)L(b)+L(b)L(a)-L(ab).}}\n\nMoreover\n\n2 Q (a b, a) = L (b) Q (a) + Q (a) L (b). {\\displaystyle \\displaystyle {2Q(ab,a)=L(b)Q(a)+Q(a)L(b).}}\n\nIndeed\n\n2 Q (ab, a) − L (b) Q (a) − Q (a) L (b) = 2 L (ab) L (a) + 2 L (a) L (ab) − 2 L (a (ab)) − 2 L (a) 2 L (b) − 2 L (b) L (a) 2 + L (a 2) L (b) + L (b) L (a 2).\n\nBy the second and first polarized Jordan identities this implies\n\n2 Q (ab, a) − L (b) Q (a) − Q (a) L (b) = 2 + = 0.\n\nThe polarized version of = 0 is\n\n2 = 2. {\\displaystyle \\displaystyle {2=2.}}\n\nNow with R (a, b) = 2 + 2 L (ab), it follows that\n\nQ (a) R (b, a) = 2 + 2 Q (a) L (a b) = 2 + 2 Q (a) + 2 Q (a) L (a b). {\\displaystyle \\displaystyle {Q(a)R(b,a)=2+2Q(a)L(ab)=2+2Q(a)+2Q(a)L(ab).}}\n\nSo by the last identity with ab in place of b this implies the commutation identity:\n\nQ (a) R (b, a) = 2 Q (a) + 2 L (a b) Q (a) = R (a, b) Q (a). {\\displaystyle \\displaystyle {Q(a)R(b,a)=2Q(a)+2L(ab)Q(a)=R(a,b)Q(a).}}\n\nThe identity Q (a) R (b, a) = R (a, b) Q (a) can be strengthened to\n\nQ (a) R (b, a) = R (a, b) Q (a) = 2 Q (Q (a) b, a). {\\displaystyle \\displaystyle {Q(a)R(b,a)=R(a,b)Q(a)=2Q(Q(a)b,a).}}\n\nIndeed applied to c, the first two terms give\n\n2 Q (a) Q (b, c) a = 2 Q (Q (a) c, a) b. {\\displaystyle \\displaystyle {2Q(a)Q(b,c)a=2Q(Q(a)c,a)b.}}\n\nSwitching b and c then gives\n\nQ (a) R (b, a) c = 2 Q (Q (a) b, a) c. {\\displaystyle \\displaystyle {Q(a)R(b,a)c=2Q(Q(a)b,a)c.}}\n\nThe identity Q (Q (a) b) = Q (a) Q (b) Q (a) is proved using the Lie bracket relations\n\n= R (R (a, b) c, d) − R (c, R (b, a) d). {\\displaystyle \\displaystyle {=R(R(a,b)c,d)-R(c,R(b,a)d).}}\n\nIndeed the polarization in c of the identity Q (c) L (x) + L (x) Q (c) = 2 Q (cx, c) gives\n\nQ (c, y) L (x) + L (x) Q (c, y) = Q (y x, c) + Q (c x, y). {\\displaystyle \\displaystyle {Q(c,y)L(x)+L(x)Q(c,y)=Q(yx,c)+Q(cx,y).}}\n\nApplying both sides to d, this shows that\n\n= R (x c, d) − R (c, x d). {\\displaystyle \\displaystyle {=R(xc,d)-R(c,xd).}}\n\nIn particular these equations hold for x = ab. On the other hand if T = then D (z) = Tz is a derivation of the Jordan algebra, so that\n\n= R (D c, d) + R (c, D d). {\\displaystyle \\displaystyle {=R(Dc,d)+R(c,Dd).}}\n\nThe Lie bracket relations follow because R (a, b) = T + L (ab).\n\nSince the Lie bracket on the left hand side is antisymmetric,\n\nR (R (a, b) c, d) − R (c, R (b, a) d) = − R (R (c, d) a, b) + R (a, R (d, c) b). {\\displaystyle \\displaystyle {R(R(a,b)c,d)-R(c,R(b,a)d)=-R(R(c,d)a,b)+R(a,R(d,c)b).}}\n\nAs a consequence\n\nR (y, Q (x) y) = R (y, x) 2 − 2 Q (y) Q (x). {\\displaystyle \\displaystyle {R(y,Q(x)y)=R(y,x)^{2}-2Q(y)Q(x).}}\n\nIndeed set a = y, b = x, c = z, d = x and make both sides act on y.\n\nOn the other hand\n\n2 Q (Q (a) b) = 2 R (a, b) Q (Q (a) b, a) − Q (a) R (b, Q (a) b). {\\displaystyle \\displaystyle {2Q(Q(a)b)=2R(a,b)Q(Q(a)b,a)-Q(a)R(b,Q(a)b).}}\n\nIndeed this follows by setting x = Q (a) b in\n\na = − R (R (x, y) a, b) a + R (a, R (y, x) b) a. {\\displaystyle \\displaystyle {a=-R(R(x,y)a,b)a+R(a,R(y,x)b)a.}}\n\nHence, combining these equations with the strengthened commutation identity,\n\n2 Q (Q (a) b) = 2 R (a, b) Q (Q (a) b, a) − R (b, a) Q (a) R (a, b) + 2 Q (a) Q (b) Q (a) = 2 Q (a) Q (b) Q (a). {\\displaystyle \\displaystyle {2Q(Q(a)b)=2R(a,b)Q(Q(a)b,a)-R(b,a)Q(a)R(a,b)+2Q(a)Q(b)Q(a)=2Q(a)Q(b)Q(a).}}\n\nLet A be a quadratic Jordan algebra over R or C. Following Jacobson (1969), a linear Jordan algebra structure can be associated with A such that, if L (a) is Jordan multiplication, then the quadratic structure is given by Q (a) = 2 L (a) 2 − L (a 2).\n\nFirstly the axiom Q (a) R (b, a) = R (a, b) Q (a) can be strengthened to\n\nQ (a) R (b, a) = R (a, b) Q (a) = 2 Q (Q (a) b, a). {\\displaystyle \\displaystyle {Q(a)R(b,a)=R(a,b)Q(a)=2Q(Q(a)b,a).}}\n\nIndeed applied to c, the first two terms give\n\n2 Q (a) Q (b, c) a = 2 Q (Q (a) c, a) b. {\\displaystyle \\displaystyle {2Q(a)Q(b,c)a=2Q(Q(a)c,a)b.}}\n\nSwitching b and c then gives\n\nQ (a) R (b, a) c = 2 Q (Q (a) b, a) c. {\\displaystyle \\displaystyle {Q(a)R(b,a)c=2Q(Q(a)b,a)c.}}\n\nNow let\n\nL (a) = 1 2 R (a, 1). {\\displaystyle \\displaystyle {L(a)={\\frac {1}{2}}R(a,1).}}\n\nReplacing b by a and a by 1 in the identity above gives\n\nR (a, 1) = R (1, a) = 2 Q (a, 1). {\\displaystyle \\displaystyle {R(a,1)=R(1,a)=2Q(a,1).}}\n\nIn particular\n\nL (a) = Q (a, 1), L (1) = Q (1, 1) = I. {\\displaystyle \\displaystyle {L(a)=Q(a,1),\\,\\,\\,L(1)=Q(1,1)=I.}}\n\nIf furthermore a is invertible then\n\nR (a, b) = 2 Q (Q (a) b, a) Q (a) − 1 = 2 Q (a) Q (b, a − 1). {\\displaystyle \\displaystyle {R(a,b)=2Q(Q(a)b,a)Q(a)^{-1}=2Q(a)Q(b,a^{-1}).}}\n\nSimilarly if ' b is invertible\n\nR (a, b) = 2 Q (a, b − 1) Q (b). {\\displaystyle \\displaystyle {R(a,b)=2Q(a,b^{-1})Q(b).}}\n\nThe Jordan product is given by\n\na ∘ b = L (a) b = 1 2 R (a, 1) b = Q (a, b) 1, {\\displaystyle \\displaystyle {a\\circ b=L(a)b={\\frac {1}{2}}R(a,1)b=Q(a,b)1,}}\n\nso that\n\na ∘ b = b ∘ a. {\\displaystyle \\displaystyle {a\\circ b=b\\circ a.}}\n\nThe formula above shows that 1 is an identity. Defining a 2 by a ∘ a = Q (a)1, the only remaining condition to be verified is the Jordan identity\n\n= 0. {\\displaystyle \\displaystyle {=0.}}\n\nIn the fundamental identity\n\nQ (Q (a) b) = Q (a) Q (b) Q (a), {\\displaystyle \\displaystyle {Q(Q(a)b)=Q(a)Q(b)Q(a),}}\n\nReplace a by a + t, set b = 1 and compare the coefficients of t 2 on both sides:\n\nQ (a) = 2 Q (a, 1) 2 − Q (a 2, 1) = 2 L (a) 2 − L (a 2). {\\displaystyle \\displaystyle {Q(a)=2Q(a,1)^{2}-Q(a^{2},1)=2L(a)^{2}-L(a^{2}).}}\n\nSetting b = 1 in the second axiom gives\n\nQ (a) L (a) = L (a) Q (a), {\\displaystyle \\displaystyle {Q(a)L(a)=L(a)Q(a),}}\n\nand therefore L (a) must commute with L (a 2).\n\nIn a unital linear Jordan algebra the shift identity asserts that\n\nR (Q (a) b, b) = R (a, Q (b) a). {\\displaystyle \\displaystyle {R(Q(a)b,b)=R(a,Q(b)a).}}\n\nFollowing Meyberg (1972), it can be established as a direct consequence of polarized forms of the fundamental identity and the commutation or homotopy identity. It is also a consequence of Macdonald's theorem since it is an operator identity involving only two variables.\n\nFor a in a unital linear Jordan algebra A the quadratic representation is given by\n\nQ (a) = 2 L (a) 2 − L (a 2), {\\displaystyle \\displaystyle {Q(a)=2L(a)^{2}-L(a^{2}),}}\n\nso the corresponding symmetric bilinear mapping is\n\nQ (a, b) = L (a) L (b) + L (b) L (a) − L (a b). {\\displaystyle \\displaystyle {Q(a,b)=L(a)L(b)+L(b)L(a)-L(ab).}}\n\nThe other operators are given by the formula\n\n1 2 R (a, b) = L (a) L (b) − L (b) L (a) + L (a b), {\\displaystyle \\displaystyle {{\\frac {1}{2}}R(a,b)=L(a)L(b)-L(b)L(a)+L(ab),}}\n\nso that\n\nQ (a, b) = 2 L (a) L (b) − 1 2 R (a, b). {\\displaystyle \\displaystyle {Q(a,b)=2L(a)L(b)-{\\frac {1}{2}}R(a,b).}}\n\nThe commutation or homotopy identity\n\nR (a, b) Q (a) = Q (a) R (b, a) = 2 Q (Q (a) b, a), {\\displaystyle \\displaystyle {R(a,b)Q(a)=Q(a)R(b,a)=2Q(Q(a)b,a),}}\n\ncan be polarized in a. Replacing a by a + t 1 and taking the coefficient of t gives\n\nL (b) Q (a) + R (a, b) L (a) = Q (a) L (b) + L (a) R (b, a) = L (Q (a) b) + 2 Q (a b, a). {\\displaystyle \\displaystyle {L(b)Q(a)+R(a,b)L(a)=Q(a)L(b)+L(a)R(b,a)=L(Q(a)b)+2Q(ab,a).}}\n\nThe fundamental identity\n\nQ (Q (a) b) = Q (a) Q (b) Q (a) {\\displaystyle \\displaystyle {Q(Q(a)b)=Q(a)Q(b)Q(a)}}\n\ncan be polarized in a. Replacing a by a + t 1 and taking the coefficients of t gives (interchanging a and b)\n\n2 Q (a b, a) = Q (a) L (b) + L (b) Q (a). {\\displaystyle \\displaystyle {2Q(ab,a)=Q(a)L(b)+L(b)Q(a).}}\n\nCombining the two previous displayed identities yields\n\nL (Q (a) b) + L (b) Q (a) = L (a) R (b, a), L (Q (b) a) + Q (b) L (a) = R (b, a) L (b). {\\displaystyle \\displaystyle {L(Q(a)b)+L(b)Q(a)=L(a)R(b,a),\\,\\,\\,\\,L(Q(b)a)+Q(b)L(a)=R(b,a)L(b).}}\n\nReplacing a by a + t 1 in the fundamental identity and taking the coefficient of t 2 gives\n\n2 Q (Q (a) b, b) − L (a) Q (b) L (a) = Q (a) Q (b) + Q (b) Q (a) − Q (a b). {\\displaystyle \\displaystyle {2Q(Q(a)b,b)-L(a)Q(b)L(a)=Q(a)Q(b)+Q(b)Q(a)-Q(ab).}}\n\nSince the right hand side is symmetric this implies\n\n2 Q (Q (a) b, b) − 2 Q (Q (b) a, a) = L (a) Q (b) L (a) − L (b) Q (a) L (b). {\\displaystyle \\displaystyle {2Q(Q(a)b,b)-2Q(Q(b)a,a)=L(a)Q(b)L(a)-L(b)Q(a)L(b).}}\n\nThese identities can be used to prove the shift identity:\n\nR (Q (a) b, b) = R (a, Q (b) a). {\\displaystyle \\displaystyle {R(Q(a)b,b)=R(a,Q(b)a).}}\n\nIt is equivalent to the identity\n\n2 L (Q (a) b) L (b) − Q (Q (a) b, b) = 2 L (a) L (Q (b) a) − Q (a, Q (b) a). {\\displaystyle \\displaystyle {2L(Q(a)b)L(b)-Q(Q(a)b,b)=2L(a)L(Q(b)a)-Q(a,Q(b)a).}}\n\nBy the previous displayed identity this is equivalent to\n\nL (b) = L (a). {\\displaystyle \\displaystyle {L(b)=L(a).}}\n\nOn the other hand, the bracketed terms can be simplified by the third displayed identity. It implies that both sides are equal to ½ L (a) R (b, a) L (b).\n\nFor finite-dimensional unital Jordan algebras, the shift identity can be seen more directly using mutations. Let a and b be invertible, and let L (a)= R (a, b) be the Jordan multiplication in A b. Then Q (b) L (a) = L (b) Q (b). Moreover Q (b) Q (a) = Q (b) Q (a) Q (b) = Q (b) Q (b).on the other hand Q (a)=2 L (a) 2 − L (a 2, b) and similarly with a and b interchanged. Hence\n\nL a (b 2, a) Q (b) = Q (b) L b (a 2, b). {\\displaystyle \\displaystyle {L_{a}(b^{2,a})Q(b)=Q(b)L_{b}(a^{2,b}).}}\n\nThus\n\nR (Q (b) a, a) Q (b) = Q (b) R (Q (a) b, b) = R (b, Q (a) b) Q (b), {\\displaystyle \\displaystyle {R(Q(b)a,a)Q(b)=Q(b)R(Q(a)b,b)=R(b,Q(a)b)Q(b),}}\n\nso the shift identity follows by cancelling Q (b). A density argument allows the invertibility assumption to be dropped.\n\nA linear unital Jordan algebra gives rise to a quadratic mapping Q and associated mapping R satisfying the fundamental identity, the commutation of homotopy identity and the shift identity. A Jordan pair (V, V) consists of two vector space V and two quadratic mappings Q from V to V. These determine bilinear mappings R from V × V to V by the formula R (a, b) c = 2 Q (a, c) b where 2 Q (a, c) = Q (a + c) − Q (a) − Q (c). Omitting ± subscripts, these must satisfy\n\nthe fundamental identity\n\nQ (Q (a) b) = Q (a) Q (b) Q (a), {\\displaystyle \\displaystyle {Q(Q(a)b)=Q(a)Q(b)Q(a),}}\n\nthe commutation or homotopy identity\n\nR (a, b) Q (a) = Q (a) R (b, a) = 2 Q (Q (a) b, a), {\\displaystyle \\displaystyle {R(a,b)Q(a)=Q(a)R(b,a)=2Q(Q(a)b,a),}}\n\nand the shift identity\n\nR (Q (a) b, b) = R (a, Q (b) a). {\\displaystyle \\displaystyle {R(Q(a)b,b)=R(a,Q(b)a).}}\n\nA unital Jordan algebra A defines a Jordan pair by taking V = A with its quadratic structure maps Q and R.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1319409349",
+      "revision_id": "1319409349",
+      "text_sha256": "ab851c9b44cd9eff042ffe92ae3e53726742aee9e79b57702f33ef954ce07a37",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:51:15.704048+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.556595325469971,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:9477973",
+      "title": "Navia (plant)",
+      "corpus": "wikipedia",
+      "text": "Navia is a genus of plants in the family Bromeliaceae, containing 95 species. Described as early as 1830 in Guyana, they are commonly cultivated for their colorful foliage and inflorescences. All the species are native to northern South America (Guyana, Suriname, Venezuela, Colombia, northern Brazil).\n\nNavia abysmophila L.B. Smith - Amazonas State in Venezuela\n\nNavia acaulis Martius ex Schult. & Schult.f. - Colombia\n\nNavia affinis L.B. Smith - Amazonas State in Venezuela\n\nNavia aliciae L.B. Smith, Steyermark & Robinson - Amazonas State in Venezuela\n\nNavia aloifolia L.B. Smith - Amazonas State in Venezuela\n\nNavia angustifolia (Baker) Mez - Guyana\n\nNavia arida L.B. Smith & Steyermark - Venezuela, Guyana\n\nNavia aurea L.B. Smith - Amazonas State in Venezuela\n\nNavia axillaris Betancur - Colombia\n\nNavia barbellata L.B. Smith - Guyana\n\nNavia berryana L.B. Smith, Steyermark & Robinson - Amazonas State in Venezuela\n\nNavia bicolor L.B. Smith - Colombia\n\nNavia brachyphylla L.B. Smith - Amazonas State in Venezuela\n\nNavia breweri L.B. Smith & Steyermark - Bolívar State in Venezuela\n\nNavia cardonae L.B. Smith - Bolívar State in Venezuela\n\nNavia caricifolia L.B. Smith - Amazonas State in Venezuela\n\nNavia carnevalii L.B. Smith & Steyermark - Amazonas State in Venezuela\n\nNavia caulescens Martius ex Schult. & Schult.f. - Colombia\n\nNavia caurensis L.B. Smith - Bolívar State in Venezuela\n\nNavia colorata L.B. Smith - Amazonas State in Venezuela\n\nNavia connata L.B. Smith & Steyermark - Bolívar State in Venezuela\n\nNavia crassicaulis L.B. Smith, Steyermark & Robinson - Amazonas State in Venezuela\n\nNavia cretacea L.B. Smith - Amazonas State in Venezuela\n\nNavia crispa L.B. Smith - Venezuela\n\nNavia cucullata L.B. Smith - Bolívar State in Venezuela\n\nNavia culcitaria L.B. Smith, Steyermark & Robinson - Amazonas State in Venezuela\n\nNavia duidae L.B. Smith - Amazonas State in Venezuela\n\nNavia ebracteata Betancur & Arbeláez - Colombia\n\nNavia emergens L.B. Smith, Steyermark & Robinson - Bolívar State in Venezuela\n\nNavia filifera L.B. Smith, Steyermark & Robinson - Amazonas State in Venezuela\n\nNavia fontoides L.B. Smith - Colombia\n\nNavia garcia-barrigae L.B. Smith - Colombia\n\nNavia geaster L.B. Smith, Steyermark & Robinson - Bolívar State in Venezuela\n\nNavia glandulifera B. Holst - Bolívar State in Venezuela\n\nNavia glauca L.B. Smith - Amazonas State in Venezuela\n\nNavia gleasonii L.B. Smith - Guyana, Amazonas State in Venezuela\n\nNavia graminifolia L.B. Smith - Colombia\n\nNavia heliophila L.B. Smith - Colombia\n\nNavia huberiana L.B. Smith, Steyermark & Robinson - Amazonas State in Venezuela\n\nNavia immersa L.B. Smith - Amazonas State in Venezuela\n\nNavia incrassata L.B. Smith & Steyermark - Bolívar State in Venezuela\n\nNavia intermedia L.B. Smith & Steyermark - Bolívar State in Venezuela\n\nNavia involucrata L.B. Smith - Amazonas State in Venezuela\n\nNavia jauana L.B. Smith, Steyermark & Robinson - Bolívar State in Venezuela\n\nNavia lactea L.B. Smith, Steyermark & Robinson - Amazonas State in Venezuela\n\nNavia lanigera L.B. Smith - Amazonas State in Venezuela\n\nNavia lasiantha L.B. Smith & Steyermark - Bolívar State in Venezuela\n\nNavia latifolia L.B. Smith - Amazonas State in Venezuela\n\nNavia lepidota L.B. Smith - Amazonas State in Venezuela\n\nNavia liesneri L.B. Smith, Steyermark & Robinson - Amazonas State in Venezuela\n\nNavia lindmanioides L.B. Smith - Amazonas State in Venezuela\n\nNavia linearis L.B. Smith, Steyermark & Robinson - Amazonas State in Venezuela\n\nNavia luzuloides L.B. Smith, Steyermark & Robinson - Bolívar State in Venezuela\n\nNavia maguirei L.B. Smith - Suriname\n\nNavia mima L.B. Smith - Amazonas State in Venezuela\n\nNavia mosaica B. Holst - Amazonas State in Venezuela\n\nNavia myriantha L.B. Smith - Amazonas State in Brazil\n\nNavia navicularis L.B. Smith & Steyermark - Bolívar State in Venezuela\n\nNavia nubicola L.B. Smith - Amazonas State in Venezuela\n\nNavia ocellata L.B. Smith - Amazonas State in Venezuela\n\nNavia octopoides L.B. Smith - Amazonas State in Venezuela\n\nNavia ovoidea L.B. Smith, Steyermark & Robinson - Bolívar State in Venezuela\n\nNavia paruana B. Holst - Amazonas State in Venezuela\n\nNavia parvula L.B. Smith - Amazonas State in Venezuela\n\nNavia patria L.B. Smith & Steyermark - Amazonas State in Venezuela\n\nNavia pauciflora L.B. Smith - Amazonas State in Venezuela\n\nNavia phelpsiae L.B. Smith - Amazonas State in Venezuela\n\nNavia pilarica Betancur - Colombia\n\nNavia piresii L.B. Smith, Steyermark & Robinson - Amazonas State in Brazil\n\nNavia polyglomerata L.B. Smith, Steyermark & Robinson - Amazonas State in Venezuela\n\nNavia pulvinata L.B. Smith - Amazonas State in Venezuela\n\nNavia pungens L.B. Smith - Amazonas State in Venezuela\n\nNavia robinsonii L.B. Smith - Bolívar State in Venezuela\n\nNavia sandwithii L.B. Smith - Guyana\n\nNavia saxicola L.B. Smith - Amazonas State in Venezuela\n\nNavia schultesiana L.B. Smith - Colombia\n\nNavia scirpiflora L.B. Smith, Steyermark & Robinson - Bolívar State in Venezuela\n\nNavia scopulorum L.B. Smith - Venezuela\n\nNavia semiserrata L.B. Smith - Amazonas State in Venezuela\n\nNavia serrulata L.B. Smith - Amazonas State in Venezuela\n\nNavia splendens L.B. Smith - Amazonas State in Venezuela, Guyana\n\nNavia stenodonta L.B. Smith - Amazonas State in Venezuela\n\nNavia steyermarkii L.B. Smith - Amazonas State in Venezuela\n\nNavia subpetiolata L.B. Smith - Amazonas State in Venezuela\n\nNavia tentaculata B. Holst - Bolívar State in Venezuela\n\nNavia terramarae L.B. Smith & Steyermark - Amazonas State in Venezuela\n\nNavia trichodonta L.B. Smith - Amazonas State in Venezuela\n\nNavia umbratilis L.B. Smith - Amazonas State in Venezuela\n\nNavia viridis L.B. Smith - Amazonas State in Venezuela\n\nNavia wurdackii L.B. Smith - Bolívar State in Venezuela\n\nNavia xyridiflora L.B. Smith - Amazonas State in Venezuela",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1186225811",
+      "revision_id": "1186225811",
+      "text_sha256": "1866efa6d6d0d5e4efde42641866ab584392b54d8e4efeb4bd2d7689294ec6ed",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:51:16.962157+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.76521635055542,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:57356837",
+      "title": "Agalmyla",
+      "corpus": "wikipedia",
+      "text": "Agalmyla is a genus of plants in the family Gesneriaceae.\n\nAs of April 2021, Plants of the World Online accepted the following species:\n\nAgalmyla affinis Hilliard & B.L.Burtt\n\nAgalmyla aitinyuensis Hilliard & B.L.Burtt\n\nAgalmyla ambonica Hilliard & B.L.Burtt\n\nAgalmyla angiensis (Kaneh. & Hatus.) Hilliard & B.L.Burtt\n\nAgalmyla angustifolia Miq.\n\nAgalmyla aurantiaca Hilliard & B.L.Burtt\n\nAgalmyla beccarii C.B.Clarke\n\nAgalmyla bicolor Hilliard & B.L.Burtt\n\nAgalmyla biflora (Elmer) Hilliard & B.L.Burtt\n\nAgalmyla bilirana Hilliard & B.L.Burtt\n\nAgalmyla borneensis (Schltr.) B.L.Burtt\n\nAgalmyla bracteata (Stapf) B.L.Burtt\n\nAgalmyla brevifolia S.Moore\n\nAgalmyla brevipes (C.B.Clarke) B.L.Burtt\n\nAgalmyla brownii (Koord.) B.L.Burtt\n\nAgalmyla calelanensis (Elmer) Hilliard & B.L.Burtt\n\nAgalmyla centralis Hilliard & B.L.Burtt\n\nAgalmyla chalmersii (F.Muell.) B.L.Burtt\n\nAgalmyla chorisepala (C.B.Clarke) Hilliard & B.L.Burtt\n\nAgalmyla chrysostyla (Schltr.) Hilliard & B.L.Burtt\n\nAgalmyla clarkei (Elmer) B.L.Burtt\n\nAgalmyla columneoides Hilliard & B.L.Burtt\n\nAgalmyla decipiens Hilliard & B.L.Burtt\n\nAgalmyla dentatisepala Hilliard & B.L.Burtt\n\nAgalmyla diandra Hilliard & B.L.Burtt\n\nAgalmyla elegans (K.Schum. & Lauterb.) Hilliard & B.L.Burtt\n\nAgalmyla elongata (Blume) B.L.Burtt\n\nAgalmyla erecta B.L.Burtt\n\nAgalmyla exannulata Hilliard & B.L.Burtt\n\nAgalmyla formosa Hilliard & B.L.Burtt\n\nAgalmyla gjellerupii (Schltr.) Hilliard & B.L.Burtt\n\nAgalmyla glabra (Copel. ex Merr.) Hilliard & B.L.Burtt\n\nAgalmyla glabrisepala Hilliard & B.L.Burtt\n\nAgalmyla glandulosa Hilliard & B.L.Burtt\n\nAgalmyla gracilis Hilliard & B.L.Burtt\n\nAgalmyla hilliardiae D.J.Middleton & S.M.Scott\n\nAgalmyla hirta Hilliard & B.L.Burtt\n\nAgalmyla hooglenii Hilliard & B.L.Burtt\n\nAgalmyla immersinervia Hilliard\n\nAgalmyla inaequidentata Hilliard & B.L.Burtt\n\nAgalmyla insularis Hilliard & B.L.Burtt\n\nAgalmyla javanica Hilliard & B.L.Burtt\n\nAgalmyla johannis-winkleri (Kraenzl.) B.L.Burtt\n\nAgalmyla keysseri (Diels) Hilliard & B.L.Burtt\n\nAgalmyla kowapiana Hilliard & B.L.Burtt\n\nAgalmyla lavandulacea Hilliard & B.L.Burtt\n\nAgalmyla leuserensis Hilliard & B.L.Burtt\n\nAgalmyla lobata (Schltr.) Hilliard & B.L.Burtt\n\nAgalmyla longiattenuata Hilliard & B.L.Burtt\n\nAgalmyla longipetiolata Hilliard & B.L.Burtt\n\nAgalmyla macrocalyx Hilliard & B.L.Burtt\n\nAgalmyla macrocolon Hilliard & B.L.Burtt\n\nAgalmyla manuselae Hilliard & B.L.Burtt\n\nAgalmyla minor (K.Schum. & Lauterb.) Hilliard & B.L.Burtt\n\nAgalmyla montis-tomasii Hilliard & B.L.Burtt\n\nAgalmyla multiflora (Kaneh. & Hatus.) Hilliard & B.L.Burtt\n\nAgalmyla murudiana Hilliard & B.L.Burtt\n\nAgalmyla nervosa Hilliard & B.L.Burtt\n\nAgalmyla obiana Hilliard & B.L.Burtt\n\nAgalmyla ovata (B.L.Burtt) Hilliard & B.L.Burtt\n\nAgalmyla parasitica (Lam.) Kuntze\n\nAgalmyla paromoia Hilliard & B.L.Burtt\n\nAgalmyla parvifolia (S.Moore) Hilliard & B.L.Burtt\n\nAgalmyla parvilimba Hilliard & B.L.Burtt\n\nAgalmyla pauciflora Hilliard & B.L.Burtt\n\nAgalmyla paucipilosa Hilliard & B.L.Burtt\n\nAgalmyla persimilis Hilliard & B.L.Burtt\n\nAgalmyla porrectiloba Hilliard & B.L.Burtt\n\nAgalmyla pseudoborneensis Hilliard & B.L.Burtt\n\nAgalmyla pulcherrima Hilliard & B.L.Burtt\n\nAgalmyla remotidentata Hilliard & B.L.Burtt\n\nAgalmyla roseoflava Hilliard & B.L.Burtt\n\nAgalmyla rotundiloba Hilliard & B.L.Burtt\n\nAgalmyla rubra (Merr.) B.L.Burtt\n\nAgalmyla samarica Hilliard & B.L.Burtt\n\nAgalmyla scabriflora Hilliard & B.L.Burtt\n\nAgalmyla schlechteri Hilliard & B.L.Burtt\n\nAgalmyla serrata Hilliard & B.L.Burtt\n\nAgalmyla sibuyanensis Hilliard & B.L.Burtt\n\nAgalmyla similis Hilliard & B.L.Burtt\n\nAgalmyla singularis Hilliard & B.L.Burtt\n\nAgalmyla sojoliana Hilliard & B.L.Burtt\n\nAgalmyla stellifera Hilliard & B.L.Burtt\n\nAgalmyla stenosiphon Hilliard & B.L.Burtt\n\nAgalmyla tamrauana Hilliard & B.L.Burtt\n\nAgalmyla tobensis Hilliard & B.L.Burtt\n\nAgalmyla torajiana Hilliard\n\nAgalmyla triflora (Valeton) B.L.Burtt\n\nAgalmyla tuberculata Hook.f.\n\nAgalmyla urdanetensis (Elmer) Hilliard & B.L.Burtt\n\nAgalmyla valetoniana (Lauterb.) Hilliard & B.L.Burtt\n\nAgalmyla villosa (Schltr.) Hilliard & B.L.Burtt\n\nAgalmyla vogelii Hilliard & B.L.Burtt\n\nAgalmyla wekariensis Hilliard & B.L.Burtt\n\nAgalmyla wildeorum Hilliard & B.L.Burtt\n\nAgalmyla wondiwoiana Hilliard & B.L.Burtt",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1139836272",
+      "revision_id": "1139836272",
+      "text_sha256": "33d0afcf823f829326e11038a92806e23f640dce2bcc1fb34680199ea0c40b33",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:51:14.493503+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.846980094909668,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1678",
+    "title": "Britannica page 1678",
+    "corpus": "britannica",
+    "text": "<x_0.1924><y_0.0266>B I L<x_0.3066><y_0.0453><class_Page-header>\n\n<x_0.6152><y_0.0273>B I L<x_0.7246><y_0.0492><class_Page-header>\n\n<x_0.8877><y_0.0312>503<x_0.9336><y_0.05><class_Page-header>\n\n<x_0.8613><y_0.0516>Blfinger.<x_0.9238><y_0.0688><class_Caption>\n\n<x_0.0><y_0.0508>Billinger. Edward, had already had occasion to appreciate his talents, and put them to use. At the time when he carried on the war in Serie, he maintained a regular correspondence with Billinger who had long been known as an able Engineer, and had, indeed, made some improvements of value in the received system of Portification. After his return to Tubingen, he had frequent conversations with the Professor, on different subjects of administration and appointed him, in 1735, Privy-Comseller. This nomination was not a simple honorary title. Billingers saw himself raised at once to a power almost unlimited. He revisited some times pro motion, which he did not think himself qualified to sustain. In accepting office, his first case was to require all the knowledge necessary to the discharge of its duties. He employed almost two years in assiduous laborto to interact himself thoroughly in the statistics of the country, in considering its political situation, its constitution, its interests, and became, at the end of all this study, one of the most enlightened mini- stere that his country had yet proved. Billinger was placed in a situation too elevated not to excite jedowny and harred. He left is, and waited to get the ministry; but the court refused to receive his resignation, soon after the tender of which, the Duke died. Billinger experience from his successor of the consideration and all the friendship which he had experienced in the beginning of his career. Received into a confidence without bounds, he had the power to realize, without obstacle, those plans of administration with which the most enlightened particulars had inspired him. Wurtemburg still feels the happy influence of his ministry. Commerce, public interaction, agriculture, were protected and amorliorated by his cases. The culture of the true, of so much importance in this country, was one of the principal objects of his attention. We ought not to forget that he was the original author of that strict union which has long united Wurtembourg and Prussia, and of the importantes to which the hereditary Prince of Wurtemburg was raised at the court of Belfin. In 1737, the Duke nominated him President of his consolony, and Secretary of the grant Order of the Chace. He was also Counter or the University of Tubingen, and member of the Royal Academy of<x_0.4473><y_0.6609><class_Text>\n\n<x_0.4639><y_0.0523>Berlin. All his time was consecrated to some serious occupation, with the exception of one hour in the evening, which he employed in making and receiving visits. His greatest employment was in cultivating his garden. A warm and strong friend, he gave many proofs of gratitude to those protectors, who had previously assisted him in his studies. He has been reproached with being insecible; but in spite of some slight blemishes, the memory of Blfinger will be always due to his countrysmen, and honored by all Germans. Wurtemburg reckons him among the greatest men which she has produced, and proposes him as a model to the statement and her man of letters. He was more married, and left no issue. He died at Settargar the 18th of February 1750. His works, besides various Papers published in the Memoirs of the St Petersburg and Paris Academies of Science, are :<x_0.8545><y_0.2891><class_Text>\n\n<x_0.4668><y_0.2961>1. _Disputatio de Harmoniá prestabilità_, Tubingen, 1723, in 40c.<x_0.8506><y_0.3266><class_List-item>\n\n<x_0.4658><y_0.325>2. _De Harmonia Animi et Corporis Humani mazi mè prestabilità Commentato Hypothetica_. Francfort on the Rain, 722, in 8vo. This work was inserted in the Exrangatory Index in Rome in 1734.<x_0.8486><y_0.3773><class_List-item>\n\n<x_0.4648><y_0.3766>3. _De Origins et Permissione Mali, precipue Morrulla, Commentato Philosophica_, ibid. 1724, in 8vo.<x_0.8467><y_0.4031><class_List-item>\n\n<x_0.4629><y_0.4023>4. _Specimen Dietrich Veteran Sinatur Moralis et Politica_, francf. 1724, in 40c.<x_0.8457><y_0.4297><class_List-item>\n\n<x_0.4619><y_0.4281>5. _Discretato Historiocetapria da Speculo Arionatie_, Tubingen, 1725, in 40c.<x_0.8447><y_0.4555><class_List-item>\n\n<x_0.4609><y_0.4539>6. _Dilucidations Philosophica de Deo, Anima Himmoni, Monato, et Generatious Revarum Affectioni-Ion_, Ibid. 1725, in 40c.<x_0.8438><y_0.493><class_List-item>\n\n<x_0.46><y_0.4914>7. _Billingert et Holmanni Epistola de Harmonia Prestabilità_, 1728, in 40c.<x_0.8428><y_0.5195><class_List-item>\n\n<x_0.459><y_0.5188>8. _Disputate de Mararó et Legius Studii in Theologiä Thetici_, ibid. 1731, in 40c.<x_0.8418><y_0.5453><class_List-item>\n\n<x_0.458><y_0.543>9. _Disputate de Collo De Rationali_, ibid. 1731, 10. _Victor Breves in Losa, Spinose Melodam Explicanti Scriptures_, Tub. 1732, in 40c.<x_0.8408><y_0.5852><class_List-item>\n\n<x_0.457><y_0.5813>11. _De Mysteris Gratitura Piala Generatin Spec- tatsi Sorneo, Nectitatus_ 1733, Tubingen, 1728, in 40c.<x_0.8398><y_0.6109><class_List-item>\n\n<x_0.4707><y_0.6102>12. _Elementa Physics_, Leipzig, 1742, in 8vro.<x_0.7988><y_0.6211><class_List-item>\n\n<x_0.4717><y_0.6203>13. _La Ciudelle Coupé_, Leipzig, 1756, in 40a.<x_0.8125><y_0.6375><class_List-item>\n\n<x_0.4727><y_0.6453>See _Biographie Universelle_, Tom. IV. (z.)<x_0.8213><y_0.6641><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "a2443ca44edf0f6b8555c6e9929b715f1eea6ca81932e77270791874d7ff39cd",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:58.091018+00:00",
+    "parser_receipt_sha256": "0ebe0b7904efd96ec6418c978bd8fbcb92b3506076de59d4e542d48c705b9f80",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 143,
+      "occurred_at": "2026-10-18T17:51:13.931453+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 562,
+      "occurred_at": "2026-10-18T17:51:14.493575+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1184,
+      "occurred_at": "2026-10-18T17:51:15.704132+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 669,
+      "occurred_at": "2026-10-18T17:51:16.405044+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 531,
+      "occurred_at": "2026-10-18T17:51:16.962175+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 544,
+      "occurred_at": "2026-10-18T17:51:17.521337+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 556,
+      "occurred_at": "2026-10-18T17:51:18.099790+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 548,
+      "occurred_at": "2026-10-18T17:51:18.668532+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 555,
+      "occurred_at": "2026-10-18T17:51:19.239433+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 50,
+      "occurred_at": "2026-10-18T17:51:19.308990+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 805,
+      "occurred_at": "2026-10-18T17:51:20.113603+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 114,
+      "occurred_at": "2026-10-18T17:51:20.235748+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 7,
+      "occurred_at": "2026-10-18T17:51:20.243080+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 356,
+      "occurred_at": "2026-10-18T17:51:20.598838+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 686,
+    "modern_words": 4276,
+    "vocabulary_jaccard": 0.07248520710059171,
+    "jensen_shannon_divergence": 0.749861431936348,
+    "historical_top_words": [
+      [
+        "the",
+        42
+      ],
+      [
+        "in",
+        34
+      ],
+      [
+        "of",
+        34
+      ],
+      [
+        "and",
+        19
+      ],
+      [
+        "to",
+        18
+      ],
+      [
+        "his",
+        17
+      ],
+      [
+        "he",
+        16
+      ],
+      [
+        "was",
+        11
+      ],
+      [
+        "had",
+        10
+      ],
+      [
+        "de",
+        9
+      ],
+      [
+        "a",
+        8
+      ],
+      [
+        "which",
+        8
+      ],
+      [
+        "c",
+        8
+      ],
+      [
+        "him",
+        6
+      ],
+      [
+        "et",
+        6
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "a",
+        854
+      ],
+      [
+        "q",
+        515
+      ],
+      [
+        "b",
+        454
+      ],
+      [
+        "l",
+        262
+      ],
+      [
+        "c",
+        162
+      ],
+      [
+        "displaystyle",
+        161
+      ],
+      [
+        "r",
+        151
+      ],
+      [
+        "the",
+        113
+      ],
+      [
+        "is",
+        55
+      ],
+      [
+        "and",
+        51
+      ],
+      [
+        "of",
+        50
+      ],
+      [
+        "in",
+        48
+      ],
+      [
+        "d",
+        45
+      ],
+      [
+        "jordan",
+        43
+      ],
+      [
+        "identity",
+        42
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "b i l",
+  "semantic_input": {
+    "query": "b i l\nB I L\n\nB I L\n\n503\n\nBlfinger.\n\nBillinger. Edward, had already had occasion to appreciate his talents, and put them to use. At the time when he carried on the war in Serie, he maintained a regular correspondence with Billinger who had long been known as an able Engineer, and had, indeed, made some improvements of value in the received system of Portification. After his return to Tubingen, he had frequent conversations with the Professor, on different subjects of administration and appointed him, in 1735, Privy-Comseller. This nomination was not a simple honorary title. Billingers saw himself raised at once to a power almost unlimited. He revisited some times pro motion, which he did not think himself qualified to sustain. In accepting office, his first case was to require all the knowledge necessary to the discharge of its duties. He employed almost two years in assiduous laborto to interact himself thoroughly in the statistics of the country, in considering its political situation, its ",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.20862102508544922,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "**AL G** **241** **A L G**",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:12567412",
+      "title": "1932 Philadelphia Athletics season",
+      "corpus": "wikipedia",
+      "text": "The 1932 Philadelphia Athletics season involved the A's finishing second in the American League with a record of 94 wins and 60 losses. The team finished 13 games behind the New York Yankees, breaking their streak of three straight AL championships.\n\nJimmie Foxx had an impressive offensive season – 58 home runs, 169 RBI, and a.364 batting average – and missed the triple crown by just three BA points. He was voted the American League Most Valuable Player. Mickey Cochrane became the first catcher in Major League Baseball history to score 100 runs and have 100 RBI in the same season.\n\nSeptember 28, 1932: Al Simmons was purchased from the Athletics by the Chicago White Sox.\n\nNote: Pos = Position; G = Games played; AB = At bats; H = Hits; Avg. = Batting average; HR = Home runs; RBI = Runs batted in\n\nNote: G = Games played; AB = At bats; H = Hits; Avg. = Batting average; HR = Home runs; RBI = Runs batted in\n\nNote: G = Games pitched; IP = Innings pitched; W = Wins; L = Losses; ERA = Earned run average; SO = Strikeouts\n\nNote: G = Games pitched; IP = Innings pitched; W = Wins; L = Losses; ERA = Earned run average; SO = Strikeouts\n\nNote: G = Games pitched; W = Wins; L = Losses; SV = Saves; ERA = Earned run average; SO = Strikeouts\n\nJimmie Foxx\n\nAL leader in home runs (58)\n\nAL leader in RBI (169)\n\nAL leader in runs scored (151)\n\nAL leader in slugging percentage (.749)\n\n#2 in AL in batting average (.364)\n\n#2 in AL in on-base percentage (.469)\n\nLefty Grove\n\nAL leader in ERA (2.84)\n\n#2 in AL in wins (25)\n\n#2 in AL in strikeouts (188)\n\nAl Simmons\n\n#2 in AL in RBI (151)\n\n#2 in AL in runs scored (144)\n\n#3 in AL in home runs (35)\n\nLEAGUE CHAMPIONS: Portland",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1341698622",
+      "revision_id": "1341698622",
+      "text_sha256": "90f7e6453ad5471b2e5e7211c9b0605b9df231eab293468bf6221c36ab27feea",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:17:44.010752+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.723322868347168,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:16039945",
+      "title": "1915 Chicago White Sox season",
+      "corpus": "wikipedia",
+      "text": "The 1915 Chicago White Sox season involved the White Sox finishing third in the American League.\n\nWith the acquisitions of Eddie Collins (over the winter) and Joe Jackson (in August), Chicago now had the two hitters they needed to win the 1917 and 1919 AL pennants.\n\nDecember 8, 1914: Eddie Collins was purchased by the White Sox from the Philadelphia Athletics.\n\nNote: Pos = Position; G = Games played; AB = At bats; H = Hits; Avg. = Batting average; HR = Home runs; RBI = Runs batted in\n\nNote: G = Games played; AB = At bats; H = Hits; Avg. = Batting average; HR = Home runs; RBI = Runs batted in\n\nNote: G = Games pitched; IP = Innings pitched; W = Wins; L = Losses; ERA = Earned run average; SO = Strikeouts\n\nNote: G = Games pitched; IP = Innings pitched; W = Wins; L = Losses; ERA = Earned run average; SO = Strikeouts\n\nNote: G = Games pitched; W = Wins; L = Losses; SV = Saves; ERA = Earned run average; SO = Strikeouts\n\nEddie Collins\n\n#2 in AL in batting average (.332)\n\n#2 in AL in on-base percentage (.460)\n\n#2 in AL in runs scored (118)\n\n#3 in AL in stolen bases (46)\n\n#4 in AL in RBI (85)\n\nRed Faber\n\n#2 in AL in wins (24)\n\n#2 in AL in strikeouts (182)\n\nJack Fournier\n\nAL leader in slugging percentage (.491)\n\n#3 in AL in batting average (.322)\n\n#3 in AL in on-base percentage (.429)\n\nJim Scott\n\n#2 in AL in wins (24)\n\n#4 in AL in ERA (2.03)",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1341697007",
+      "revision_id": "1341697007",
+      "text_sha256": "5946156cf3abca9d7f58d924f92004c2c2af9dd6a8d6d5728d443403db1c51d6",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:17:41.699053+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.067785739898682,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:82267036",
+      "title": "Pristepyris",
+      "corpus": "wikipedia",
+      "text": "Pristepyris is a genus of Pristocerine wasp in the family Bethylidae. It can be found in both the Old World and New World. Members of the genus are ectoparasites of click beetle larvae.\n\nAs of 2022, there are 38 species in this genus. A few are included here:\n\nPristepyris ishigakiensis (Yasumatsu, 1955) c g l\n\nPristepyris masii (Soika, 1933) c\n\nPristepyris mieae (Terayama, 1995) c g l\n\nPristepyris ryukyuensis (Terayama, 1999) c g\n\nPristepyris seqalu Liao, Terayama & Eguchi, 2022 c g l\n\nPristepyris tainanensis (Terayama, 1995) c g l\n\nPristepyris zhejiangensis (Terayama et al., 2002) c g l\n\nData sources: c = Catalogue of Life, g = GBIF, b = Bugguide.net l = Liao et al. 2022",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1337035693",
+      "revision_id": "1337035693",
+      "text_sha256": "a1297f0e710d313ea3a47c4c3bbaec53a7e711b67738a052a9d175443d88b897",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:17:41.111936+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.073563575744629,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2307",
+    "title": "Britannica page 2307",
+    "corpus": "britannica",
+    "text": "<x_0.1943><y_0.0297>**AL G** **241** **A L G**<x_0.8008><y_0.0484><class_Page-header>\n\n<x_0.0322><y_0.0508>_Algiers._<x_0.0918><y_0.0656><class_Section-header>\n\n<x_0.1016><y_0.05>for their valoragainl the enemies of Christianity. Even ladies of birth and character attended Charles in his expedition, and the views and daughters of the officers and folders followed them with a delger to fertile in Barbary after the conquit was finished. All trade meeting with a favorable wind, footop appeared before Algeria; every flip displaying the Spanish colours on the stern, and another at the head, with a cruiser to fierce from a plot.<x_0.4941><y_0.1641><class_Text>\n\n<x_0.1025><y_0.1648>By this proudgism armament, the Algerines were thrown into the utmost confianeration. The city was fur- rounded only by a wall with force any outwalks. The whole grandma could if 80o Tinka and Ooco Moors, without fire-arms, and poorly displined and acoustic tret; the reflet of their forces being dipedled in the oro they provoted of the kingdom, to key the final chance on the Arabs and Moore. The Spaniards landed with out oppositions and immediately built a fort, under the unions of which they exempted, and directed the courte of a spring which fupplied the city with water. Being now reduced to the utmost difrets, Haffan received a immune to formative art direction, on pain of being put to the fword with all the garrition. The kanal was ordered to send the full power of the empre! body for and land, and to cahar him to return to the Christian religion. But to this Haffan only rreified, that he must be animals who would pee tand to advise an enemy, and that the dividend mill fill act more madly who would take counsel of such an ad- viter. He was, however, on the point of farredering the city, upon an witness towards him that the forces belonging to the wellern government were in full marach towards the places, upon which it was referred to de fent to the utmost. Charles, in the meantime, reloing upon a general affault, kept a constant firing upon the towns; which, from the weak defense made by the garrition, he looked soon as already in his hands. But while the obvious, or Algerine female, were deli- bordering on the mollit proper means of obtaining an bouncable captivities, and probably afforded by a multitude of people, entered the affembly, and fore told the flying distribution of the Spaniards before the end of the moon, extending the inhabitants to hold our till that time. This prediction was foon accomplished in a very fulfilling and unexpected manner: for, on the 39% of October 1541s a deadful from of wind, rain, and hail, arole from the north, accompanied with white flocks of earthquakes, and a dindi and univerful darkade both by the sand had; so that the fun, moon, and elements, forced to combine together for the dethration of the Spaniards. In fact one night, force in first than half an hour, 86 things and is greatly were defrtedy, with all their crews and military flores; by which the army on there was deprived of all means of diluting in their people. Their campsite as which spread lifel along the plain under the fort, was laid quite under water, the overre which defend from the neighboring hills. Many of the troops, by trying to remove into force better situation, were cut in pieces by the Moors and Arabes, while fever, pylley, and other reptiles, endeavouring to gentlem go under the canals, were immediately plunder- ed, and their crew ensulfants by the inhabitants.<x_0.4951><y_0.8734><class_Text>\n\n<x_0.1035><y_0.8727>The next morning, Charles ledell the far covered with the fragments of fo many things, and the bodies of<x_0.4961><y_0.8992><class_Text>\n\n<x_0.5156><y_0.0492>men, horses, and other creatures, fevimming on the waves; at which he was fo dihertered, that abandon- ing his tests, artillery, and all his heavy bagages, to see enemy, he marched at the head of his Army, though in no fault diforer, towards Cape _Middos_, in order to embark in those few vehicles which had outweather- ed the forms. But Haffan, who had used his motions to be watched, allowed him just time to get to the floors, when the failed out and attacked the Spaniards in the multit of their hurry and condition to get into their flaps, killing great numbers, and bringing away a full greater number of capitars; after which he recened in stumpt to Algiers, where he celebrated with great rejoicing his injury deliverance from both difi- trots and danger.<x_0.9092><y_0.2492><class_Text>\n\n<x_0.5166><y_0.2484>Soon after this, the prophet _Tuf/f/j_ who had fortotold the deflection of the Spaniards, was not only declared the delivery of his country, but had a considerable activity decreed him, with the liberty of exercising a projectile motion unmelded. It was not long, how ever, before the manabouts, and some interpreters of the law, makes a strong opposition against him; remost- fritating to the bashy, how ridiculous and Canadian it was to their nation, to defend the defence of it to a poor former-celler, which had been obtained by the current players of an comment faint of their own profefi- tion. But that the bashwa and his downward femen, and of policy, to give into this limitation, yet the im- preflion which Yufe’s predlifessons and their late accom- plillment had made upon the mind of the common people, proved too fringe to her melanzie, and the fifi- of duration and comparing has face got into facts credit among them, that not only their great liathens, but their profits, manabouts, and tuntions, have applied friendées to that study, and digidist it with the name of _Allement Residence._<x_0.9072><y_0.5211><class_Text>\n\n<x_0.5176><y_0.5203>The anthampy Spaniards had force reached their frh cal- mits of the Spaniards.<x_0.9727><y_0.557><class_Text>\n\n<x_0.5146><y_0.8352>Haffan stated with this victory, in which he had Haffan re vary little fhares, undertook an expedition againl the doces Trekking of Temsman, who, being now deprived of the dirt recent.<x_0.9902><y_0.8773><class_Text>\n\n<x_0.5137><y_0.8805>financed of the Spaniards, was forced to procure space by paying a vail fum of money, and becoming tributary<x_0.8955><y_0.9016><class_Text>\n\n<x_0.9131><y_0.0516>Algiers.<x_0.9658><y_0.0672><class_Section-header>\n\n<x_0.9141><y_0.068>Ages of Al-ders railed.<x_0.9668><y_0.1148><class_Text>\n\n<x_0.0303><y_0.7094>Spaniils feet of delayed by a floor.<x_0.1045><y_0.7484><class_Section-header>\n\n<x_0.0293><y_0.525>15 Prevented by and prophet from fore- rendering.<x_0.0908><y_0.5891><class_Section-header>\n\n<x_0.0312><y_0.707>27 Spaniils feet of delayed by a floor.<x_0.1055><y_0.7492><class_Section-header>\n\n<x_0.667><y_0.0563>a a signed Al-ders railed.<x_0.9678><y_0.1172><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "8a631e5e3d271ff3c8aae484b192f6e20f30343046e26a0b543567d1cc02a264",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:58:10.464038+00:00",
+    "parser_receipt_sha256": "db38f69af48e654a38cdcfe25e80034d7b5d24191e1d7660dca5b96c29c0654e",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 151,
+      "occurred_at": "2026-10-18T18:17:38.222446+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 558,
+      "occurred_at": "2026-10-18T18:17:38.780655+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 785,
+      "occurred_at": "2026-10-18T18:17:39.593800+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 604,
+      "occurred_at": "2026-10-18T18:17:40.225835+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 865,
+      "occurred_at": "2026-10-18T18:17:41.111959+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 566,
+      "occurred_at": "2026-10-18T18:17:41.699092+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 710,
+      "occurred_at": "2026-10-18T18:17:42.432218+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 626,
+      "occurred_at": "2026-10-18T18:17:43.081469+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 907,
+      "occurred_at": "2026-10-18T18:17:44.010782+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 74,
+      "occurred_at": "2026-10-18T18:17:44.110905+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 1861,
+      "occurred_at": "2026-10-18T18:17:45.971637+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 106,
+      "occurred_at": "2026-10-18T18:17:46.088429+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 10,
+      "occurred_at": "2026-10-18T18:17:46.098175+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 243,
+      "occurred_at": "2026-10-18T18:17:46.341619+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1013,
+    "modern_words": 260,
+    "vocabulary_jaccard": 0.04384485666104553,
+    "jensen_shannon_divergence": 0.7463544986150608,
+    "historical_top_words": [
+      [
+        "the",
+        93
+      ],
+      [
+        "of",
+        46
+      ],
+      [
+        "and",
+        44
+      ],
+      [
+        "to",
+        34
+      ],
+      [
+        "a",
+        25
+      ],
+      [
+        "in",
+        17
+      ],
+      [
+        "their",
+        14
+      ],
+      [
+        "with",
+        14
+      ],
+      [
+        "by",
+        14
+      ],
+      [
+        "was",
+        13
+      ],
+      [
+        "which",
+        13
+      ],
+      [
+        "his",
+        9
+      ],
+      [
+        "that",
+        9
+      ],
+      [
+        "had",
+        9
+      ],
+      [
+        "on",
+        8
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "in",
+        24
+      ],
+      [
+        "al",
+        15
+      ],
+      [
+        "the",
+        11
+      ],
+      [
+        "runs",
+        10
+      ],
+      [
+        "average",
+        7
+      ],
+      [
+        "games",
+        6
+      ],
+      [
+        "rbi",
+        6
+      ],
+      [
+        "wins",
+        5
+      ],
+      [
+        "home",
+        5
+      ],
+      [
+        "note",
+        5
+      ],
+      [
+        "g",
+        5
+      ],
+      [
+        "pitched",
+        5
+      ],
+      [
+        "leader",
+        5
+      ],
+      [
+        "league",
+        4
+      ],
+      [
+        "and",
+        4
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "al g l",
+  "semantic_input": {
+    "query": "al g l\n**AL G** **241** **A L G**\n\n_Algiers._\n\nfor their valoragainl the enemies of Christianity. Even ladies of birth and character attended Charles in his expedition, and the views and daughters of the officers and folders followed them with a delger to fertile in Barbary after the conquit was finished. All trade meeting with a favorable wind, footop appeared before Algeria; every flip displaying the Spanish colours on the stern, and another at the head, with a cruiser to fierce from a plot.\n\nBy this proudgism armament, the Algerines were thrown into the utmost confianeration. The city was fur- rounded only by a wall with force any outwalks. The whole grandma could if 80o Tinka and Ooco Moors, without fire-arms, and poorly displined and acoustic tret; the reflet of their forces being dipedled in the oro they provoted of the kingdom, to key the final chance on the Arabs and Moore. The Spaniards landed with out oppositions and immediately built a fort, under the unions of which they exempted,",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.34446287155151367,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

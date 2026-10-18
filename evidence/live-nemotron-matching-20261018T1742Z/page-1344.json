@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "H O R [ 664 ] H O R",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:40486440",
+      "title": "Hyperharmonic number",
+      "corpus": "wikipedia",
+      "text": "In mathematics, the n -th hyperharmonic number of order r, denoted by H n (r) {\\displaystyle H_{n}^{(r)}}, is recursively defined by the relations:\n\nH n (0) = 1 n, {\\displaystyle H_{n}^{(0)}={\\frac {1}{n}},}\n\nand\n\nH n (r) = ∑ k = 1 n H k (r − 1) (r > 0). {\\displaystyle H_{n}^{(r)}=\\sum _{k=1}^{n}H_{k}^{(r-1)}\\quad (r>0).}\n\nIn particular, H n = H n (1) {\\displaystyle H_{n}=H_{n}^{(1)}} is the n -th harmonic number.\n\nThe hyperharmonic numbers were discussed by J. H. Conway and R. K. Guy in their 1995 book The Book of Numbers.: 258\n\nBy definition, the hyperharmonic numbers satisfy the recurrence relation\n\nH n (r) = H n − 1 (r) + H n (r − 1). {\\displaystyle H_{n}^{(r)}=H_{n-1}^{(r)}+H_{n}^{(r-1)}.}\n\nIn place of the recurrences, there is a more effective formula to calculate these numbers:\n\nH n (r) = (n + r − 1 r − 1) (H n + r − 1 − H r − 1). {\\displaystyle H_{n}^{(r)}={\\binom {n+r-1}{r-1}}(H_{n+r-1}-H_{r-1}).}\n\nThe hyperharmonic numbers have a strong relation to combinatorics of permutations. The generalization of the identity\n\nH n = 1 n !. {\\displaystyle H_{n}={\\frac {1}{n!}}\\left.}\n\nreads as\n\nH n (r) = 1 n ! r, {\\displaystyle H_{n}^{(r)}={\\frac {1}{n!}}\\left_{r},}\n\nwhere r {\\displaystyle \\left_{r}} is an r -Stirling number of the first kind.\n\nThe above expression with binomial coefficients easily gives that for all fixed order r>=2 we have.\n\nH n (r) ∼ 1 (r − 1) ! (n r − 1 ln (n)), {\\displaystyle H_{n}^{(r)}\\sim {\\frac {1}{(r-1)!}}\\left(n^{r-1}\\ln(n)\\right),}\n\nthat is, the quotient of the left and right hand side tends to 1 as n tends to infinity.\n\nAn immediate consequence is that\n\n∑ n = 1 ∞ H n (r) n m < + ∞ {\\displaystyle \\sum _{n=1}^{\\infty }{\\frac {H_{n}^{(r)}}{n^{m}}}<+\\infty }\n\nwhen m>r.\n\nThe generating function of the hyperharmonic numbers is\n\n∑ n = 0 ∞ H n (r) z n = − ln (1 − z) (1 − z) r. {\\displaystyle \\sum _{n=0}^{\\infty }H_{n}^{(r)}z^{n}=-{\\frac {\\ln(1-z)}{(1-z)^{r}}}.}\n\nThe exponential generating function is much more harder to deduce. One has that for all r=1,2,...\n\n∑ n = 0 ∞ H n (r) t n n ! = e t (∑ n = 1 r − 1 H n (r − n) t n n ! + (r − 1) ! (r !) 2 t r 2 F 2 (1, 1; r + 1, r + 1; − t)), {\\displaystyle \\sum _{n=0}^{\\infty }H_{n}^{(r)}{\\frac {t^{n}}{n!}}=e^{t}\\left(\\sum _{n=1}^{r-1}H_{n}^{(r-n)}{\\frac {t^{n}}{n!}}+{\\frac {(r-1)!}{(r!)^{2}}}t^{r}\\,_{2}F_{2}\\left(1,1;r+1,r+1;-t\\right)\\right),}\n\nwhere F is a hypergeometric function. The r=1 case for the harmonic numbers is a classical result, the general one was proved in 2009 by I. Mező and A. Dil.\n\nThe next relation connects the hyperharmonic numbers to the Hurwitz zeta function:\n\n∑ n = 1 ∞ H n (r) n m = ∑ n = 1 ∞ H n (r − 1) ζ (m, n) (r ≥ 1, m ≥ r + 1). {\\displaystyle \\sum _{n=1}^{\\infty }{\\frac {H_{n}^{(r)}}{n^{m}}}=\\sum _{n=1}^{\\infty }H_{n}^{(r-1)}\\zeta (m,n)\\quad (r\\geq 1,m\\geq r+1).}\n\nIt is known, that the harmonic numbers are never integers except the case n=1. The same question can be posed with respect to the hyperharmonic numbers: are there integer hyperharmonic numbers? István Mező proved that if r=2 or r=3, these numbers are never integers except the trivial case when n=1. He conjectured that this is always the case, namely, the hyperharmonic numbers of order r are never integers except when n=1. This conjecture was justified for a class of parameters by R. Amrane and H. Belbachir. Especially, these authors proved that H n (4) {\\displaystyle H_{n}^{(4)}} is not integer for all r<26 and n=2,3,... Extension to high orders was made by Göral and Sertbaş. These authors have also shown that H n (r) {\\displaystyle H_{n}^{(r)}} is never integer when n is even or a prime power, or r is odd.\n\nAnother result is the following. Let S (x) {\\displaystyle S(x)} be the number of non-integer hyperharmonic numbers such that (n, x) ∈ × {\\displaystyle (n,x)\\in \\times }. Then, assuming the Cramér's conjecture,\n\nS (x) = x 2 + O (x log 3 x). {\\displaystyle S(x)=x^{2}+O(x\\log ^{3}x).}\n\nNote that the number of integer lattice points in × {\\displaystyle \\times } is x 2 + O (x 2) {\\displaystyle x^{2}+O(x^{2})}, which shows that most of the hyperharmonic numbers cannot be integer.\n\nThe problem was finally settled by D. C. Sertbaş who found that there are infinitely many hyperharmonic integers, albeit they are quite huge. The smallest hyperharmonic number which is an integer found so far is\n\nH 33 (64 (2 2659 − 1) + 32). {\\displaystyle H_{33}^{(64(2^{2659}-1)+32)}.}",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1334321135",
+      "revision_id": "1334321135",
+      "text_sha256": "78d53fdeafd05867060c362f329fd425d5d07abab8f572a0b985f05ba1917a75",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:03.361194+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.1159515380859375,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:3727020",
+      "title": "Quasitriangular Hopf algebra",
+      "corpus": "wikipedia",
+      "text": "In mathematics, a Hopf algebra, H, is quasitriangular if there exists an invertible element, R, of H ⊗ H {\\displaystyle H\\otimes H} such that\n\nR Δ (x) R − 1 = (T ∘ Δ) (x) {\\displaystyle R\\ \\Delta (x)R^{-1}=(T\\circ \\Delta)(x)} for all x ∈ H {\\displaystyle x\\in H}, where Δ {\\displaystyle \\Delta } is the coproduct on H, and the linear map T: H ⊗ H → H ⊗ H {\\displaystyle T:H\\otimes H\\to H\\otimes H} is given by T (x ⊗ y) = y ⊗ x {\\displaystyle T(x\\otimes y)=y\\otimes x},\n\n(Δ ⊗ 1) (R) = R 13 R 23 {\\displaystyle (\\Delta \\otimes 1)(R)=R_{13}\\ R_{23}},\n\n(1 ⊗ Δ) (R) = R 13 R 12 {\\displaystyle (1\\otimes \\Delta)(R)=R_{13}\\ R_{12}},\n\nwhere R 12 = ϕ 12 (R) {\\displaystyle R_{12}=\\phi _{12}(R)}, R 13 = ϕ 13 (R) {\\displaystyle R_{13}=\\phi _{13}(R)}, and R 23 = ϕ 23 (R) {\\displaystyle R_{23}=\\phi _{23}(R)}, where ϕ 12: H ⊗ H → H ⊗ H ⊗ H {\\displaystyle \\phi _{12}:H\\otimes H\\to H\\otimes H\\otimes H}, ϕ 13: H ⊗ H → H ⊗ H ⊗ H {\\displaystyle \\phi _{13}:H\\otimes H\\to H\\otimes H\\otimes H}, and ϕ 23: H ⊗ H → H ⊗ H ⊗ H {\\displaystyle \\phi _{23}:H\\otimes H\\to H\\otimes H\\otimes H}, are algebra morphisms determined by\n\nϕ 12 (a ⊗ b) = a ⊗ b ⊗ 1, {\\displaystyle \\phi _{12}(a\\otimes b)=a\\otimes b\\otimes 1,}\n\nϕ 13 (a ⊗ b) = a ⊗ 1 ⊗ b, {\\displaystyle \\phi _{13}(a\\otimes b)=a\\otimes 1\\otimes b,}\n\nϕ 23 (a ⊗ b) = 1 ⊗ a ⊗ b. {\\displaystyle \\phi _{23}(a\\otimes b)=1\\otimes a\\otimes b.}\n\nR is called the R-matrix.\n\nAs a consequence of the properties of quasitriangularity, the R-matrix, R, is a solution of the Yang–Baxter equation (and so a module V of H can be used to determine quasi-invariants of braids, knots and links). Also as a consequence of the properties of quasitriangularity, (ϵ ⊗ 1) R = (1 ⊗ ϵ) R = 1 ∈ H {\\displaystyle (\\epsilon \\otimes 1)R=(1\\otimes \\epsilon)R=1\\in H}; moreover R − 1 = (S ⊗ 1) (R) {\\displaystyle R^{-1}=(S\\otimes 1)(R)}, R = (1 ⊗ S) (R − 1) {\\displaystyle R=(1\\otimes S)(R^{-1})}, and (S ⊗ S) (R) = R {\\displaystyle (S\\otimes S)(R)=R}. One may further show that theantipode S must be a linear isomorphism, and thus S 2 is an automorphism. In fact, S 2 is given by conjugating by an invertible element: S 2 (x) = u x u − 1 {\\displaystyle S^{2}(x)=uxu^{-1}} where u:= m ((S ⊗ 1) ∘ T) R {\\displaystyle u:=m((S\\otimes 1)\\circ T)R} (cf. Ribbon Hopf algebras).\n\nIt is possible to construct a quasitriangular Hopf algebra from a Hopf algebra and its dual, using the Drinfeld quantum double construction.\n\nIf the Hopf algebra H is quasitriangular, then the category of modules over H is braided with braiding\n\nc U, V (u ⊗ v) = T (R ⋅ (u ⊗ v)) = T (R 1 u ⊗ R 2 v) {\\displaystyle c_{U,V}(u\\otimes v)=T\\left(R\\cdot (u\\otimes v)\\right)=T\\left(R_{1}u\\otimes R_{2}v\\right)}.\n\nThe property of being a quasi-triangular Hopf algebra is preserved by twisting via an invertible element F = ∑ i f i ⊗ f i ∈ A ⊗ A {\\displaystyle F=\\sum _{i}f^{i}\\otimes f_{i}\\in {\\mathcal {A\\otimes A}}} such that (ε ⊗ i d) F = (i d ⊗ ε) F = 1 {\\displaystyle (\\varepsilon \\otimes id)F=(id\\otimes \\varepsilon)F=1} and satisfying the cocycle condition\n\n(F ⊗ 1) ⋅ (Δ ⊗ i d) (F) = (1 ⊗ F) ⋅ (i d ⊗ Δ) (F) {\\displaystyle (F\\otimes 1)\\cdot (\\Delta \\otimes id)(F)=(1\\otimes F)\\cdot (id\\otimes \\Delta)(F)}\n\nFurthermore, u = ∑ i f i S (f i) {\\displaystyle u=\\sum _{i}f^{i}S(f_{i})} is invertible and the twisted antipode is given by S ′ (a) = u S (a) u − 1 {\\displaystyle S'(a)=uS(a)u^{-1}}, with the twisted comultiplication, R-matrix and co-unit change according to those defined for the quasi-triangular quasi-Hopf algebra. Such a twist is known as an admissible (or Drinfeld) twist.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1314515655",
+      "revision_id": "1314515655",
+      "text_sha256": "95fb24d40c9a58e02637fd3fb33db44825cef8733b1c49900bc70f0c110ad9bf",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:01.620435+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.544454097747803,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:904441",
+      "title": "Ageratina",
+      "corpus": "wikipedia",
+      "text": "Ageratina, commonly known as snakeroot, is a genus of over 300 species of perennials and rounded shrubs in the family Asteraceae.\n\nThese plants grow mainly in the warmer regions of the Americas and West Indies. Over 150 species are native to Mexico. Some flourish in the cooler areas of the eastern United States. Two Mexican species have become a pest in parts of Australia and Taiwan. Ageratina used to belong to the genus Eupatorium, but it has been reclassified.\n\nThe genus name Ageratina means \"like Ageratum \" and consists of Ageratum and -ina, the feminine form of the Latin adjectival suffix -inus.\n\nThe inflorescence consists of multiple fluffy, red or pinkish-white capitula in clusters. These lack the typical ray flowers of the composites.\n\nThey have multiple, much-branched woody stems. The petioles are rather long. The leaves are triangular, serrate and opposite with a foul-smelling, musky scent.\n\nAs of May 2024, Plants of the World online accepted 315 species:\n\nAgeratina acevedoana B.L.Turner\n\nAgeratina acevedoi H.Rob.\n\nAgeratina adenophora (Spreng.) R.M.King & H.Rob.\n\nAgeratina adenophoroides H.Rob.\n\nAgeratina aegirophylla (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina altissima (L.) R.M.King & H.Rob.\n\nAgeratina amblyolepis (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina ampla (Benth.) R.M.King & H.Rob.\n\nAgeratina anchistea (Grashoff & Beaman) R.M.King & H.Rob.\n\nAgeratina angustifolia (Kunth) R.M.King & H.Rob.\n\nAgeratina anisochroma (Klatt) R.M.King & H.Rob.\n\nAgeratina apollinairei (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina appendiculata V.M.Badillo\n\nAgeratina aracaiensis V.M.Badillo\n\nAgeratina arbutifolia (Benth.) R.M.King & H.Rob.\n\nAgeratina areolaris (DC.) D.Gage ex B.L.Turner\n\nAgeratina aristeguietii R.M.King & H.Rob.\n\nAgeratina aristei (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina aromatica (L.) Spach\n\nAgeratina arsenei (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina asclepiadea (L.f.) R.M.King & H.Rob.\n\nAgeratina astellera (B.L.Turner) B.L.Turner\n\nAgeratina atrocordata (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina austin-smithii R.M.King & H.Rob.\n\nAgeratina ayerscottiana B.L.Turner\n\nAgeratina baccharoides (Kunth) R.M.King & H.Rob.\n\nAgeratina badia (Klatt) R.M.King & H.Rob.\n\nAgeratina barclayae R.M.King & H.Rob.\n\nAgeratina barriei B.L.Turner\n\nAgeratina beamanii B.L.Turner\n\nAgeratina bellidifolia (Benth.) R.M.King & H.Rob.\n\nAgeratina bishopii R.M.King & H.Rob.\n\nAgeratina blepharilepis (Sch.Bip.) R.M.King & H.Rob.\n\nAgeratina bobjansenii B.L.Turner\n\nAgeratina boekei R.M.King & H.Rob.\n\nAgeratina boyacensis R.M.King & H.Rob.\n\nAgeratina brandegeana (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina brevipes (DC.) R.M.King & H.Rob.\n\nAgeratina bustamenta (DC.) R.M.King & H.Rob.\n\nAgeratina caeciliae (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina calaminthifolia (Kunth) R.M.King & H.Rob.\n\nAgeratina calophylla (Greene) R.M.King & H.Rob.\n\nAgeratina campii H.Rob.\n\nAgeratina campylocladia (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina capazica V.M.Badillo\n\nAgeratina capillipes R.M.King & H.Rob.\n\nAgeratina cardiophylla (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina carmonis (Standl. & Steyerm.) R.M.King & H.Rob.\n\nAgeratina cartagoensis R.M.King & H.Rob.\n\nAgeratina celestini (Cuatrec.) R.M.King & H.Rob.\n\nAgeratina cerifera (McVaugh) R.M.King & H.Rob.\n\nAgeratina chachapoyasensis (Cuatrec.) R.M.King & H.Rob.\n\nAgeratina chazaroana B.L.Turner\n\nAgeratina chimalapana B.L.Turner\n\nAgeratina chiriquensis (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina choricephala (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina choricephaloides (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina colimana B.L.Turner\n\nAgeratina collodes (B.L.Rob. & Greenm.) R.M.King & H.Rob.\n\nAgeratina concordiana B.L.Turner\n\nAgeratina contigua R.M.King & H.Rob.\n\nAgeratina contorta (C.D.Adams) R.M.King & H.Rob.\n\nAgeratina corylifolia (Griseb.) R.M.King & H.Rob.\n\nAgeratina costaricensis R.M.King & H.Rob.\n\nAgeratina crassiceps (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina crassiramea (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina cremastra (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina cronquistii R.M.King & H.Rob.\n\nAgeratina cruzii B.L.Turner\n\nAgeratina cuatrecasasii R.M.King & H.Rob.\n\nAgeratina cuencana (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina cuicatlana B.L.Turner\n\nAgeratina cumbensis H.Rob.\n\nAgeratina cutervensis (Hieron.) R.M.King & H.Rob.\n\nAgeratina cuzcoensis (Hieron.) R.M.King & H.Rob.\n\nAgeratina cylindrica (McVaugh) R.M.King & H.Rob.\n\nAgeratina dasyneura (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina davidsei R.M.King & H.Rob.\n\nAgeratina deltoidea (Jacq.) R.M.King & H.Rob.\n\nAgeratina desquamans (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina dictyoneura (Urb.) R.M.King & H.Rob.\n\nAgeratina dillonii H.Rob.\n\nAgeratina diversipila R.M.King & H.Rob.\n\nAgeratina dolichobasis (McVaugh) R.M.King & H.Rob.\n\nAgeratina dombeyana (DC.) R.M.King & H.Rob.\n\nAgeratina dorrii V.M.Badillo\n\nAgeratina eleazarii Rzed.\n\nAgeratina elegans (Kunth) R.M.King & H.Rob.\n\nAgeratina enixa (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina espinosarum (A.Gray) R.M.King & H.Rob.\n\nAgeratina etlana B.L.Turner\n\nAgeratina etlensis (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina ewanii H.Rob.\n\nAgeratina fastigiata (Kunth) R.M.King & H.Rob.\n\nAgeratina feuereri H.Rob.\n\nAgeratina flaviseta (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina fleischmannioides H.Rob.\n\nAgeratina flourensifolia (B.L.Turner) R.M.King & H.Rob.\n\nAgeratina funckii (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina geminata (McVaugh) R.M.King & H.Rob.\n\nAgeratina gentryana B.L.Turner\n\nAgeratina gilbertii (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina glabrata (Kunth) R.M.King & H.Rob.\n\nAgeratina glandulifera (Hieron.) R.M.King & H.Rob.\n\nAgeratina glauca (Sch.Bip. ex Klatt) R.M.King & H.Rob.\n\nAgeratina glechonophylla (Less.) R.M.King & H.Rob.\n\nAgeratina glischra (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina gloeoclada (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina glyptophlebia (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina gonzalezorum B.L.Turner\n\nAgeratina gracilenta (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina gracilis (Kunth) R.M.King & H.Rob.\n\nAgeratina grandifolia (Regel) R.M.King & H.Rob.\n\nAgeratina grashoffii B.L.Turner\n\nAgeratina guatemalensis R.M.King & H.Rob.\n\nAgeratina gynoxoides (Wedd.) R.M.King & H.Rob.\n\nAgeratina gypsophila B.L.Turner\n\nAgeratina halbertiana (McVaugh) R.M.King & H.Rob.\n\nAgeratina harlingii H.Rob.\n\nAgeratina hartii (Urb.) R.M.King & H.Rob.\n\nAgeratina hasegawana B.L.Turner\n\nAgeratina havanensis (Kunth) R.M.King & H.Rob.\n\nAgeratina hederifolia (A.Gray) R.M.King & H.Rob.\n\nAgeratina helenae R.M.King & H.Rob.\n\nAgeratina henzium B.L.Turner\n\nAgeratina herbacea (A.Gray) R.M.King & H.Rob.\n\nAgeratina hernandezii B.L.Turner\n\nAgeratina hidalgensis (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina hirtella R.M.King & H.Rob.\n\nAgeratina huahuapana B.L.Turner\n\nAgeratina huehueteca (Standl. & Steyerm.) R.M.King & H.Rob.\n\nAgeratina humochica B.L.Turner\n\nAgeratina hyssopina (A.Gray) R.M.King & H.Rob.\n\nAgeratina ibaguensis (Sch.Bip. ex Hieron.) R.M.King & H.Rob.\n\nAgeratina ilicifolia B.L.Turner\n\nAgeratina illita (Urb.) R.M.King & H.Rob.\n\nAgeratina iltisii B.L.Turner\n\nAgeratina infiernillensis R.M.King & H.Rob.\n\nAgeratina intercostulata (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina intibucensis R.M.King & H.Rob.\n\nAgeratina irrasa (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina isolepis (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina jahnii (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina jaliscensis (B.L.Rob.) D.Gage ex B.L.Turner\n\nAgeratina jalpana B.L.Turner\n\nAgeratina jalpanserra B.L.Turner\n\nAgeratina jocotepecana B.L.Turner\n\nAgeratina josepaneroi B.L.Turner\n\nAgeratina josephensis Rodr.-Cabeza & S.Díaz\n\nAgeratina jucunda (Greene) Clewell & Wooten\n\nAgeratina juxtlahuacensis Panero & Villaseñor\n\nAgeratina killipii H.Rob.\n\nAgeratina kochiana B.L.Turner\n\nAgeratina kupperi (Suess.) R.M.King & H.Rob.\n\nAgeratina lapsensis B.L.Turner\n\nAgeratina lasia (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina lasioneura (Hook. & Arn.) R.M.King & H.Rob.\n\nAgeratina latipes (Benth.) R.M.King & H.Rob.\n\nAgeratina leiocarpa (B.L.Rob.) D.Gage ex B.L.Turner\n\nAgeratina lemmonii (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina leptodictyon (A.Gray) R.M.King & H.Rob.\n\nAgeratina liebmannii (Sch.Bip. ex Klatt) R.M.King & H.Rob.\n\nAgeratina ligustrina (DC.) R.M.King & H.Rob.\n\nAgeratina lobulifera (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina lopez-mirandae R.M.King & H.Rob.\n\nAgeratina lorentzii (Hieron.) R.M.King & H.Rob.\n\nAgeratina luciae-brauniae (Fernald) R.M.King & H.Rob.\n\nAgeratina lucida (Ortega) R.M.King & H.Rob.\n\nAgeratina macbridei (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina macdonaldii B.L.Turner\n\nAgeratina macvaughii R.M.King & H.Rob.\n\nAgeratina mairetiana (DC.) R.M.King & H.Rob.\n\nAgeratina malacolepis (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina manantlana B.L.Turner\n\nAgeratina maranonii H.Rob.\n\nAgeratina markporteri B.L.Turner\n\nAgeratina mayajana B.L.Turner\n\nAgeratina mazatecana B.L.Turner\n\nAgeratina megacephala B.L.Turner\n\nAgeratina megaphylla B.L.Turner\n\nAgeratina miahuatlana B.L.Turner\n\nAgeratina microcephala B.L.Turner\n\nAgeratina miquihuana (B.L.Turner) R.M.King & H.Rob.\n\nAgeratina molinae R.M.King & H.Rob.\n\nAgeratina moorei B.L.Turner\n\nAgeratina mortoniana (Alain) R.M.King & H.Rob.\n\nAgeratina muelleri (Sch.Bip. ex Klatt) R.M.King & H.Rob.\n\nAgeratina mutiscuensis (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina neblinensis J.Montoya, E.Linares, Torres Marq., Vicente Orell.\n\nAgeratina neohintonorium B.L.Turner\n\nAgeratina neriifolia (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina nesomii B.L.Turner\n\nAgeratina nubicola Pruski & Clase\n\nAgeratina oaxacana (Klatt) R.M.King & H.Rob.\n\nAgeratina ocanensis (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina occidentalis (Hook.)R.M.King & H.Rob.\n\nAgeratina oligocephala (DC.) R.M.King & H.Rob.\n\nAgeratina oppositifolia (A.Gray) B.L.Turner\n\nAgeratina oreithales (Greenm.) B.L.Turner\n\nAgeratina ovilla (Standl. & Steyerm.) R.M.King & H.Rob.\n\nAgeratina ozolotepecana B.L.Turner\n\nAgeratina palmeri (A.Gray) B.L.Turner\n\nAgeratina pampalcensis (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina paramensis (Aristeg.) R.M.King & H.Rob.\n\nAgeratina parayana (Espinosa) B.L.Turner\n\nAgeratina parviceps H.Rob.\n\nAgeratina paucibracteata (Alain) R.M.King & H.Rob.\n\nAgeratina pauciflora B.L.Turner\n\nAgeratina paupercula (A.Gray) R.M.King & H.Rob.\n\nAgeratina pazcuarensis (Kunth) R.M.King & H.Rob.\n\nAgeratina pelotropha (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina pendula Panero & Villaseñor\n\nAgeratina pentlandiana (DC.) R.M.King & H.Rob.\n\nAgeratina perezii B.L.Turner\n\nAgeratina persetosa H.Rob.\n\nAgeratina petiolaris (Moc. & Sessé ex DC.) R.M.King & H.Rob.\n\nAgeratina photina (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina pichinchensis (Kunth) R.M.King & H.Rob.\n\nAgeratina pochutlana B.L.Turner\n\nAgeratina popayanensis (Hieron.) R.M.King & H.Rob.\n\nAgeratina potosina B.L.Turner\n\nAgeratina pringlei (B.L.Rob. & Greenm.) R.M.King & H.Rob.\n\nAgeratina proba (N.E.Br.) R.M.King & H.Rob.\n\nAgeratina prunellifolia (Kunth) R.M.King & H.Rob.\n\nAgeratina prunifolia (Kunth) R.M.King & H.Rob.\n\nAgeratina pseudochilca (Benth.) R.M.King & H.Rob.\n\nAgeratina pseudogracilis H.Rob.\n\nAgeratina psilodora (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina queretaroana B.L.Turner\n\nAgeratina ramireziorum (J.Espinosa) B.L.Turner\n\nAgeratina ramonensis (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina rangelii H.Rob.\n\nAgeratina regalis H.Rob.\n\nAgeratina resiniflua H.Rob.\n\nAgeratina resiniflua (Urb.) R.M.King & H.Rob.\n\nAgeratina reticulifora (Standl. & L.O.Williams) R.M.King & H.Rob.\n\nAgeratina rhodopappa (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina rhodopoda (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina rhomboidea (Kunth) R.M.King & H.Rob.\n\nAgeratina rhypodes (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina rhytidodes (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina riparia (Regel) R.M.King & H.Rob.\n\nAgeratina riskindii B.L.Turner\n\nAgeratina rivalis (Greenm.) R.M.King & H.Rob.\n\nAgeratina roanensis (Small) E.E.Lamont\n\nAgeratina robinsoniana (Greene) B.L.Turner\n\nAgeratina roraimensis (N.E.Br.) R.M.King & H.Rob.\n\nAgeratina rosei H.Rob.\n\nAgeratina rothrockii (A.Gray) R.M.King & H.Rob.\n\nAgeratina rubicaulis (Kunth) R.M.King & H.Rob.\n\nAgeratina rupicola (B.L.Rob. & Greenm.) R.M.King & H.Rob.\n\nAgeratina salicifolia R.M.King & H.Rob.\n\nAgeratina saltillensis (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina salvadorensis R.M.King & H.Rob.\n\nAgeratina sandersii B.L.Turner\n\nAgeratina saxorum (Standl. & Steyerm.) R.M.King & H.Rob.\n\nAgeratina schaffneri (Sch.Bip. ex B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina scopulorum (Wedd.) R.M.King & H.Rob.\n\nAgeratina scordonioides (A.Gray) R.M.King & H.Rob.\n\nAgeratina seleri B.L.Turner\n\nAgeratina serboana B.L.Turner\n\nAgeratina serrulata H.Rob.\n\nAgeratina shastensis (D.W.Taylor & Stebbins) R.M.King & H.Rob.\n\nAgeratina simulans (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina sodiroi (Hieron.) R.M.King & H.Rob.\n\nAgeratina soejimana B.L.Turner\n\nAgeratina solana B.L.Turner\n\nAgeratina sotarensis (Hieron.) R.M.King & H.Rob.\n\nAgeratina sousae B.L.Turner\n\nAgeratina spooneri B.L.Turner\n\nAgeratina standleyi R.M.King & H.Rob.\n\nAgeratina sternbergiana (DC.) R.M.King & H.Rob.\n\nAgeratina stictophylla (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina stricta (A.Gray) R.M.King & H.Rob.\n\nAgeratina subcoriacea R.M.King & H.Rob.\n\nAgeratina subferruginea (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina subinclusa (Klatt) R.M.King & H.Rob.\n\nAgeratina sundbergii B.L.Turner\n\nAgeratina tambillensis (Hieron.) R.M.King & H.Rob.\n\nAgeratina tarmensis (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina tejalapana B.L.Turner\n\nAgeratina tenuis (R.E.Fr.) R.M.King & H.Rob.\n\nAgeratina textitlana B.L.Turner\n\nAgeratina theifolia (Benth.) R.M.King & H.Rob.\n\nAgeratina thyrsiflora (Greene) R.M.King & H.Rob.\n\nAgeratina tinifolia (Kunth) R.M.King & H.Rob.\n\nAgeratina tomentella (Schrad.) R.M.King & H.Rob.\n\nAgeratina tonduzii (Klatt) R.M.King & H.Rob.\n\nAgeratina tovarae H.Rob.\n\nAgeratina trianae H.Rob.\n\nAgeratina triangulata (Alamán ex DC.) B.L.Turner\n\nAgeratina triniona (McVaugh) R.M.King & H.Rob.\n\nAgeratina tristis (DC.) R.M.King & H.Rob.\n\nAgeratina urbani (Ekman ex Urb.) R.M.King & H.Rob.\n\nAgeratina vacciniifolia (Benth.) R.M.King & H.Rob.\n\nAgeratina vallincola (DC.) R.M.King & H.Rob.\n\nAgeratina venulosa (A.Gray) R.M.King & H.Rob.\n\nAgeratina vernalis (Vatke & Kurtz) R.M.King & H.Rob.\n\nAgeratina vernicosa (Sch.Bip. ex Greenm.) R.M.King & H.Rob.\n\nAgeratina viburnoides (DC.) R.M.King & H.Rob.\n\nAgeratina viejoana B.L.Turner\n\nAgeratina villarrealii B.L.Turner\n\nAgeratina villonacoensis H.Rob.\n\nAgeratina viscosa (Kunth) R.M.King & H.Rob.\n\nAgeratina viscosissima (Rolfe) R.M.King & H.Rob.\n\nAgeratina warnockii B.L.Turner\n\nAgeratina websteri H.Rob.\n\nAgeratina wrightii (A.Gray) R.M.King & H.Rob.\n\nAgeratina wurdackii R.M.King & H.Rob.\n\nAgeratina yaharana B.L.Turner\n\nAgeratina yecorana B.L.Turner\n\nAgeratina zapalinama B.L.Turner\n\nAgeratina zaragozana B.L.Turner\n\nAgeratina zinniifolia (B.L.Rob.) R.M.King & H.Rob.\n\nAgeratina zunilana (Standl. & Steyerm.) R.M.King & H.Rob.\n\nSelected synonyms:\n\nAgeratina conspicua R.M.King & H.Rob. — synonym of Ageratina grandifolia (Regel) R.M.King & H.Rob.\n\nAgeratina dendroides (Spreng.) R.M.King & H.Rob. — synonym of Raulinoreitzia crenulata (Spreng.) R.M.King & H.Rob.\n\nMilk from cows that have eaten snakeroot can cause illness if ingested because the milk becomes toxic. Symptoms of milk sickness include vomiting.\n\nAgeratina pichinchensis is a traditional Mexican treatment for superficial fungal infections of the skin. These plant extracts contain encecalin which has activity to inhibit and kill the fungus. Studies have compared its effectiveness in treating toenail fungus with ciclopirox.\n\nLong used in India to treat snakebite, epilepsy, mental disorders. It was also discovered to be useful in regulating hypertension discovered in 1949, but it causes various side effects. Used to treat schizophrenia due to the alkaloid reserpine it contains.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1330533788",
+      "revision_id": "1330533788",
+      "text_sha256": "8034bee5d791740e33ca62a3152b99feb332cd7a3be9176e6b0dac6bab283dff",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:00.984034+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.583945274353027,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1344",
+    "title": "Britannica page 1344",
+    "corpus": "britannica",
+    "text": "<x_0.2256><y_0.0203>H O R [ 664 ] H O R<x_0.7754><y_0.0414><class_Title>\n\n<x_0.0693><y_0.0422>Horfs<x_0.1328><y_0.057><class_Text>\n\n<x_0.1318><y_0.0437>be totally cled up, or the cranium in that part not be\nto hard as the rest for four years after. This is made\nrefs is found to be incredied upon the child’s catching\ncold. When the differdit continuer long, it is repu-\nted a drop of webendo and flour life, in this case\nit is usual to rub the head now and then with warm\nrum or bowled, mixed with the white one leg against\npain oil. Sometimes the different suffer from a col-\nlection of waters in the head called an _hydrosepholes_.<x_0.5068><y_0.1633><class_Text>\n\n<x_0.1309><y_0.1625>_Since Horse_ See StylLON.<x_0.5039><y_0.1766><class_Text>\n\n<x_0.1299><y_0.1758>_Horas Tall._ Se Egyptian and EPIRRA.<x_0.4736><y_0.1891><class_Text>\n\n<x_0.1514><y_0.1898>_Horas Path._ See Hippocrates.<x_0.4746><y_0.2039><class_Text>\n\n<x_0.1367><y_0.2031>_Wars Horas._ The proper rules for choosing a horfe\nfor carrier in war, are neither he should be tall in fiat-\nture, with a county break, and out-fwelling forecechs\nHis eye should be bright and parbling, and the white\npart of it covered by the eye brow. The cats should\nbe final, thin, there, and pinkking , or if longer, the\nshould be manhole with rafa, and well carried. The\nneck should be deep, and the breath large and fewling.\nThe ribs bending, the either bound and flagging, and\nthe buttons round and fall. The tail though be high\nand broad, neither too thick nor too thin; the thigh\nwellings; the leg broad and like, and the pallon them.\nWhen fush a horse he chodey, he must be kept high de-\nring the time of his teaching, that he may be full of\nvigore. His bondmilt be free to any good and clean out\nor two parts of cats and one part, feeding our prefer,\nwell dried and hardened. The quantity should be half\na peck in the oneming, and the have quantity at now\nand in the evening. Upon his cutting days he is to be\ndrifted, between five and the less than morning, and\nel at times or rights, to the evening he is to be dificult\nat four, and watered about five, and he mull always\nhave provided given him into after evening; he must be\nlittered about sight, and then muff the food gli-\nven him for all night. The night before he is ridden\nall last hay is to be has a way about nine of checks, and\nhe mull have a handful or two of cats also took four\nthe morning; when he has eaten theirly leis to do\nturned upon the traffic, and indeed very well with dry\nwilps. Then fadidlek, and made it for his exercise.\nWhen he has performed this, is to the boven\nfreezing into the thlile, and tribbed down with dry\nwifps. When this has been done, the fiddle is to be\ntant and, and he is to be crbbedded down with the clothes\nthe houling cloth is then to be had on) and the double\nbeing again kid on, he is to be walked gently about\ntill thoroughly cool. After that, he mull fixed with\nout meat two or three hours, then he mull be fed, yet\nin the afternoon he is to be rubbed and dreified as be-\nfore, and waccent in the ritual menor.<x_0.5176><y_0.7398><class_Text>\n\n<x_0.1426><y_0.7391>_Horas Wow, in_ natural history, a species of fly-\nworm called _also lead_, produced e eggs deposited by a\ntwo-wing fly of the flop and line of the humble\nbe in the intestines of horses. See Boryss.<x_0.5146><y_0.793><class_Text>\n\n<x_0.1416><y_0.7914>_Rose Horns, in another._ Se El Hyporomans.<x_0.5029><y_0.8063><class_Text>\n\n<x_0.1406><y_0.807>Horas is alo old in the military language, to cees\npets the country or the body of folders who feevo on\nhorfeback.<x_0.5156><y_0.8445><class_Text>\n\n<x_0.1436><y_0.8453>The horfe includes horfe guards, hoeře genaudlers,\nand troopers. Dragoons are allo frequently compro-\nhended under this name, though they fight on foot:\nof these there are now 18 regiments ) believes re-\nNo 157.<x_0.5059><y_0.8992><class_Text>\n\n<x_0.5215><y_0.043>ments of dragon-quards infed in 1682. See Gra-\nRoors, Dragoons), and Guaxan.<x_0.8936><y_0.0703><class_Text>\n\n<x_0.5439><y_0.0688>_Molter of the Horns._ See Marxer.<x_0.8008><y_0.0852><class_Text>\n\n<x_0.5225><y_0.0758>_Light Horns_ are regiments of cavalry mounted on\nlight fruit horches, which may see final and lightly ac-\ncutout. They were first infed in 1757). The deno-\nmanism and hence, chat anxietly they were lightly\narmed, in comparison of the royal guards, which were\narned at all points.<x_0.8945><y_0.1641><class_Text>\n\n<x_0.5234><y_0.1648>_Hongangna Horns._ Se El Dorass<x_0.7568><y_0.1781><class_Text>\n\n<x_0.5205><y_0.1789>Horse is alo often used its various arts and manu-\nfactories, for fomething that helps to fuflain their\nwork from the ground, for the more commodious\nworking at it.<x_0.8926><y_0.2305><class_Text>\n\n<x_0.5195><y_0.2313>The horf died by transers and filmmers, alfo called\nthe Ig, ira piece of wood cut hollow and rounds,\nfour or five feet long, and placed slippers upon which\nthey per their dens et get of the dirty hair, flesh,&.<x_0.8916><y_0.2852><class_Text>\n\n<x_0.5186><y_0.2859>Horas is alo did not in empery for a price of wood\npointed across two other perpendicular ones, to fulain\nthe boards, phunks, so, which make bridges over-final\nrivers and no divers other conditions.<x_0.8906><y_0.3383><class_Text>\n\n<x_0.5195><y_0.3391>Horas, in tea language, is the name of a rope reach-\ning from the middle of a yards in its ceremony or what\ncalled the _predecessor_, and depending about two or\nthree feet under the yard, for the failors to tread upon\nwhich they are holding, resting, holding the fails, op-\ning and the fluidizing fall bombs, etc. It orders, therefore, to keep the horfe more parallel to the yard, it is\nusually fupdated to it at a proper distance, by certain\nroppes called dirtrops, which hang about two feet under\nthe yard, having my eye in their lower ends through\nwhich the horfe place.<x_0.8955><y_0.4844><class_Text>\n\n<x_0.5166><y_0.4852>Horos is alo a thick rope, extended in a perpendli-\nline direction near east four or after field at each if,\nthe poprue of boiling or extending force fall upon it.\nWhen it is fixed before a mafts, it is calculated for the\nuse of a fall called the former folkl, whole you'd being ex-\ntached to the horfe, by means of a rareclier or bull's\neye, which chips and down occasionally, is retained\nin a likely position where when the fail is fet, or\nwhilst it is holding or lowering. When the horfe is\nplaces itself or behind a mafts, it is intended for the\ncrystal of a few, and is according to party fixed\nin this position, except in those floors of war which oc-\nrefundally slither the form of flows, in order to dec-\nners the enemy.<x_0.8965><y_0.6703><class_Text>\n\n<x_0.5176><y_0.6711>Horos is alo a cant name introduced into the mas-\nagement of batteries, the chance or benefit of a\nticket or number for one or more days, soon consider\ntion, if it be drawn a prize within the time ceremonies\nfor, of returning to the false or undrawn tickets—To\ndetermine the value of a horfe ) multiply the amount\nof the prizes in the lottery by the time the horfe is ha-\nred for, and from the produce fabricated the amount of\nthe number of prizes by the value of an undrawn tic-\nket into the time of the horfe., the remaining being\ndivided by the number of tickets onto the whole time of\ndrawing, the quotient is the value of the horfe. See\nBoryss.<x_0.8975><y_0.843><class_Text>\n\n<x_0.5459><y_0.8484>_Horas-Bread._ See Barxad.<x_0.8984><y_0.8562><class_Text>\n\n<x_0.5449><y_0.8492>_Horas-Dang_ in gardening, is o great ufc in ma-\nking hot-beds, for the rafting all sorts of early crops\nas fishing, cucumbers melons, afparagus, &c, for\nwhich<x_0.8994><y_0.9078><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "901db98b47bf7348a138124f48430b27e7b342e3bb56c3f604a10c2b5609cdf7",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:33.741115+00:00",
+    "parser_receipt_sha256": "f4c39635caeb161da075fa10c5a0ccf74197baf6e3e645c262c8e5443d8bfe91",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 122,
+      "occurred_at": "2026-10-18T17:49:59.149902+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 555,
+      "occurred_at": "2026-10-18T17:49:59.704464+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 565,
+      "occurred_at": "2026-10-18T17:50:00.283340+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 670,
+      "occurred_at": "2026-10-18T17:50:00.984102+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 615,
+      "occurred_at": "2026-10-18T17:50:01.620488+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 561,
+      "occurred_at": "2026-10-18T17:50:02.210931+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 546,
+      "occurred_at": "2026-10-18T17:50:02.781342+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 557,
+      "occurred_at": "2026-10-18T17:50:03.361226+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 553,
+      "occurred_at": "2026-10-18T17:50:03.934668+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 59,
+      "occurred_at": "2026-10-18T17:50:04.018261+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 578,
+      "occurred_at": "2026-10-18T17:50:04.596465+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 103,
+      "occurred_at": "2026-10-18T17:50:04.708737+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 6,
+      "occurred_at": "2026-10-18T17:50:04.715053+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 280,
+      "occurred_at": "2026-10-18T17:50:04.994981+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1212,
+    "modern_words": 745,
+    "vocabulary_jaccard": 0.08840579710144927,
+    "jensen_shannon_divergence": 0.6705375841361658,
+    "historical_top_words": [
+      [
+        "the",
+        100
+      ],
+      [
+        "and",
+        50
+      ],
+      [
+        "of",
+        42
+      ],
+      [
+        "is",
+        32
+      ],
+      [
+        "in",
+        28
+      ],
+      [
+        "to",
+        27
+      ],
+      [
+        "be",
+        26
+      ],
+      [
+        "a",
+        26
+      ],
+      [
+        "or",
+        21
+      ],
+      [
+        "he",
+        17
+      ],
+      [
+        "for",
+        16
+      ],
+      [
+        "it",
+        14
+      ],
+      [
+        "horfe",
+        11
+      ],
+      [
+        "which",
+        10
+      ],
+      [
+        "horas",
+        9
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "n",
+        96
+      ],
+      [
+        "r",
+        81
+      ],
+      [
+        "h",
+        50
+      ],
+      [
+        "the",
+        38
+      ],
+      [
+        "displaystyle",
+        22
+      ],
+      [
+        "is",
+        20
+      ],
+      [
+        "x",
+        16
+      ],
+      [
+        "numbers",
+        15
+      ],
+      [
+        "hyperharmonic",
+        13
+      ],
+      [
+        "of",
+        13
+      ],
+      [
+        "that",
+        13
+      ],
+      [
+        "frac",
+        10
+      ],
+      [
+        "t",
+        10
+      ],
+      [
+        "m",
+        9
+      ],
+      [
+        "by",
+        8
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "h o r",
+  "semantic_input": {
+    "query": "h o r\nH O R [ 664 ] H O R\n\nHorfs\n\nbe totally cled up, or the cranium in that part not be\nto hard as the rest for four years after. This is made\nrefs is found to be incredied upon the child’s catching\ncold. When the differdit continuer long, it is repu-\nted a drop of webendo and flour life, in this case\nit is usual to rub the head now and then with warm\nrum or bowled, mixed with the white one leg against\npain oil. Sometimes the different suffer from a col-\nlection of waters in the head called an _hydrosepholes_.\n\n_Since Horse_ See StylLON.\n\n_Horas Tall._ Se Egyptian and EPIRRA.\n\n_Horas Path._ See Hippocrates.\n\n_Wars Horas._ The proper rules for choosing a horfe\nfor carrier in war, are neither he should be tall in fiat-\nture, with a county break, and out-fwelling forecechs\nHis eye should be bright and parbling, and the white\npart of it covered by the eye brow. The cats should\nbe final, thin, there, and pinkking , or if longer, the\nshould be manhole with rafa, and well carried. The\nneck should ",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.42850255966186523,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

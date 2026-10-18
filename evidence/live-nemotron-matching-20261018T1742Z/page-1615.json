@@ -1,0 +1,36 @@
+{
+  "status": "blocked",
+  "question": "",
+  "locale": "en",
+  "candidates": [],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1615",
+    "title": "Britannica page 1615",
+    "corpus": "britannica",
+    "text": "<x_0.0><y_0.0><x_0.998><y_0.9984><class_Picture>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "b0ebd7415aed8aa86e788b0f7ff0a6bc1578475eb3e6bc4733349eef5e66e136",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:51.478476+00:00",
+    "parser_receipt_sha256": "2cb46caaa1ab692609d1ecd47bb6307b61f3c492e7b60a56d2a3c917b681b8f5",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "failed",
+      "duration_ms": 60,
+      "error": "v1/search: HTTP 422",
+      "occurred_at": "2026-10-18T17:50:58.549943+00:00"
+    }
+  ],
+  "blockers": [
+    "v1/search: HTTP 422"
+  ],
+  "metrics": null,
+  "uncertainty": [],
+  "candidate_query": ""
+}

@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "L I G [ 4230 ] L I G",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:43597724",
+      "title": "Kingman's subadditive ergodic theorem",
+      "corpus": "wikipedia",
+      "text": "In mathematics, Kingman's subadditive ergodic theorem is one of several ergodic theorems. It can be seen as a generalization of Birkhoff's ergodic theorem. Intuitively, the subadditive ergodic theorem is a kind of random variable version of Fekete's lemma (hence the name ergodic). As a result, it can be rephrased in the language of probability, e.g. using a sequence of random variables and expected values. The theorem is named after John Kingman.\n\nLet T {\\displaystyle T} be a measure-preserving transformation on the probability space (Ω, Σ, μ) {\\displaystyle (\\Omega,\\Sigma,\\mu)}, and let { g n } n ∈ N {\\displaystyle \\{g_{n}\\}_{n\\in \\mathbb {N} }} be a sequence of L 1 {\\displaystyle L^{1}} functions such that g n + m (x) ≤ g n (x) + g m (T n x) {\\displaystyle g_{n+m}(x)\\leq g_{n}(x)+g_{m}(T^{n}x)} (subadditivity relation). Then\n\nlim n → ∞ g n (x) n =: g (x) ≥ − ∞ {\\displaystyle \\lim _{n\\to \\infty }{\\frac {g_{n}(x)}{n}}=:g(x)\\geq -\\infty }\n\nfor μ {\\displaystyle \\mu } -a.e. x, where g (x) is T -invariant.\n\nIn particular, if T is ergodic, then g (x) is a constant.\n\nGiven a family of real random variables X (m, n) {\\textstyle X(m,n)}, with 0 ≤ m < n ∈ N {\\textstyle 0\\leq m<n\\in \\mathbb {N} }, such that they are subadditive in the sense that X (m + 1, n + 1) = X (m, n) ∘ T X (0, n) ≤ X (0, m) + X (m, n) {\\displaystyle {\\begin{aligned}&X(m+1,n+1)=X(m,n)\\circ T\\\\&X(0,n)\\leq X(0,m)+X(m,n)\\end{aligned}}} Then there exists a random variable Y {\\textstyle Y} such that Y ∈ [ − ∞, + ∞) {\\textstyle Y\\in [-\\infty,+\\infty)}, Y {\\textstyle Y} is invariant with respect to T {\\textstyle T}, and lim n 1 n X (0, n) = Y {\\textstyle \\lim _{n}{\\frac {1}{n}}X(0,n)=Y} a.s..\n\nThey are equivalent by setting\n\ng n = X (0, n) {\\textstyle g_{n}=X(0,n)} with n ≥ 1 {\\textstyle n\\geq 1};\n\nX (m, m + n) = g n ∘ T m {\\textstyle X(m,m+n)=g_{n}\\circ T^{m}} with m ≥ 0 {\\textstyle m\\geq 0}.\n\nProof due to (J. Michael Steele, 1989).\n\nFix some n ≥ 1 {\\textstyle n\\geq 1}. By subadditivity, for any l ∈ 1: n − 1 {\\textstyle l\\in 1:n-1} g n ≤ g n − l + g l ∘ T n − l {\\displaystyle g_{n}\\leq g_{n-l}+g_{l}\\circ T^{n-l}}\n\nWe can picture this as starting with the set 0: n − 1 {\\textstyle 0:n-1}, and then removing its length l {\\textstyle l} tail.\n\nRepeating this construction until the set 0: n − 1 {\\textstyle 0:n-1} is all gone, we have a one-to-one correspondence between upper bounds of g n {\\textstyle g_{n}} and partitions of 1: n − 1 {\\textstyle 1:n-1}.\n\nSpecifically, let { k i: (k i + l i − 1) } i {\\textstyle \\{k_{i}:(k_{i}+l_{i}-1)\\}_{i}} be a partition of 0: n − 1 {\\textstyle 0:n-1}, then we have g n ≤ ∑ i g l i ∘ T k i {\\displaystyle g_{n}\\leq \\sum _{i}g_{l_{i}}\\circ T^{k_{i}}}\n\nLet g:= lim inf g n / n {\\textstyle g:=\\liminf g_{n}/n}, then it is T {\\textstyle T} -invariant.\n\nBy subadditivity, g n + 1 n + 1 ≤ g 1 + g n ∘ T n + 1 {\\displaystyle {\\frac {g_{n+1}}{n+1}}\\leq {\\frac {g_{1}+g_{n}\\circ T}{n+1}}}\n\nTaking the n → ∞ {\\textstyle n\\to \\infty } limit, we have g ≤ g ∘ T {\\displaystyle g\\leq g\\circ T} We can visualize T {\\textstyle T} as hill-climbing on the graph of g {\\textstyle g}. If T {\\textstyle T} actually causes a nontrivial amount of hill-climbing, then we would get a spatial contraction, and so T {\\textstyle T} does not preserve measure. Therefore g = g ∘ T {\\textstyle g=g\\circ T} a.e.\n\nLet c ∈ R {\\textstyle c\\in \\mathbb {R} }, then { g ≥ c } ⊂ { g ∘ T ≥ c } = T − 1 ({ g ≥ c }) {\\displaystyle \\{g\\geq c\\}\\subset \\{g\\circ T\\geq c\\}=T^{-1}(\\{g\\geq c\\})} and since both sides have the same measure, by squeezing, they are equal a.e..\n\nThat is, g (x) ≥ c ⟺ g (T x) ≥ c {\\textstyle g(x)\\geq c\\iff g(Tx)\\geq c}, a.e..\n\nNow apply this for all rational c {\\textstyle c}.\n\nBy subadditivity, using the partition of 0: n − 1 {\\textstyle 0:n-1} into singletons. g 1 ≤ g 1 g 2 ≤ g 1 + g 1 ∘ T g 3 ≤ g 1 + g 1 ∘ T + g 1 ∘ T 2 ⋯ {\\displaystyle {\\begin{aligned}g_{1}&\\leq g_{1}\\\\g_{2}&\\leq g_{1}+g_{1}\\circ T\\\\g_{3}&\\leq g_{1}+g_{1}\\circ T+g_{1}\\circ T^{2}\\\\&\\cdots \\end{aligned}}} Now, construct the sequence f 1 = g 1 − g 1 f 2 = g 2 − (g 1 + g 1 ∘ T) f 3 = g 3 − (g 1 + g 1 ∘ T + g 1 ∘ T 2) ⋯ {\\displaystyle {\\begin{aligned}f_{1}&=g_{1}-g_{1}\\\\f_{2}&=g_{2}-(g_{1}+g_{1}\\circ T)\\\\f_{3}&=g_{3}-(g_{1}+g_{1}\\circ T+g_{1}\\circ T^{2})\\\\&\\cdots \\end{aligned}}} which satisfies f n ≤ 0 {\\textstyle f_{n}\\leq 0} for all n {\\textstyle n}.\n\nBy the special case, f n / n {\\textstyle f_{n}/n} converges a.e. to a T {\\textstyle T} -invariant function.\n\nBy Birkhoff's pointwise ergodic theorem, the running average 1 n (g 1 + g 1 ∘ T + g 1 ∘ T 2 + ⋯) {\\displaystyle {\\frac {1}{n}}(g_{1}+g_{1}\\circ T+g_{1}\\circ T^{2}+\\cdots)} converges a.e. to a T {\\textstyle T} -invariant function. Therefore, their sum does as well.\n\nFix arbitrary ϵ, M > 0 {\\textstyle \\epsilon,M>0}, and construct the truncated function, still T {\\textstyle T} -invariant: g ′:= max (g, − M) {\\displaystyle g':=\\max(g,-M)} With these, it suffices to prove an a.e. upper bound lim sup g n / n ≤ g ′ + ϵ {\\displaystyle \\limsup g_{n}/n\\leq g'+\\epsilon } since it would allow us to take the limit ϵ = 1 / 1, 1 / 2, 1 / 3, … {\\textstyle \\epsilon =1/1,1/2,1/3,\\dots }, then the limit M = 1, 2, 3, … {\\textstyle M=1,2,3,\\dots }, giving us a.e.\n\nlim sup g n / n ≤ lim inf g n / n =: g {\\displaystyle \\limsup g_{n}/n\\leq \\liminf g_{n}/n=:g} And by squeezing, we have g n / n {\\textstyle g_{n}/n} converging a.e. to g {\\textstyle g}.Define two families of sets, one shrinking to the empty set, and one growing to the full set. For each \"length\" L = 1, 2, 3, … {\\displaystyle L=1,2,3,\\dots }, define B L:= { x: g l / l > g ′ + ϵ, ∀ l ∈ 1, 2, …, L } {\\displaystyle B_{L}:=\\{x:g_{l}/l>g'+\\epsilon,\\forall l\\in 1,2,\\dots,L\\}} A L:= B L c = { x: g l / l ≤ g ′ + ϵ, ∃ l ∈ 1, 2, …, L } {\\displaystyle A_{L}:=B_{L}^{c}=\\{x:g_{l}/l\\leq g'+\\epsilon,\\exists l\\in 1,2,\\dots,L\\}} Since g ′ ≥ lim inf g n / n {\\textstyle g'\\geq \\liminf g_{n}/n}, the B {\\textstyle B} family shrinks to the empty set.\n\nFix x ∈ X {\\textstyle x\\in X}. Fix L ∈ N {\\textstyle L\\in \\mathbb {N} }. Fix n > L {\\textstyle n>L}. The ordering of these qualifiers is vitally important, because we will be removing the qualifiers one by one in the reverse order.\n\nTo prove the a.e. upper bound, we must use the subadditivity, which means we must construct a partition of the set 0: n − 1 {\\textstyle 0:n-1}. We do this inductively:\n\nTake the smallest k {\\textstyle k} not already in a partition.\n\nIf T k x ∈ A N {\\textstyle T^{k}x\\in A_{N}}, then g l (T k x) / l ≤ g ′ (x) + ϵ {\\textstyle g_{l}(T^{k}x)/l\\leq g'(x)+\\epsilon } for some l ∈ 1, 2, … L {\\textstyle l\\in 1,2,\\dots L}. Take one such l {\\textstyle l} – the choice does not matter.\n\nIf k + l − 1 ≤ n − 1 {\\textstyle k+l-1\\leq n-1}, then we cut out { k, …, k + l − 1 } {\\textstyle \\{k,\\dots,k+l-1\\}}. Call these partitions \"type 1\". Else, we cut out { k } {\\textstyle \\{k\\}}. Call these partitions \"type 2\".\n\nElse, we cut out { k } {\\textstyle \\{k\\}}. Call these partitions \"type 3\".\n\nNow convert this partition into an inequality: g n (x) ≤ ∑ i g l i (T k i x) {\\displaystyle g_{n}(x)\\leq \\sum _{i}g_{l_{i}}(T^{k_{i}}x)} where k i {\\textstyle k_{i}} are the heads of the partitions, and l i {\\textstyle l_{i}} are the lengths.\n\nSince all g n ≤ 0 {\\textstyle g_{n}\\leq 0}, we can remove the other kinds of partitions: g n (x) ≤ ∑ i: type 1 g l i (T k i x) {\\displaystyle g_{n}(x)\\leq \\sum _{i:{\\text{type 1}}}g_{l_{i}}(T^{k_{i}}x)} By construction, each g l i (T k i x) ≤ l i (g ′ (x) + ϵ) {\\textstyle g_{l_{i}}(T^{k_{i}}x)\\leq l_{i}(g'(x)+\\epsilon)}, thus 1 n g n (x) ≤ g ′ (x) 1 n ∑ i: type 1 l i + ϵ {\\displaystyle {\\frac {1}{n}}g_{n}(x)\\leq g'(x){\\frac {1}{n}}\\sum _{i:{\\text{type 1}}}l_{i}+\\epsilon } Now it would be tempting to continue with g ′ (x) 1 n ∑ i: type 1 l i ≤ g ′ (x) {\\textstyle g'(x){\\frac {1}{n}}\\sum _{i:{\\text{type 1}}}l_{i}\\leq g'(x)}, but unfortunately g ′ ≤ 0 {\\textstyle g'\\leq 0}, so the direction is the exact opposite. We must lower bound the sum ∑ i: type 1 l i {\\textstyle \\sum _{i:{\\text{type 1}}}l_{i}}.\n\nThe number of type 3 elements is equal to ∑ k ∈ 0: n − 1 1 B L (T k x) {\\displaystyle \\sum _{k\\in 0:n-1}1_{B_{L}}(T^{k}x)} If a number k {\\textstyle k} is of type 2, then it must be inside the last L − 1 {\\textstyle L-1} elements of 0: n − 1 {\\textstyle 0:n-1}. Thus the number of type 2 elements is at most L − 1 {\\textstyle L-1}. Together, we have the lower bound: 1 n ∑ i: type 1 l i ≥ 1 − L − 1 n − 1 n ∑ k ∈ 0: n − 1 1 B L (T k x) {\\displaystyle {\\frac {1}{n}}\\sum _{i:{\\text{type 1}}}l_{i}\\geq 1-{\\frac {L-1}{n}}-{\\frac {1}{n}}\\sum _{k\\in 0:n-1}1_{B_{L}}(T^{k}x)}\n\nRemove the n > L {\\textstyle n>L} qualifier by taking the n → ∞ {\\textstyle n\\to \\infty } limit.\n\nBy Birkhoff's pointwise ergodic theorem, there exists an a.e. pointwise limit lim n 1 n ∑ k ∈ 0: n − 1 1 B L (T k x) → 1 ¯ B L (x) {\\displaystyle \\lim _{n}{\\frac {1}{n}}\\sum _{k\\in 0:n-1}1_{B_{L}}(T^{k}x)\\to {\\bar {1}}_{B_{L}}(x)} satisfying ∫ 1 ¯ B L = μ (B L); 1 ¯ B L (x) ∈ {\\displaystyle \\int {\\bar {1}}_{B_{L}}=\\mu (B_{L});\\quad {\\bar {1}}_{B_{L}}(x)\\in } At the limit, we find that for a.e. x ∈ X, L ∈ N {\\textstyle x\\in X,L\\in \\mathbb {N} }, lim sup n g n (x) n ≤ g ′ (x) (1 − 1 ¯ B L (x)) + ϵ {\\displaystyle \\limsup _{n}{\\frac {g_{n}(x)}{n}}\\leq g'(x)(1-{\\bar {1}}_{B_{L}}(x))+\\epsilon }\n\nRemove the L ∈ N {\\textstyle L\\in \\mathbb {N} } qualifier by taking the L → ∞ {\\textstyle L\\to \\infty } limit.\n\nSince we have ∫ 1 ¯ B L = μ (B L) → 0 {\\displaystyle \\int {\\bar {1}}_{B_{L}}=\\mu (B_{L})\\to 0} and 1 ¯ B L ≥ 1 ¯ B L + 1 ≥ ⋯ {\\displaystyle {\\bar {1}}_{B_{L}}\\geq {\\bar {1}}_{B_{L+1}}\\geq \\cdots } as 1 B L ≥ 1 B L + 1 ≥ ⋯ {\\displaystyle 1_{B_{L}}\\geq 1_{B_{L+1}}\\geq \\cdots }, we can apply the same argument used for proving Markov's inequality, to obtain lim sup n g n (x) n ≤ g ′ (x) + ϵ {\\displaystyle \\limsup _{n}{\\frac {g_{n}(x)}{n}}\\leq g'(x)+\\epsilon } for a.e. x ∈ X {\\textstyle x\\in X}.\n\nIn detail, the argument is as follows: since 1 ¯ B L ≥ 1 ¯ B L + 1 ≥ ⋯ ≥ 0 {\\displaystyle {\\bar {1}}_{B_{L}}\\geq {\\bar {1}}_{B_{L+1}}\\geq \\cdots \\geq 0}, and ∫ 1 ¯ B L → 0 {\\displaystyle \\int {\\bar {1}}_{B_{L}}\\to 0}, we know that for any small δ, δ ′ > 0 {\\displaystyle \\delta,\\delta '>0}, all large enough L {\\displaystyle L} satisfies 1 ¯ B L (x) < δ {\\displaystyle {\\bar {1}}_{B_{L}}(x)<\\delta } everywhere except on a set of size ≥ δ ′ {\\displaystyle \\geq \\delta '}. Thus, lim sup n g n (x) n ≤ g ′ (x) (1 − δ) + ϵ {\\displaystyle \\limsup _{n}{\\frac {g_{n}(x)}{n}}\\leq g'(x)(1-\\delta)+\\epsilon } with probability ≥ 1 − δ ′ {\\displaystyle \\geq 1-\\delta '}. Now take both δ, δ ′ → 0 {\\displaystyle \\delta,\\delta '\\to 0}.\n\nTaking g n (x):= ∑ j = 0 n − 1 f (T j x) {\\displaystyle g_{n}(x):=\\sum _{j=0}^{n-1}f(T^{j}x)} recovers Birkhoff's pointwise ergodic theorem.\n\nTaking all g n {\\displaystyle g_{n}} constant functions, we recover the Fekete's subadditive lemma.\n\nKingman's subadditive ergodic theorem can be used to prove statements about Lyapunov exponents. It also has applications to percolations and longest increasing subsequence.\n\nTo study the longest increasing subsequence of a random permutation π {\\displaystyle \\pi }, we generate it in an equivalent way. A random permutation on 1: n {\\displaystyle 1:n} is equivalently generated by uniformly sampling n {\\displaystyle n} points in a square, then find the longest increasing subsequence of that.\n\nNow, define the Poisson point process with density 1 on [ 0, ∞) 2 {\\displaystyle [0,\\infty)^{2}}, and define the random variables M k ∗ {\\displaystyle M_{k}^{*}} to be the length of the longest increasing subsequence in the square [ 0, k) 2 {\\displaystyle [0,k)^{2}}. Define the measure-preserving transform T {\\displaystyle T} by shifting the plane by (− 1, − 1) {\\displaystyle (-1,-1)}, then chopping off the parts that have fallen out of [ 0, ∞) 2 {\\displaystyle [0,\\infty)^{2}}.\n\nThe process is subadditive, that is, M k + m ∗ ≥ M k ∗ + M m ∗ ∘ T k {\\displaystyle M_{k+m}^{*}\\geq M_{k}^{*}+M_{m}^{*}\\circ T^{k}}. To see this, notice that the right side constructs an increasing subsequence first in the square [ 0, k) 2 {\\displaystyle [0,k)^{2}}, then in the square [ k, k + m) 2 {\\displaystyle [k,k+m)^{2}}, and finally concatenate them together. This produces an increasing subsequence in [ 0, k + m) 2 {\\displaystyle [0,k+m)^{2}}, but not necessarily the longest one.\n\nAlso, T {\\displaystyle T} is ergodic, so by Kingman's theorem, M k ∗ / k {\\displaystyle M_{k}^{*}/k} converges to a constant almost surely. Since at the limit, there are n = k 2 {\\displaystyle n=k^{2}} points in the square, we have L n ∗ / n {\\displaystyle L_{n}^{*}/{\\sqrt {n}}} converging to a constant almost surely.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1314661162",
+      "revision_id": "1314661162",
+      "text_sha256": "cb0b5b1971b512434e49a4adadbd87a6051ca66a09535ada9794465a78c6d9d8",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:52:51.439361+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.619640827178955,
+      "vector_distance": 0.8789690136909485,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:57045644",
+      "title": "List of Lepidodexia species",
+      "corpus": "wikipedia",
+      "text": "This is a list of 177 species in Lepidodexia, a genus of flesh flies in the family Sarcophagidae.\n\nL. affinis de Souza Lopez, 1983 c g\n\nL. albida (Lopes, 1951) c g\n\nL. albihirta (Dodge, 1965) c g\n\nL. amazonica (Townsend, 1934) c g\n\nL. andina (Townsend, 1912) c g\n\nL. angusta (Aldrich, 1925) c g\n\nL. angustifrons Lopes, 1993 c g\n\nL. angustiventris (Curran & Walley, 1934) c g\n\nL. antennata (Dodge, 1966) c g\n\nL. apolinari Lopes, 1951 c g\n\nL. aragua (Dodge, 1966) c g\n\nL. asiliformis (Townsend, 1927) c g\n\nL. atrata (Dodge, 1965) c g\n\nL. aurea (Townsend, 1934) c g\n\nL. azurea (Enderlein, 1928) c g\n\nL. bicolor (Dodge, 1967) c\n\nL. bisetosa (Dodge, 1968) c g\n\nL. bivittata Curran, 1928 c g\n\nL. blakeae Dodge, 1955 c g\n\nL. bocainensis Lopes, 1980 c g\n\nL. bogotana (Enderlein, 1928) c g\n\nL. boraceana Lopes & Tibana, 1984 c g\n\nL. borealis Reinhard, 1937 c g\n\nL. brevigaster (Lopes, 1945) c\n\nL. brevirostris (Lopes, 1946) c g\n\nL. bufonivora (Lopes & Vogelsang, 1953) c g\n\nL. calliphorina (Enderlein, 1928) c g\n\nL. camorim (Lopes, 1991) c g\n\nL. camorin Lopes, 1991 c g\n\nL. camura (Hall, 1938) c g\n\nL. carchiana Lopes, 1992 c g\n\nL. carthaginiensis Lopes & Tibana, 1988 c g\n\nL. carvalhoi Lopes, 1984 c g\n\nL. catamarca Lopes, 1991 c g\n\nL. chaetosa (Townsend, 1931) c g\n\nL. chapadensis Tibana & Lopes, 1985 c g\n\nL. chocoensis Lopes, 1992 c g\n\nL. cingulata Lopes, 1961 c g\n\nL. cochliomyia (Townsend, 1919) c g\n\nL. cognata (Walker, 1853) c\n\nL. comata (Aldrich, 1925) c g\n\nL. confusa (Lopes, 1946) c\n\nL. costalis (Townsend, 1927) c g\n\nL. costaricensis Lopes & Tibana, 1988 c g\n\nL. cubana (Lopes, 1951) c\n\nL. cuenquensis Lopes, 1992 c g\n\nL. currani Lopes, 1951 c g\n\nL. cyaneiventris (Lopes, 1946) c\n\nL. dimidiata (Wiedemann, 1830) c g\n\nL. dissimilis (Dodge, 1965) c g\n\nL. distincta (Lopes, 1947) c g\n\nL. diversa (Lopes, 1946) c\n\nL. diversinervis (Wulp, 1895) c g\n\nL. diversipes (Coquillett, 1900) c g\n\nL. dodgei Lopes, 1985 c g\n\nL. dominicensis (Lopes, 1975) c\n\nL. downesi (Dodge, 1965) c g\n\nL. downsi Lopes, 1991 c g\n\nL. ecuatoriana Lopes, 1984 c g\n\nL. egregia (Hall, 1933) c g\n\nL. elaborata (Hall, 1933) c g\n\nL. elegans Coquillett, 1895 c g\n\nL. facialis (Townsend, 1927) c g\n\nL. fervens (Wiedemann, 1830) c g\n\nL. fiebrigi (Enderlein, 1928) c g\n\nL. flavipes de Souza Lopez, 1983 c g\n\nL. flavopilosa (Lopes, 1951) c g\n\nL. frontalis Aldrich, 1929 c g\n\nL. fulviventris Lopes, 1980 c g\n\nL. fumipennis (Lopes, 1946) c g\n\nL. fuscianalis (Wulp, 1895) c g\n\nL. gaucha Lopes, 1991 c g\n\nL. gomesi Lopes, 1980 c g\n\nL. grisea Lopes, 1951 c g\n\nL. grisescens (Townsend, 1927) c g\n\nL. guaillabamba Lopes, 1991 c g\n\nL. guatemalteca Lopes, 1985 c g\n\nL. guimaraesi Lopes, 1991 c g\n\nL. hinei (Aldrich, 1930) c g\n\nL. hirculus (Coquillett, 1910) c g\n\nL. huixtlaensis de Souza Lopez, 1983 c g\n\nL. hyalinipennis Lopes, 1992 c g\n\nL. ignota (Lopes, 1947) c g\n\nL. inconismus (Reinhard, 1957) c g\n\nL. korytkowiskii Lopes, 1992 c g\n\nL. latifrons Kano & Lopes, 1969 g\n\nL. lenti Lopes, 1980 c g\n\nL. lindneri (Townsend, 1931) c g\n\nL. maculata Lopes, 1991 c g\n\nL. major Lopes, 1993 c g\n\nL. matogrossensis Lopes, 1991 c g\n\nL. mendax Lopes, 1992 c g\n\nL. mendesi Lopes, 1991 c g\n\nL. metallica (Townsend, 1928) c g\n\nL. mexicana Lopes, 1985 c g\n\nL. miamensis (Townsend, 1918) c g\n\nL. micropyga (Wulp, 1895) c g\n\nL. minensis Lopes, 1980 c g\n\nL. minuta Lopes, 1991 c g\n\nL. modulata (Wulp, 1895) c g\n\nL. monochaeta (Dodge, 1968) c g\n\nL. myersi (Townsend, 1935) c g\n\nL. napoensis de Souza Lopez, 1983 c g\n\nL. nigribimbo (Dodge, 1965) c g\n\nL. nigropilosa Lopes, 1951 c g\n\nL. nocturnalis Walton, 1915 c g\n\nL. obscura (Lopes, 1950) c g\n\nL. occulta Lopes, 1986 c g\n\nL. ochristriga (Enderlein, 1928) c g\n\nL. ojedai Lopes, 1992 c g\n\nL. oliveirai (Lopes, 1974) c g\n\nL. olmaba Brimley, 1927 c g\n\nL. opima (Wiedemann, 1830) c g\n\nL. pacta (Townsend, 1934) c g\n\nL. pallipes (Lopes & Tibana, 1988) c g\n\nL. palpalis (Dodge, 1968) c g\n\nL. panamensis (Dodge, 1968) c g\n\nL. parva (Lopes, 1946) c\n\nL. peculiaris Lopes, 1985 c g\n\nL. peruana Lopes, 1986 c g\n\nL. petersoni Lopes, 1984 c g\n\nL. pilosa (Lopes, 1969) c g\n\nL. plumigera (Wulp, 1895) c g\n\nL. pomaschi Lopes, 1991 c g\n\nL. proseni Lopes, 1991 c g\n\nL. quadrisetosa Lopes, 1984 c g\n\nL. reali Lopes & Tibana, 1988 c g\n\nL. reducens (Enderlein, 1928) c g\n\nL. reinhardi Lopes, 1979 c g\n\nL. retusa (Hall, 1933) c g\n\nL. robacki (Lopes, 1975) c g\n\nL. rubriventris (Macquart, 1851) c g\n\nL. rufianalis (Lopes, 1975) c g\n\nL. rufipes (Dodge, 1965) c g\n\nL. rufitibia (Wulp, 1895) c g\n\nL. rufocaudatata (Bigot, 1889) c g\n\nL. rustica (Lopes, 1950) c g\n\nL. sapucaiensis Lopes, 1993 c g\n\nL. sarcophagina (Townsend, 1927) c g\n\nL. setifacies Lopes, 1984 c g\n\nL. setifrons de Souza Lopez, 1983 c g\n\nL. setosa (Coquillett, 1895) c g\n\nL. sheldoni (Coquillett, 1898) c g\n\nL. shewelli Lopes, 1984 c g\n\nL. similis Lopes, 1984 c g\n\nL. sinopi Lopes & Tibana, 1982 c g\n\nL. souzalopesi Lehrer, 1995 c g\n\nL. squamata (Walker, 1853) c g\n\nL. strigosa (Reinhard, 1945) c g\n\nL. subcylindrica (Townsend, 1935) c g\n\nL. subpolita (Aldrich, 1916) c g\n\nL. takaruni Lopes, 1991 c g\n\nL. tandapiens Lopes, 1988 c g\n\nL. teffeensis (Townsend, 1927) c g\n\nL. tessellata (Aldrich, 1916) c g\n\nL. tetraptera Brauer & von Bergenstamm, 1891 c g\n\nL. teutonia Lopes, 1991 c g\n\nL. townsendi (Aldrich, 1925) c g\n\nL. trinidadensis Lopes, 1985 c g\n\nL. tucumana (Blanchard, 1942) c g\n\nL. tungurahuensis Lopes & Tibana, 1988 c g\n\nL. tungurauensis Lopes & Tibana, 1988 c g\n\nL. turrialba Lopes, 1991 c g\n\nL. unicolor Aldrich, 1916 c g\n\nL. uniseta (Lopes, 1950) c g\n\nL. uruhuasi (Townsend, 1917) c g\n\nL. veniseta (Dodge, 1968) c g\n\nL. vexator (Dodge, 1968) c g\n\nL. villipes (Dodge, 1965) c g\n\nL. virgata (Wiedemann, 1830) c g\n\nL. vittata (Lopes, 1968) c\n\nL. weyrauchi Lopes, 1991 c g\n\nL. woodi Lopes, 1985 c g\n\nL. woodorum Pape, 1989 c g\n\nL. wygodzinskyi Lopes, 1982 c g\n\nL. zeledoni Lopes, 1985 c g\n\nL. zygox (Hall, 1938) c g\n\nThis is a list of 177 species in Lepidodexia, a genus of flesh flies in the family Sarcophagidae. Data sources: i = ITIS, c = Catalogue of Life, g = GBIF, b = Bugguide.net",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1338208266",
+      "revision_id": "1338208266",
+      "text_sha256": "2e86073c68ef774aea5e57051e88e64488f45db038d97b05db5db700cf21056b",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:52:48.318408+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.680160045623779,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:59741801",
+      "title": "Desmocladus",
+      "corpus": "wikipedia",
+      "text": "Desmocladus is a genus of herbs in the family Restionaceae, all species of which are endemic to Australia, and found in Western Australia and South Australia. In this genus, the stems are the principal photosynthesizers.\n\nSpecies include:\n\nDesmocladus asper (Nees) B.G.Briggs & L.A.S.Johnson\n\nDesmocladus austrinus B.G.Briggs & L.A.S.Johnson\n\nDesmocladus biformis B.G.Briggs & L.A.S.Johnson\n\nDesmocladus castaneus B.G.Briggs & L.A.S.Johnson\n\nDesmocladus confertospicatus (Steud.) B.G.Briggs\n\nDesmocladus diacolpicus B.G.Briggs & L.A.S.Johnson\n\nDesmocladus elongatus B.G.Briggs & L.A.S.Johnson\n\nDesmocladus eludens (B.G.Briggs & L.A.S.Johnson) B.G.Briggs\n\nDesmocladus eyreanus (B.G.Briggs & L.A.S.Johnson) B.G.Briggs\n\nDesmocladus fasciculatus (R.Br.) B.G.Briggs & L.A.S.Johnson\n\nDesmocladus ferruginipes (Meney & Pate) B.G.Briggs\n\nDesmocladus flexuosus (R.Br.) B.G.Briggs & L.A.S.Johnson\n\nDesmocladus glomeratus K.W.Dixon & Meney\n\nDesmocladus lateriflorus (W.Fitzg.) B.G.Briggs\n\nDesmocladus lateriticus B.G.Briggs & L.A.S.Johnson\n\nDesmocladus laxiflorus (Steud.) B.G.Briggs\n\nDesmocladus microcarpus (Meney & Pate) B.G.Briggs\n\nDesmocladus myriocladus (Gilg) B.G.Briggs & L.A.S.Johnson\n\nDesmocladus nodatus (B.G.Briggs & L.A.S.Johnson) B.G.Briggs\n\nDesmocladus parthenicus B.G.Briggs & L.A.S.Johnson\n\nDesmocladus quiricanus B.G.Briggs & L.A.S.Johnson\n\nDesmocladus semiplanus B.G.Briggs & L.A.S.Johnson\n\nDesmocladus virgatus (Benth.) B.G.Briggs & L.A.S.Johnson",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1317031364",
+      "revision_id": "1317031364",
+      "text_sha256": "7bb4a17c3a89fd99bca38d67dac15f93f77e131264225733a3e916200dcd91db",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:52:52.594484+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.856993198394775,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1910",
+    "title": "Britannica page 1910",
+    "corpus": "britannica",
+    "text": "<x_0.2432><y_0.0352>L I G [ 4230 ] L I G<x_0.7988><y_0.0539><class_Page-header>\n\n<x_0.043><y_0.0563>Lightning, we have few always; it is _mattematically couldn’t_, that, when a _returning firele_ comes to be produced by the _fuddro_ removal of the very frong elafic electrical prefi-fore of the electrical atmosphere of a thunder-cloud powerfully charged; the frength of such a retraining _fireks_ mult be enormous.<x_0.5195><y_0.1391><class_Text>\n\n<x_0.1152><y_0.1383>\" If indeed the quantity of electric field naturally contained in the body of a man, forrindance, were often mefe, or induding, the author's ultimate between the effects producible by a cloud, and those caned by a prime conductor might be admitted. But fairly electronic cloud,—how great forces may be its extent, and the height of its charge, when compared with the scenes and change of a prime conductor-- cannot cepel from a mared (way (only other key)) more than the natural quantity of electricity which it contains. On the fodder removal, therefore of the preffure by which this natural quantity had been expelled, in consequence of the equation of the cloud into the earth) so more (at the utmost) than his _robole natural lack_ of electricity can re-enter the body (c). But we have no reason to fopate that this quantity is fo great, as that its fudden re-entrance into his body found delivery on even injury third<x_0.5205><y_0.3773><class_Text>\n\n<x_0.1172><y_0.3781>\" At the experiment above deferbed, the infulated perfor receives into his body, at the infant of the _returning firele_ has only all that portion of his own natural electric-free which had been expelled from it; but likewise transmits through it, at the fame infant, _its consequences of the peculiar fluctuation_, all the electric fire of which the large cloud could had been robbeds and which mult needeffally re-pafa through his body, to arrive at that conductor. To render the cafe foreshable instability in natural electricity, the man's body mult be fo peculiarly circumdanced, impunding him to be in a hoofu, that the electric matter which has been expelled from the head into the earth, by the preffure of an extensive thundercloud, could not return back into the building, on the explorations of the clouds as different, without paling through his body: a safe not likely to happen, unfuls the boots were in- folated (like the second conductor in the preceding experiments), and his body became the claimed through which where the hole could have the electric matter reflored to it : it appears much more probable that the electric matter returns to the house through the _fame elements_ by whole it before recently pafled out, and with equal silence, too more fuddently.<x_0.5186><y_0.6984><class_Text>\n\n<x_0.1182><y_0.6992>\" If the cafe of a man who is abroad, and in an open field, during the time of an explosion —a he is unconnected with other matter of matter above him, no more than the preflic quantity of electric fire, which had been before expelled from his body, will definitely return into it at the infant of a dither explosion; and that this quantity is not uufaly very large, may be inferred from many considerations.<x_0.5215><y_0.8063><class_Text>\n\n<x_0.1162><y_0.8195>(c) \" We fuppie the perfor not to be fo fluuted, that the returning fire of other bodies mult necefarily pafa through his body.<x_0.9297><y_0.8461><class_Text>\n\n<x_0.1191><y_0.8469>(b) \" The author does indeed produce a living evidence, in the cafe of a person at Vienna, who, he has been credibly informed, received an electrical shock, by having held one hand accidentally in contact with an intercepted metallic coaching mind, at the infant that a thunder-cloud exploited at the influence, as was considered, or above half an English milk. He likewise observes, that a very strong, bright, and fulden firek (ce fpars) of electric fire has been been, by levels electrificants, to pais in the internal, or interruption, purposefully left in the concluding rod of a book at the infant do a distant explosions, and ‘when it was fully proved, by the sharp point of the conductor not being melted, or even tuged,' that the conductor itself had not been effect — \"Other observations, however, do not by any means prove the magnitude or danger, of the returning broke, but merely its _esiflessen_ which we do not contiti.\"<x_0.9326><y_0.9406><class_Text>\n\n<x_0.5273><y_0.0555>\" When a perfon standing on the ground holds a Lightning pair of Mr Canton's balls in his hand, while a highly charged thunder-cloud is fufpended over his head; the angle made by the balla indicates the _electrical fate_ of this portion or the quantity of natural electricity of which his body as at the time deprived, by the action of the (_politively_) charged cloud hanging over him. But we have never feen the repollion of the balls to fulfillment, as to contain any the apprehensions that the return of his natural electric matter, however fudden, could be attached with his injury to him a nor would be be flexible of any common use the bulk fuddily coming together; the 'a fpark might un-doubtedly be perceived, at that infants, were he infuried, and placed in the four manner with the author when he tried the above-related experiment.<x_0.9287><y_0.2719><class_Text>\n\n<x_0.5283><y_0.2711>\" The author nevertheless observe, that , there have been influences of protons who have been killed by natural electricity, having been found with their _floos torna_, and with their feet damaged by the electrical line, but who have not bad, over their whole boo, any other apparent marks of having been ftuck with lightning.\" He adds, \" if a man walking out of doors were to be killed by a returning firele, the electrical line would rub into that each body into his _feets_, and his feet only ; which would not be the cafe, here he to be killed by any _main fireke_ of exploding, either positive negative.<x_0.9307><y_0.432><class_Text>\n\n<x_0.5293><y_0.4313>\" It would be no difficult talk, we think, to account for these appearances in different manner, were all the circumstances attending the cage minutely after-tained, but without interrogating the dead on this futjels, we may more falsifiedly appeal to the ex-perience of the living (a), to flew, that though the _returning fireks_ mult take place, in all thunder-forms, _in June degree or other_; yet it is now of that alarming magnitude within the author afterhes to it. If, a non particular thunder-form, a man in the open fields could be killed, at the infant of a dillank explotion, merely by the returners of his new electric fire, which had before been driven out of his body; lureely numerous obferations of persons who had experienced the _returning firele_, in fighting degrees, would be families, and favors a great teacher-theme must have occurred, in which one perform or another mult not, at theinflated an explosion, have felt the effects of the _returning firele_, in _foon degree or other_ from that of a violent sanctions, to that of a flight and almost impregnible pollution. But no observances we this kind are known to us say how we ever heard of any person's experiencing any kind of electrical com- motion in a thunder-loria, except fish as have either been directly frocks, or have happened to be in the _royar near neighborhood_ of the foot where the explodes took place.<x_0.9316><y_0.7914><class_Text>\n\n<x_0.5488><y_0.7906>\" The author has been aware of this objections, which<x_0.9336><y_0.8172><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "8738f06d30a0e5113ae69bd73d834186415145e904dfe37031edb4a6438a39a0",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:57:20.291538+00:00",
+    "parser_receipt_sha256": "ad5f25f36d45b6eac95b7a9a34024755bd30bb59f8caa4ec7d0c5554083a9adc",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 196,
+      "occurred_at": "2026-10-18T17:52:47.659801+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 659,
+      "occurred_at": "2026-10-18T17:52:48.318460+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 594,
+      "occurred_at": "2026-10-18T17:52:48.932894+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 657,
+      "occurred_at": "2026-10-18T17:52:49.608118+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 555,
+      "occurred_at": "2026-10-18T17:52:50.180923+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 570,
+      "occurred_at": "2026-10-18T17:52:50.776429+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 641,
+      "occurred_at": "2026-10-18T17:52:51.439409+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1129,
+      "occurred_at": "2026-10-18T17:52:52.594530+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1303,
+      "occurred_at": "2026-10-18T17:52:53.923276+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 68,
+      "occurred_at": "2026-10-18T17:52:54.007413+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 3534,
+      "occurred_at": "2026-10-18T17:52:57.541048+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 1024,
+      "occurred_at": "2026-10-18T17:52:58.573332+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 7,
+      "occurred_at": "2026-10-18T17:52:58.580515+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 15465,
+      "occurred_at": "2026-10-18T17:53:14.045190+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1197,
+    "modern_words": 2254,
+    "vocabulary_jaccard": 0.1012311901504788,
+    "jensen_shannon_divergence": 0.7019872229951307,
+    "historical_top_words": [
+      [
+        "the",
+        100
+      ],
+      [
+        "of",
+        55
+      ],
+      [
+        "a",
+        34
+      ],
+      [
+        "to",
+        22
+      ],
+      [
+        "in",
+        22
+      ],
+      [
+        "that",
+        20
+      ],
+      [
+        "be",
+        19
+      ],
+      [
+        "his",
+        18
+      ],
+      [
+        "by",
+        17
+      ],
+      [
+        "been",
+        16
+      ],
+      [
+        "and",
+        15
+      ],
+      [
+        "which",
+        14
+      ],
+      [
+        "at",
+        14
+      ],
+      [
+        "body",
+        13
+      ],
+      [
+        "it",
+        12
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "n",
+        200
+      ],
+      [
+        "g",
+        177
+      ],
+      [
+        "l",
+        130
+      ],
+      [
+        "x",
+        106
+      ],
+      [
+        "t",
+        81
+      ],
+      [
+        "textstyle",
+        75
+      ],
+      [
+        "k",
+        68
+      ],
+      [
+        "the",
+        66
+      ],
+      [
+        "displaystyle",
+        62
+      ],
+      [
+        "i",
+        52
+      ],
+      [
+        "m",
+        48
+      ],
+      [
+        "a",
+        42
+      ],
+      [
+        "b",
+        42
+      ],
+      [
+        "in",
+        33
+      ],
+      [
+        "to",
+        30
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "l i g",
+  "semantic_input": {
+    "query": "l i g\nL I G [ 4230 ] L I G\n\nLightning, we have few always; it is _mattematically couldn’t_, that, when a _returning firele_ comes to be produced by the _fuddro_ removal of the very frong elafic electrical prefi-fore of the electrical atmosphere of a thunder-cloud powerfully charged; the frength of such a retraining _fireks_ mult be enormous.\n\n\" If indeed the quantity of electric field naturally contained in the body of a man, forrindance, were often mefe, or induding, the author's ultimate between the effects producible by a cloud, and those caned by a prime conductor might be admitted. But fairly electronic cloud,—how great forces may be its extent, and the height of its charge, when compared with the scenes and change of a prime conductor-- cannot cepel from a mared (way (only other key)) more than the natural quantity of electricity which it contains. On the fodder removal, therefore of the preffure by which this natural quantity had been expelled, in consequence of the equation of the cl",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.06051921844482422,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

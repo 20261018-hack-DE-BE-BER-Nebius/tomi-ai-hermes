@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "182 COM COM",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:39527518",
+      "title": "2-hydroxypropyl-CoM lyase",
+      "corpus": "wikipedia",
+      "text": "The enzyme 2-hydroxypropyl-CoM lyase (EC 4.4.1.23, epoxyalkane:coenzyme M transferase, epoxyalkane:CoM transferase, epoxyalkane:2-mercaptoethanesulfonate transferase, coenzyme M-epoxyalkane ligase, epoxyalkyl:CoM transferase, epoxypropane:coenzyme M transferase, epoxypropyl:CoM transferase, EaCoMT, 2-hydroxypropyl-CoM:2-mercaptoethanesulfonate lyase (epoxyalkane-ring-forming), (R)-2-hydroxypropyl-CoM 2-mercaptoethanesulfonate lyase (cyclizing, (R)-1,2-epoxypropane-forming)) is an enzyme with systematic name (R)--2-hydroxypropyl-CoM:2-mercaptoethanesulfonate lyase (epoxyalkane-ring-forming). This enzyme catalyses the following reaction:\n\n(1) (R)-2-hydroxypropyl-CoM ⇌ {\\displaystyle \\rightleftharpoons } (R)- 1,2-epoxypropane + HS-CoM\n\n(2) (S)-2-hydroxypropyl-CoM ⇌ {\\displaystyle \\rightleftharpoons } (S)-1,2-epoxypropane + HS-CoM\n\nThis enzyme requires zinc.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1172334936",
+      "revision_id": "1172334936",
+      "text_sha256": "5549ad18278d13c75f6c974cda063d5080d148a243b3d045e54671e524b24af7",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:49:08.373659+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.588779449462891,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:60782614",
+      "title": "Com Truise discography",
+      "corpus": "wikipedia",
+      "text": "The discography of American synthwave musician Com Truise consists of three studio albums, two compilation albums, eight music videos, four extended plays (EP), 22 singles, three production credits, one writing credit, and 49 remixes.\n\nFOE – \"A Handsome Stranger Called Death (Com Truise RMX)\" (August 2010)\n\nNeon Indian – \"Sleep Paralysist (Com Truise 'Disorder' Remix)\" (November 2010)\n\nNeon Indian – \"Sleep Paralysist (Com Truise 'Eyelid' Remix)\" (November 2010)\n\nTwin Shadow – \"Castles In The Snow (Com Truise Remix)\" (November 2010)\n\nFranklin – \"I Know (Com Truise Remix)\" (January 2011)\n\nDaft Punk – \"Encom Part 2 (Com Truise Remix)\" (April 2011)\n\nHussle Club – \"Loose Tights (Com Truise Tight Pants Remix)\" (April 2011)\n\nAna Lola Roman – \"Klutch (Com Truise Remix)\" (April 2011)\n\nLocussolus – \"Throwdown (Com Truise Remix)\" (June 2011)\n\nFoster the People – \" Helena Beat (Com Truise Remix)\" (December 2011)\n\nArsenal – \"One Day At A Time (Com Truise Remix)\" (February 2012)\n\nZZ Ward – \"Criminal ft Freddie Gibbs (Com Truise Remix)\" (July 2012)\n\nSaint Michel – \"Katherine (Com Truise Remix)\" (September 2012)\n\nSky Ferreira – \"Red Lips (Com Truise Remix)\" (September 2012)\n\nMaroon 5 – \" One More Night (Com Truise Remix)\" (October 2012)\n\nSally Shapiro – \"What Can I Do (Com Truise Remix)\" (November 2012)\n\nEl Ten Eleven – \"Thanks Bill (Com Truise Remix)\" (April 2013)\n\nStars – \"Hold On When You Get Love And Let Go When You Give It (Com Truise Remix)\" (April 2013)\n\nEverything Everything – \"Kemosabe (Com Truise Remix)\" (May 2013)\n\nCharli XCX – \"What I Like (Com Truise Remix)\" (May 2013)\n\nDarkness Falls – \"Timeline (Com Truise Remix)\" (July 2013)\n\nBlood Diamonds feat. Dominic Lord – \"Barcode (Com Truise Remix)\" (September 2013)\n\nThe Twilight Sad – \"Sick (Com Truise Remix)\" (October 2013)\n\nKris Menace feat. Lawrence LT Thompson – \"Love Is Everywhere (Com Truise Remix)\" (October 2013)\n\nbeGun – \"Shanghai (Com Truise Remix)\" (October 2013)\n\nBloodgroup – \"Mysteries Undone (Com Truise Remix)\" (December 2013)\n\nFlight Facilities – \"Stand Still feat. Micky Green (Com Truise Remix)\" (December 2013)\n\nThe Knocks – \"Learn To Fly (Com Truise Remix)\" (December 2013)\n\nHollow & Akimbo – \"Singularity (Com Truise Remix)\" (January 2014)\n\nClient Liaison – \"Free Of Fear (Com Truise Remix)\" (January 2014)\n\nJunior Prom – \"Sheila Put The Knife Down (Com Truise Remix)\" (February 2014)\n\nWeeknight – \"Dark Light (Com Truise Remix)\" (February 2014)\n\nTapioca and the Flea – \"Take It Slow (Com Truise Remix)\" (June 2014)\n\nTycho – \"Awake (Com Truise Remix)\" (25 June 2014)\n\nBear Hands – \"Agora (Com Truise Remix)\" (October 2014)\n\nKodak to Graph – \"Iamanthem (Com Truise Remix)\" (26 May 2015)\n\nPhantoms – \"Broken Halo (feat. Nicholas Braun) \" (25 September 2015)\n\nDigitalism – \"Battlecry (Com Truise Remix)\" (27 May 2016)\n\nMidnight to Monaco – \"One in a Million (Com Truise Remix)\" (10 June 2016)\n\nDeftones – \" Prayers/Triangles (Com Truise Remix)\" (24 June 2016)\n\nDeadmau5 – \"Strobe (Com Truise Remix)\" (23 September 2016)\n\nMoodoïd – \"Planète Tokyo (Com Truise Remix)\" (4 April 2018)\n\nginla – \"Infinite (Com Truise Remix)\" (19 March 2019)\n\nHermitude - \"Every Day (feat. Hoodlem) \" (11 May 2019)\n\nAll Hail the Silence – \"City Lovers (Com Truise Remix)\" (7 June 2019)\n\nGold Fields - \"Waterfall (Com Truise Remix)\" (8 July 2019)\n\nDua Saleh - \"Warm Pants (Com Truise Remix)\" (25 July 2019)\n\nTycho – \"No Stress (Com Truise Remix)\" (15 December 2020)\n\nSmall Black - \"Duplex (Com Truise Remix)\" (25 June 2021)\n\nHaley created the music for a 60-second Coinbase ad which aired during the 2022 Super Bowl.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1344613235",
+      "revision_id": "1344613235",
+      "text_sha256": "b0033d2881e1bbd6530473236ae078d5f064545c7adf73c36115648c99a6c446",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:49:03.995432+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.889083862304688,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:41527859",
+      "title": "BoatTrader.com",
+      "corpus": "wikipedia",
+      "text": "BoatTrader.com is a Miami, Florida -based website in the marine classified segment aimed at the US market launched in 1991.\n\nPrint magazines launched in 1991 by Boat Trader with offices in over 40 cities across the United States.\n\nA website was launched in 1996 under the domain BoatTraderOnline.com, part of the TraderOnline.com network, which in turn was part of Trader Publishing Co.\n\nSeptember 2004, NADAguides.com Integrates BoatTraderOnline.com as Exclusive Boat Classifieds Partner.\n\nIn December 2005, SailBoatTraderOnline.com is launched by BoatTraderOnline.com.\n\nIn 2009, BoatTrader shifted its entire audience from print to online under BoatTrader.com, merging 3 of the trader marine websites of BoatTraderOnline.com, SailBoatTraderOnline.com and YachtTraderOnline.com.\n\nJune 2009, Yamaha and BoatTrader.com launch advertising program.\n\nMay 2011, BoatTrader.com is merged with YachtWorld.com and boats.com brands under the new company Dominion Marine Media.\n\nJune 1, 2017, Boat Trader and Boats Group decides Miami is the place to be, anchors headquarters.\n\nApril 2022, Boat Trader launches the award-winning TV show Stomping Grounds on streaming television featuring local boaters and celebrities across America.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1317702836",
+      "revision_id": "1317702836",
+      "text_sha256": "85ecebc9431d28778cfec739da02c4cd1ef4d9c07d7e1a7996c4d4a031bd304a",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:49:05.188903+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.961872100830078,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1102",
+    "title": "Britannica page 1102",
+    "corpus": "britannica",
+    "text": "<x_0.0986><y_0.057>182 COM COM<x_0.8154><y_0.0781><class_Page-header>\n\n<x_0.1055><y_0.0805>Comlima a matter of the utmost consequence to the success of the enterprise. Comimies declared this important duty with his usual ability and delayed, through he could not prevent, the defendants of the symbolic in favor of the enemies of France; upon which he served to Florence, where the king then was. Comine does not seem to have been emp- played in any public capacity during the last two years of Charles VHL; that Louis XLI assumed the disease in 1498, he repeated at court to render homages to the new sorcery. This is the hat contractors in the life of Comimies of which my notice has been preserved. He died at Argemon, August 65, 1028, at the age of sixty-four-laws was after his return from Italy that he commenced his Mr. moires, at the solication of Anglo Katho, Archbishop of Venney, who, like himself, had never in the service first of the Duke of Burgendy, and afterwards in that of Louis XLI; and it is also work that he is alone matched for the celebrity of his name. Indeed, among modern historians, no one has been estimated more likely than Coming, who, to the claim of a natural and flexible style, which were on the direct impress of his thoughts, and to the interest which be- longe to the fresh and annual central of an eye-tousness, unless a second bound knowledge of man and affairs, and dis- plays cool observation in happy alliance with some judg- must and concentrate determination. In estimating the quali-lies of conduct and the shades of character, Comimia is perhaps entitled. Taking good as he found there, and regarding them merely as the instruments of Presidente, he declare them what a code, rigorous, yet apparently our students received by a non due to the deliberations spent, that he seems to have looked into their very souls, and to have discovered the real principles or moral? A which he actions were the necessary result or expression. We look in us in his Monotera for maintes, chavicalness, divulninger, or lobbyists others. He never rises above the level of his subject, nor sacrifices that calm dignity of tone while the assassination without, because it seems to have been natural to his character. He people hitte of himself, and the most important circumstances of his line omitted, probably because he results of them might have enumerated him. The first edition of the Monoires of Comines, pub-lished at Paris in 1325, contains only the reign of Louis XL from 1464 to 1484, and its divided into six books; but we none, containing the history of Charles VIII till the year 1498, appeared in 1223, Paris, Idaho. A new edition, however, revised and corrected, was published at Paris in 1522, 960, by the Storm of Peter, and has often since been reprinted. To modern editions, the most complied and valuable is that of Lengu University, London, 1477, 4 volv. 4in.<x_0.5537><y_0.6633><class_Text>\n\n<x_0.1621><y_0.6641>Contracts or Contracts a town of Telephone, province of West Flanders, on the left bank of the Lys, miles SE, of Treés, Pop, (Cion) 3448. To the opposite bank of the river, in the department of Nord, is the French team of this name, with about 3000 inhabitants. The two towns are concerned to a drawbridge. The manufactures are ribbon, thread, catons, Sc.<x_0.5527><y_0.7477><class_Text>\n\n<x_0.1631><y_0.7461>COMITALUS, in law, a county. England was first divided into countries, by counties into hundreds, and there again into tytting, by Alfred the Great. Sometimes it is taken for territory of jurisdiction of a particular place.<x_0.5547><y_0.7945><class_Text>\n\n<x_0.1641><y_0.7937>COMITA, in Roman University, general assemblies of the people, covered by a registered for the purpose of putting any subjects to their vote.<x_0.5557><y_0.8313><class_Text>\n\n<x_0.1611><y_0.8305>The proper combina were of three sons _and certain, contra_- rivals, and tribute, with reference to the three grand divisions of the city and people in _nurcarta_, centuries, and critics far y cowmila celebrity men meant all the coming general, the term colonism (from editor, i.e., courtesy), being their common epithet, though it was at last restricted to assemblies for the creation of priests, and the regulation of lat wills and tenaments, to which the people acted as witnesses merely.<x_0.5518><y_0.9289><class_Text>\n\n<x_0.5645><y_0.0828>The comitia curvida owed its origin to the division which Romulus made of the people into thirty curtu, ten being consumed in every tribe. The curtu answered the next te- aspects to the problem is our cities, being not only separated by proper bounds and limits, but distinguished too by the different places set apart in each for the celebration of religious service, which was performed by particular priest called _extremely,_ one to every citizen.<x_0.9512><y_0.1805><class_Text>\n\n<x_0.5664><y_0.1812>Before the institution of the comitia contents, all the great concerts of the state were transacted in the assembly of the curtu; as the election of kings and other chief officers, the major and beginning of lives, and the judging of qui- ultricutes. After the repetition of the Bishop, when the commons had obtained the privilege of bring tribune and thus, they were the ones now elected at these assemblages, but that ceremony being at length transferred to the comitia tribus, the curtu were never converted to give their votes, reception venue, and making some particular law, relating to an adaptation, walls, and treatments, or the creation of officers for an exposition, for elective, some of the priets, as the famines, and the new maratons, who were four-selves chosen by every particular curtu. The power of calling these was clearly believed at that only to the knayy, but to the establishment of the democracy, this privilege was allowed to most of the magistrates, and sometimes to the positionities.<x_0.9521><y_0.3945><class_Text>\n\n<x_0.5674><y_0.393>The parents who had all liberty of voting over such Romans citizens and belonged to the curtu, or actually lived in the city, and confirmed to the customs and their of their proper cursu and all were excluded who dwell without the bounds of the city, or retained the ceremonies of their own country even, although they had been consumed with the _ja créaviside_ (See Grimes). The place where the cursus met was the conditions a pard of the forum. No fixed time was appointed for holding pay of the comitia, but they were conversed as business required.<x_0.9531><y_0.5109><class_Text>\n\n<x_0.5684><y_0.5117>The people being met together, and murted by the request of good news from the magnent, which may necessary in all the assemblies, the cognitive business to be proposed to them was publicly read. After this, if none of the misti- trates requested, upon the order of him who presided in the comitia, the people divided into their proper cursu, and can be pulled off the matters and then the curtu being called out, as it happened by lot, gave their votes man by man, in ancient times were now, and afterwards by tables; the most votes in every curts going for the voice of the whole curtu, and the most curlar for the general consent of the people.<x_0.9541><y_0.6539><class_Text>\n\n<x_0.5693><y_0.6547>In the time of Clover, the comitia curtains were a much out of isolation that they were formed only only thirty literary representing the thirty curtu; instance, in his second ex-tion region Rulls, the calls them commitate indefinite.<x_0.9473><y_0.7016><class_Text>\n\n<x_0.5703><y_0.7008>The comitia center was inserted by Servita Tul-lia, who had obliged every one to give a time account of that he has saved, and divided the people, according to the returns, that six rows or cases, which is subdivided into a hundred and minety-three centuries. The first class, containing the copies and indeed citizens, consisted of ninety-seven centuries, the third of twenty-the fourth of twenty-two, the fifth thirty; did the study, composed of the persort, and only one century, but this thought it had the same name with the rest, yet was seldom regarded, and scarcely allowed any power in public matter. Hence it is common with the Roman authors, when they speak of the classes to action no means than the skills to being used their notice. She has classanted orders and divided into two parts or entries, the protectorii and the capite coast. The former, as their name implies, were designed purely to stock the republic with men, since they could supply it with so little money i<x_0.9482><y_0.9313><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "d7ad6ff9a24ab5fe0e84755944ff896a9ea697637f95d0079bdee9fbfcc09f68",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:10.709441+00:00",
+    "parser_receipt_sha256": "e48d0cd1a4a33f364f78e57a43a531b51fc03ebc7989724316ec8d89e2170b12",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 101,
+      "occurred_at": "2026-10-18T17:49:03.427591+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 568,
+      "occurred_at": "2026-10-18T17:49:03.995475+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 556,
+      "occurred_at": "2026-10-18T17:49:04.571750+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 587,
+      "occurred_at": "2026-10-18T17:49:05.188957+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 623,
+      "occurred_at": "2026-10-18T17:49:05.854166+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 571,
+      "occurred_at": "2026-10-18T17:49:06.451303+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 584,
+      "occurred_at": "2026-10-18T17:49:07.088635+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 682,
+      "occurred_at": "2026-10-18T17:49:07.785896+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 556,
+      "occurred_at": "2026-10-18T17:49:08.373712+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 43,
+      "occurred_at": "2026-10-18T17:49:08.443442+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 484,
+      "occurred_at": "2026-10-18T17:49:08.927380+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 88,
+      "occurred_at": "2026-10-18T17:49:09.023604+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 7,
+      "occurred_at": "2026-10-18T17:49:09.031029+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 243,
+      "occurred_at": "2026-10-18T17:49:09.274263+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1360,
+    "modern_words": 89,
+    "vocabulary_jaccard": 0.010719754977029096,
+    "jensen_shannon_divergence": 0.9156901116279736,
+    "historical_top_words": [
+      [
+        "the",
+        143
+      ],
+      [
+        "of",
+        82
+      ],
+      [
+        "and",
+        49
+      ],
+      [
+        "to",
+        40
+      ],
+      [
+        "in",
+        29
+      ],
+      [
+        "a",
+        16
+      ],
+      [
+        "he",
+        14
+      ],
+      [
+        "by",
+        14
+      ],
+      [
+        "was",
+        13
+      ],
+      [
+        "were",
+        13
+      ],
+      [
+        "that",
+        12
+      ],
+      [
+        "for",
+        11
+      ],
+      [
+        "their",
+        11
+      ],
+      [
+        "his",
+        10
+      ],
+      [
+        "which",
+        10
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "com",
+        11
+      ],
+      [
+        "hydroxypropyl",
+        6
+      ],
+      [
+        "epoxyalkane",
+        6
+      ],
+      [
+        "transferase",
+        6
+      ],
+      [
+        "r",
+        5
+      ],
+      [
+        "enzyme",
+        4
+      ],
+      [
+        "lyase",
+        4
+      ],
+      [
+        "mercaptoethanesulfonate",
+        4
+      ],
+      [
+        "epoxypropane",
+        4
+      ],
+      [
+        "coenzyme",
+        3
+      ],
+      [
+        "m",
+        3
+      ],
+      [
+        "forming",
+        3
+      ],
+      [
+        "the",
+        2
+      ],
+      [
+        "ring",
+        2
+      ],
+      [
+        "this",
+        2
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "com",
+  "semantic_input": {
+    "query": "com\n182 COM COM\n\nComlima a matter of the utmost consequence to the success of the enterprise. Comimies declared this important duty with his usual ability and delayed, through he could not prevent, the defendants of the symbolic in favor of the enemies of France; upon which he served to Florence, where the king then was. Comine does not seem to have been emp- played in any public capacity during the last two years of Charles VHL; that Louis XLI assumed the disease in 1498, he repeated at court to render homages to the new sorcery. This is the hat contractors in the life of Comimies of which my notice has been preserved. He died at Argemon, August 65, 1028, at the age of sixty-four-laws was after his return from Italy that he commenced his Mr. moires, at the solication of Anglo Katho, Archbishop of Venney, who, like himself, had never in the service first of the Duke of Burgendy, and afterwards in that of Louis XLI; and it is also work that he is alone matched for the celebrity of his name.",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.30030441284179776,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

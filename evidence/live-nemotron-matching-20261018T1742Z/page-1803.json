@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "EN G E 141 T E N G",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:36704617",
+      "title": "Hardy–Littlewood inequality",
+      "corpus": "wikipedia",
+      "text": "In mathematical analysis, the Hardy–Littlewood inequality, named after G. H. Hardy and John Edensor Littlewood, states that if f {\\displaystyle f} and g {\\displaystyle g} are nonnegative measurable real functions vanishing at infinity that are defined on n {\\displaystyle n} - dimensional Euclidean space R n {\\displaystyle \\mathbb {R} ^{n}}, then\n\n∫ R n f (x) g (x) d x ≤ ∫ R n f ∗ (x) g ∗ (x) d x {\\displaystyle \\int _{\\mathbb {R} ^{n}}f(x)g(x)\\,dx\\leq \\int _{\\mathbb {R} ^{n}}f^{*}(x)g^{*}(x)\\,dx}\n\nwhere f ∗ {\\displaystyle f^{*}} and g ∗ {\\displaystyle g^{*}} are the symmetric decreasing rearrangements of f {\\displaystyle f} and g {\\displaystyle g}, respectively.\n\nThe decreasing rearrangement f ∗ {\\displaystyle f^{*}} of f {\\displaystyle f} is defined via the property that for all r > 0 {\\displaystyle r>0} the two super-level sets\n\nE f (r) = { x ∈ X: f (x) > r } {\\displaystyle E_{f}(r)=\\left\\{x\\in X:f(x)>r\\right\\}\\quad } and E f ∗ (r) = { x ∈ X: f ∗ (x) > r } {\\displaystyle \\quad E_{f^{*}}(r)=\\left\\{x\\in X:f^{*}(x)>r\\right\\}}\n\nhave the same volume (n {\\displaystyle n} -dimensional Lebesgue measure) and E f ∗ (r) {\\displaystyle E_{f^{*}}(r)} is a ball in R n {\\displaystyle \\mathbb {R} ^{n}} centered at x = 0 {\\displaystyle x=0}, i.e. it has maximal symmetry.\n\nThe layer cake representation allows us to write the general functions f {\\displaystyle f} and g {\\displaystyle g} in the form\n\nf (x) = ∫ 0 ∞ χ f (x) > r d r {\\displaystyle f(x)=\\int _{0}^{\\infty }\\chi _{f(x)>r}\\,dr\\quad } and g (x) = ∫ 0 ∞ χ g (x) > s d s {\\displaystyle \\quad g(x)=\\int _{0}^{\\infty }\\chi _{g(x)>s}\\,ds}\n\nwhere r ↦ χ f (x) > r {\\displaystyle r\\mapsto \\chi _{f(x)>r}} equals 1 {\\displaystyle 1} for r < f (x) {\\displaystyle r<f(x)} and 0 {\\displaystyle 0} otherwise. Analogously, s ↦ χ g (x) > s {\\displaystyle s\\mapsto \\chi _{g(x)>s}} equals 1 {\\displaystyle 1} for s < g (x) {\\displaystyle s<g(x)} and 0 {\\displaystyle 0} otherwise.\n\nNow the proof can be obtained by first using Fubini's theorem to interchange the order of integration. When integrating with respect to x ∈ R n {\\displaystyle x\\in \\mathbb {R} ^{n}} the conditions f (x) > r {\\displaystyle f(x)>r} and g (x) > s {\\displaystyle g(x)>s} the indicator functions x ↦ χ E f (r) (x) {\\displaystyle x\\mapsto \\chi _{E_{f}(r)}(x)} and x ↦ χ E g (s) (x) {\\displaystyle x\\mapsto \\chi _{E_{g}(s)}(x)} appear with the superlevel sets E f (r) {\\displaystyle E_{f}(r)} and E g (s) {\\displaystyle E_{g}(s)} as introduced above:\n\n∫ R n f (x) g (x) d x = ∫ R n ∫ 0 ∞ χ f (x) > r d r ∫ 0 ∞ χ g (x) > s d s d x = ∫ R n ∫ 0 ∞ ∫ 0 ∞ χ f (x) > r χ g (x) > s d r d s d x {\\displaystyle \\int _{\\mathbb {R} ^{n}}f(x)g(x)\\,dx=\\displaystyle \\int _{\\mathbb {R} ^{n}}\\int _{0}^{\\infty }\\chi _{f(x)>r}\\,dr\\;\\int _{0}^{\\infty }\\chi _{g(x)>s}\\,ds\\,dx=\\int _{\\mathbb {R} ^{n}}\\int _{0}^{\\infty }\\int _{0}^{\\infty }\\chi _{f(x)>r}\\;\\chi _{g(x)>s}\\,dr\\,ds\\,dx}\n\n= ∫ 0 ∞ ∫ 0 ∞ ∫ R n χ E f (r) (x) χ E g (s) (x) d x d r d s = ∫ 0 ∞ ∫ 0 ∞ ∫ R n χ E f (r) ∩ E g (s) (x) d x d r d s. {\\displaystyle =\\int _{0}^{\\infty }\\int _{0}^{\\infty }\\int _{\\mathbb {R} ^{n}}\\chi _{E_{f}(r)}(x)\\;\\chi _{E_{g}(s)}(x)\\,dx\\,dr\\,ds=\\int _{0}^{\\infty }\\int _{0}^{\\infty }\\int _{\\mathbb {R} ^{n}}\\chi _{E_{f}(r)\\cap E_{g}(s)}(x)\\,dx\\,dr\\,ds.}\n\nDenoting by μ {\\displaystyle \\mu } the n {\\displaystyle n} -dimensional Lebesgue measure we continue by estimating the volume of the intersection by the minimum of the volumes of the two sets. Then, we can use the equality of the volumes of the superlevel sets for the rearrangements:\n\n= ∫ 0 ∞ ∫ 0 ∞ μ (E f (r) ∩ E g (s)) d r d s {\\displaystyle =\\int _{0}^{\\infty }\\int _{0}^{\\infty }\\mu \\left(E_{f}(r)\\cap E_{g}(s)\\right)\\,dr\\,ds}\n\n≤ ∫ 0 ∞ ∫ 0 ∞ min { μ (E f (r)), μ (E g (s)) } d r d s {\\displaystyle \\leq \\int _{0}^{\\infty }\\int _{0}^{\\infty }\\min \\left\\{\\mu (E_{f}(r)),\\,\\mu (E_{g}(s))\\right\\}\\,dr\\,ds}\n\n= ∫ 0 ∞ ∫ 0 ∞ min { μ (E f ∗ (r)), μ (E g ∗ (s)) } d r d s. {\\displaystyle =\\int _{0}^{\\infty }\\int _{0}^{\\infty }\\min \\left\\{\\mu (E_{f^{*}}(r)),\\,\\mu (E_{g^{*}}(s))\\right\\}\\,dr\\,ds.}\n\nNow, we use that the superlevel sets E f ∗ (r) {\\displaystyle E_{f^{*}}(r)} and E g ∗ (s) {\\displaystyle E_{g^{*}}(s)} are balls in R n {\\displaystyle \\mathbb {R} ^{n}} centered at x = 0 {\\displaystyle x=0}, which implies that E f ∗ (r) ∩ E g ∗ (s) {\\displaystyle E_{f^{*}}(r)\\,\\cap \\,E_{g^{*}}(s)} is exactly the smaller one of the two balls:\n\n= ∫ 0 ∞ ∫ 0 ∞ μ (E f ∗ (r) ∩ E g ∗ (s)) d r d s {\\displaystyle =\\int _{0}^{\\infty }\\int _{0}^{\\infty }\\mu \\left(E_{f^{*}}(r)\\cap E_{g^{*}}(s)\\right)\\,dr\\,ds}\n\n= ∫ R n f ∗ (x) g ∗ (x) d x {\\displaystyle =\\int _{\\mathbb {R} ^{n}}f^{*}(x)g^{*}(x)\\,dx}\n\nThe last identity follows by reversing the initial five steps that even work for general functions. This finishes the proof.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1344853634",
+      "revision_id": "1344853634",
+      "text_sha256": "fa4adcc6852b2365b9ac7e924974d08632923b8038244d14d6958e3bca6131a5",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:51:59.880835+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.7111406326293945,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:56835844",
+      "title": "Cryptographic multilinear map",
+      "corpus": "wikipedia",
+      "text": "A cryptographic n {\\displaystyle n} -multilinear map is a kind of multilinear map, that is, a function e: G 1 × ⋯ × G n → G T {\\displaystyle e:G_{1}\\times \\cdots \\times G_{n}\\rightarrow G_{T}} such that for any integers a 1, …, a n {\\displaystyle a_{1},\\ldots,a_{n}} and elements g i ∈ G i {\\displaystyle g_{i}\\in G_{i}}, e (g 1 a 1, …, g n a n) = e (g 1, …, g n) ∏ i = 1 n a i {\\displaystyle e(g_{1}^{a_{1}},\\ldots,g_{n}^{a_{n}})=e(g_{1},\\ldots,g_{n})^{\\prod _{i=1}^{n}a_{i}}}, and which in addition is efficiently computable and satisfies some security properties. It has several applications on cryptography, as key exchange protocols, identity-based encryption, and broadcast encryption. There exist constructions of cryptographic 2-multilinear maps, known as bilinear maps, however, the problem of constructing such multilinear maps for n > 2 {\\displaystyle n>2} seems much more difficult and the security of the proposed candidates is still unclear.\n\nIn this case, multilinear maps are mostly known as bilinear maps or pairings, and they are usually defined as follows: Let G 1, G 2 {\\displaystyle G_{1},G_{2}} be two additive cyclic groups of prime order q {\\displaystyle q}, and G T {\\displaystyle G_{T}} another cyclic group of order q {\\displaystyle q} written multiplicatively. A pairing is a map: e: G 1 × G 2 → G T {\\displaystyle e:G_{1}\\times G_{2}\\rightarrow G_{T}}, which satisfies the following properties:\n\nBilinearity\n\n∀ a, b ∈ F q ∗, ∀ P ∈ G 1, Q ∈ G 2: e (a P, b Q) = e (P, Q) a b {\\displaystyle \\forall a,b\\in F_{q}^{*},\\ \\forall P\\in G_{1},Q\\in G_{2}:\\ e(aP,bQ)=e(P,Q)^{ab}}\n\nNon-degeneracy\n\nIf g 1 {\\displaystyle g_{1}} and g 2 {\\displaystyle g_{2}} are generators of G 1 {\\displaystyle G_{1}} and G 2 {\\displaystyle G_{2}}, respectively, then e (g 1, g 2) {\\displaystyle e(g_{1},g_{2})} is a generator of G T {\\displaystyle G_{T}}.\n\nComputability\n\nThere exists an efficient algorithm to compute e {\\displaystyle e}.\n\nIn addition, for security purposes, the discrete logarithm problem is required to be hard in both G 1 {\\displaystyle G_{1}} and G 2 {\\displaystyle G_{2}}.\n\nWe say that a map e: G 1 × ⋯ × G n → G T {\\displaystyle e:G_{1}\\times \\cdots \\times G_{n}\\rightarrow G_{T}} is a n {\\displaystyle n} -multilinear map if it satisfies the following properties:\n\nAll G i {\\displaystyle G_{i}} (for 1 ≤ i ≤ n {\\displaystyle 1\\leq i\\leq n}) and G T {\\displaystyle G_{T}} are groups of same order;\n\nif a 1, …, a n ∈ Z {\\displaystyle a_{1},\\ldots,a_{n}\\in \\mathbb {Z} } and (g 1, …, g n) ∈ G 1 × ⋯ × G n {\\displaystyle (g_{1},\\ldots,g_{n})\\in G_{1}\\times \\cdots \\times G_{n}}, then e (g 1 a 1, …, g n a n) = e (g 1, …, g n) ∏ i = 1 n a i {\\displaystyle e(g_{1}^{a_{1}},\\ldots,g_{n}^{a_{n}})=e(g_{1},\\ldots,g_{n})^{\\prod _{i=1}^{n}a_{i}}};\n\nthe map is non-degenerate in the sense that if g 1, …, g n {\\displaystyle g_{1},\\ldots,g_{n}} are generators of G 1, …, G n {\\displaystyle G_{1},\\ldots,G_{n}}, respectively, then e (g 1, …, g n) {\\displaystyle e(g_{1},\\ldots,g_{n})} is a generator of G T {\\displaystyle G_{T}}\n\nThere exists an efficient algorithm to compute e {\\displaystyle e}.\n\nIn addition, for security purposes, the discrete logarithm problem is required to be hard in G 1, …, G n {\\displaystyle G_{1},\\ldots,G_{n}}.\n\nAll the candidates multilinear maps are actually slightly generalizations of multilinear maps known as graded-encoding systems, since they allow the map e {\\displaystyle e} to be applied partially: instead of being applied in all the n {\\displaystyle n} values at once, which would produce a value in the target set G T {\\displaystyle G_{T}}, it is possible to apply e {\\displaystyle e} to some values, which generates values in intermediate target sets. For example, for n = 3 {\\displaystyle n=3}, it is possible to do y = e (g 2, g 3) ∈ G T 2 {\\displaystyle y=e(g_{2},g_{3})\\in G_{T_{2}}} then e (g 1, y) ∈ G T {\\displaystyle e(g_{1},y)\\in G_{T}}.\n\nThe three main candidates are GGH13, which is based on ideals of polynomial rings; CLT13, which is based approximate GCD problem and works over integers, hence, it is supposed to be easier to understand than GGH13 multilinear map; and GGH15, which is based on graphs.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1325809322",
+      "revision_id": "1325809322",
+      "text_sha256": "8f8976db05d5b05a5c1b6eedbfb739b2b4d5fb80ef2cd4ea1507adb1e4eb1878",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:51:50.631956+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.758218288421631,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:1191490",
+      "title": "Pairing",
+      "corpus": "wikipedia",
+      "text": "In mathematics, a pairing is an R - bilinear map from the Cartesian product of two R - modules, where the underlying ring R is commutative.\n\nLet R be a commutative ring with unit, and let M, N and L be R -modules.\n\nA pairing is any R -bilinear map e: M × N → L {\\displaystyle e:M\\times N\\to L}. That is, it satisfies\n\ne (r ⋅ m, n) = e (m, r ⋅ n) = r ⋅ e (m, n) {\\displaystyle e(r\\cdot m,n)=e(m,r\\cdot n)=r\\cdot e(m,n)},\n\ne (m 1 + m 2, n) = e (m 1, n) + e (m 2, n) {\\displaystyle e(m_{1}+m_{2},n)=e(m_{1},n)+e(m_{2},n)} and e (m, n 1 + n 2) = e (m, n 1) + e (m, n 2) {\\displaystyle e(m,n_{1}+n_{2})=e(m,n_{1})+e(m,n_{2})}\n\nfor any r ∈ R {\\displaystyle r\\in R} and any m, m 1, m 2 ∈ M {\\displaystyle m,m_{1},m_{2}\\in M} and any n, n 1, n 2 ∈ N {\\displaystyle n,n_{1},n_{2}\\in N}. Equivalently, a pairing is an R -linear map\n\nM ⊗ R N → L {\\displaystyle M\\otimes _{R}N\\to L}\n\nwhere M ⊗ R N {\\displaystyle M\\otimes _{R}N} denotes the tensor product of M and N.\n\nA pairing can also be considered as an R -linear map Φ: M → Hom R (N, L) {\\displaystyle \\Phi:M\\to \\operatorname {Hom} _{R}(N,L)}, which matches the first definition by setting Φ (m) (n):= e (m, n) {\\displaystyle \\Phi (m)(n):=e(m,n)}.\n\nA pairing is called perfect if the above map Φ {\\displaystyle \\Phi } is an isomorphism of R -modules and the other evaluation map Φ ′: N → Hom R (M, L) {\\displaystyle \\Phi '\\colon N\\to \\operatorname {Hom} _{R}(M,L)} is an isomorphism also. In nice cases, it suffices that just one of these be an isomorphism, e.g. when R is a field, M,N are finite dimensional vector spaces and L=R.\n\nA pairing is called non-degenerate on the right if for the above map we have that e (m, n) = 0 {\\displaystyle e(m,n)=0} for all m {\\displaystyle m} implies n = 0 {\\displaystyle n=0}; similarly, e {\\displaystyle e} is called non-degenerate on the left if e (m, n) = 0 {\\displaystyle e(m,n)=0} for all n {\\displaystyle n} implies m = 0 {\\displaystyle m=0}.\n\nWhen N = M {\\displaystyle N=M}, a pairing is called symmetric if e (m, n) = e (n, m) {\\displaystyle e(m,n)=e(n,m)} for all m, n, and alternating if e (m, m) = 0 {\\displaystyle e(m,m)=0} for all m. In particular, this implies e (m + n, m + n) = 0 {\\displaystyle e(m+n,m+n)=0}, while bilinearity shows e (m + n, m + n) = e (m, m) + e (m, n) + e (n, m) + e (n, n) = e (m, n) + e (n, m) {\\displaystyle e(m+n,m+n)=e(m,m)+e(m,n)+e(n,m)+e(n,n)=e(m,n)+e(n,m)}. Thus, for an alternating pairing, e (m, n) = − e (n, m) {\\displaystyle e(m,n)=-e(n,m)}.\n\nFor a vector space V {\\displaystyle V} over a field k {\\displaystyle k}, a pairing V × V → k {\\displaystyle V\\times V\\to k} is also called a bilinear form. Examples include any scalar product on a real vector space V, or the determinant map (2 × 2 matrices over k) → k when viewed as a pairing k 2 × k 2 → k {\\displaystyle k^{2}\\times k^{2}\\to k}.\n\nFor the dual module M ∗ {\\displaystyle M^{*}} of M {\\displaystyle M}, the evaluation map M ∗ × M → R {\\displaystyle M^{*}\\times M\\to R}, (λ, m) ↦ λ (m) {\\displaystyle (\\lambda,m)\\mapsto \\lambda (m)} is known as the natural pairing.\n\nOther examples of pairings occur in various duality theories, such as Serre duality or Poincaré duality. See also Dual system.\n\nAnother example is the Yoneda product between Ext groups.\n\nThe Hopf map S 3 → S 2 {\\displaystyle S^{3}\\to S^{2}} written as h: S 2 × S 2 → S 2 {\\displaystyle h:S^{2}\\times S^{2}\\to S^{2}} is an example of a pairing. For instance, Hardie et al. present an explicit construction of the map using poset models.\n\nIn cryptography, often the following specialized definition is used:\n\nLet G 1, G 2 {\\displaystyle \\textstyle G_{1},G_{2}} be additive groups and G T {\\displaystyle \\textstyle G_{T}} a multiplicative group, all of prime order p {\\displaystyle \\textstyle p}. Let P ∈ G 1, Q ∈ G 2 {\\displaystyle \\textstyle P\\in G_{1},Q\\in G_{2}} be generators of G 1 {\\displaystyle \\textstyle G_{1}} and G 2 {\\displaystyle \\textstyle G_{2}} respectively.\n\nA pairing is a map: e: G 1 × G 2 → G T {\\displaystyle e:G_{1}\\times G_{2}\\rightarrow G_{T}}\n\nfor which the following holds:\n\nBilinearity: ∀ a, b ∈ Z: e (a P, b Q) = e (P, Q) a b {\\displaystyle \\textstyle \\forall a,b\\in \\mathbb {Z} :\\ e\\left(aP,bQ\\right)=e\\left(P,Q\\right)^{ab}}\n\nNon-degeneracy: e (P, Q) ≠ 1 {\\displaystyle \\textstyle e\\left(P,Q\\right)\\neq 1}\n\nFor practical purposes, e {\\displaystyle \\textstyle e} has to be computable in an efficient manner\n\nNote that it is also common in cryptographic literature for all groups to be written in multiplicative notation.\n\nIn cases when G 1 = G 2 = G {\\displaystyle \\textstyle G_{1}=G_{2}=G}, the pairing is called symmetric. As G {\\displaystyle \\textstyle G} is cyclic, the map e {\\displaystyle e} will be commutative; that is, for any P, Q ∈ G {\\displaystyle P,Q\\in G}, we have e (P, Q) = e (Q, P) {\\displaystyle e(P,Q)=e(Q,P)}. This is because for a generator g ∈ G {\\displaystyle g\\in G}, there exist integers p {\\displaystyle p}, q {\\displaystyle q} such that P = g p {\\displaystyle P=g^{p}} and Q = g q {\\displaystyle Q=g^{q}}. Therefore e (P, Q) = e (g p, g q) = e (g, g) p q = e (g q, g p) = e (Q, P) {\\displaystyle e(P,Q)=e(g^{p},g^{q})=e(g,g)^{pq}=e(g^{q},g^{p})=e(Q,P)}.\n\nThe Weil pairing is an important concept in elliptic curve cryptography; e.g., it may be used to attack certain elliptic curves (see MOV attack). It and other pairings have been used to develop identity-based encryption schemes.\n\nScalar products on complex vector spaces are sometimes called pairings, although they are not bilinear.For example, in representation theory, one has a scalar product on the characters of complex representations of a finite group which is frequently called character pairing.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1353484656",
+      "revision_id": "1353484656",
+      "text_sha256": "6394d3e8feb80e0327b843dfbc4be116524316db9701413c8ac67749c0fe8ab7",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:51:52.266308+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.8264641761779785,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1803",
+    "title": "Britannica page 1803",
+    "corpus": "britannica",
+    "text": "<x_0.2461><y_0.0563>EN G E 141 T E N G<x_0.7754><y_0.0813><class_Section-header>\n\n<x_0.0713><y_0.0758>_Exgraving, the real comidifier and of pollicity. Engraving in this country fuuted a heavy his win when he died; and if the death of to excelture an still may be considered as a public lolc, his certainly the most delt reflect to Woolley who deal while he was yet improving in that excellence (b).<x_0.5><y_0.1547><class_Text>\n\n<x_0.1338><y_0.1531>Chartshin has been termed a mannerit to his draw-ings, but he will certainly be allowed to be an excellent one on his etching are watery field. Peeling in the department of ceahman no arilt has for happily rendered the picture of Claude. Lorraine as Francis Vivares’s than its with reflects to serial, perspective, the peculiar characteristic of Claude. But his merits are not confined to this matter above, for he followed Raydulla, Bergheim Gaulannosph, and Guyya, with green forests. He has ficha a few delivery of they, that almost every one who examines his works is irrepments with us idea of performing the very time. Two artily, it is then mentioned, have excelled in the etching department. We cannot, however, until the name of Parnentes ywho, to originality of style, which is apparently fontuences, joints or certain granden which between being stipulated. He has remained to perfectly in figured a representation of the Greek and Roman colonies and ruins, that travellers were often embedded that they have ruled their ideas beyond the magnitude of the superfluitudes themselves. It is utterly that to work of this insufenduous nature, a degree of regarded in the execution cererotions and the fullizory of the folghe's and that probation a fili greater power over the mining, than if they had been more polished. Some have suffered his fingers and was inclined could. \"I find each best seen in geniously painted by an excellent arti. All Bartolucci. B For[ tied by if thepurchades of the works of Pernnezzi, get to mind me for their money in the building way. I figures may be grouped out for soign for nothing.\" Dadtlash those and plots of produit greatness, were never more particularly beneficial to the eyes, thus by this allowthring artily, or better calculated to affect the making by calling forth in the mail definition.<x_0.4932><y_0.5813><class_Text>\n\n<x_0.1328><y_0.5797>We have another striking influence of limited etching in a different portrait of the art, in the works of Kildinger, a name which brings along with it all the Savage feerery or nature.<x_0.4922><y_0.6336><class_Text>\n\n<x_0.125><y_0.6344>* Afterthing walves in raging troops defend.<x_0.4365><y_0.6531><class_Text>\n\n<x_0.1689><y_0.6523>They fallen on the feed and pierce his mighty hearty<x_0.4912><y_0.6781><class_Text>\n\n<x_0.3721><y_0.6719>THOSON'S Winter.<x_0.4863><y_0.6891><class_Caption>\n\n<x_0.1211><y_0.6914>For we shall ever end home peculiar beauty to ad-mirts, even in the flightsed productions of poems, as well as in the mund perled productions of the burma.<x_0.4834><y_0.7344><class_Text>\n\n<x_0.1201><y_0.7297>There are fine artily who do not express, that exciting was unknown to Bolsters, who has done in much walk out its andis from which we may really flipped how much more hours would have affected with this charming acquisition. For the truth of this reminds we may upped to his landscapes from Rubens, his animated por-trats from Vanleyke, and his productions from the Plee<x_0.4902><y_0.8242><class_Text>\n\n<x_0.5127><y_0.0789>mith school of library, particularly last large print of the _Engraving_ taking down from the street from Ruben.<x_0.9395><y_0.1148><class_Text>\n\n<x_0.5137><y_0.1125>There is a fine influence of linear effect in a print of eFrench convenient piece by Wille. One of the figures is thinking out of a glide, and the artist has small deceptively described the texture of the drinker's face through the gids. In the tune print, a female figure these great little in this way, given the floor is characterterized by lines: and the whole filmy marks the molt proper mode of treating falsely due of where local nature. The beautiful print of the Petrì Phalecies, is also as al-mobula stimulation, particularly the little polluted globals which has just mounted from the hall. When there are engraved in a figure some method of crafting, they go exactly every day late after she refused to the fluight reprefeuted. The scientific Picart forms to have been in much aware of this, that is a print of his organizing of a large sample group of beliefs, upon the estimated child of Perriere, he adopted this flyle in order to highlight the imbalance.<x_0.876><y_0.3359><class_Text>\n\n<x_0.5146><y_0.3336>MalG's print of Marshall Harcourt, is one of the many fine effects of permits engoringly, and although it was received at an near period of the art, in abounds with no final degree of taille. The celebrated print called the table-body from Titlin, of the Earl Dupper, allo contains a considerable degree of distinct differentiation, though is founded carries it to affetation. He is rather linguistically like male and engragable hair. Yet the portraits of MarthaHarcourt and Boldonne the ferocay may be deemed acceptable.<x_0.875><y_0.4633><class_Text>\n\n<x_0.5156><y_0.4602>Wilks, he has adapted his cooking, is too apt at times to give his works indicriminating the appearance of my, and we frequently fall the line in the figure of Bateshow, but it seems to have been intended for Strongey gave the fateful of emotion to coppery and Woolles, to give three and silenced with detail-ning tafie. Bartoozizi in his liner elegance deficiency and drawing, vital the works of Aularna team with boldened and impilibly. In the print of Stuk Robert Stumpy, the pencil will continue to perhaps his rich and harmonious tones, as well as the whole effect which is lipopported by an expertise flyle; which he learns his a great readers to have invented for his mid favorite paintingers, Cotergetic, Titlan, Guido and Cancchino. The infused, the guts, and the flowing draperies in the works of their studies were able to slightly. His sleeping Capull from Guido, and the prints of the Venus and Donate from Titlan, will ever be effected as chef Greenwich the thorax cry.<x_0.874><y_0.7023><class_Text>\n\n<x_0.5166><y_0.6984>Having thus attempted to fulfill our original intention of discriminating the small expeditive information of lines, and of analyzing and illustrating their various power and effects in originating, we shall now conclude that deleteriousness and if, from the nature of the fish-jeri, and from the limits of the Becky, we have failed in marking any bullish that in the galaxy of the art; and it as fault the schonboarded, that we have not omittedome of thief of the first magnitude.<x_0.8701><y_0.8172><class_Text>\n\n<x_0.5176><y_0.8109>_Ewaxrina upon Glifo._ See GLarst, Engraving on.<x_0.8662><y_0.832><class_Text>\n\n<x_0.7764><y_0.8305>_EsxKriina_<x_0.8633><y_0.8445><class_Text>\n\n<x_0.1182><y_0.857>(c) Although we are now contemplating linear engraving, it is but proper here to offerye, that chalk, en- graving, nezazistine, and aquatitta, have allo made ample improvements in this country, in their various flyles of excellence.<x_0.8682><y_0.907><class_Footnote>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "1d1b5b389b0a92d45af5f5f99167adf6b2b41968272baf62ba5e9870bec5700d",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:57:07.246530+00:00",
+    "parser_receipt_sha256": "c4a7a212e7fa6ceb8a095ac89724a92af10c4e85df4f9e26ec561425e9625608",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 209,
+      "occurred_at": "2026-10-18T17:51:49.377170+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 600,
+      "occurred_at": "2026-10-18T17:51:49.977184+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 632,
+      "occurred_at": "2026-10-18T17:51:50.632001+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1611,
+      "occurred_at": "2026-10-18T17:51:52.266404+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1967,
+      "occurred_at": "2026-10-18T17:51:54.264234+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1254,
+      "occurred_at": "2026-10-18T17:51:55.550431+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1125,
+      "occurred_at": "2026-10-18T17:51:56.704813+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2091,
+      "occurred_at": "2026-10-18T17:51:58.816948+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1039,
+      "occurred_at": "2026-10-18T17:51:59.880883+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 55,
+      "occurred_at": "2026-10-18T17:51:59.954729+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 1374,
+      "occurred_at": "2026-10-18T17:52:01.328951+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 161,
+      "occurred_at": "2026-10-18T17:52:01.498392+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 6,
+      "occurred_at": "2026-10-18T17:52:01.504640+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 640,
+      "occurred_at": "2026-10-18T17:52:02.144516+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1089,
+    "modern_words": 864,
+    "vocabulary_jaccard": 0.07208588957055215,
+    "jensen_shannon_divergence": 0.7668834068988164,
+    "historical_top_words": [
+      [
+        "the",
+        80
+      ],
+      [
+        "of",
+        63
+      ],
+      [
+        "and",
+        33
+      ],
+      [
+        "in",
+        31
+      ],
+      [
+        "to",
+        28
+      ],
+      [
+        "his",
+        19
+      ],
+      [
+        "a",
+        18
+      ],
+      [
+        "is",
+        15
+      ],
+      [
+        "that",
+        12
+      ],
+      [
+        "from",
+        12
+      ],
+      [
+        "have",
+        11
+      ],
+      [
+        "this",
+        10
+      ],
+      [
+        "he",
+        10
+      ],
+      [
+        "for",
+        10
+      ],
+      [
+        "we",
+        10
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "x",
+        84
+      ],
+      [
+        "r",
+        79
+      ],
+      [
+        "f",
+        64
+      ],
+      [
+        "displaystyle",
+        52
+      ],
+      [
+        "g",
+        51
+      ],
+      [
+        "e",
+        47
+      ],
+      [
+        "s",
+        44
+      ],
+      [
+        "the",
+        30
+      ],
+      [
+        "n",
+        30
+      ],
+      [
+        "d",
+        26
+      ],
+      [
+        "int",
+        26
+      ],
+      [
+        "infty",
+        18
+      ],
+      [
+        "and",
+        14
+      ],
+      [
+        "χ",
+        13
+      ],
+      [
+        "chi",
+        13
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "g e t n",
+  "semantic_input": {
+    "query": "g e t n\nEN G E 141 T E N G\n\n_Exgraving, the real comidifier and of pollicity. Engraving in this country fuuted a heavy his win when he died; and if the death of to excelture an still may be considered as a public lolc, his certainly the most delt reflect to Woolley who deal while he was yet improving in that excellence (b).\n\nChartshin has been termed a mannerit to his draw-ings, but he will certainly be allowed to be an excellent one on his etching are watery field. Peeling in the department of ceahman no arilt has for happily rendered the picture of Claude. Lorraine as Francis Vivares’s than its with reflects to serial, perspective, the peculiar characteristic of Claude. But his merits are not confined to this matter above, for he followed Raydulla, Bergheim Gaulannosph, and Guyya, with green forests. He has ficha a few delivery of they, that almost every one who examines his works is irrepments with us idea of performing the very time. Two artily, it is then mentioned, have excelled in the e",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.04707765579223633,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

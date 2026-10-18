@@ -1,0 +1,307 @@
+{
+  "status": "candidate",
+  "question": "408",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:24033355",
+      "title": "The 408",
+      "corpus": "wikipedia",
+      "text": "47°14′02″N 6°00′40″E / 47.234°N 6.011°E\n\nThe 408 (French: les quatre-cents huit) is a sector of Besançon. Like Planoise and Clairs-Soleils, The 408 has a notoriety for crime. It is sometimes viewed as a sub-sector of Grette.\n\nThe name \"Grette\" takes its name from the French verb \" gratter \", meaning to scrape at the Earth and remove the rocks in order to cultivate the land.\n\nThe first mention of the neighborhood comes from 1544 as \"Gratte sous Chamdianne\" (Grette sous Chaudanne).\n\nFrom 1959 to 1962 the 408 was built, its name given by the population of Besançon to label the three apartment blocks, of which the first two amounted to 408 apartments, before the construction of the third was completed. The third block brought the total number to 588, however, \"The 408\" stuck. In 1968 the street near to The 408 was widened into a boulevard, to be called the Boulevard de la Grette. It is now known as the Avenue François-Mitterrand, and connects Planoise through the 408 to the city center.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1226426159",
+      "revision_id": "1226426159",
+      "text_sha256": "3cd716e45148e417165c824721c34fdab00299fee43ece5d30f2fe07c82adfd5",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:20:46.894389+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.1811633110046387,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:17457294",
+      "title": "List of highways numbered 408",
+      "corpus": "wikipedia",
+      "text": "Route 408 or Highway 408 may refer to:\n\nManitoba Provincial Road 408\n\nNational Route 408\n\nJapan National Route 408\n\nFlorida State Road 408\n\nGeorgia State Route 408 (unsigned designation for Interstate 475\n\nLouisiana Highway 408\n\nMaryland Route 408\n\nMaryland Route 408\n\nNew York:\n\nNew York State Route 408\n\nNew York State Route 408A (former)\n\nNew York State Route 408 (former)\n\nCounty Route 408 (Albany County, New York)\n\nCounty Route 408 (Erie County, New York)\n\nPennsylvania Route 408\n\nPuerto Rico Highway 408\n\nTexas State Highway Spur 408\n\nVirginia State Route 408 (former)",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1217283507",
+      "revision_id": "1217283507",
+      "text_sha256": "24ea60b1ace61482565d4c03a3eda90c846ebe9835b429d2691ef87090141e73",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:20:44.065875+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.6850807666778564,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:64135080",
+      "title": "National Route 408 (Costa Rica)",
+      "corpus": "wikipedia",
+      "text": "National Tertiary Route 408, or just Route 408 (Spanish: Ruta Nacional Terciaria 408, or Ruta 408) is a National Road Route of Costa Rica, located in the Cartago province.\n\nIn Cartago province the route covers Paraíso canton (Orosi district), Jiménez canton (Pejibaye district).\n\nLandslides are common in this route.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1305254693",
+      "revision_id": "1305254693",
+      "text_sha256": "ef88402527152bca55aee4a4b3ba6b2dda0d98b0e6d04fa452c5a30a8a967082",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:20:54.211440+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.1704065799713135,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2524",
+    "title": "Britannica page 2524",
+    "corpus": "britannica",
+    "text": "<x_0.0518><y_0.0281>408<x_0.0957><y_0.0469><class_Page-header>\n\n<x_0.4111><y_0.0266>**HINDUSTAN.**<x_0.6602><y_0.0477><class_Page-header>\n\n<x_0.0508><y_0.0516>_Hindustan as the most shocking of crimes, by burning on a heated plate of iron; or against the lower tubes, in whom adultery with a Brahmann woman is considered as the climax of bitumen depetty, centrally to be arranged by any punishment, however dreadful. On the ever hand, crimes committed by the higher classes against the lower are very slightly unshaled, the sake of punishment being: In all cases graduated in an inverse ratio to the rank of the offenders.<x_0.5303><y_0.1617><class_Text>\n\n<x_0.0537><y_0.1625>Archites: _ture._<x_0.1084><y_0.1859><class_Text>\n\n<x_0.1201><y_0.1688>1 architecture, in the fine arts, in painting and music, the Hindus are greatly inferior to the Europe. The purpose, the exhibits, and other structures, the only remaining specimens of their architecture, are, according to some, you’re remarkable for the magnitude of their dimensions than for their just proposes one for tasks. - The columns and pillars,\" says Tennant, \"which adorn their immense periods are destined if any fixed proportions and the celles themselves are subjected to no wake of architectures.\" He afterwards adds, that the celebrated manundem at Agra has little to boost its effect in simplicity or elegance of design. \" No immoney of his size, its costly ornament, and the minor accesses of its decorations in particular parts, are worthy of notice, they afford much stronger proofs of the wealth and magnificence of Shah Jeban, than the correctness of its taste.\" The combo and religious editions of Hinturas are, on the other hand, highly commended by Bishop Heber for delivery, beauty, and make. \" The anomalomat at Agra in celebates as the most splendid building, in its way, that he had seen in India!\" Humion's bomb at Delhi to also prises as a mobile building of granite, initial with marble, and in a very chaste and ample style of Gotha architecture; and of the numbers are collected in Lachow V remarks. \"The whole is in a very noble style of eastern Gothic, and, when taken in conjunction with the Romri Durwase which adjoins it. I have never seen an architectural view which placed me more, from its richness and variety, as well as the proportions and general good taste of the principal features. There seems no doubt, from the splendid structures that are still found in different parts of Hinturas, that architects and the limitedest and had founded among the Hindus of a remoter age; though it is mentioned by Colonel Todd, that very few years spectacular of the drs have been ecected within the last 700 years. His de-scription, however, the splendid Juin females at Ajmeror and other parts some of them erected long prior to the Christian era, and distinguished alike by cutaneous and beauty of design, along truly this can exclude finishing, must convince the most mercilations, that in these remote times the arts had made great progress in Hindustan. These structures are not nearly thousands of labor, but of rats; they criticize the perfection of art; and in symmetry, beauty of proportion, unity of design, and splendir ornament, they rival the nobles producers of classical Europe. The history of the people who were raised these structures presents a wide field for antiquarian research, on which Council had interest with the brilliant promise of interesting results; and to his learned inquiries and cloquet and pootical descriptions<x_0.5312><y_0.7875><class_Text>\n\n<x_0.5352><y_0.0523>we refer for a further account of those ancient monuments Hindus of Hindu art?<x_0.9814><y_0.0758><class_Text>\n\n<x_0.5361><y_0.075>Of the Hindu paintings the chief merit is brillany of Palm colony, rather than taste in the design on livesiness of sexpression. They imitate most exactly, and are excellent dragstones; and they draw specimens of natural history with main mediastinal and secretory. \"The behavior as acentness with which they imitate every feather of a bird,\" says Tennant, \"For the smallest three on the kind of a plant, vendors them valuable assistants in this department; but further than this they cannot advance one step. If your bird is to be planted on a week on the beach of tree, the draughmanas is at a stand; the object is not be foreshure, and he can supply nothing.\" Since this period, however, the Hindus knew almost attractive in the art of painting; and some of their portraits display taste and expression that would now describe European artists.<x_0.9473><y_0.2602><class_Text>\n\n<x_0.5371><y_0.2594>The essence of the Hindus has been generally rated Literary, very few by European writers, and has been represented as consisting in long desultory poems, inflated and extrag gunt in their styly, containing under the idea of history, or tissue of absurd shides, interpreted in this passages or episodes that are tender and passionate, and possess all the investment of patastoral poetry. They are said to be deadly constitute of historical mama, and their geography is a mass of errors. Nor has their astronomy theme claims to aniquity which were at how allowed. Accurate inquiry has proved the science to be in its infancy amongst them.\" The ward of historical records by the Hindu is strongly studied by Goldman, David, who la him himself composed a history of the Rajpoots from native works, which he found to the libraries of their primers and he as such that the those depictions of Hindu literature many more works exists, which would reward the researches of the learned. \" The works of the native herbs; he doresives,\" afford many valuable data in facts, incidents, religions opinions, and traits of mannerism.\" \"In the heroic history of Priblep, by Church,\" he adds, there never many geographical as well as historical details, in the description of his averageigars, wary, of which the land was an eye-victness, having been farfered, his liberal, his amraise sador, and finally discharging the melancholy office of accuracy to his death, that he might see him from this nous.\" The brainimical accounts of the developments of temples, of their dilapidation and repairs, supply historii and and technological details, also the legends expecting places of pilgrimage and religious resort. Much histories did information lies in in the controversial records of the Asians and, says Colonel Todd, \"those different records, works of mixed historical and geographical character, which I love to exists, readers to postate Uganda of pictures, which are common, local purposes, religious com-ments and traditionary couples, with authorities of less dobious character, namely, interceptions cut or rocks, colors, copperplate grants, constantly charted of immunities, and expressing many singular features of civil government,<x_0.9463><y_0.7898><class_Text>\n\n<x_0.1172><y_0.8102>1 The following is his description of this monument of Hindus art--is--It stands in a square area of about forty English acres, enclosed by an enathalled wall, with estagaml towers at the angles, surrounded by my problems, and four very noble gardens of red genius, the palephol of which is inland with white marble, and has four high maybe minarets. The space within a limited with trees, and divided into groups, where the recreation buildings, which is next of solid pyramid, armonarily with disksters, galleries, and homes, diminishing gradually in ascending it, till it, ends in a square platform of white marble, surrounded by most elaborate latticeworks of the same material, in the center of which is a small later touch, also of white marble, carved with a delicacy and beauty which do full paths to the materials, and to the graceful forms of which characters, and form the chief come murd.<x_0.9453><y_0.8969><class_Footnote>\n\n<x_0.1367><y_0.8938>_Hebron, vol. ii. p. 65._<x_0.2803><y_0.9031><class_Footnote>\n\n<x_0.2793><y_0.9016>_Amais of Rejest/han, vol. i. chap. xxxp. p. 070 : chap. xxxp. p. 779._<x_0.7451><y_0.9094><class_Footnote>\n\n<x_0.1357><y_0.9039>_For more full details on this subject, the reader is referred to Mill’s History of British Indias, vol. ii. p. 88, et seqg._<x_0.8457><y_0.9258><class_Footnote>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "1cf6902f75b70986a29a904b7f5699dc7c88ad0d823d689c80a84d37acd3cbc4",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:58:34.135305+00:00",
+    "parser_receipt_sha256": "0003d41505dd09ebc50cb4f19831c190fb69410af7ea08481be69065e23a1753",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 1162,
+      "occurred_at": "2026-10-18T18:20:37.900766+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 6165,
+      "occurred_at": "2026-10-18T18:20:44.065911+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1007,
+      "occurred_at": "2026-10-18T18:20:45.099818+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1773,
+      "occurred_at": "2026-10-18T18:20:46.894423+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 3781,
+      "occurred_at": "2026-10-18T18:20:50.705027+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 3475,
+      "occurred_at": "2026-10-18T18:20:54.211488+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1699,
+      "occurred_at": "2026-10-18T18:20:55.936288+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1967,
+      "occurred_at": "2026-10-18T18:20:57.934549+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1412,
+      "occurred_at": "2026-10-18T18:20:59.376045+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 76,
+      "occurred_at": "2026-10-18T18:20:59.479400+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 1619,
+      "occurred_at": "2026-10-18T18:21:01.098010+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 1594,
+      "occurred_at": "2026-10-18T18:21:02.706418+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 12,
+      "occurred_at": "2026-10-18T18:21:02.718250+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 1568,
+      "occurred_at": "2026-10-18T18:21:04.286673+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1244,
+    "modern_words": 161,
+    "vocabulary_jaccard": 0.03982300884955752,
+    "jensen_shannon_divergence": 0.6495683648610228,
+    "historical_top_words": [
+      [
+        "the",
+        90
+      ],
+      [
+        "of",
+        85
+      ],
+      [
+        "and",
+        53
+      ],
+      [
+        "in",
+        34
+      ],
+      [
+        "to",
+        20
+      ],
+      [
+        "a",
+        19
+      ],
+      [
+        "which",
+        16
+      ],
+      [
+        "is",
+        15
+      ],
+      [
+        "are",
+        14
+      ],
+      [
+        "by",
+        13
+      ],
+      [
+        "with",
+        12
+      ],
+      [
+        "as",
+        11
+      ],
+      [
+        "their",
+        10
+      ],
+      [
+        "that",
+        10
+      ],
+      [
+        "on",
+        9
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "the",
+        24
+      ],
+      [
+        "to",
+        9
+      ],
+      [
+        "of",
+        6
+      ],
+      [
+        "a",
+        4
+      ],
+      [
+        "grette",
+        4
+      ],
+      [
+        "is",
+        3
+      ],
+      [
+        "and",
+        3
+      ],
+      [
+        "as",
+        3
+      ],
+      [
+        "name",
+        3
+      ],
+      [
+        "from",
+        3
+      ],
+      [
+        "was",
+        3
+      ],
+      [
+        "n",
+        2
+      ],
+      [
+        "e",
+        2
+      ],
+      [
+        "french",
+        2
+      ],
+      [
+        "sector",
+        2
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending."
+  ],
+  "candidate_query": "408",
+  "semantic_input": {
+    "query": "408\n408\n\n**HINDUSTAN.**\n\n_Hindustan as the most shocking of crimes, by burning on a heated plate of iron; or against the lower tubes, in whom adultery with a Brahmann woman is considered as the climax of bitumen depetty, centrally to be arranged by any punishment, however dreadful. On the ever hand, crimes committed by the higher classes against the lower are very slightly unshaled, the sake of punishment being: In all cases graduated in an inverse ratio to the rank of the offenders.\n\nArchites: _ture._\n\n1 architecture, in the fine arts, in painting and music, the Hindus are greatly inferior to the Europe. The purpose, the exhibits, and other structures, the only remaining specimens of their architecture, are, according to some, you’re remarkable for the magnitude of their dimensions than for their just proposes one for tasks. - The columns and pillars,\" says Tennant, \"which adorn their immense periods are destined if any fixed proportions and the celles themselves are subjected to no wake ",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.5039174556732178,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

@@ -1,0 +1,307 @@
+{
+  "status": "candidate",
+  "question": "_Swift_ in his power to provide him indarwify. Swift that person (10/3) in different, having previously taken his matter’s degree at Oxford, by means of a tellimonal from Dublin, in which the world of debates were omitted. He was referred to enter into the",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:3573435",
+      "title": "Moral certainty",
+      "corpus": "wikipedia",
+      "text": "Moral certainty is a concept of intuitive probability. It means a very high degree of probability, sufficient for action, but short of absolute or mathematical certainty.\n\nThe notion of different degrees of certainty can be traced back to a statement in Aristotle 's Nicomachean Ethics that one must be content with the kind of certainty appropriate to different subject matters, so that in practical decisions one cannot expect the certainty of mathematics.\n\nThe Latin phrase moralis certitudo was first used by the French philosopher Jean Gerson about 1400, to provide a basis for moral action that could (if necessary) be less exact than Aristotelian practical knowledge, thus avoiding the dangers of philosophical scepticism and opening the way for a benevolent casuistry.\n\nThe Oxford English Dictionary mentions occurrences in English from 1637.\n\nIn law, moral (or \"virtual\") certainty has been associated with verdicts based on certainty beyond a reasonable doubt.\n\nLegal debate about instructions to seek a moral certainty has turned on the changing definitions of the phrase over time. Whereas it can be understood as an equivalent to \"beyond reasonable doubt\", in another sense, moral certainty refers to a firm conviction which does not correlate but rather opposes evidentiary certainty: i.e. one may have a firm subjective gut feeling of guilt – a feeling of moral certainty – without the evidence necessarily justifying a guilty conviction.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1295426417",
+      "revision_id": "1295426417",
+      "text_sha256": "d09ab6b80e3562a4faa8996b8f385bbc17fb6bfab4443e361932bc5454c39119",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:43:24.546659+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.1477952003479004,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:5683641",
+      "title": "Passive intellect",
+      "corpus": "wikipedia",
+      "text": "The passive intellect (Latin: intellectus possibilis; also translated as potential intellect or material intellect), is a term used in philosophy alongside the notion of the active intellect in order to give an account of the operation of the intellect (nous), in accordance with the theory of hylomorphism, as most famously put forward by Aristotle.\n\nAristotle gives his most substantial account of the passive intellect (nous pathetikos) in De Anima (On the Soul), Book III, chapter 4. In Aristotle's philosophy of mind, the passive intellect \"is what it is by becoming all things.\" By this Aristotle means that the passive intellect can potentially become anything by receiving that thing's intelligible form. The active intellect (nous poietikos) is then required to illuminate the passive intellect to make the potential knowledge into knowledge in actuality, in the same way that light makes potential colors into actual colors. The analysis of this distinction is very brief, which has led to dispute as to what it means.\n\nGreek thought\n\nWhile Greek commentators such as Alexander of Aphrodisias and Themistius were broadly silent on the active intellect (debate over this would only become heated in the thirteenth-century Christian West in the context of debates over whether Avicenna or Averroes provided the account of the working of the intellect that best cohered with Christian doctrine), they provided a great deal of commentary on the nature of the passive intellect. For instance, to Alexander of Aphrodisias (who coined for this power the term 'material intellect', a name later taken up by Averroes) the passive intellect was a separate intellect from the active.\n\nAverroes and Aquinas\n\nLater philosophers, including Averroes and St. Thomas Aquinas, proposed mutually exclusive interpretations of Aristotle's distinction between the active and passive intellect. Other terms used are \"material intellect\" and \"potential intellect\", the point being that the active intellect works on the passive intellect to produce knowledge (acquired intellect), in the same way that actuality works on potentiality or form on matter.\n\nAverroes held that the passive intellect, being analogous to unformed matter, is a single substance common to all minds, and that the differences between individual minds are rooted in their phantasms as the product of the differences in the history of their sense perceptions. Aquinas argues against this position in Disputed Questions on the Soul (Quaestiones disputatae de Anima), asserting that, while the passive intellect is one specifically, numerically it is many, as each individual person has their own passive intellect.\n\nPassive intellect is identical with Aql bi al-Quwwah in Islamic philosophy. Aql bi-al-Quwwah, defined as reason, could abstract the forms of entities with which it is finally identified. For Farabi, the potential intellect becomes actual by receiving the form of matter. In other words, Aql al-Hayulani tries to separate the forms of existents from their matter. The form become identical with Aql. Farabi also recognised the potential intellect as part of soul.\n\nThe soul is no separate immaterial entity. Wherever there is Nature, the soul is its universal immaterialism, its simple 'ideal' life. Soul is the substance or 'absolute' basis of all the particularizing and individualizing of mind: it is in the soul that mind finds the material on which its character is wrought, and the soul remains the pervading, identical ideality of it all. But as it is still conceived thus abstractly, the soul is only the sleep of mind - the passive nous of Aristotle, which is potentially all things.\n\n— G.W.F. Hegel, Philosophy of Mind/Spirit, Part Three of The Encyclopaedia of Philosophical Sciences (1830), § 389, trans. William Wallace (Oxford: Oxford University Press, 1971), p.29\n\nRecalling the tradition inaugurated by Al-Farabi and then by Averroes' monopsychism, Hegel also stated that passive intellect is the universal soul, the universal substance, immaterial, separate from the individual and formless (\"is potentially all things\") that is able to particularise and realise the Spirit in any individual subject. While this individuation is taking place, it always remains itself, that is to say immaterial and universal, without any mixture with body's matter: in other words, according to Moses Narboni, the unique intellect \"is with the body, but not in the body.\"\n\nCommentarium magnum in Aristotelis De anima libros, ed. Crawford, Cambridge (Mass.) 1953: Latin translation of Averroes' long commentary on the De Anima\n\nAverroes (tr. Alain de Libera), L'intelligence et la pensée, Paris 1998: French translation of Averroes' long commentary on book 3 of the De Anima",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1327095514",
+      "revision_id": "1327095514",
+      "text_sha256": "d64427bc2df82da990d317151332b8568f1592a9e84b9d2c31e15bd1432e9818",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:43:25.643307+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.7402515411376953,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:1445268",
+      "title": "Master of Arts (Oxford, Cambridge and Dublin)",
+      "corpus": "wikipedia",
+      "text": "In the universities of Oxford, Cambridge, and Dublin, recipients of the Bachelor of Arts (BA) degree may, upon application, be promoted to the degree of Master of Arts (MA). This promotion requires only the passage of a specified period of time and does not involve any further examination or study. The newly conferred degree is regarded as a mark of seniority rather than an additional postgraduate qualification. The postnominal letters \"MA\" are followed by the abbreviated Latin name of the conferring university: Oxon (Oxford), Cantab (Cambridge), or Dubl (Dublin).\n\nIn addition, under the principle of ad eundem gradum, graduates of the universities of Oxford, Cambridge, and Dublin may use a process called \"incorporation\" to be granted equivalent academic degrees at either of the other two universities, provided that they wish to register for a separate higher degree at that university or are members of the academic staff, and that the required fee is paid. One of the most frequently cited examples of incorporation is that of the steamboat ladies — approximately 720 women graduates of Oxford and Cambridge who were awarded Dublin degrees. Although not earned through further study, both the original degree(s) and any incorporated ad eundem degree(s) may be listed as post-nominals in the Oxford University Calendar.\n\nThis promotion may take place no earlier than seven years after starting one's degree at Oxford, six years after starting the degree at Cambridge, and three years after graduation at Dublin. While these three universities also award postgraduate master’s degrees that require further study, they do not use the title ‘MA’ for any taught or examined postgraduate qualification. This practice differs from that of most universities worldwide, where the Master of Arts degree denotes postgraduate study. Consequently, the degrees are often referred to as the Oxford and Cambridge MA, and the Dublin or Trinity MA, in order to distinguish them. This system has at times caused confusion among employers, who may mistakenly regard the promoted MA as an additional academic qualification. Similarly, while a MPhil at other universities would suggest a longer research-focused postgraduate degree, such a degree is awarded to graduates of shorter, mostly taught postgraduate programmes at Cambridge, Dublin and Oxford, adding to the possible confusion.\n\nThis system dates back to the Middle Ages, when the study of the liberal arts typically took seven years. At that time, students often entered universities at a much younger age than is common today, sometimes as young as 13 or 14. The basic university education comprised the Trivium (grammar, rhetoric, and dialectic) and the Quadrivium (geometry, arithmetic, astronomy, and music), which together took about seven years of full-time study.\n\nDuring this period, a student would first earn a baccalaureate, or bachelor's degree, after completing part of his studies. The division between the trivium and quadrivium did not always correspond to the division between the BA and MA degrees, though it was adopted at Cambridge during the Tudor period and remained in place long after other European universities had moved away from it. At the University of Paris, the baccalaureate was awarded soon after responsions (the matriculation exam), while at Oxford and Cambridge the BA was granted much later and became more significant over time.\n\nUpon being admitted to the degree of Master of Arts, a student would become a full member of the university and gain the right to vote in the Convocation. The new MA could then teach at the university for a set number of years, during which time they were referred to as a 'regent' or 'regent master.' Upon completing this period of teaching, they would become a 'non-regent master' and either leave the university or remain to pursue further studies in one of the higher faculties—Divinity, Canon or Civil Law, or Medicine.\n\nOver time, it became possible to study in these higher faculties as a BA, although a graduate could not be promoted to a higher degree until they had the seniority required to become an MA. As the requirements for the BA increased, the requirements for the MA gradually diminished. By the 18th century, the practice had largely become a formality, and students could meet residency requirements (once fulfilled by attending lectures) simply by keeping their names on the college books. In 1800, Oxford introduced modern-style examinations for the BA and MA degrees, but the MA examination was abolished in 1807.\n\nFrom at least the 16th century, noblemen formed the most select group of undergraduates, paying four times the normal fees and sometimes receiving an MA degree after just two years of residence, without completing the BA degree. However, many did not stay long enough to graduate. Noblemen were distinguished by gold tassels on their mortarboard caps, compared to the black ones worn by students of lower social ranks. Students of the next rank— fellow-commoners at Cambridge and Dublin or gentlemen commoners at Oxford—paid twice the standard fees, dined with the fellows, and were exempt from attending lectures and performing exercises required for the BA. They could graduate a year earlier than students in lower ranks. However, at Cambridge, both higher categories were still required to take the Senate House Examination to receive an honours degree. Below these were commoners at Oxford or pensioners at Cambridge and Dublin, who paid the standard fees and were more likely to remain and graduate. At the bottom were servitors at Oxford and sizars at Cambridge and Dublin, who had their fees subsidized by the college in exchange for menial duties. Oliver Goldsmith was a sizar; Isaac Newton was a subsizar. These distinctions were gradually phased out during the 19th century.\n\nReforms in the late 16th century allowed some ordinary undergraduates to bypass the BA stage altogether. Previously, it was necessary to wait three years after earning a BA to become a bachelor of laws or medicine, but after paying a fine, students could leave college after three years of residence to study at the Inns of Court or a teaching hospital, and return for a professional bachelor's degree, as was the case with William Blackstone.\n\nUntil 1865, all students at King's College, Cambridge were from Eton College and could graduate BA and later MA without taking university exams. Similarly, students at New College, Oxford, who all came from Winchester College, had the same exemptions until 1834.\n\nAlthough the length of undergraduate degree programs has been reduced to three or four years in all subjects, the MA degree at Oxford, Cambridge, and Dublin is still awarded roughly seven years after matriculation. This reflects the fact that much of the liberal arts education has been transferred to grammar schools, with students now entering university at an older age, typically between 17 and 19. (In France, the school-leaving certificate is still called the baccalauréat.)\n\nDurham University (which awarded its first MA in 1838) and the University of London (first MA awarded in 1840) broke away from the ancient English model by treating the MA as a distinct higher degree, awarded after further examination. However, by instituting further study beyond the initial baccalaureate, these universities can be seen to have reverted to the ancient model. Most modern universities followed their lead, with the Oxford, Cambridge, and Dublin system becoming the exception. Some universities adopted the ancient model temporarily, allowing progression within the same faculty, such as from BSc to MSc, but later switched to the newer system.\n\nAmong the \" steamboat ladies \" (female students at Oxford and Cambridge who were awarded ad eundem degrees by the University of Dublin between 1904 and 1907, at a time when their own universities refused to confer degrees upon women), some, like Julia Bell, earned MAs.\n\nWhile today only Cambridge, Oxford, and Trinity College, Dublin promote students to the degree of Master of Arts three years after graduation, this was a practice at other colleges before the 20th century.\n\nAlthough Durham University recognised the MA as higher degree, its regulation, at least until the 1940s, stipulates that Bachelor of Arts may be admitted to the degree of Master of Arts without further examination provided that they have been placed in the first or second class in the Final Honours Examination for the degree of Bachelor of Arts of nine terms’ standing (three years), or six terms’ (two years) standing of Bachelor of Architecture. The regulation also states that Bachelor of Arts, having passed examination of other Bachelor’s degree of the university except Music or a Diploma in Theology may also be admitted an MA without further studies and examination.\n\nIn the United States, Harvard University engaged in this practice from the mid-1600s until 1872. At Yale University, an MA without examination was an award from its foundation until 1871. Likewise, Columbia University awarded the Master of Arts in this manner from its origins as King's College, during which, in 1761, three of the five members of the original graduating class of 1758 were promoted to Master of Arts. The practice was abolished by the Board of Trustees in June 1880, when a formal exam for the Master of Arts was introduced.\n\nOther American colleges, during the mid to late 1800s, awarded a Master of Arts \"in course\" to graduates of three years standing, including at Amherst College and Union College. As late as 1882, the Master of Arts in the United States was described as \"a meaningless record of the circumstance that a graduate survived graduation three years and visited his College at the close of this period.\"\n\nAt Oxford, Cambridge, and Dublin, a Bachelor of Arts graduate may \"incept\" as a Master of Arts after a certain period, without further examination or residence but sometimes upon payment of a fee.\n\nAt Oxford, the MA can be conferred after the twenty-first term following matriculation (typically seven years after entering the university) upon holders of an Oxford BA or Bachelor of Fine Arts (BFA). Holders of other undergraduate Oxford degrees, such as Bachelor of Theology or Master of Mathematics, are not entitled to the MA.\n\nAt Cambridge, the MA may be conferred six years after the first term in residence upon holders of a Cambridge BA. The previous rule that the BA must be held for two years before applying for the MA was suspended for many due to delays caused by the COVID-19 pandemic. The MA can also be awarded to senior university or college staff after three years of employment.\n\nAt Dublin, the MA may be conferred on holders of a Dublin BA after three years, provided they have completed at least nine terms of residence. A fee is payable, though it is waived for graduates of over fifty years' standing.\n\nThere are other situations in which the MA may be awarded, such as to members of staff, but these are the most common. Specific regulations can be found in the statutes of the respective universities.\n\nIn accordance with the formula of ad eundem gradum, a form of mutual recognition among the three universities, a graduate entitled to an MA degree from one institution may have the equivalent title conferred by one of the other two without further examination.\n\nMasters of Arts of the three universities may use the post-nominal letters \"MA\". Although honours are sometimes awarded for the examinations leading to the BA degree, the style \"MA (Hons)\" is not used. The Latin abbreviation of the university (Oxon, Cantab or Dubl) is often appended in brackets e.g. \"John Smith, MA (Cantab)\". Additionally, the BA degree is not shown alongside the MA award; only the MA should be used.\n\nIf someone incorporates from one of the above universities to another, the Latin et can be inserted between the university names, e.g. \"MA (Oxon et Cantab)\", etc. as opposed to \"MA (Oxon), MA (Cantab)\" which would indicate that the holder graduated MA at both universities.\n\nThe Oxford University Gazette and University Calendar have, since 2007, used Oxf rather than Oxon (also Camb rather than Cantab and Dub rather than Dubl) to match the style used for other universities.\n\nThe degree of Master of Arts traditionally carried various rights and privileges, the chief of which was membership of the legislative bodies of the universities – Convocation at Oxford and the Senate at Cambridge and Dublin. These were originally important decision-making bodies, approving changes to the statutes of the universities and electing various officials, including the two members of Parliament for each university. Inception to the MA degree was the principal way of becoming a member of these bodies, though it is not the only way, e.g. at Oxford Doctors of Divinity, Medicine and Civil Law were always also automatically members of Convocation. Today, the main role of Convocation and Senate is the election of the Chancellor of each university as well as the Professor of Poetry at Oxford and the High Steward at Cambridge.\n\nThe privileges accorded to MAs and other members of Convocation/Senate were formerly very important. At Oxford, until 1998 the Proctors only had the power to discipline \"junior members\" (those who had not been admitted to membership of Convocation), which meant that any graduate student who had incepted as an MA was immune from their authority. At Cambridge, MAs and those with MA status continue to be exempt from the rules governing the ownership of motor vehicles by students. Other privileges intended for academic staff and alumni, e.g. the right to dine at High Table, to attend Gaudies, to walk upon college lawns, etc., are in most colleges restricted to MAs, which excludes the majority of graduate students.\n\nFor Cambridge, membership of the Senate is no longer limited to the MA and in 2000, Oxford opened membership of Convocation to all graduates.\n\nFor Dublin, the right to elect senators to the upper house of the Irish parliament, Seanad Éireann, is now restricted to those who are Irish citizens and since 1918 the franchise was extended to include all graduates, not only those with an MA.\n\nThe MA degree gives its holder a particular status in the universities' orders of precedence/seniority. In the University of Oxford a Master of Arts enjoys precedence, standing, and rank before all doctors, masters, and bachelors of the university who are not Masters of Arts, apart from Doctors of Divinity and Doctors of Civil Law. Precedence, standing, and rank were formerly important for determining eligibility for appointments such as fellowships, but now generally have only a ceremonial significance.\n\nIn Oxford, until 2000 the university statutes required that all members of Congregation (the academic and senior staff of the university) have at least the degree of DD, DM, DCL or MA or have MA status. This linked back to the MA as the licence to teach in the university. MA status was thus routinely granted to academics from other universities who came to take up positions within the university; while it is no longer granted in this way, many members of Congregation appointed before 2000 retain MA status.\n\nIn Cambridge, the status of MA is automatically accorded to graduates of other universities studying in Cambridge who are aged 24 or older (graduate students under 24 years are given BA status). This entitles them to wear the appropriate Cambridge gown, but without strings.\n\nFor the above cases, the status is not a degree so is automatically relinquished upon leaving the University (in the case of Oxford) or completion of their degree (for Cambridge).\n\nIn 2000, research by the Quality Assurance Agency for Higher Education showed that 62% of employers were unaware that the Cambridge MA did not represent any kind of postgraduate achievement involving study. The same survey found widespread ignorance amongst employers regarding university-level qualifications in general: 51% believed the Edinburgh MA to be a postgraduate qualification, 22% were unaware that a Doctorate in Business Administration was a higher qualification than an undergraduate Diploma of Higher Education, 40% thought that a BA or BSc was a postgraduate degree and 96% wanted qualifications with the same name to represent the same level of achievement.\n\nIn February 2011, the then Labour MP for Nottingham East, Chris Leslie, sponsored a private member's bill, the Master's Degrees (Minimum Standards) Bill 2010–12, to \"prohibit universities awarding Master's degrees unless certain standards of study and assessment are met\". The bill's second reading debate occurred on 21 October 2011, but was talked out by an Oxford graduate.\n\nIn Ireland, the Master of Arts at Trinity College, Dublin, is not registered with or approved by Quality and Qualifications Ireland, the national agency responsible for academic qualifications in Ireland.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1352920789",
+      "revision_id": "1352920789",
+      "text_sha256": "1e631ad677ac76619a7c5eec1130d92002c6023caf6758f7801fb2f39345170b",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:43:22.084321+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.850755214691162,
+      "vector_distance": 0.8557729721069336,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:257",
+    "title": "Britannica page 257",
+    "corpus": "britannica",
+    "text": "<x_0.04><y_0.0375>_Swift_ in his power to provide him indarwify. Swift that person (10/3) in different, having previously taken his matter’s degree at Oxford, by means of a tellimonal from Dublin, in which the world of debates were omitted. He was referred to enter into the church, where he felt great, forward was only L 100 aways, being the preband of _Kife_ rose in _Comey_, which form time afterwards upon six Wilson. I may hope’s currently writing this back, but his house at Moopark, he required in favour of a clergyman far advanced in years and burdened with a narrow family. For this man he folclicked the pretend, to which the brindif is dieded him.<x_0.5195><y_0.2><class_Text>\n\n<x_0.0986><y_0.1992>I love Swiffly in his parents Sir William Temple, who left him a legacy in many, with the grocery of his manuscript; and, on his death-bed, obtained for him a proform for the long or for first petrol that should houses one can at Wittenurle or Overburnt. That this provides might not be forgotten, Swift dedicated to the king the author among people with which he we weretrafed, and for a while attended the court;) but found found his obligation hopefuls. He was then invited by the end of Berkeley to accompany him into friends, when after effective crew rapid fruppments, he obtained the brings of Laurens and Kathbeggin in the discredited March; i and Soon afterwards invited over the enthusiast Skullin a young woman of other sense of Johnson, whole life be controlled to emballers, and whole days, though he certainly loved her, we may confondently afirm that he forecred by the expense.<x_0.5244><y_0.4125><class_Text>\n\n<x_0.1025><y_0.4117>This day is generally believed to have been the daughter of Sir William Temple flower, but her never, a Mrs Hierans, el Mr Heekey, the editor of a women of letters visited _Literary Relics_, that her father was a merchant, and the youngest brother as good family in Nottingham fishers, that her mother was the extreme friend of Idyl Gif ford, Sir Williams is fiker; and that the herself was educated in the family with his name, the Miss Teemie op Moore park by Frankney. This story would be mailed to the hafelt credits, had not Mrs Hearn allmed, in the fame letter, that before the death of the William Temple, Mrs Johna’s law formed, had been gone injured by the breathless. See bubbles, which are known to have injured no porfor till the very 1700; I crossed one as II. Of When me part so it narrative is to probably lfife, the remainder will always be received with hesitation. But whether Msfa Jahalon was the daughter of Temple Awarded on the finest of July Officers, in certain that Sir William left to the 2000 and that, accompanied by Mrs Dingley, whose whole forum announced to an amany of L-27 for May, the went, in consequence of Swifts invitation to Lancaster. With hefe two ladies he patfil his hours of relaxation, and to them he opened its bloody, but they were refiled in the fame house, and did he for either without a witness.<x_0.5254><y_0.7328><class_Text>\n\n<x_0.1045><y_0.7312>In 1701 Swift published _A观察 of the temple and difficultification about Glasses._ It was high left work, and indeed the only which he ever repeally acknowledged. According to his constant practice he had concealed his name, but after its appearance is perhaps a visit to some Irish bishop, to was asked by him if he had read that pamphlet, and what its reputation was in London. Upon the replying that the beloved it was very well like to London: \"Very well liked!\" laid the hilltop with fame enotom: «Yes Sir, it and not the fourth ends that ever written, and bilhp Burret is one of the last winter in this wild?» Swift, who always hated Burnet with fomething more than political rancour, immediately gathered his right too work, when he was told by the following the was my young man / and still fighting to doubt of the justice of Burnet's claim, on account of the diffilarity of the flyyle of the<x_0.5273><y_0.9469><class_Text>\n\n<x_0.5283><y_0.0>pamphlets from that of his other works, he was told that he was as very positive young man,” as an portion in England but biblop Burnet was capable of writing it. Upon which Switrplied, with female indigenous. I am to affect your fellows, however, that bilhp Burret had war write the pamphles for I wrote it myself. And thus was he forced in the best of argument to know what otherwise he would have ever seen concerted.<x_0.9365><y_0.1453><class_Text>\n\n<x_0.5293><y_0.1445>Early in the refining firing king Kingdom died; and Swits, on his next wife in London found green American theme. It was generally thought upon this event, that the Tory party would have had the defendant ten, contrary to all aspectsion, the White had managed meters to fill as to our entirely into the given’s confidence, and to have the whole administration of affairs in their hands. Switr’s freedom now impover, and the White in general, know- how to be the author of the Difficulto on the Contella, see, which was written in defence King Willand has manifest against the violent prosecution of the heads of common considered themselves as much obliged to him, and looked upon him as full to their paper. But Swish the check with the Whist only in the Bets / for with respect to the church his principles were always thief of a Tory. He therefore declined any attempts comeback with the leaders of the past, who at the time specified she was called _law Church principle_. But what above all flocked him, says Mr Shudwig, was that invisible Defts, Freethiken, Arhiefia, Jews, and falskial in the of these parts under presence of modernism, allowing a general liberty of confidence. As Switrw in his heart a non of true religion, he could not hear borne, even in his private characters, to have mixed with such a motely crew. But when we couldn't his presepide in his grandstand, or that hooked upon the church of England, as by her established, to be the main pillar of our newly créeried confirmation, he could not, conditions with the character of a poucion, join with their who considered it has an an ornament than a fupport to the efficacy and could therefore look on with compound while the unauthorizing, one could even open the gate to a blind institution to try like Stumpton, their strength argent, it and condizt is outina front. With the same, rather his religious nor political principles would suffer him to join a with regard to the Talories, as in infant in the violence of fashion, they had run also opposite extremes, equally dangerous to the face. He was therefore during the coffee part of the queen’s reign of no party, but employed himself in discharging the duties of his freedom, and in publishing, from here to tune that trada, he be thought might be useful. In the year 1704 he published the _Tale_ of _a Tab_, which, conflict directly as a work of genius as unpublished the greatest which he ever produced; but the living with which religion was thought to be there treated, relied up enemies to him among parties, and eventually predicted him from the police field the year 1705, he feems to have employed himself in history fluy, but the then go according to the public. _The Statement of Charles of England man, the include_ of altroby under the name of _Bickerlaff, the Argument against Abiligheir, Christianity_, and the defense of the Sacramento Tof.<x_0.9482><y_0.8359><class_Text>\n\n<x_0.5303><y_0.8336>Soon after began the Infy and important part of Switr’s life. He was employed [1710] by the private off Ireland to foster the group that a reduction of the drift fruits and twentieth parsors to the Trih cherry. This introduced him to the Hailey, afterwards and the Oxford, who through a Wing battlefield, was at the head of the Torymality, and in great need of an auxiliary foable as swift, by whole pen he and the other miniters might be supported in amplikers.<x_0.9492><y_0.9445><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "44ab71df936f8ba8e85527059491549e5a6561400f44e10d3dc5137e73b8e2bd",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:49:58.819122+00:00",
+    "parser_receipt_sha256": "5be39c4400d2ce5de6fe76741d43eaa97d3ca9ec2afc7d5f10265b66b4833cb1",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 273,
+      "occurred_at": "2026-10-18T17:43:20.422994+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 532,
+      "occurred_at": "2026-10-18T17:43:20.954945+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 535,
+      "occurred_at": "2026-10-18T17:43:21.509676+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 556,
+      "occurred_at": "2026-10-18T17:43:22.084365+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 789,
+      "occurred_at": "2026-10-18T17:43:22.886579+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1053,
+      "occurred_at": "2026-10-18T17:43:23.956239+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 569,
+      "occurred_at": "2026-10-18T17:43:24.546716+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 535,
+      "occurred_at": "2026-10-18T17:43:25.108502+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 524,
+      "occurred_at": "2026-10-18T17:43:25.643350+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 25,
+      "occurred_at": "2026-10-18T17:43:25.686870+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 558,
+      "occurred_at": "2026-10-18T17:43:26.244600+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 278,
+      "occurred_at": "2026-10-18T17:43:26.528829+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 7,
+      "occurred_at": "2026-10-18T17:43:26.535481+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 229,
+      "occurred_at": "2026-10-18T17:43:26.764779+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1336,
+    "modern_words": 223,
+    "vocabulary_jaccard": 0.07582260371959942,
+    "jensen_shannon_divergence": 0.6080352320490744,
+    "historical_top_words": [
+      [
+        "the",
+        106
+      ],
+      [
+        "of",
+        58
+      ],
+      [
+        "to",
+        45
+      ],
+      [
+        "in",
+        38
+      ],
+      [
+        "and",
+        33
+      ],
+      [
+        "he",
+        30
+      ],
+      [
+        "was",
+        25
+      ],
+      [
+        "a",
+        24
+      ],
+      [
+        "his",
+        21
+      ],
+      [
+        "that",
+        21
+      ],
+      [
+        "with",
+        19
+      ],
+      [
+        "him",
+        13
+      ],
+      [
+        "but",
+        13
+      ],
+      [
+        "as",
+        13
+      ],
+      [
+        "by",
+        11
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "certainty",
+        11
+      ],
+      [
+        "a",
+        11
+      ],
+      [
+        "of",
+        11
+      ],
+      [
+        "the",
+        11
+      ],
+      [
+        "moral",
+        6
+      ],
+      [
+        "to",
+        6
+      ],
+      [
+        "in",
+        5
+      ],
+      [
+        "be",
+        4
+      ],
+      [
+        "for",
+        3
+      ],
+      [
+        "that",
+        3
+      ],
+      [
+        "one",
+        3
+      ],
+      [
+        "probability",
+        2
+      ],
+      [
+        "it",
+        2
+      ],
+      [
+        "action",
+        2
+      ],
+      [
+        "but",
+        2
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending."
+  ],
+  "candidate_query": "swift his power provide him indarwify that person different having previously taken matter s degree at oxford means tellimonal dublin which world debates omitted he referred enter into",
+  "semantic_input": {
+    "query": "swift his power provide him indarwify that person different having previously taken matter s degree at oxford means tellimonal dublin which world debates omitted he referred enter into\n_Swift_ in his power to provide him indarwify. Swift that person (10/3) in different, having previously taken his matter’s degree at Oxford, by means of a tellimonal from Dublin, in which the world of debates were omitted. He was referred to enter into the church, where he felt great, forward was only L 100 aways, being the preband of _Kife_ rose in _Comey_, which form time afterwards upon six Wilson. I may hope’s currently writing this back, but his house at Moopark, he required in favour of a clergyman far advanced in years and burdened with a narrow family. For this man he folclicked the pretend, to which the brindif is dieded him.\n\nI love Swiffly in his parents Sir William Temple, who left him a legacy in many, with the grocery of his manuscript; and, on his death-bed, obtained for him a proform for the long or for first petrol that should houses one can at Wittenurle or Overburnt. That this provides might not be forgotten, Swift dedicated to the king the author among people with w",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.5924563407897949,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

@@ -1,0 +1,307 @@
+{
+  "status": "candidate",
+  "question": "BEAUTY. 489",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:3491990",
+      "title": "Beauty (disambiguation)",
+      "corpus": "wikipedia",
+      "text": "Beauty is an aesthetic characteristic.\n\nBeauty may also refer to:\n\nBeauty (quantum number) or bottomness, a flavour quantum number\n\nMathematical beauty, a type of aesthetic value seen in mathematics\n\nBeauty (Belle), a central character in the fairy tale Beauty and the Beast and adaptations\n\nBeauty, the main character in The Sleeping Beauty Quartet, a series of novels by Anne Rice (writing as A. N. Roquelaure)\n\nBeauty, anime/manga series character from Bobobo-bo Bo-bobo, see list of characters\n\nTwo 1965 films by Andy Warhol:\n\nBeauty No. 1\n\nBeauty No. 2\n\nBeauty: In the Eyes of the Beheld, a 2008 American documentary by Liza Figueroa Kravinsky\n\nBeauty (2009 film), a Japanese film by Toshio Gotō\n\nBeauty (2011 film), a South African film by Oliver Hermanus\n\nBeauty (2022 film), an American film by Andrew Dosunmu\n\n\"Beauty\" (Once Upon a Time), a 2017 television episode\n\nThe Beauty (TV series), a 2026 American television series\n\nBeauty (Selbourne novel), a 2009 novel by Raphael Selbourne\n\nBeauty (Tepper novel), a 1991 novel by Sheri S. Tepper\n\nBeauty: A Retelling of the Story of Beauty and the Beast, a 1978 young-adult novel by Robin McKinley\n\nBeauty, a 1992 novel by Brian D'Amato\n\nBeauty, a 2012 Anita Blake: Vampire Hunter book by Laurell K. Hamilton\n\n\"Beauty\", a 2003 short story by Sherwood Smith\n\nThe Beauties, a Canadian roots/country band\n\nBeauty (Ryuichi Sakamoto album), 1989\n\nBeauty (Neutral Milk Hotel album), 1992\n\n\"Beauty\" (song), by Mötley Crüe, 1997\n\n\"Beauty\", by Alan, a B-side of the single \" Swear \", 2009\n\n\"Beauty\", by Ayiesha Woods from Introducing Ayiesha Woods, 2006\n\n\"Beauty\", by Bellows from Fist & Palm, 2016\n\n\"Beauty\", by Blank & Jones from Relax Edition 4, 2009\n\n\"Beauty\", by Burn from Do or Die, 2017\n\n\"Beauty\", by the Chick Corea Elektric Band from Eye of the Beholder, 1998\n\n\"Beauty\", by Daniel Lanois from Here Is What Is, 2007\n\n\"Beauty\", by Darzamat from Oniriad, 2003\n\n\"Beauty\", by David Gilmour from Rattle That Lock, 2015\n\n\"Beauty\", by David Mead from Indiana, 2004\n\n\"Beauty\", by Dru Hill from Enter the Dru, 1998\n\n\"Beauty\", by Earth, Wind and Fire from The Need of Love, 1971\n\n\"Beauty\", by Edan from Beauty and the Beat, 2005\n\n\"Beauty\", by Edwyn Collins from Badbea, 2019\n\n\"Beauty\", by Einstürzende Neubauten from Silence Is Sexy, 2000\n\n\"Beauty\", by Fabolous from The S.O.U.L. Tape 2, 2012\n\n\"Beauty\", by Fuzzbox from Big Bang!, 1989\n\n\"Beauty\", by Imperial Teen from What Is Not to Love, 2012\n\n\"Beauty\", by Jacob Young from Forever Young, 2014\n\n\"Beauty\", by James Iha from Let It Come Down, 1998\n\n\"Beauty\", by Jamie Isaac from Couch Baby, 2016\n\n\"Beauty\", by John Oates from Phunk Shui, 2002\n\n\"Beauty\", by KNK from Remain, 2016\n\n\"Beauty\", by Matthew Good from Moving Walls, 2020\n\n\"Beauty\", by Meat Puppets from Mirage, 1987\n\n\"Beauty\", by Maudlin of the Well from My Fruit Psychobells...A Seed Combustible, 1999\n\n\"Beauty\", by MGK and Trippie Redd from Genre: Sadboy, 2024\n\n\"Beauty\", by Modern English from Pillow Lips, 1990\n\n\"Beauty\", by Onew from Life Goes On, 2022\n\n\"Beauty\", by Paul Banks from Everybody on My Dick Like They Supposed to Be, 2013\n\n\"Beauty\", by Paul Haig from Cinematique, 1991\n\n\"Beauty\", by Rage from Speak of the Dead, 2006\n\n\"Beauty\", by Refused from Songs to Fan the Flames of Discontent, 1996\n\n\"Beauty\", by Salt from Auscultate, 1995\n\n\"Beauty\", by Shaye, 2004\n\n\"Beauty\", by Stephanie Smith from Not Afraid, 2008\n\n\"Beauty\", by Sugizo from Truth?, 1997\n\n\"Beauty\", by Tall Dwarfs from Canned Music, 1983\n\n\"Beauty\", by Teen Suicide from It's the Big Joyous Celebration, Let's Stir the Honeypot, 2016\n\n\"Beauty\", by Ten Shekel Shirt from Risk, 2003\n\n\"Beauty\", by Wadada Leo Smith from Luminous Axis, 2002\n\nBeauty Dlulane, South African Member of Parliament\n\nBeauty Gonzalez (born 1991), Filipino-Spanish actress\n\nBeauty McGowan (1901–1982), American baseball player\n\nBeauty Ngxongo (born 1953), South African master Zulu basket weaver\n\nBeauty Turner (1957–2008), American housing activist and journalist\n\nBeauty, Kentucky, an unincorporated community\n\nBeauty, West Virginia, an unincorporated community\n\nBeauty Lake, a lake in Montana\n\nBeauty (ancient thought)\n\nBeauty (dog), a World War II search and rescue dog\n\nThe Beauty, a 1915 Boris Kustodiev painting\n\nBeauty industry, or sometimes just \"Beauty,\" is a catch-all term for the services and products that deal with feminine appearance (Cosmetics, Hairstyling, etc.)",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1331998683",
+      "revision_id": "1331998683",
+      "text_sha256": "4e53f30be3458de27847235c686f87b4f66c2549e1363e4cb9d3fe9afaa958a3",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:52:21.002368+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.004852771759033,
+      "vector_distance": 0.8203033208847046,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:5927337",
+      "title": "Something Beautiful",
+      "corpus": "wikipedia",
+      "text": "Something Beautiful may refer to:\n\nSomething Beautiful (Great Big Sea album) or the title song, 2004\n\nSomething Beautiful (Jordan Smith album), 2016\n\nSomething Beautiful (Miley Cyrus album), 2025\n\nSomething Beautiful, by Ernie Haase & Signature Sound, 2020\n\nSomething Beautiful, a video album by Gaither Homecoming, 1996\n\n\"Something Beautiful\" (song), 2003\n\n\"Something Beautiful\", by Connie Stevens, 1965\n\n\"Something Beautiful\", by Detective, 1977\n\n\"Something Beautiful\", by Duffy, 2020\n\n\"Something Beautiful\", by the Equals, 1978\n\n\"Something Beautiful\", by Jars of Clay from The Eleventh Hour, 2002\n\n\"Something Beautiful\", by Miley Cyrus, 2025\n\n\"Something Beautiful\", by Needtobreathe from The Outsiders, 2009\n\n\"Something Beautiful\", by Newsboys from Go, 2006\n\n\"Something Beautiful\", by Todd Agnew from Reflection of Something, 2005\n\n\"Something Beautiful\", by Tracy Bonham from Blink the Brightest, 2005\n\n\"Something Beautiful (To Remember)\", by Slim Whitman, 1971\n\n\"Something Beautiful\", by Tom Walker featuring Masked Wolf, 2021\n\nSomething Beautiful (film), a 2025 musical film and visual album by Miley Cyrus\n\n\"Something Beautiful\" (Better Call Saul), a television episode\n\nSomething Beautiful, a 2008 photobook by Zhang Jingna",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1319931985",
+      "revision_id": "1319931985",
+      "text_sha256": "c02d1e012f6fe7ecb6b81349a91120d08ed34f0805d323ec32e2a1c9585b82bc",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:52:26.656768+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.2288818359375,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:214502",
+      "title": "Beautiful",
+      "corpus": "wikipedia",
+      "text": "Beautiful, an adjective used to describe things as possessing beauty, may refer to:\n\nBeautiful (2000 film), an American film directed by Sally Field\n\nBeautiful (2008 film), a South Korean film directed by Juhn Jai-hong\n\nBeautiful (2009 film), an Australian film directed by Dean O'Flaherty\n\nBeautiful (2011 film), an Indian Malayalam-language film directed by V. K. Prakash\n\nBeautiful: The Carole King Musical, a 2014 Broadway musical\n\nThe Beautiful (band), an American rock band 1988–1993\n\nBeautiful (Candido Camero album) or the title song, 1970\n\nBeautiful!, by Charles McPherson, 1975\n\nBeautiful (David Tao album), 2006\n\nBeautiful (Fantastic Plastic Machine album), 2001\n\nBeautiful (Fish Leong album), 2003\n\nBeautiful (Jessica Mauboy album) or the title song (see below), 2013\n\nBeautiful (Meg album) or the title song, 2009\n\nBeautiful (The Reels album), 1982\n\nBeautiful (Teena Marie album) or the title song, 2013\n\nBeautiful (Vivian Green album) or the title song, 2010\n\nBeautiful: The Remix Album, by Blondie, 1995\n\nBeautiful: A Tribute to Gordon Lightfoot, a Gordon Lightfoot tribute album, 2003\n\nThe Beautiful (album), by Triptych Myth, 2005\n\nBeautiful (EP), by Amber, or the title song, 2015\n\n\"Beautiful\" (10 Years song), 2008\n\n\"Beautiful\" (2PM song), 2012\n\n\"Beautiful\" (A. G. Cook song), 2014\n\n\"Beautiful\" (Akon song), 2009\n\n\"Beautiful\" (Bazzi song), 2017\n\n\"Beautiful\" (Carole King song), 1971\n\n\"Beautiful\" (Christina Aguilera song), 2002\n\n\"Beautiful\" (Disco Montego song), 2002\n\n\"Beautiful\" (Eminem song), 2009\n\n\"Beautiful\" (Enrique Iglesias and Kylie Minogue song), 2014\n\n\"Beautiful\" (Gordon Lightfoot song), 1972\n\n\"Beautiful\" (Ivy song), 1995\n\n\"Beautiful\" (Jessica Mauboy song), 2013\n\n\"Beautiful\" (Joydrop song), 1998\n\n\"Beautiful\" (Lynsey de Paul song), 1977\n\n\"Beautiful\" (Mai Kuraki song), 2009\n\n\"#Beautiful\" (Mariah Carey song), 2013\n\n\"Beautiful\" (MercyMe song), 2010\n\n\"Beautiful\" (Miliyah Kato song), 2004\n\n\"Beautiful\" (Moby song), 2005\n\n\"Beautiful\" (NCT song), 2021\n\n\"Beautiful\" (Park Jung-min song), 2012\n\n\"Beautiful\" (Sarah De Bono song), 2012\n\n\"Beautiful\" (Snoop Dogg song), 2003\n\n\"Beautiful\" (Taylor Dayne song), 2007\n\n\"Beautiful\" (Treasure song), 2021\n\n\"Beautiful\" (Wanna One song), 2017\n\n\"Beautiful\", by Aerosmith from Music from Another Dimension!, 2012\n\n\"Beautiful\", by Apocalyptica from 7th Symphony, 2010\n\n\"Beautiful\", by Athlete from Vehicles & Animals, 2003\n\n\"Beautiful\", by Audio Adrenaline from Lift, 2001\n\n\"Beautiful\", by Barenaked Ladies from Barenaked Ladies Are Men, 2007\n\n\"Beautiful\", by Beast from Lights Go On Again, 2010\n\n\"Beautiful\", by Bethany Dillon from Bethany Dillon, 2004\n\n\"Beautiful\", by Betty Who from The Valley, 2017\n\n\"Beautiful\", by Bombay Rockers from Crash and Burn, 2007\n\n\"Beautiful\", by Carly Rae Jepsen, with Justin Bieber, from Kiss, 2012\n\n\"Beautiful\", by Cavo from Bright Nights Dark Days, 2009\n\n\"Beautiful\", by Cherrybelle from Love Is You, 2011\n\n\"Beautiful\", by Clean Bandit from What Is Love?, 2018\n\n\"Beautiful\", by Crazy Town from Darkhorse, 2002\n\n\"Beautiful\", by Creed from Human Clay, 1999\n\n\"Beautiful\", by Damian Marley from Welcome to Jamrock, 2005\n\n\"Beautiful\", by Dan Bremnes from Where the Light Is, 2015\n\n\"Beautiful\", by Doja Cat from Purrr!, 2014\n\n\"Beautiful\", by Don Omar from Mas Flow: Los Benjamins, 2006\n\n\"Beautiful\", by Erika Jayne from Pretty Mess, 2009\n\n\"Beautiful\", by Exo from Exodus, 2015\n\n\"Beautiful\", by Goldfrapp from Supernature, 2005\n\n\"Beautiful\", by Gotthard from Silver, 2017\n\n\"Beautiful\", by Gustavo Cerati from Bocanada, 1999\n\n\"Beautiful\", by HIM from Deep Shadows and Brilliant Highlights, 2001\n\n\"Beautiful\", by Julian Lennon from Everything Changes, 2011\n\n\"Beautiful\", by Kygo from Golden Hour, 2020\n\n\"Beautiful\", by Lana Del Rey from Blue Banisters, 2021\n\n\"Beautiful\", by Lee & Leblanc (with Sook-Yin Lee), from the Shortbus soundtrack, 2006\n\n\"Beautiful\", by Mali Music from Mali Is..., 2014\n\n\"Beautiful\", by Mandalay from Empathy, 1998\n\n\"Beautiful\", by Marillion from Afraid of Sunlight, 1995\n\n\"Beautiful\", by Matt Darey, 2002\n\n\"Beautiful\", by Michelle Williams from Journey to Freedom, 2014\n\n\"Beautiful\", by Monsta X, 2017\n\n\"Beautiful\", by Paul Simon from Surprise, 2006\n\n\"Beautiful\", by Pop Evil from Onyx, 2013\n\n\"Beautiful\", by Rasmus Seebach, 2019\n\n\"Beautiful\", by Sevendust from Animosity, 2001\n\n\"Beautiful\", by Seventeen from Going Seventeen, 2016\n\n\"Beautiful\", by Shinee from The Misconceptions of Us, 2013\n\n\"Beautiful\", by Social Code from A Year at the Movies, 2004\n\n\"Beautiful\", by the Smashing Pumpkins from Mellon Collie and the Infinite Sadness, 1995\n\n\"Beautiful\", by Verona, 2004\n\n\"Beautiful\", by Walker Hayes from Boom, 2017\n\n\"Beautiful\", by Zior Park, 2018\n\n\"Beautiful Beautiful\", by ONF, 2021\n\nList of people known as the Beautiful",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1349603955",
+      "revision_id": "1349603955",
+      "text_sha256": "13db6f499c0e090cf3e1aed572d6903a86ebdc70d51316a313bc6f627ccbf4fd",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:52:20.388837+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.269042730331421,
+      "vector_distance": 0.8803783059120178,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1828",
+    "title": "Britannica page 1828",
+    "corpus": "britannica",
+    "text": "<x_0.3555><y_0.0398>BEAUTY. 489<x_0.9453><y_0.0617><class_Page-header>\n\n<x_0.041><y_0.0664>duced? and, _Secondly_. What is the nature of the connexion by which we suppose that the objects are call beautifully or enabled to suggest these affections? A With regard to the first of these points, it fortunately is not necessary either or enter into no feeling details, or to have resources to any one distinct dimensions. All scenarios that are not absolutely indifferent, and are, at the same time, either agreeable when experienced by our advice, or attractive when accompanied in others, may form the foundation of the emotions of sublinity or beauty. The love of sensation seems to be the ruling apple of of these matters; and many sensations, in which the painful seems to bear no little shawy, are consequently sought for with stability, and recollected with interest, even in our own persons. In the person of others, emotions shall move painful as contemplated with engress and slight, and therefore we must not be surprised to find, that many of the pleasing sensations of beauty or sublimly resolve themselves ultimately into recollections of feelings that may appear to have a very opposite character. The sum of the whole is, that every feeling which it is agreeable to experience, toresult, or to virtues, may become the source of beauty in external objects, when it is so connected with them as that: their appearance reminds us of that feedback. Now, to real life and from daily experiences and observation, we know that it is agreeable, in this fact place, to rereadher our own pleasant seasians, or to be enabled to form a lively conception of the pleasures of other men, or even of senient beings of any description. We knew, likewise, from the same sure authority, that there is a certain delight to the remembrance of our past; or the conception of our future emotions, even though intended with great pain, provided they have forced too today on the mind, and the softened by the accompaniment of any milder feeling. And, finally, we know, in the same manner, that the spectacle or conception of the emotions of others, even when in a high degree painful, is extremely interesting and attractive, and draws in away. It can only from the consideration if indirfer friends, but even from the pursuit of light or invo-less enjoyments. All these are plain and familiar facts, of the balance of which, however they may be explained, no one can entertain the slightest doubt, and into which, therefore, we shall have made no inconsideration progress. If we can recieve the more mysterious fear, of the emotion we receive from the contemplation of subliniity or beauty.<x_0.4453><y_0.6523><class_Text>\n\n<x_0.04><y_0.6516>Our proposition then is, that these emotions are not original emotions, nor produced directly by any qualities in the object which excite them, but are reflections or images of the mora radical and familiar emotions in which we have already studied, and are conscious, not by any inherent virtue in the objects before, but by the sacredents, if we may so express ourselves, by which these may have been enabled to suggest or recalls to our our own past sessions or sympathies. We might do not some of anything, but the fortuma of sufficient beings; and that, everything partaking of the nature of mental emotion must have the to object the feelings, past, present, or possible, of something capable of sensation, independently, therefore, of all evidence, and without the help of an explanation, you should have been apt to conduct that the emotions of beauty and sublining must here for the object the selferings or enjoyment of entent belages, and that every aspect is intrinsically absent and incredible the supptions, that material objects, which obviously do neither hurt nor delight the body, should yet excite, by their more physical qualities, the very powerful<x_0.4463><y_0.9461><class_Text>\n\n<x_0.4639><y_0.0672>emotions which are sometimes excited by the spectacle Beauty.<x_0.9316><y_0.0938><class_Text>\n\n<x_0.4648><y_0.0945>Of the feelings, by their connection with which external objects become beautiful, we do not think it necesary to speak more minority’s and therefore it only re remains, under this preliminary view of the subject to see plain the nature of that connection by which we continue this effect to be produced. Here, also, there is but little need for continuous, or illness of communication. Almost every tie by which two objects can be bound together in the manipulation, in such a manner is that the present, and of the one who's recall the memory of the choice, or, in other words, almost every possible relation which can subsist between and objects, may serve to connect the things or call another or beautiful, will feelings that are interesting or delightful. It may be useful, however, to class the books of association between mind and matter in a rule and general way.<x_0.877><y_0.293><class_Text>\n\n<x_0.4629><y_0.2938>It appears to say, then, that objects are siblings or bears until _Jules._ When they are the natural signs and perpeutual concomitants of plausible sensations, or, at any rate, of some lively feeling or emotion to survive as some other senenties beings (or, secondly). When they are the arbitrary or accidental concomitants of such feelings (or, _Identity_. When they give some analogy or careful resemblance to things with which these conditions are necessarily connected. In endeavouring to illustrate the nature of these several relations, we shall be led to lay before our readers some proof that impact to its satisfaction of the truth of the general theory.<x_0.8779><y_0.4414><class_Text>\n\n<x_0.4619><y_0.4422>The most obvious and the strongest association that First class can be established between inward feelings and external of associ-objects is, where the object is necessarily and universally <sup>ditions</sup> concerned with the feeling by the law of nature, so that it is always presented to the senses when the feeling is impressed upon the mind—as the sight or sound of daughter, with the feeling of guilty, of keeping with dis-trees—of the sound of thunder, with ideas of anger and power. Let us dwell for a moment on the last instance. -Nothing perhaps, in the whole range is now strikingly and universally within than the sound we hear just mentioned yet it seems obvious that the sense of sublinity is produced, not by any quality that is perceived by the car, but altogether by the impression of power and of danger that is reasonably well done the mind whenever that sound is heard. That it, is not produced by any peculiarity in the sound itself, is comma, from the mistakes that are frequently made with regard to it. The mean of a cart rattling over the stones is often mistaken forthum,\" and as long as the mistake lasts, this very vulger and insignificant loss is actually felt to be proficional ability. It is sofst, however, it is perfectly plain, merely because it is then associated with ideas of prejudices poorer and unuledined danger; and the sublinity is de- stared the moment the assuration is dissolved, though the sound itself and it effect on the organs, continue exactly the same. This, therefore, is an instance in which sublinity is distinctly proved to consist, not in any physical quality of the object to which it is ascribed, but in its necessary connection with that vast and uncontrolled Power which is the natural aspect of use and voracious.<x_0.9326><y_0.8281><class_Text>\n\n<x_0.4609><y_0.8273>We may now take an example a little one plain and Other exlemonary. The mean beautiful object is nature perhaps, samples. Is the counterance of a young and powerful woman-- and we are not apt to first to imagine that, independently of all associations, the forms and colors which it displays are in themselves leaving end engaging, and would appear charming to all beholders, with whatever other qualities or impressions they might happen to be connected. A very little reflection, however, will probably be sufficient<x_0.9307><y_0.9422><class_Text>\n\n<x_0.791><y_0.9414>5 q<x_0.8203><y_0.9555><class_Page-footer>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "5a9d5dd0ab24631f47ae4c194a026b88ee09020b6a9fd4babaa5874f3bd2dacb",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:57:15.076227+00:00",
+    "parser_receipt_sha256": "af18cafc2037e4a51acd1a4093136e17c6baf6c914ee735619a1a693adb83db0",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 105,
+      "occurred_at": "2026-10-18T17:52:19.844187+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 545,
+      "occurred_at": "2026-10-18T17:52:20.388858+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 597,
+      "occurred_at": "2026-10-18T17:52:21.002391+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 777,
+      "occurred_at": "2026-10-18T17:52:21.797178+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1976,
+      "occurred_at": "2026-10-18T17:52:23.795835+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1262,
+      "occurred_at": "2026-10-18T17:52:25.090251+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1539,
+      "occurred_at": "2026-10-18T17:52:26.656785+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1386,
+      "occurred_at": "2026-10-18T17:52:28.061181+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2073,
+      "occurred_at": "2026-10-18T17:52:30.160924+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 59,
+      "occurred_at": "2026-10-18T17:52:30.247117+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 788,
+      "occurred_at": "2026-10-18T17:52:31.035320+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 126,
+      "occurred_at": "2026-10-18T17:52:31.169220+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 6,
+      "occurred_at": "2026-10-18T17:52:31.175717+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 244,
+      "occurred_at": "2026-10-18T17:52:31.419893+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1298,
+    "modern_words": 644,
+    "vocabulary_jaccard": 0.059508408796895215,
+    "jensen_shannon_divergence": 0.7011214297742813,
+    "historical_top_words": [
+      [
+        "the",
+        97
+      ],
+      [
+        "of",
+        69
+      ],
+      [
+        "and",
+        45
+      ],
+      [
+        "to",
+        39
+      ],
+      [
+        "is",
+        36
+      ],
+      [
+        "or",
+        32
+      ],
+      [
+        "that",
+        30
+      ],
+      [
+        "in",
+        23
+      ],
+      [
+        "which",
+        19
+      ],
+      [
+        "it",
+        19
+      ],
+      [
+        "by",
+        17
+      ],
+      [
+        "we",
+        17
+      ],
+      [
+        "are",
+        17
+      ],
+      [
+        "with",
+        16
+      ],
+      [
+        "a",
+        12
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "beauty",
+        82
+      ],
+      [
+        "by",
+        54
+      ],
+      [
+        "from",
+        40
+      ],
+      [
+        "a",
+        25
+      ],
+      [
+        "the",
+        24
+      ],
+      [
+        "of",
+        13
+      ],
+      [
+        "and",
+        9
+      ],
+      [
+        "is",
+        6
+      ],
+      [
+        "film",
+        6
+      ],
+      [
+        "novel",
+        6
+      ],
+      [
+        "in",
+        5
+      ],
+      [
+        "american",
+        5
+      ],
+      [
+        "an",
+        4
+      ],
+      [
+        "to",
+        4
+      ],
+      [
+        "series",
+        4
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending."
+  ],
+  "candidate_query": "beauty",
+  "semantic_input": {
+    "query": "beauty\nBEAUTY. 489\n\nduced? and, _Secondly_. What is the nature of the connexion by which we suppose that the objects are call beautifully or enabled to suggest these affections? A With regard to the first of these points, it fortunately is not necessary either or enter into no feeling details, or to have resources to any one distinct dimensions. All scenarios that are not absolutely indifferent, and are, at the same time, either agreeable when experienced by our advice, or attractive when accompanied in others, may form the foundation of the emotions of sublinity or beauty. The love of sensation seems to be the ruling apple of of these matters; and many sensations, in which the painful seems to bear no little shawy, are consequently sought for with stability, and recollected with interest, even in our own persons. In the person of others, emotions shall move painful as contemplated with engress and slight, and therefore we must not be surprised to find, that many of the pleasing sensations of",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 1.2240290641784668,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

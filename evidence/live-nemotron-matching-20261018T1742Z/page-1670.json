@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "G-AP [ 141] C A P",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:51941621",
+      "title": "List of Greek and Latin roots in English/A–G",
+      "corpus": "wikipedia",
+      "text": "The following is an alphabetical list of Greek and Latin roots, stems, and prefixes commonly used in the English language from A to G. See also the lists from H to O and from P to Z.\n\nSome of those used in medicine and medical technology are not listed here but instead in the entry for List of medical roots, suffixes and prefixes.\n\nNote that root groups such as \"ad-, a-, ac-, af-, ag-, al-, am-, an-, ap-, ar-, as-, at-\" are collated under the head item (first item listed), which is sometimes followed by alternative roots that might have collated earlier in the table had they been listed separately (in this example, \"a-\" and \"ac-\").\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1353827304",
+      "revision_id": "1353827304",
+      "text_sha256": "d4dc5bb45fa2a6134830bc7027ee57fd00be2419dfb477af7b9a8e05215826d3",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:51:07.434327+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.221173286437988,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:51941660",
+      "title": "List of Greek and Latin roots in English/P–Z",
+      "corpus": "wikipedia",
+      "text": "The following is an alphabetical list of Greek and Latin roots, stems, and prefixes commonly used in the English language from P to Z. See also the lists from A to G and from H to O.\n\nSome of those used in medicine and medical and business technology are not listed here but instead in the entry for List of medical roots, suffixes and prefixes.\n\nNote that root groups such as \"ad-, a-, ac-, af-, ag-, al-, am-, an-, ap-, ar-, as-, at-\" are collated under the head item (first item listed), which is sometimes followed by alternative roots that might have collated earlier in the table had they been listed separately (in this example, \"a-\" and \"ac-\").\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1296298036",
+      "revision_id": "1296298036",
+      "text_sha256": "d250557436490286a312913a7f6d8f728823898e24fe86a4a0703e0816f494f8",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:51:08.588338+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.337468147277832,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:51941639",
+      "title": "List of Greek and Latin roots in English/H–O",
+      "corpus": "wikipedia",
+      "text": "The following is an alphabetical list of Greek and Latin roots, stems, and prefixes commonly used in the English language from H to O. See also the lists from A to G and from P to Z.\n\nSome of those used in medicine and medical technology are not listed here but instead in the entry for List of medical roots, suffixes and prefixes.\n\nNote that root groups such as \"ad-, a-, ac-, af-, ag-, al-, am-, an-, ap-, ar-, as-, at-\" are collated under the head item (first item listed), which is sometimes followed by alternative roots that might have collated earlier in the table had they been listed separately (in this example, \"a-\" and \"ac-\").\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ\n\nA\n\nB\n\nC\n\nD\n\nE\n\nF\n\nG\n\nH\n\nI\n\nJ\n\nK\n\nL\n\nM\n\nN\n\nO\n\nP\n\nQ\n\nR\n\nS\n\nT\n\nU\n\nV\n\nX\n\nZ",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1280989339",
+      "revision_id": "1280989339",
+      "text_sha256": "3acebbcffe1f7f3852cbf7d8f684b961fb0382606e736e67ada48813b9420fd9",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:51:09.159473+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.342511177062988,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1670",
+    "title": "Britannica page 1670",
+    "corpus": "britannica",
+    "text": "<x_0.1875><y_0.0281>G-AP [ 141] C A P<x_0.7324><y_0.0469><class_Page-header>\n\n<x_0.0146><y_0.05>Capadocin. lent hands on himself. He is laid to have reigned so years.<x_0.4521><y_0.0852><class_Text>\n\n<x_0.0732><y_0.0859>On the death of Archdelus, the kingdom of Cappa-docia was reduced to a Roman provinces and governed by thief of the equestrian order. I eveninted subject to the Roman III, the transition of the eastern empire by the Turkse, to whom it is now feligible that has no dilungutifing modern name. In what was an entirely called _Capadocia_, however, the Turkse from four Bogotegheg called Iwasa, _Pritishand, Harigdh_, and _Gegei._<x_0.4531><y_0.1977><class_Text>\n\n<x_0.0742><y_0.1984>In the time of the Romans, the inhabitants of Capp-padochs bore fo bad a character, and were reputed to vicious and lewd; thus, among the neighbouring as- tions is wicked man was emphatically called a Giga deira. To after ages, however, their lead difodition was to correded and refined by the pure doctrine of Chilihanity, that the country share has had placed greater champions of the Christian religion, or given to the church prelates of more unblimified characters.<x_0.4541><y_0.3281><class_Text>\n\n<x_0.0723><y_0.3297>We have now no flytlem of the Capadocian laws, and farce whoever shall to form any particular idea of them. As to their customers, we present on a con-fiderable trade in horses, great numbers of which were produced in their country; and are read of these Serripose as frequenting the fans of Tyvo with this commodity. As Capadocia abounded with mines of flyers, lands, rony, and allones, and afforded another one slabatter, ershal, and jolpen, it is probable that they might supply the neighbouring countries with theiré communities.<x_0.4512><y_0.4711><class_Text>\n\n<x_0.0713><y_0.4719>The religion of the ancient Cappadocians was much the fames within date of the Persian. At Comana there was a rich and clearly tempted declared to Helians whole battles the prieds and their attendants rifled to terrorists on third days, cutting and wounding each other at if faced with an enthusiastic fory. No he famous and magnificent were the temple of Apallo Culanias, and of Jupiter: the half of which had good folks forward or religious warriaries. The shell prick was next in rank to that of Comana ) and, according to Simba, had an yearly revenue of y students. Diana Perifer was worshipped in a city called _Capadocia_ where women, devoted to the worship of that goldofis, were reported to read barberfooted on burning coal, without receiving any burial. The context of Dimas di Diopolis, and of Arias at Zels, were likewise held in great westernism both by the Cappadocians and Armo- nians, who blocked to them from all parts. In the latter were rendered all costs in interest of conferences and the chief among the pride was now anyway inferior in digitiry power and wealth, to any in the kingdom’s having a royal attendance, and an unlimited authority over all like differing formats and offices of the temple. The Romans, who willingly adopted all the fingerti- ritions and hyperditious rice of the nations they conquered greatly traveled to the venues of this and so that temples is conferring the pretilhood on fish as they thought not fit for carrying out their adigame. We see told that Indian families were offered at Co- mans ; and that this barharous cutom was brought by Qrcites and his filter Iphigenis from Tauries Seytica, where men and women were immolized to Diana. But<x_0.4551><y_0.8977><class_Text>\n\n<x_0.4629><y_0.0492>this culture, if ever it obtained in Cappadocia, was a- bolited in the times of the Romans.<x_0.8994><y_0.0758><class_Text>\n\n<x_0.8506><y_0.075>Carpaana<x_0.8955><y_0.0875><class_Picture>\n\n<x_0.4639><y_0.0766>CAVPANUS, a must give by force authors to a woman that adhere to and grows the bottoms of flips to which it is extremely pericious, especially in the East and Well states to prevent this, several dips have intact been themed with copper, to the first trial of which was made on his majelly's firegate the Alarm. CAMPAIS, in fortany. Y. a genus of the monos- gyria order, belonging to the polyamidefs chaf of plants : and in the natural method making under the aitho des, Plantainies. The only is terapylish and ceri-scous three petals are four; the luminous arm long; the fruit is a berty, common, molecular, and podunca-lated, or furnished with a root fluid.<x_0.8457><y_0.2484><class_Text>\n\n<x_0.4648><y_0.2492>There are fewen species. The fininois, or com- mon copy, is a low limb, generally growing out of the joints of old walls, the lifters of rocks, and a- monglet rabbi, in most of the warm parts of Europe : is in such very little, which lend out many lateral flex- der branches; a matter of that the picked two short crooked liniers, between which and the branches come out the fourth of the leaves, which are single, floors, and Indians around smooth entire list. At letter-mediate joints, between the branches, come out the flower on long footballs, before there endward, the bud with the equipment is gathered for pickling. Thief which are left expand in front of a fingro rofs, having five large white points, which are overall and canvary in the middle are placed a great number of long flaminas, surrounding a flyk which rifles above thing, and crowned with an runn germs, which afterwards because our visible filled with kidney-shaped feeds.<x_0.8467><y_0.4992><class_Text>\n\n<x_0.4658><y_0.5008>Cultures. This plant is very differently preferred in Britain; it ddigits to grow in creviices of rocks, old walks. Ke and always thrive built its an honourous pu- fiure, is that when planted either in pots on in the full ground, they felddon thrive, though they may be kept alive for home years. They are propagated by foods in the warm parts of Europe, but very feldon in Britain.<x_0.8447><y_0.6023><class_Text>\n\n<x_0.4668><y_0.6039>_Ofre. The buds, picked with vinegar, Sez are brought to Britain annually from Italy and the Medi-terranean. They are fuppoted to excite appetite and still life projections, and to be particularly fertile a deter- gents and appraiser in individualities of the liver and fpteen.<x_0.8438><y_0.6828><class_Text>\n\n<x_0.4678><y_0.6844>CORPA, or GOAT, a genus of quadrupeds belongings to the order of pecors. The horna are hollow, tanned upwards, reefs, and fachoon. There are eight forecasted in the under joy, and soon in the upper upper and they have no dog seeds. This genus conflicts of 14 freers, etc.<x_0.8428><y_0.7641><class_Text>\n\n<x_0.4688><y_0.7648>I. The mixces, or common goat,with arched cari- mined horse, and a long bear. It is a native of the cellen mountains.<x_0.8477><y_0.8047><class_List-item>\n\n<x_0.4697><y_0.8055>The goat is an animal of more fugacity than the fleece. Instead of having an autopity, at mankind, they voluntarily simple earth, them, and carefully named. Even an inhabited countries, they literary no favage diffusions. In the year 1608, an English vel-fel having put in to the Bland of Bonavilla, two ac- grote cung aboard, and offered gratis to the captain as many<x_0.8486><y_0.9102><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "8f06e84a904b3de4f1df982ee3a59de6052bfeb8435912e5c773e58a8c2dd331",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:56.222766+00:00",
+    "parser_receipt_sha256": "281d5a5cbfcf774fb4d8adf9c60f7480abb0f8a3f3b51e58352eac9971b12bae",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 613,
+      "occurred_at": "2026-10-18T17:51:05.761049+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1011,
+      "occurred_at": "2026-10-18T17:51:06.772253+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 637,
+      "occurred_at": "2026-10-18T17:51:07.434407+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 559,
+      "occurred_at": "2026-10-18T17:51:08.018222+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 546,
+      "occurred_at": "2026-10-18T17:51:08.588403+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 545,
+      "occurred_at": "2026-10-18T17:51:09.159495+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 621,
+      "occurred_at": "2026-10-18T17:51:09.799138+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 572,
+      "occurred_at": "2026-10-18T17:51:10.400716+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 549,
+      "occurred_at": "2026-10-18T17:51:10.975758+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 58,
+      "occurred_at": "2026-10-18T17:51:11.059959+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 1179,
+      "occurred_at": "2026-10-18T17:51:12.239109+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 150,
+      "occurred_at": "2026-10-18T17:51:12.398535+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 8,
+      "occurred_at": "2026-10-18T17:51:12.406619+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 1210,
+      "occurred_at": "2026-10-18T17:51:13.616888+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1096,
+    "modern_words": 284,
+    "vocabulary_jaccard": 0.060653188180404355,
+    "jensen_shannon_divergence": 0.7228391837866291,
+    "historical_top_words": [
+      [
+        "the",
+        82
+      ],
+      [
+        "of",
+        53
+      ],
+      [
+        "and",
+        49
+      ],
+      [
+        "to",
+        33
+      ],
+      [
+        "in",
+        31
+      ],
+      [
+        "a",
+        24
+      ],
+      [
+        "is",
+        15
+      ],
+      [
+        "was",
+        12
+      ],
+      [
+        "are",
+        12
+      ],
+      [
+        "that",
+        11
+      ],
+      [
+        "which",
+        11
+      ],
+      [
+        "with",
+        11
+      ],
+      [
+        "an",
+        10
+      ],
+      [
+        "they",
+        10
+      ],
+      [
+        "on",
+        9
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "a",
+        10
+      ],
+      [
+        "g",
+        8
+      ],
+      [
+        "h",
+        8
+      ],
+      [
+        "o",
+        8
+      ],
+      [
+        "p",
+        8
+      ],
+      [
+        "z",
+        8
+      ],
+      [
+        "b",
+        7
+      ],
+      [
+        "c",
+        7
+      ],
+      [
+        "d",
+        7
+      ],
+      [
+        "e",
+        7
+      ],
+      [
+        "f",
+        7
+      ],
+      [
+        "i",
+        7
+      ],
+      [
+        "j",
+        7
+      ],
+      [
+        "k",
+        7
+      ],
+      [
+        "l",
+        7
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "g ap c p",
+  "semantic_input": {
+    "query": "g ap c p\nG-AP [ 141] C A P\n\nCapadocin. lent hands on himself. He is laid to have reigned so years.\n\nOn the death of Archdelus, the kingdom of Cappa-docia was reduced to a Roman provinces and governed by thief of the equestrian order. I eveninted subject to the Roman III, the transition of the eastern empire by the Turkse, to whom it is now feligible that has no dilungutifing modern name. In what was an entirely called _Capadocia_, however, the Turkse from four Bogotegheg called Iwasa, _Pritishand, Harigdh_, and _Gegei._\n\nIn the time of the Romans, the inhabitants of Capp-padochs bore fo bad a character, and were reputed to vicious and lewd; thus, among the neighbouring as- tions is wicked man was emphatically called a Giga deira. To after ages, however, their lead difodition was to correded and refined by the pure doctrine of Chilihanity, that the country share has had placed greater champions of the Christian religion, or given to the church prelates of more unblimified characters.\n\nWe have no",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.11629486083984375,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

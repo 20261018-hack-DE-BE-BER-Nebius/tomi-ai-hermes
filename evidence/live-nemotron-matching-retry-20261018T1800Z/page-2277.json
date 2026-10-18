@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "Chap. VI.",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:17785596",
+      "title": "The Chronology of Ancient Kingdoms Amended",
+      "corpus": "wikipedia",
+      "text": "The Chronology of Ancient Kingdoms Amended is a work of historical chronology written by Sir Isaac Newton, first published posthumously in 1728. Since then it has been republished. The work, some 87,000 words, represents one of Newton's forays into the topic of chronology, detailing the rise and history of various ancient kingdoms throughout antiquity.\n\nThe treatise is composed of eight primary sections. First is an introductory letter to Caroline of Ansbach, the Queen of England, by John Conduitt MP, the husband of Newton's niece, followed by a short advertisement. After this is found a section entitled \" A Short Chronicle \" which serves as a brief historical list of events listed in chronological order, beginning with the earliest listed date of 1125 BC and the most recent listed at 331 BC. The majority of the treatise, however, is in the form of six chapters that explore the history of specific civilizations. These chapters are titled:\n\nChap. I. Of the Chronology of the First Ages of the Greeks.\n\nChap. II. Of the Empire of Egypt.\n\nChap. III. Of the Assyrian Empire.\n\nChap. IV. Of the two Contemporary Empires of the Babylonians and Medes.\n\nChap. V. A Description of the Temple of Solomon.\n\nChap. VI. Of the Empire of the Persians.\n\nAccording to John Conduitt's introductory letter, The Chronology of Ancient Kingdoms Amended was Isaac Newton's last personally revised work before his death but had actually been written much earlier. Some of its subject material and contents have led many people to categorize this work as one of Isaac Newton's occult studies.\n\nThe work treats figures from Greek mythology, such as the centaur Chiron and the Argonauts, as historical fact.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1298484433",
+      "revision_id": "1298484433",
+      "text_sha256": "a3bd909e705be6dac3e0c40a716e9e2adcf8c3e1f1083a84217e08ab6df3ed2e",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:17:06.369954+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.025331497192383,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:1127193",
+      "title": "I quattro libri dell'architettura",
+      "corpus": "wikipedia",
+      "text": "I quattro libri dell'architettura (The Four Books of Architecture) is a treatise on architecture by the architect Andrea Palladio (1508–1580), written in Italian. It was first published in four volumes in 1570 in Venice, illustrated with woodcuts after the author's own drawings. It has been reprinted and translated many times, often in single-volume format.\n\nBook I was first published in English in 1663 in a London edition by Godfrey Richards. The first complete English language edition was published in London by the Italian-born architect Giacomo Leoni in 1715–1720.\n\nThe treatise is divided into four books:\n\nThe first book discusses building materials and techniques. It documents five classical orders (Doric, Ionic, Corinthian, Tuscan, Composite) in all their parts (bases, columns, architraves, arches, capitals, trabeations), as well as discussing other building elements (vaulted ceilings, floors, doors and windows, fireplaces, roofs and stairs).\n\nThe second book covers the designs of private urban townhouses and country villas of the 1500s, in and around Venice, almost all designed by Palladio himself. This includes nine palazzi, 22 villas (13 of them completed, another five partly completed), and a series of unrealized projects. The plates of completed projects sometimes differ from the buildings as actually constructed.\n\nThe third book addresses matters of city planning: streets, stone street paving, bridges of both stone and wood, and piazzas, with examples drawn from Roman origins alongside contemporary examples; also basilicas, including the basilica designed by Vitruvius in Fano and the important Basilica Palladiana in Vicenza.\n\nThe fourth book contains five chapters of general introduction, then 26 chapters, each of which describe the designs of specific Roman temples dating from antiquity, along with one contemporary church design. (The exception is the San Pietro in Montorio, designed by Donato Bramante, consecrated in the year 1500.) Palladio's selections range geographically from Rome, Naples, Spoleto, Assisi, Pola and Nîmes. Illustrations of the temples include careful measurements of existing building elements, together with Palladio's own conjectural interpretations of the temple's facades where only fragments remained, as at the Temple of Trajan.\n\nThe 26 temples discussed in include:\n\nChap. VI. Of the Draughts of some ancient Temples that are in Rome, and first of the Temple of Peace (Temple of Peace, Rome)\n\nChap. VII. Of the Temple of Mars the Avenger (at the Forum of Augustus)\n\nChap. VIII. Of the Temple of Nerva Trajan (Temple of Trajan)\n\nChap. IX. Of the Temple of Antoninius and Faustina (Temple of Antoninus and Faustina)\n\nChap. X. Of the Temples of the Sun and Moon (Temple of Venus and Roma)\n\nChap. XI. Of the Temple vulgarly call'd the \"Galluce\" (Temple of Minerva Medica (nymphaeum))\n\nChap. XII. Of the Temple of Jupiter (Temple of Seraphis)\n\nChap. XIII. Of the Temple of Fortuna virilis, or Manly Fortune (Temple of Portunus)\n\nChap. XIV. Of the Temple of Vesta (Temple of Vesta)\n\nChap. XV. Of the Temple of Mars (Temple of Hadrian)\n\nChap. XVI. Of the Baptism of Constantine (Lateran Baptistery)\n\nChap. XVII. Of the Temple of Bramante (San Pietro in Montorio)\n\nChap. XVIII. Of the Temple of Jupiter Stator (Temple of Jupiter Stator (2nd century BC))\n\nChap. XIX. Of the Temple of Jupiter the Thunderer (Temple of Jupiter Feretrius)\n\nChap. XX. Of the Pantheon, now call'd the Rotonda. (Pantheon, Rome)\n\nChap. XXI. Of the Draughts of some Temples that are out of Rome, or in other parts of Italy; and the first of the Temples of Bacchus (Santa Costanza)\n\nChap. XXII. Of the Temple whose Vestiges are seen near St. Sebastian's Church on the Appian Way (Santi Cosma e Damiano)\n\nChap. XXIII. Of the Temple of Vesta (Temple of Vesta, Tivoli)\n\nChap. XXIV. Of the Temple of Castor and Pollux (San Paolo Maggiore)\n\nChap. XXV. Of the Temple which is below Trevi (Temple of Clitumnus)\n\nChap. XXVI. Of the Temple of Scisi (Temple of Minerva, Assisi)\n\nChap. XXVII. Of the Draughts of some Temples which are out of Italy; and first of the two temples of Pola (Temple of Augustus, Pula)\n\nChap. XXVIII. Of the two Temples at Nîmes; of first of that which is call'd la Maison quarrée, or the square House (Maison Carrée)\n\nChap. XXIX. Of the other Temple of Nîmes (Temple of Diana, Nîmes)\n\nChap. XXX. Of two other Temples at Rome, and first of the Temple of Concord (Temple of Saturn)\n\nChap. XXXI. Of the Temple of Neptune (Temple of Neptune (Rome))\n\nPalladio founded an architectural movement which takes its name from him, Palladian architecture. I quattro libri dell'architettura contains Palladio's own designs celebrating the purity and simplicity of classical architecture. Some of these ideas had got no further than the drawing board while others, for example villa plans, had been successfully built. The book's clarity inspired numerous patrons and other architects. Palladian architecture grew in popularity across Europe and, by the end of the 18th century, had extended as far as North America. Thomas Jefferson, President of the United States, was a keen admirer of Palladio and once referred to the book as \"the Bible\". The Four Books was used to inform his own work as the architect of Monticello and the University of Virginia and also architect William Buckland 's at the 1774 Hammond-Harwood House in Annapolis, Maryland.\n\nPalladio drew inspiration from surviving Roman buildings, Roman authors (especially the architect Vitruvius) and Italian Renaissance architects. However, The Four Books of Architecture provided systematic rules and plans for buildings which were creative and unique. Palladio's villa style is based on details applied to a structural system built of bricks. He offers two types of general rules in the corpus: design rules (those based on appearance) and construction rules (those based on the logic of villa construction). Here rules of the two types are identified in sets from which subsets of identifiers and rules can be written.\n\nEach of the nine rule-sets contains many sub-identities of components and procedures for physical construction. A rule-set such as “Walls”, that identifies five sub-rules based on wall thickness, only needs construction rules; there is no need for rules based on style. In contrast, rules for “Frames” are based on a geometric style of curves and shape proportions. The results will yield clear identities for a shape grammar composition that can be based on physical construction and visual style.\n\nThese identities are taken from the first book of architecture and a survey of built villas. These are the nine rule-sets that define identity:\n\nWalls — parametric formula\n\nCeilings — parametric formula\n\nStairs — parametric formula\n\nColumns — parametric object\n\nDoors — parametric formula\n\nWindows — parametric formula\n\nFrames — parametric object\n\nRoof — parametric formula\n\nDetails — parametric object and formula",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1341725865",
+      "revision_id": "1341725865",
+      "text_sha256": "7cec7a67830f97db4cf35b5e722c5cf029aee1782accdbace7425aab4633c34d",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:17:07.288997+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.390249252319336,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:34260620",
+      "title": "Pierre Meile",
+      "corpus": "wikipedia",
+      "text": "Pierre Meile (23 February 1911 – 31 July 1963) was a French linguist. He was a professor of Indian languages at the Institut national des langues et civilisations orientales.\n\nBloch, Jules, 1963, Application de la cartographie à l'Histoire de l'Indo-Aryen, ouvrage publié par C. Caillat et P. Meile, Cahiers de la Société Asiatique, N°XIII, Paris, Imprimerie Nationale.\n\nMeile, Pierre, 1941, « Les Yavanas dans l'Inde Tamoule », in Mélanges Asiatiques publiés par la Société Asiatique, Années 1940-1941, pp. 85-123, Librairie orientaliste Paul Geuthner, Paris.\n\nMeile, Pierre, 1945, Introduction au Tamoul, Librairie Orientale et Américaine, G.P. Maisonneuve, Paris.\n\nMeile, Pierre, 1945, « Sur la Sifflante en Dravidien », in Journal Asiatique, tome CCXXXIV, Années 1943-1945, pp. 73-89, Librairie orientaliste Paul Geuthner, Paris.\n\nMeile, Pierre, 1947, « Chap. I. Le milieu géographique » (§§ 1-50), « Chap. II, Les races » (§§ 51-66), « Chap. III. 3, Les langues modernes » (§§ 118-192), « Chap. VI.2, Les sources non sanskrites » (§§ 890-987), in Renou & Filliozat.\n\nMeile, Pierre, (1950), « Gandhi ou la sagesse déchaînée », pp. v-xxxiv, in Gandhi, Autobiographie ou mes expériences de vérité, traduit d'après l'édition anglaise par Georges Belmont, Présentation et notes de Pierre Meile, Édition revue par Olivier Lacombe, Quadrige/PUF, 7 e édition «Quadrige»: 2003, juillet\n\nMeile, Pierre, (1951, 1965), Histoire de l'Inde, 2 e édition, mise à jour par Jean-Luc Chambard, avec le concours d'André Guimbretière pour le Pakistan, collection Que sais-je? N°489, Presses universitaires de France, Paris.\n\nRenou et Fillozat, 1947, L’Inde classique : manuel des études indiennes / par Louis Renou et Jean Filliozat, Paris : Payot, 1947 -53\n\nRenou et Fillozat, 1953, L’Inde classique : manuel des études indiennes / par Louis Renou et Jean Filliozat, Tome II avec de concours de Paul Demiéville, Olivier Lacombe Pierre Meile, Paris : Imprimerie Nationale, 1953",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1344027886",
+      "revision_id": "1344027886",
+      "text_sha256": "d9b44a63b82dcd9bd822ac2b01ce63671f2f23ad0434fa1d0f6892f137ce029a",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:17:15.818412+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.5380024909973145,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2277",
+    "title": "Britannica page 2277",
+    "corpus": "britannica",
+    "text": "<x_0.0195><y_0.0633>Chap. VI.<x_0.1084><y_0.0852><class_Page-header>\n\n<x_0.3242><y_0.0625>A N A T O M Y.<x_0.5869><y_0.0836><class_Title>\n\n<x_0.8242><y_0.0688>271<x_0.8701><y_0.0859><class_Page-header>\n\n<x_0.0186><y_0.0844>Of the muticles 12 12, The first cervical nerves; 13 13, The Brain and femoral cervical nerves both front upon in muticles that lie on the neck, and teguration of the neck and head. 14 14. The third cervical nerves, which after feeding off (12 15, Scc) the placenta nerve to the diaphragm, supply the mufles and tegurements that lie on the fide of the neck and top of the shoulder. 16 16, The brachial plexus, formed by the fourth, fifth, forth, towards cervical, and frit dorial nerves--which lupply the mufles, and tegurement of the effective extremity. 17 17, The twelve dorial, or proper intercedul nerves, which is peut upon the intercedul muscles and tone of the large mufles which are upon the thorax. 18 18, The five lumbar part of the nerves, which puppy the lumbar and abdominal muscles, and forms of the tegurism and mufles of the inferior extremity. 10 17, The fourscoles, as preferred cranial nerve, formed by the two inferior lumber, and three superior of the os Herman. This large nerve fulpthe the general part of the medicale and teguements of the inferior extremity. 20. The thoracic plexus, formed by the eighth pair. 21 21, Branches of the follor or callic plexus, formed by the eighth pair and inter-<x_0.4453><y_0.3719><class_Text>\n\n<x_0.4521><y_0.0867>collals, which lupply the flomach and chylopotic vience. 22 19. Branch of the figure and anterior mesenteric plexus, formed by the eighth pair and fifth tercedula, which lupply the chyopotic vience. With part of the organs of urine and generation. 23 23, Nerve which accompany the fermatic cord. 24 24, The hypogotic plexus, while fusplies the organs of urine and generates within the pelvis.<x_0.8076><y_0.1891><class_Text>\n\n<x_0.4512><y_0.1945>Fig. 2, 3, 4. Show different views of the Inferior part of the Brain, cut perpendicularly through the Middle-with, the Origin and large portions of all the Nerve which puts through the Bones of the Cranium,—and the three full Cervicals.<x_0.8066><y_0.2609><class_Text>\n\n<x_0.4502><y_0.2602>The anterior lobe, B, The lateral lobe of the cerebellum. C, One of the lobes of the cerebellum. To Tube aunture, K, Corpus pyramidal, in the middle of the medulla oblongata. G, The corpus olivare, in the fide of the medulla oblongata. G, The medulla oblongata. H, Hamilton mediala insula.<x_0.8086><y_0.3344><class_Text>\n\n<x_0.4531><y_0.3352>Naxxta - 2, 3,4, 6 5 and 3 Plate of nerves. 10 16, Nervus accoltionis, which comes from--11, 12, and 13, the three first cervical nerves.<x_0.8096><y_0.3742><class_Text>\n\n<x_0.2197><y_0.3922>CHAP. VI. OF THE SENSES, AND THEIR ORGANS.<x_0.6689><y_0.4117><class_Section-header>\n\n<x_0.041><y_0.4328>140 IN treating of the feeling, we mean to confine ourselves to the external ones of touch, triple, fineing, hearing, and vision. The word [only], when applied to their lives, fears us imply not only the forlation occurred in the limited by certain impurities made on the body, but likewise the organ defined to receive and transmit basic ingredients in the forbidden. Each of these organs being at a peculiar threat, is if dependible only of particular impretions, which will be pointed out as we proceed to define each of them fe parately.<x_0.4414><y_0.5703><class_Text>\n\n<x_0.1807><y_0.5781>Sect. I. _Of Touch._<x_0.3262><y_0.5969><class_Section-header>\n\n<x_0.04><y_0.6031>141 In this feature of touch may be defined to be the faculty of diltinguling certain properties of bodies by the feel. In a general accepted, this definition might perhaps not properly be extended to every part of the body political of identifying (又), it is commonly combined to the nervous pupils, and consequently of exciting differences in the fenision communes. But the origin of touch, like all the other feels, it not equally distinct in every part of the body, or in every subjects, being in force much more equitable than it to others.<x_0.8105><y_0.5398><class_Text>\n\n<x_0.5586><y_0.5422>Sect. II. _Of Teife._<x_0.7021><y_0.5617><class_Section-header>\n\n<x_0.4492><y_0.5672>This feeds of safe is faced chiefly in the tongue, the fixation and figure of which are sufficiently known.<x_0.8057><y_0.5953><class_Text>\n\n<x_0.4482><y_0.5945>On the upper further of this organ was may observe a great number of pupils, which, on occasion of their difference in free and hays, are commonly divided into three clades. The largest are trusted towards the final of the tongue. Their main community varies from fever to nine, and they form to be mucous folicles. Thief of the second clats and tunnels that matter, and of a cylindrical shape. They are most humorous about the middle of the tongue. Those of the third clats are very minute, and of a conical shape. They are<x_0.8115><y_0.7344><class_Text>\n\n<x_0.0781><y_0.7508>(v) In the course of this article, mention has often been made of the feasibility or interfilability of different parts of the body: it will therefore, perhaps, not be amido to oblive in this place, that many parts which were formerly tipped to polls the molt exquiteite fenle, are now known to have but little or no feeling, as leaf in a found story, for its inflamed there, even the bones, the molt infertible part of any, become susceptible of the molt painful fentiations. This curious discovery is due to the late late Haller. His experiment prove, that the females, cartilage, ligaments, tendons, epadenies, and membranes (as the plantar, periardium, diam and just master, peripheral, Sec) may in a healthy thus he considered in infinities. As fertilising depends on the brain and nerves, of courie different parts will polls a greater or lefs degree of feeling, in proportion as they are fluppled with a greater or insufficient number of nerves. Upon this principle it is, that the film, mulcles, domonic, interfere, urinary bladder, ureters, vagues, pens, tongue, and setina, are extremely feasible, while the lungs and glands have only an obscure degree of feeling.<x_0.8047><y_0.8945><class_Footnote>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "14347ce4d86a8b7c64b06fe9b4a47760c96bcdeeee7fd952886c483d168e7d17",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:58:05.011952+00:00",
+    "parser_receipt_sha256": "49071abca1da220eb6dfd295a428e3a1a630f417135697ae1f88eea824cc0cd9",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 180,
+      "occurred_at": "2026-10-18T18:17:05.758027+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 612,
+      "occurred_at": "2026-10-18T18:17:06.369974+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 901,
+      "occurred_at": "2026-10-18T18:17:07.289025+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2301,
+      "occurred_at": "2026-10-18T18:17:09.625388+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1452,
+      "occurred_at": "2026-10-18T18:17:11.097401+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1574,
+      "occurred_at": "2026-10-18T18:17:12.692975+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 3105,
+      "occurred_at": "2026-10-18T18:17:15.818431+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1671,
+      "occurred_at": "2026-10-18T18:17:17.508629+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2047,
+      "occurred_at": "2026-10-18T18:17:19.575040+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 75,
+      "occurred_at": "2026-10-18T18:17:19.673946+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 1454,
+      "occurred_at": "2026-10-18T18:17:21.127646+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 1478,
+      "occurred_at": "2026-10-18T18:17:22.616272+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 9,
+      "occurred_at": "2026-10-18T18:17:22.625548+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 5842,
+      "occurred_at": "2026-10-18T18:17:28.467775+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 877,
+    "modern_words": 277,
+    "vocabulary_jaccard": 0.07976653696498054,
+    "jensen_shannon_divergence": 0.6092302350338857,
+    "historical_top_words": [
+      [
+        "the",
+        104
+      ],
+      [
+        "of",
+        64
+      ],
+      [
+        "and",
+        38
+      ],
+      [
+        "in",
+        20
+      ],
+      [
+        "to",
+        17
+      ],
+      [
+        "which",
+        14
+      ],
+      [
+        "a",
+        11
+      ],
+      [
+        "nerves",
+        10
+      ],
+      [
+        "are",
+        10
+      ],
+      [
+        "this",
+        9
+      ],
+      [
+        "by",
+        7
+      ],
+      [
+        "or",
+        7
+      ],
+      [
+        "part",
+        7
+      ],
+      [
+        "that",
+        6
+      ],
+      [
+        "on",
+        6
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "of",
+        29
+      ],
+      [
+        "the",
+        27
+      ],
+      [
+        "a",
+        6
+      ],
+      [
+        "chap",
+        6
+      ],
+      [
+        "chronology",
+        5
+      ],
+      [
+        "is",
+        5
+      ],
+      [
+        "work",
+        5
+      ],
+      [
+        "newton",
+        5
+      ],
+      [
+        "s",
+        5
+      ],
+      [
+        "and",
+        5
+      ],
+      [
+        "as",
+        4
+      ],
+      [
+        "ancient",
+        3
+      ],
+      [
+        "kingdoms",
+        3
+      ],
+      [
+        "historical",
+        3
+      ],
+      [
+        "by",
+        3
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "chap vi",
+  "semantic_input": {
+    "query": "chap vi\nChap. VI.\n\nA N A T O M Y.\n\n271\n\nOf the muticles 12 12, The first cervical nerves; 13 13, The Brain and femoral cervical nerves both front upon in muticles that lie on the neck, and teguration of the neck and head. 14 14. The third cervical nerves, which after feeding off (12 15, Scc) the placenta nerve to the diaphragm, supply the mufles and tegurements that lie on the fide of the neck and top of the shoulder. 16 16, The brachial plexus, formed by the fourth, fifth, forth, towards cervical, and frit dorial nerves--which lupply the mufles, and tegurement of the effective extremity. 17 17, The twelve dorial, or proper intercedul nerves, which is peut upon the intercedul muscles and tone of the large mufles which are upon the thorax. 18 18, The five lumbar part of the nerves, which puppy the lumbar and abdominal muscles, and forms of the tegurism and mufles of the inferior extremity. 10 17, The fourscoles, as preferred cranial nerve, formed by the two inferior lumber, and three superior o",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.3649177551269531,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

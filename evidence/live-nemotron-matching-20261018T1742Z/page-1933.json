@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "5706",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:14473324",
+      "title": "Pale, Goa",
+      "corpus": "wikipedia",
+      "text": "Pale is a census town in South Goa in the Indian state of Goa.\n\nPale is located at. It has an average elevation of 0 metres (0 feet).\n\nAs of 2001 India census, Pale had a population of 5706. Males constitute 53% of the population and females 47%. Pale has an average literacy rate of 75%, higher than the national average of 59.5%: male literacy is 82%, and female literacy is 67%. In Pale, 10% of the population is under 6 years of age.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1234967376",
+      "revision_id": "1234967376",
+      "text_sha256": "846c34c2f123ffb3729e0355fe611abd80a7eca59a0b24b784928fd91cd8c51b",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:53:21.673770+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.976154804229736,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:2583659",
+      "title": "And So to Sleep Again",
+      "corpus": "wikipedia",
+      "text": "\"And So to Sleep Again\" is a popular song, written in 1951 by Joe Marsala and Sunny Skylar.\n\nIt was popularized by Patti Page in 1951. The Page recording was issued by Mercury Records as catalog number 5706, and first reached the Billboard chart on September 22, 1951, lasting 16 weeks and peaking at number 4.\n\nIt was also recorded in America by Dick Haymes, April Stevens and Margaret Whiting, and British covers were recorded by Jimmy Young and Dorothy Squires. It peaked at number 21 in the British sheet music charts. Coleman Hawkins also recorded it in October 1951",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1346917494",
+      "revision_id": "1346917494",
+      "text_sha256": "18dc60972606dd5f14868f051c5fca6b8f7c534ad9800f06caa0e456909736ca",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:53:22.779707+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.346334457397461,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:9251816",
+      "title": "Boston Street Railway Association",
+      "corpus": "wikipedia",
+      "text": "The Boston Street Railway Association (BSRA) is a non-profit organization in Boston, Massachusetts, whose central objective is preserving transportation history in Boston and throughout New England. They host monthly membership meetings, publish a bimonthly transit news magazine, and are restoring an ex-Boston Type 5 streetcar. They also regularly publish their own books and materials, as well as organize fan trips on Boston's MBTA and to the Seashore Trolley Museum in Kennebunkport, Maine. Funding for the organization is provided primarily through tax-deductible member and individual donations, as well as through grants and donations from other organizations and groups.\n\nThe BSRA was founded in 1959 by ten railfans – nine in their twenties, and one teenager. That year, they purchased 1924-built Type 5 streetcar #5706 – one of only four such cars that remained – from a junkyard for $500 for future use on charter trips. The organization has since become known for its publications, which have covered various aspects of public transportation history in New England and the Boston area, its occasional fan trips on the Boston MBTA's system and other places, as well as for its bimonthly magazine, Rollsign.\n\nFor many years, monthly membership meetings were held in the Grand Lodge of Massachusetts at the corner of Tremont and Boylston streets in Boston, but after that building was renovated and repurposed, BSRA gatherings have been relocated to the Midtown Hotel on Huntington Avenue. These are open to all members as well as the general public, and typically consist of a short business meeting followed by a longer entertainment presentation. Entertainment at the meetings typically consists of photo slides and videos on various topics in public transit, modern and historical, and often covers systems around the country and around the world. Any member or officer is allowed to make a presentation of their materials, provided it is scheduled in advance with the Entertainment Chairman.\n\nThe BSRA publishes Roll Sign bimonthly, and it is mailed to all members in good standing. It generally covers New England transportation news and events in articles and photos, submitted by publication staff and BSRA members. Recently, the magazine has adopted full color printing for most of its issues, after remaining black and white for most of its existence.\n\nThe BSRA produces other publications, or \"Bulletins\", on a regular basis. These range in size from smaller booklets to full-size hardcover books. Topics generally include historical aspects of Boston's public transit, as well as transit in other New England cities like Providence and Newport, Rhode Island, and Fitchburg, Massachusetts. An example Bulletin, No. 24, is Boston Transit Equipment: 1979–2009, written by Michael R. Prescott and published in October 2009.\n\nThe BSRA funds and manages the restoration of a historic \"Type 5\" Boston streetcar, No. 5706, which was built for the Boston Elevated Railway by J.G. Brill Co. in 1924. It was acquired by the BSRA's founding members in 1959, and the BSRA has been actively preserving and restoring the car ever since.\n\nThe BSRA charters occasional fan trips on Boston's transportation system and other railroad and transit-related locations. For example, a fan trip occurred on June 14, 2009, when the BSRA chartered a bus to visit their streetcar (#5706), and the Shore Line Trolley Museum in East Haven, Connecticut.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1311808895",
+      "revision_id": "1311808895",
+      "text_sha256": "46826c77f1fc4f85201cb9deb39929715fd79052b496b70ef43ffeefd50df88e",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:53:20.014189+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.352438449859619,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1933",
+    "title": "Britannica page 1933",
+    "corpus": "britannica",
+    "text": "<x_0.04><y_0.0336>5706<x_0.1035><y_0.0508><class_Page-header>\n\n<x_0.3633><y_0.0297>O R A T O R Y.<x_0.6523><y_0.0453><class_Title>\n\n<x_0.8916><y_0.0312>Part III.<x_0.9805><y_0.0484><class_Page-header>\n\n<x_0.0371><y_0.0516>floretion<x_0.0938><y_0.0625><class_Caption>\n\n<x_0.1016><y_0.0492>firedy temper of the family. And fo in the pro- verbal exprion: _An ape is an ape, drift him ever_\n_fo fine._<x_0.5068><y_0.0898><class_Text>\n\n<x_0.1025><y_0.0906>When a word is repeated again with vehemence in\nthe fane feen, it is called _epizensis_ This figure flews\nthe carefulness of the freaker, and his great concern\nof mind about what he fears and therefore has a na-\ntural tendency to exercise the attention of the audience.\nIt is fuited to exprets anger, furprizes, forrow, and fe-\nveral other affiliates. As when Cicero would experts\nhis indignation against Anthony for having been the\nchief instrument in bringing on the civil war, he fays\nto him: _You, you, Authorism pulled Defer upon the_\ncourt issue. It was that he tells Crafting in his first direc-\ntive against him : _You lives; and live, not to lay afide_,\n_but to paying your racked defying._ And when our Sa-\nviour would expect his great concern and former for\nthe wandche of the Jews, he does it in this pathetic\nmanner: _O Jernjalem, Jerjalem, who kilitl the pro-_\n_phs!_.<x_0.5059><y_0.3156><class_Text>\n\n<x_0.0596><y_0.3164>90<x_0.0762><y_0.332><class_Text>\n\n<x_0.0586><y_0.5977>70<x_0.0557><y_0.6148><class_Text>\n\n<x_0.0576><y_0.5953>73<x_0.0713><y_0.9078><class_Text>\n\n<x_0.5176><y_0.05>and your ancestors have undergone the greatest la-Blocution\nboats?<x_0.9883><y_0.0758><class_Text>\n\n<x_0.5186><y_0.0781>Epifrephe, is contrary to the former, and makes\nthe repetitions at the end of each member or feneen.\nAs thus: _Ruse concord was left, friendship was left,_\n_fidelity was left, liberty was left, all was left_. And\nCicero, in the charge which she brings against Mark\nAuthority before the feature, makes life of this figure,\nwhen he fays, \" Do you lament the deltruth of\nthree Roman amics\" The author of this detective\nwas Anthony. Do you bewah the loaf of most emi-\nent citizens? They have been taken from you by An-\nthony. Is the authority of this order weakened? It\nis weekend by Anthony.”<x_0.9199><y_0.2359><class_Text>\n\n<x_0.5195><y_0.2367>_Sympleces_ takes in both thefele fat figures. As in that\nof Cicero: \" You would patted and assume him,\nwhom the female bath condemned, whom the people of\nKome have condemned; whom all mankind have con-\ndemend?\" Here the feveral members both begin and\nend with the famed. We have a beautiful in-\nBance of in St Raul, when he fays: \" Are they\nHebrews? Io am I. Are they fireliter? Io am L.\nAre they the feet of Abraham ? Io am I.\nAre they the best of Abraham ? Go am I.’<x_0.916><y_0.3516><class_Text>\n\n<x_0.5166><y_0.3523>Where fenestens could wish the word with which\nit began, it is called _spanialphs_. As in that expref-\ntion of Phants, « Virte comans all things, he wanna\nno good thing who like virtue.\" The figure is the\nfame, but the principle not fo honeln, in the advice\nwhich we find given by the-miler in Horos, when he\nfays, \" Get money if you can, possibly, but however,\nget money.\" This figure adds a force to an expref-\ntion, when the principal thing designed to be courvye-\ned is thus repeated, by being it fall upon the mind.\nAnd it begins the beauty of it, when the fenestone\nhas an agreeable turn arising from two opposite parts.\nAs in Cicero's commenting Cofar: \" We have few\nyour colony remained by the way, your own\nlived in the city we have not femen.\" Hermogenes\ncalls this * circle, because the fenestence returna\non the fame work, as that converted figure is form-\ned by the orbicular motion of a line to the fame\npoints.<x_0.9141><y_0.6047><class_Text>\n\n<x_0.5156><y_0.6078>When the following fenestene begins with the fam\nword with which the former concluded, it is termed\nanadbigfix. As in the following influence: _Let us_\n_think to price too good for truth y forth cannot be_\n_bought too dies._ So in that suffage of St John: He\ncome to his own, and his own received him not. This\nfigure generally fits belt with grave and folemn dif-\ncounter.<x_0.915><y_0.7102><class_Text>\n\n<x_0.5146><y_0.7125>_Epandas_, is the freedom of a fenestor, or repeat-\ning in backwares, fo that it is taken in the two half fa-\ngerets for it both begins and ends with the fame words,\nand the fame word is likewise repeated in the middle.\nThat term of preffin both beauty traits, and flews arees-\ndirafs of thought. We have the following example of is\nla Minutus Feliss, where he is exopling the folly of the\nEgyptian fapetdition. \" Ida (fay fys) with Cy-\nmosphalus and her priefs, lemons, bemanns, and\nfcks her loft for, jer strenians beat their breatls,\nand insure the grief of the unhappy mother; in a\nlittle time the four is found, upon which they all re-\npieces. War do they excel every year to lafe what\nthey find, or to find what they lole. And is it not ri-<x_0.917><y_0.9102><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "6a60416ba241a622c793a581445a491afcbb474611ceea6491ad57afe38b2bf8",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:57:22.055379+00:00",
+    "parser_receipt_sha256": "df34211836b146467a864d5fb3ec705fa07f58867e4541471e2b3acec2f04572",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 1455,
+      "occurred_at": "2026-10-18T17:53:15.675518+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2718,
+      "occurred_at": "2026-10-18T17:53:18.393857+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1592,
+      "occurred_at": "2026-10-18T17:53:20.014232+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1635,
+      "occurred_at": "2026-10-18T17:53:21.673796+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1084,
+      "occurred_at": "2026-10-18T17:53:22.779727+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 981,
+      "occurred_at": "2026-10-18T17:53:23.780712+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1315,
+      "occurred_at": "2026-10-18T17:53:25.120402+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1578,
+      "occurred_at": "2026-10-18T17:53:26.730601+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1379,
+      "occurred_at": "2026-10-18T17:53:28.139544+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 65,
+      "occurred_at": "2026-10-18T17:53:28.236290+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 3455,
+      "occurred_at": "2026-10-18T17:53:31.690942+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 791,
+      "occurred_at": "2026-10-18T17:53:32.490614+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 6,
+      "occurred_at": "2026-10-18T17:53:32.496291+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 1476,
+      "occurred_at": "2026-10-18T17:53:33.972173+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 772,
+    "modern_words": 72,
+    "vocabulary_jaccard": 0.03209876543209877,
+    "jensen_shannon_divergence": 0.7041083189671138,
+    "historical_top_words": [
+      [
+        "the",
+        60
+      ],
+      [
+        "of",
+        26
+      ],
+      [
+        "and",
+        22
+      ],
+      [
+        "in",
+        21
+      ],
+      [
+        "is",
+        19
+      ],
+      [
+        "it",
+        14
+      ],
+      [
+        "to",
+        13
+      ],
+      [
+        "he",
+        10
+      ],
+      [
+        "when",
+        9
+      ],
+      [
+        "they",
+        9
+      ],
+      [
+        "a",
+        8
+      ],
+      [
+        "with",
+        8
+      ],
+      [
+        "this",
+        8
+      ],
+      [
+        "you",
+        8
+      ],
+      [
+        "have",
+        8
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "of",
+        9
+      ],
+      [
+        "pale",
+        5
+      ],
+      [
+        "is",
+        5
+      ],
+      [
+        "the",
+        4
+      ],
+      [
+        "in",
+        3
+      ],
+      [
+        "average",
+        3
+      ],
+      [
+        "population",
+        3
+      ],
+      [
+        "literacy",
+        3
+      ],
+      [
+        "a",
+        2
+      ],
+      [
+        "census",
+        2
+      ],
+      [
+        "goa",
+        2
+      ],
+      [
+        "has",
+        2
+      ],
+      [
+        "an",
+        2
+      ],
+      [
+        "and",
+        2
+      ],
+      [
+        "town",
+        1
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "5706",
+  "semantic_input": {
+    "query": "5706\n5706\n\nO R A T O R Y.\n\nPart III.\n\nfloretion\n\nfiredy temper of the family. And fo in the pro- verbal exprion: _An ape is an ape, drift him ever_\n_fo fine._\n\nWhen a word is repeated again with vehemence in\nthe fane feen, it is called _epizensis_ This figure flews\nthe carefulness of the freaker, and his great concern\nof mind about what he fears and therefore has a na-\ntural tendency to exercise the attention of the audience.\nIt is fuited to exprets anger, furprizes, forrow, and fe-\nveral other affiliates. As when Cicero would experts\nhis indignation against Anthony for having been the\nchief instrument in bringing on the civil war, he fays\nto him: _You, you, Authorism pulled Defer upon the_\ncourt issue. It was that he tells Crafting in his first direc-\ntive against him : _You lives; and live, not to lay afide_,\n_but to paying your racked defying._ And when our Sa-\nviour would expect his great concern and former for\nthe wandche of the Jews, he does it in this pathetic\nmanner: _O Jernjalem, J",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.37017965316772505,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

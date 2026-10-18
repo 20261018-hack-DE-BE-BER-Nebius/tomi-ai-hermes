@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "LA U [ 6oz ] L AU",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:2593018",
+      "title": "Emerald City (disambiguation)",
+      "corpus": "wikipedia",
+      "text": "The Emerald City is the capital city of the fictional Land of Oz in L. Frank Baum's Oz books and in the 1939 film adaptation The Wizard of Oz.\n\nEmerald City may also refer to:\n\nSeattle, Washington\n\nLos Angeles in the 1920s, California\n\nDublin, Georgia\n\nEugene, Oregon\n\nGreenville, North Carolina\n\nSydney, Australia\n\nEsmeraldas, Ecuador\n\nGreen Zone, International Zone of Baghdad, Iraq\n\nMuntinlupa, Philippines\n\nEmerald City (Teena Marie album), released in 1986\n\nEmerald City (John Abercrombie and Richie Beirach album), released in 1987\n\nEmerald City (John Vanderslice album), released in 2007\n\nThe Emerald City (Melanie Doane album), released in 2011\n\nThe Emerald City, by The Tossers, released in 2013\n\n\"Emerald City\" (song), recorded as a single in 1967 by The Seekers\n\n\"Emerald City\", a song by Prodigal from the 1984 album Electric Eye\n\n\"Emerald City\", a song by Dramarama from the 1985 album Cinéma Vérité\n\nEmerald City (TV series), a 2017 American fantasy television series on NBC based on L. Frank Baum's Oz series\n\nThe Emerald City (1976-1979), LGBTQ television series that aired on Channel J\n\n\"The Emerald City\" (Boardwalk Empire), a season 1 episode of the television series Boardwalk Empire (2010)\n\nEmerald City (play), a 1987 satirical play by David Williamson about the Australian film industry\n\nEmerald City (film), a 1988 Australian film starring Nicole Kidman, adapted from David Williamson's play\n\nEmerald City (magazine), a science fiction fanzine published from 1995 to 2006\n\nEmerald City, a prison unit in the fictional Oswald Maximum Security Prison of HBO's Oz television series (1997–2003)\n\nEmerald City Comicon, an annual comic book convention in Seattle, Washington, U.S.\n\nEmerald City, former theme of the MGM Grand Las Vegas hotel and casino in Las Vegas, Nevada, U.S.\n\nFoxwoods Resort Casino, in Connecticut, U.S.\n\nOracle Corporation headquarters in Redwood Shores, California, U.S.\n\nWashington, D.C. Temple of the Church of Jesus Christ of Latter-day Saints in Kensington, Maryland, U.S.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1350758887",
+      "revision_id": "1350758887",
+      "text_sha256": "1b62985522cbd99f8928a9c165f35f950f89bc96bbe2877dece91d10d07b5a49",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:44:16.284852+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.6509294509887695,
+      "vector_distance": 0.8987520933151245,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:27183459",
+      "title": "Red Lake Mine",
+      "corpus": "wikipedia",
+      "text": "The Red Lake mine is a Canadian gold mine located in northwestern Ontario at Red Lake. It was one of the largest gold mines in Canada and in the world. The mine had estimated reserves of 3.23 million oz of gold in 2013. Note that the Campbell and Red Lake mines are (or were) mining the same orebody, commonly referred to as the Campbell-Red Lake deposit.\n\nThe Red Lake Mining District has produced over 26 million ounces of gold through 2020, worth over $US 46 billion at 2020 prices. The two principal mines, Campbell and Red Lake, both have historic ore grades averaging about 0.57 oz/ton Au (22 g/tonne). One famous sample, the \"Campbell Mine Whopper\", contained 431 ounces of gold in a football-sized rock.\n\nThe rocks and mineralization features in this district are complex. The host rock here is a metamorphosed tholeiitic basalt dating to ~2.85 billion years (early Neoarchean). This basalt has been subjected to biotite - carbonate alteration and auriferous silicification. Gold mineralization has been dated to 2.712-2.723 billion years (during collision-related emplacement of several nearby igneous intrusions - Uchian Phase of the Kenoran Orogeny), and at 2.63-2.66 or 2.699 billion years (during a regional thermal event or another igneous intrusive event).\n\nOn November 25, 2019, Newmont Goldcorp announced an agreement to sell the Red Lake complex to Evolution Mining. Newmont announced the completion of the acquisition on March 31, 2020. As of early 2021, Evolution has announced resources of 2.9 Million oz Au at 6.9 gms Au/tonne, with a further 5.7 Million oz at 7.7 g/t indicated and 5.3 Million oz at 6.49 g/t inferred. Other projects in the district also are reporting promising results.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1272513976",
+      "revision_id": "1272513976",
+      "text_sha256": "1a0a497d98650ab86ff78e10611435295fc0b6d75272345da5cee4c99c251b62",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:44:15.212007+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.656762599945068,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:818050",
+      "title": "MHSnet",
+      "corpus": "wikipedia",
+      "text": "MHSnet is a store-and-forward Message Handling System for wide area networks. MHSnet and its precursor, SUNIII, were used to implement the Australian Computer Science network, commonly known as ACSnet, which connected Australia's Universities to each other and to ARPANET.\n\nMHSnet was originally developed at the University of Sydney by Piers Lauder and Bob Kummerfeld and was originally known as SUNIII (Sydney University Network version 3). Technically, it is similar in concept to UUCP in that it enabled the transfer of email, Usenet, and files in an efficient manner over non-dedicated links. In addition, it supported dynamic routing and a hierarchical name space avoiding the limitations of hardwired network addresses.\n\nMHSnet was a key technology in the introduction of Internet access in Australia. Due to the prohibitive costs of telecommunications structure, and the small amount of bandwidth available both internally and to other countries, MHSnet provided a system that could more efficiently use network resources. Gateways between ACSnet and the Internet were provided by many universities, and access to non-academic users was granted in the early 1990s.\n\nIn 1989, with the introduction of AARNet which directly connected Australia's Universities to the Internet, the ACSnet and MHSnet became obsolete.\n\nACSnet connected hosts in Australia resided in a.oz domain, which was moved into the Internet's.au namespace as.oz.au.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1252595364",
+      "revision_id": "1252595364",
+      "text_sha256": "3f5d46d1707220eb3922a39566f1975aeb2aed33620797416707e4090225d2e9",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:44:17.975057+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.7242255210876465,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:268",
+    "title": "Britannica page 268",
+    "corpus": "britannica",
+    "text": "<x_0.2383><y_0.0359>LA U [ 6oz ] L AU<x_0.7988><y_0.0547><class_Page-header>\n\n<x_0.0732><y_0.057>Laura. cipally the fearcity of this plant which makes it valeable.<x_0.5078><y_0.0852><class_Text>\n\n<x_0.1309><y_0.0844>The _becaom_ tree will grow to a much larger five than the other, and its branches are more numerous They are smooth, and of a fine light-green colour. The leaves on their upper furface are smooth and of a fine light-green colour, but that under furfacted w., nofe, and as which cells. When buried, they emit a fine fragrance. This tree was formerly milken for that which produces the thinly called forests in which is now known to be chained forests of places. See Svvxxax.<x_0.5195><y_0.2219><class_Text>\n\n<x_0.1338><y_0.2148>The _faffifra_ will grow to nearly the height of the others, though the branches are not fo numerous. Its bark is smooth, and of a red color, which beautifully diligullies in his winter, whilst the fine fishing green of its leave constitutes its growth because a formation. In thefe, indeed, there is a variety, and a very extraordinary one. Some are large, and of an coal figures; others are finally, and of the time hopes, while o-thers again are to divided into three lobes, as to a flexible the length of fine fame first of the fig trees. In America, the fallafras generally hands fining in the woods, and along the forces round the fields. It flowers in May before the leaves come out, and bring entirely covered with them, it is diltinguished at a great distance by their beautiful yellow colour.<x_0.5273><y_0.425><class_Text>\n\n<x_0.1367><y_0.4234>This method of the diffusers has a fragrant fowl, and a favorite, aromatic, tabberid tails the bark tatles much fronger than any other parts, and the final twige fringer than the large area. If the warm agentes and corroborate, and frequently employed with good fucsels for purifying and foreseeing the blood and juices. For their purpose, inflation made from the simplest nor or hair may be drank as tea. In forms conditions indeed, fish humans are by their fragments, app, on field taking them, to all the the herd, but in such cafes, they may be advantageously freed from their flavor by boiling. A detection of fallafras, boiled down to the confluence of an extract, proves firmly bitterth and fubaltingent. Hoffman affures us, that he has frequently given this extract to the quantity of a temple a time, with remarkable facets, for strengthening the tone of the vificera in ca-cherts; is allo in the decline of constituent levels, and in hypothetical fusions. Stifafras yields in di-filtration an extremely fragrant oil of a penetrating pungent tafes, foodcords (postwithstanding lightened to the deep yield) as to find in water. Rec-tified spirit extracts the whole tate and fowl of falls-fres, and cleaves nothing in separation, hence the spiritual extracts proves the most elegant and efficacious preparation, as containing the virtue of the root entire.<x_0.5381><y_0.7758><class_Text>\n\n<x_0.1357><y_0.7742>The bark of this tree is used by the women in Pen-flyingia and other part of North America in dying worried a fine falling orange-colour, which does not fade in the form. They are in white infested alum in dying; and both the dye in a brafs boiler, becard in an iron wildt it does not yield to fine a colour. The wood is made up of for polls belonging to the indo-fares, herit it fails to do a long time in the ground: but it is likewife laid, that there is hardly any kind of wood which is more stacked by worms than this way it is expected to the air without cover, and that in a short time it is quite worm-teaten through and through.<x_0.5322><y_0.9414><class_Text>\n\n<x_0.5293><y_0.0555>On cutting-forme part of the fallafras tree, or its shoots, and holding it to the nofe, it has a throng but pleasant feel. Some people peel the root, and boil they get with the beer which they are brewing, because they believe it wishfulness. For the fine realtion, the peel is put into branch either whiff it is diffilling or her it turned. Profefits Kale returns so that a de-ceflow of the root of fallafras in warn drank every morning, is used with fucsels in the droopy—When part of a wood is defined for conflitration, the fallafras tree are commonly left upon it, because they say a very thick foliage, and afford a cool finish to the cattle during the great heats. Some people get their bel-pulle made of fallafras wood, in order to expel the bugs, for its strong focus; it is fail, prevents those verin from settling in them. For two or three years together that has the dried effect, or about as long as the wood keeps its frong economic fresh; but after the time it has been observed to loof the effect. In Perlybania some people put chips of fallafras into their chefts, where they keep all fans of woolen fluffs, in order to expel the moths (or these or caterpillars of moths or traits) which commonly feite in them in firmmer. The root keeps its smell for a long while it Profefits Kale for our who which had him for ofx yers in the drawn of a table, and full preferred the strength of its feces. The people also gather its flowers, and uile it acts.<x_0.9199><y_0.4367><class_Text>\n\n<x_0.5303><y_0.4359>The _perfus_, or _alligator_ pear tree,is cultivated universally in the Well Infinity all ranks of people. The fruit is pear-shaped, and from one too two pounds in weight, to removing a green film or covering, we come to a yellow bayrayous dishanty, and in the heart find a large round feed or above, which is inequitible the fun-ice, and exceedingly hard and woody. This fruit is ripe in August and September, as coilitates one of the melt agreeable articles of diet for fix or eight weeks to the progress. Thefe pears, with a little fat and aplanar or one, affect a heavy meal. They are derived by at the tables of white people as choice fruit. When the pear is ripe, the yellow or enable influence a farmer than butter-gray tailts fumes whatlike lutter and marces. Hence it is called by from the vegetable marrow. But however excellent this fruit is when ripe, it is very dangerous when pulled and eaten before maturity. Or Wight fight, he has repeatedly known it to produce fever and dyreterty, which were removed with difficulty—the lease of this tree and hude of the backvine or wild limporare made into pectoral decoction by the common people—The large flora is used for marking lines. The clearly teet for hold over the flows, and the letters are picked out by a needle through the check and into the feet. The flain is a reddish brown, which never washes out— The buds of the allgance tree can fail to be cold with fucsels in pillars and the overall effects. An infusion of them in water, denks in the morning falls is already recommended for didlodging congrula-ted blood in the florals produced by a fall or a few eroks on the important central. \"The wild boar's in the Laft Indies (days Labat) eat gracefully of the manners and revacide peas, which give their flesh a infection and moll' agreciable farmers?<x_0.9238><y_0.9078><class_Text>\n\n<x_0.5439><y_0.9062>Caffia. The bark or this species is known in the flops by the name of _caffia ligges_. This bark, which<x_0.9258><y_0.9383><class_Text>\n\n<x_0.0781><y_0.8703>_Ralo’s_ _Trevels in America._<x_0.1387><y_0.9047><class_Caption>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "4ceda7d5b2e30d33bae6229226e4752869510e8902a370208fff59230ae24400",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:50:09.281008+00:00",
+    "parser_receipt_sha256": "7f1deb610c515bf225face9824d1baba60fb51e3113426953b90e4e25d747197",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 131,
+      "occurred_at": "2026-10-18T17:44:14.115468+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 530,
+      "occurred_at": "2026-10-18T17:44:14.645279+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 547,
+      "occurred_at": "2026-10-18T17:44:15.212061+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 516,
+      "occurred_at": "2026-10-18T17:44:15.748947+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 522,
+      "occurred_at": "2026-10-18T17:44:16.284885+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 584,
+      "occurred_at": "2026-10-18T17:44:16.886404+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 540,
+      "occurred_at": "2026-10-18T17:44:17.438658+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 522,
+      "occurred_at": "2026-10-18T17:44:17.975074+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 537,
+      "occurred_at": "2026-10-18T17:44:18.523022+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 28,
+      "occurred_at": "2026-10-18T17:44:18.570406+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 612,
+      "occurred_at": "2026-10-18T17:44:19.182411+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 238,
+      "occurred_at": "2026-10-18T17:44:19.427204+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 7,
+      "occurred_at": "2026-10-18T17:44:19.433755+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 606,
+      "occurred_at": "2026-10-18T17:44:20.039554+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1231,
+    "modern_words": 304,
+    "vocabulary_jaccard": 0.034532374100719423,
+    "jensen_shannon_divergence": 0.7256186691098954,
+    "historical_top_words": [
+      [
+        "the",
+        100
+      ],
+      [
+        "and",
+        45
+      ],
+      [
+        "of",
+        44
+      ],
+      [
+        "in",
+        43
+      ],
+      [
+        "a",
+        39
+      ],
+      [
+        "is",
+        29
+      ],
+      [
+        "to",
+        24
+      ],
+      [
+        "it",
+        21
+      ],
+      [
+        "or",
+        18
+      ],
+      [
+        "for",
+        16
+      ],
+      [
+        "which",
+        15
+      ],
+      [
+        "are",
+        13
+      ],
+      [
+        "this",
+        11
+      ],
+      [
+        "by",
+        11
+      ],
+      [
+        "its",
+        10
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "city",
+        20
+      ],
+      [
+        "the",
+        19
+      ],
+      [
+        "emerald",
+        19
+      ],
+      [
+        "in",
+        15
+      ],
+      [
+        "of",
+        10
+      ],
+      [
+        "s",
+        10
+      ],
+      [
+        "a",
+        9
+      ],
+      [
+        "album",
+        6
+      ],
+      [
+        "series",
+        6
+      ],
+      [
+        "oz",
+        5
+      ],
+      [
+        "released",
+        5
+      ],
+      [
+        "by",
+        5
+      ],
+      [
+        "u",
+        5
+      ],
+      [
+        "film",
+        4
+      ],
+      [
+        "from",
+        4
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "u oz l au",
+  "semantic_input": {
+    "query": "u oz l au\nLA U [ 6oz ] L AU\n\nLaura. cipally the fearcity of this plant which makes it valeable.\n\nThe _becaom_ tree will grow to a much larger five than the other, and its branches are more numerous They are smooth, and of a fine light-green colour. The leaves on their upper furface are smooth and of a fine light-green colour, but that under furfacted w., nofe, and as which cells. When buried, they emit a fine fragrance. This tree was formerly milken for that which produces the thinly called forests in which is now known to be chained forests of places. See Svvxxax.\n\nThe _faffifra_ will grow to nearly the height of the others, though the branches are not fo numerous. Its bark is smooth, and of a red color, which beautifully diligullies in his winter, whilst the fine fishing green of its leave constitutes its growth because a formation. In thefe, indeed, there is a variety, and a very extraordinary one. Some are large, and of an coal figures; others are finally, and of the time hopes, while o-ther",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.005833148956298828,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

@@ -1,0 +1,307 @@
+{
+  "status": "candidate",
+  "question": "AMI [ 619] A M I",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:6646906",
+      "title": "Ami",
+      "corpus": "wikipedia",
+      "text": "AMI or Ami may refer to:\n\nAMI (Romanian singer), a Romanian singer and songwriter\n\nAMI-tv, a Canadian TV channel\n\nAMI-télé, the French-language version\n\nAMI-audio, a Canadian audio broadcast TV service\n\nAmi Magazine, an Orthodox Jewish news magazine\n\nAMI Paris, a French luxury brand\n\nAMI Insurance, in New Zealand\n\nAMI Semiconductor, acquired by Onsemi\n\nAccessible Media Inc., a Canadian media company for the visually impaired\n\nAdvanced Machine Intelligence Labs, a French artificial intelligence company\n\nAfrican Minerals Limited (AMI.L)\n\nAlternative Miss Ireland, a Dublin beauty pageant\n\nAmazon Malaria Initiative\n\nAmerican Meat Institute, a trade association\n\nAmerican Media, Inc., now A360media, a publisher\n\nAmerican Megatrends Inc., a computer company\n\nAmerican Microsystems, Inc., a semiconductor company\n\nAmerican Monetary Institute, a non-profit\n\nAmerican Mustache Institute, an advocacy organization\n\nAnugerah Musik Indonesia, an annual Indonesian music award ceremony\n\nArmes-Militaria-Informations, a Belgian magazine, later Fire\n\nAssociation of Municipalities for Independence (Associació de Municipis per la Independència), in Catalonia\n\nAssociation Montessori Internationale, a non-governmental organization\n\nAssociation of Medical Illustrators, an international organization for certification in medical illustration\n\nAustralian Marketing Institute, a professional body\n\nAustralian Motor Industries, a former automobile assembly firm\n\nAmi (given name), including a list of people and fictional characters with that name\n\nAmi people, an indigenous people of Taiwan\n\nAmi or Amis language\n\nAmi language (Australia), a Marranj language\n\nAmi, Ibaraki, Japan\n\nSelaparang Airport, a defunct airport in Lombok, Indonesia, IATA code AMI\n\nAMI Stadium (disambiguation), several uses\n\nAmí, a word processing program\n\nAmi (camera), a Polish viewfinder camera\n\nAmi (spider), a synonym of Neischnocolus\n\nAcute myocardial infarction, a heart attack\n\nAdjusted mutual information, in information theory\n\nAdvanced metering infrastructure, for energy smart metering\n\nArcminute Microkelvin Imager, a pair of radio telescopes\n\nAmazon Machine Image, a special type of virtual appliance used to create a virtual machine\n\nAlternate-mark inversion, an encoding scheme for digital signals in telecommunications\n\nAmbient intelligence (AmI)\n\nCitroën Ami, a 1960s family car\n\nCitroën Ami (electric), a 2020s electric vehicle\n\nCyclone Ami, in Fiji 2002–03",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1353617169",
+      "revision_id": "1353617169",
+      "text_sha256": "6dd3a55e20f9569132702abae84fa8eb4018fd7f62ed2aefda6a32a962ec575c",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:47:36.839221+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.633214950561523,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:6290855",
+      "title": "Ami (given name)",
+      "corpus": "wikipedia",
+      "text": "Ami is a given name of Hebrew, Persian, Indian, Japanese, and other origins.\n\nForms in kanji can include:\n\n亜美, \"asia-beauty\"\n\n亜海, \"asia-ocean\"\n\n亜実, \"asia-fruit\"\n\n亜満, \"asia-, satisfy, full\"\n\n亜魅, \"asia-fascination\"\n\nあみ (in Hiragana)\n\nアミ (in Katakana)\n\nAmi Omer Dadaon (born 2000), Israeli Paralympic champion swimmer\n\nAmi Dolenz (born 1969), American producer television and film actress\n\nAmi Ghia (born 1956), Indian former badminton player\n\nAmi Kawai (河合 亞美; born 1967), Japanese stage and television actress\n\nAmi Harten (1947–1994), Israeli-American applied mathematician\n\nAmi Haruna (春名 あみ; born 1984), Japanese model and actress\n\nAmi Horowitz, American film maker\n\nAmi Inamura (稲村 亜美; born 1996), Japanese gravure idol, television personality and sportscaster\n\nAmi Ishii (石井亜海; born 2002), Japanese freestyle wrestler\n\nAmi James (born 1972), Israeli-American co-owner of tattoo parlor which is the subject of the reality television program Miami Ink\n\nAmi Kikuchi (菊地 亜美; born 1990), Japanese gravure idol, tarento and radio presenter\n\nAmi Klin, American psycologist\n\nAmi Koshimizu (小清水 亜美; born 1986), Japanese voice actress\n\nAmi Kondo (近藤 亜美; born 1995), Japanese judoka\n\nAmi Maayani (1936–2019), Israeli composer\n\nAmi Maeshima (前島 亜美; born 1977), Japanese idol and actress\n\nAmi Mali Hicks (1867–1954), American artist, suffragist and writer.\n\nAmi Mazar (born 1942), Israeli archaeologist and professor\n\nAmi McKay (born 1968), Canadian novelist and journalist\n\nAmi Metcalf (born 1994), English actress\n\nAmi Mishra, Indian singer-songwriter\n\nAmi Miron, Israeli-American entrepreneur and technology developer\n\nAmi Moyal (born 1962), Israeli engineer and academic\n\nAmi Nakai (中井 亜美; born 2008), Japanese figure skater\n\nAmi Nakamura (中村 亜実; born 1987), Japanese ice hockey player\n\nAmi Nakashima (中島 麻未; born 1988), Japanese singer, dancer and actress\n\nAmi Onuki (大貫亜美; born 1973), Japanese pop singer\n\nAmi Parekh (born 1988), Indian-American figure skater\n\nAmi Shelef (1936–1988, Israeli basketball player and coach\n\nAmi Sheth, American actress and model.\n\nAmi Suzuki (鈴木亜美; born 1982), Japanese singer and songwriter\n\nAmi Tokito (時東 ぁみ; born 1987), Japanese pop singer and gravure idol\n\nAmi Touma (當真 あみ; born 2006), Japanese actress\n\nAmi Trivedi (born 1982), Indian television and theatre actress\n\nAmi Vashi (born 1981), Indian beauty queen and model\n\nAmi Vitale (born 1971), American photojournalist and documentary filmmaker\n\nAmi Yoshida (吉田 アミ; born 1976), Japanese musician\n\nAmi Yuasa (湯浅 亜実; born 1998), Japanese breakdancer\n\nAndreea Ioana Moldovan (born 1989), Romanian singer professionally known as AMI\n\nAmi Aiba, a character/protagonist in the game Digimon Story: Cyber Sleuth\n\nAmi Hinamori, the younger sister of Amu Hinamori in the Shugo Chara! manga series\n\nAmi Kawamura, one of the main characters in the Little Battlers Experience game and anime series\n\nAmi Kawashima, in the Toradora! light novel series\n\nAmi Kitajima, in the manga Digimon Next\n\nAmi Matsuzaki, one of the main characters in the manga and 2005 anime Animal Yokochō\n\nAmi Mizuno, one of the main characters in the original anime series of Sailor Moon including its reboot Sailor Moon Crystal\n\nAmi Onuki, in the animated series Hi Hi Puffy AmiYumi, based on the Japanese Pop singer by the same name\n\nAmi, a character from the video games series Crash Bandicoot, first introduced in Crash Team Racing",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1346134626",
+      "revision_id": "1346134626",
+      "text_sha256": "89754a82f7393b55ca3dbbe8987541a7c1abfe03b87e2ccaa873118c76289f6a",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:47:36.272204+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.991322040557861,
+      "vector_distance": 0.8844971656799316,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:6656324",
+      "title": "Amy (disambiguation)",
+      "corpus": "wikipedia",
+      "text": "Amy is a feminine given name.\n\nAmy or AMY may also refer to:\n\nAmy (comic strip), created by Harry Mace in 1962\n\nAmy (The Walking Dead), a fictional character in the comic book and television series The Walking Dead\n\nAMY (scientific instrument), a particle detector used at the TRISTAN collider\n\nAmy (video game), a 2012 survival horror video game\n\nAtari AMY, a single-chip synthesizer originally designed at Atari\n\nAmy (1981 film), an American film directed by Vincent McEveety\n\nAmy (1984 film), a British television film based on the life of aviator Amy Johnson\n\nAmy (1997 film), an Australian film directed by Nadia Tass\n\nAmy (2015 film), a British documentary based on the life of Amy Winehouse\n\n\"Amy\" (Doctors), a 2004 television episode\n\n\"Amy\" (Not Going Out), a 2009 television episode\n\nAmy Records, an American record label\n\nAmy (soundtrack), from the 2015 film, by Antônio Pinto and Amy Winehouse\n\n\"Amy\" (song), by Green Day from ¡Dos!, 2012\n\n\"Amy\", a song by Chase Atlantic from Lost in Heaven, 2024\n\n\"Amy\", a song by Elton John from Honky Château, 1972\n\n\"Amy\", a song by Timeflies from After Hours, 2014\n\n\"Amy\", a song by Yuna and Masego from Rouge, 2019\n\n\"Amy\", an alternative name for \"If U Seek Amy\", a song by Britney Spears from Circus, 2008\n\nAmy, Kansas, US\n\nAmy, Mississippi, US\n\nAmy, Missouri, US\n\nAmy, Oise, France, a commune\n\nAmy (demon), in demonology, a goetic demon\n\nAMY Awards, or the Australian Interactive Media Industry Association Awards\n\nAmbatomainty Airport (IATA airport code)\n\nAmberley railway station (National Rail code)\n\nList of storms named Amy",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1335441839",
+      "revision_id": "1335441839",
+      "text_sha256": "305c80eafdfde917188c8a51678bacb629ceb4f68cfe0a4b6826df3b5d36f10c",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:47:35.110143+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.462541580200195,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:560",
+    "title": "Britannica page 560",
+    "corpus": "britannica",
+    "text": "<x_0.2119><y_0.0359>AMI [ 619] A M I<x_0.7617><y_0.0586><class_Page-header>\n\n<x_0.0156><y_0.0633>Amothy- gular, feminquinquifed, and perfilient: The _courillo_ is monospensioning. the border infiquorites are found in the _famina confitt_ of two slender filaments appreciated; the authors are simple and rounded. The _pilliflora has a four-clet german i fylvia_, the fate of the flaminis a figmatts two acurs No _corella :_ The _feels form; globos, and shorter than the colyx – There is only one known facec.<x_0.4814><y_0.1727><class_Text>\n\n<x_0.0889><y_0.1688>This plant is a native of Siberia, from whence the feeds were fet to the imperial garden at Peterburgh, and these brought to Russian. It is an amazing plant, with an upright folk, which rifles about a foot high. Towards the top it puts forth was on three fossil line related branches, garnished with small del leaves, lived on their edges, of a very dark green colour. The flowers appear in June or July, and are produced in final until all the extremities of the branches. They are of a fine blue colour, as are also the upper part of the branches, and the leaves immediately under the unshl, for that dry makes a fine appearance.<x_0.4824><y_0.3305><class_Text>\n\n<x_0.0879><y_0.3281>_Culture._ The feeds of the amethyaites should be flown in autumn as they set up to remain a whole year in the ground if kept till the living. When the plants come up, nothing else is necefitary than to keep them clear of weeds, and to thin them where they are too clede. They ought to be down where they are to re main, as they do not thrive when transparent.<x_0.4834><y_0.4258><class_Text>\n\n<x_0.0869><y_0.4219>AMPHYSTIVE is applied, in antiguity, to a kind of purple garment dyed of the bus of amethyft. In this fenêm amethyfilne differed from _Tyrian_ as well as from _breathine_ purple, being a kind of medium between both.<x_0.4883><y_0.4898><class_Text>\n\n<x_0.0898><y_0.4852>AMHAN, or AVARA, a province of Anything, field to extend so leagues from raft in welf. It is considered as the most noble in the whole empire, both on account of its being the ideal reference of the A- bythnis monuments, and among a particular dialect different from all the craft, which by reason of the emperor being brought up in the previous works because the language of the course and of the police people. Here is the famed rock Amba-gelthen, where the young morachs were formerly confined. See AvaA.<x_0.4902><y_0.6234><class_Text>\n\n<x_0.0908><y_0.6211>AMHURIST (Nicola); an English poet and political writer, was born at Marden in Kent and entered of St. John's colleg, Oxford, I’d from whence he we accepted for irregularity of conduct and liberties principles. Retaining great recruitment against the answerfly on this occasion, the studied is a learning and discipline and forms of the molt etipecialable characters in it, in a poem published in 1742 called _Coluba Britainans_, and in a book entitled _Terre Filosa_. He published, a Nicechy on Poems, farred and profane ; and, The Convocation, a poem in five cantons, which was a false on the Billings of Rangers a magnonite. But he is left known for the flare he had in the political paper called _Zie Grafjnaar_ strongly, after having been the druge of his party for near 20 years, he was as much forge in the famous compromite of 1742 as if he had never been born ; and, when he died in that year of a broken hearts, was indented to the charity of the bookstler for a grave.<x_0.501><y_0.8742><class_Text>\n\n<x_0.1025><y_0.8688>AMIMAYTHUS, or BAATH-FLAX, in natural hi- flory & thron, flexila, elastic, mineral inheritance, confifting of floor, abrupt, and interwoven ligaments. It is found in Germany, in the firara of iron ore, fomo<x_0.5><y_0.932><class_Text>\n\n<x_0.4863><y_0.1523>Amination is called by Mr Kirwan in the muriatic geum of earth, breatls it contains about a fifth part of magnifica. Its other enthusiasts are, film, mid calcareous earth, bayres, clay, and a very final pro portion of iron. It is fullible _per f in a first long,_ but, and allo with the common fluxes. It differs from afbele in containing force prodorous art.<x_0.8926><y_0.2336><class_Text>\n\n<x_0.4873><y_0.2313>AMIGALLE, in a general lenic, denotes any thing done in a friendly manner, or to promote peace.<x_0.9238><y_0.257><class_Text>\n\n<x_0.499><y_0.2562>_Ancare Bruder,_ Roman majority, were, according to Prifice, lower and lets honourable feats al-lotted for the _judica redenia_, or inferior judges, who upon being admitted of the emperor's council, were dig- nished by him with the title _amisi_.<x_0.9248><y_0.3242><class_Text>\n\n<x_0.498><y_0.3219>_Ancare Number,_ such are mutually equal to the ten of one another’s aliquipur parts. Thus the numbers 284 and 230 are amicable numbers : for the alt- parparts 1, 2, 4, 5, 19, 11, 20, 23, 44, 55, 110, of 220, are targeted equal to each other than 284 ‡ and the aliquipur parts 1, 2, 4, 71, 142, of 284, are together equal to 230.<x_0.9258><y_0.4156><class_Text>\n\n<x_0.4971><y_0.4148>AMCTUS in Roman antiquity, was any upper garment worn over the tunics.<x_0.9268><y_0.4461><class_Text>\n\n<x_0.502><y_0.4406>Asarrers, among octahedral writers, the uppermost garment warranty worn by the clergy : the other five being the alba, fingellum, foda, mangalo, and plauso. The amefter was a linem garment, of a spare papers, covering the head, rocks, and houlders, and buckled or chipel before the breath. It is still worn by the religious abroad.<x_0.8994><y_0.5391><class_Text>\n\n<x_0.5029><y_0.532>AMCULUM, in Roman antiquity, a woman’s up pergermary, which differed from the pala. It was worn both by manova and courarears.<x_0.9004><y_0.5773><class_Text>\n\n<x_0.5039><y_0.5711>AMICUS curkle, a law term, to denote a by-flander who informs the court of a matter in law that is doubtful or milikan.<x_0.9014><y_0.6195><class_Text>\n\n<x_0.5049><y_0.6203>AMIDA, a god worshipped by the japané, who has many temple credited to him in the island of Japan, of which the principal is at Jedo. The Japanese have fuch a confidence in their laid Andanda, that they hope to train several filing by the frequent invoces into one of the same. One of the figures of this idol is reprefeated at Rome.<x_0.9023><y_0.7109><class_Text>\n\n<x_0.5068><y_0.7023>Amida (une groge), a principal city of Méopomisnia (Libre Notias) y'_Amanda_ (Polandry); frutated on a high mountain, on the beaches of Afyrits, on the Yrys, you ever receive the Symphian— It was taken from the Romans in the time of the emperor Conflars, by Scarye Ring of Perita. The logic is fold to have call him 20.00 men, however, he reduced it to fuch ruin, that the emperor afterwards wept over it. According to Jamaimia Macrellana, the city may reside, like chiff offers were crucified; and the refl, with the soldiers and inhabitants, either put to the foreword or carried into registry, except our billionam landlir, and two orthree more, who, in the dead of the night, escaped through a polsum upterced by the enemy. The inhabits of Zollibs, however, being obliged to leave than own city by Jovian’s treaty with<x_0.9062><y_0.9234><class_Text>\n\n<x_0.6885><y_0.9148>4 F-2<x_0.7334><y_0.9289><class_Page-footer>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "c3ff53713741c121b2aad52d415d12aefbbbbe63366d78fce517442f41fa6082",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:54:26.210125+00:00",
+    "parser_receipt_sha256": "102429b00a49a299f752aa874241a86a93d7e4b4b4f65938345467fffa5184d7",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 147,
+      "occurred_at": "2026-10-18T17:47:33.383652+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1172,
+      "occurred_at": "2026-10-18T17:47:34.555501+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 543,
+      "occurred_at": "2026-10-18T17:47:35.110210+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 548,
+      "occurred_at": "2026-10-18T17:47:35.675114+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 580,
+      "occurred_at": "2026-10-18T17:47:36.272239+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 549,
+      "occurred_at": "2026-10-18T17:47:36.839252+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 550,
+      "occurred_at": "2026-10-18T17:47:37.407691+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 570,
+      "occurred_at": "2026-10-18T17:47:38.003806+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1228,
+      "occurred_at": "2026-10-18T17:47:39.247666+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 34,
+      "occurred_at": "2026-10-18T17:47:39.305775+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 429,
+      "occurred_at": "2026-10-18T17:47:39.734922+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 74,
+      "occurred_at": "2026-10-18T17:47:39.815500+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 5,
+      "occurred_at": "2026-10-18T17:47:39.820940+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 194,
+      "occurred_at": "2026-10-18T17:47:40.014748+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1069,
+    "modern_words": 333,
+    "vocabulary_jaccard": 0.028225806451612902,
+    "jensen_shannon_divergence": 0.7957403427542287,
+    "historical_top_words": [
+      [
+        "the",
+        92
+      ],
+      [
+        "of",
+        49
+      ],
+      [
+        "a",
+        39
+      ],
+      [
+        "in",
+        34
+      ],
+      [
+        "and",
+        31
+      ],
+      [
+        "to",
+        23
+      ],
+      [
+        "is",
+        18
+      ],
+      [
+        "it",
+        13
+      ],
+      [
+        "are",
+        12
+      ],
+      [
+        "by",
+        12
+      ],
+      [
+        "from",
+        9
+      ],
+      [
+        "was",
+        9
+      ],
+      [
+        "on",
+        9
+      ],
+      [
+        "or",
+        8
+      ],
+      [
+        "as",
+        8
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "a",
+        29
+      ],
+      [
+        "ami",
+        24
+      ],
+      [
+        "in",
+        7
+      ],
+      [
+        "of",
+        7
+      ],
+      [
+        "an",
+        6
+      ],
+      [
+        "american",
+        6
+      ],
+      [
+        "for",
+        5
+      ],
+      [
+        "language",
+        4
+      ],
+      [
+        "media",
+        4
+      ],
+      [
+        "inc",
+        4
+      ],
+      [
+        "company",
+        4
+      ],
+      [
+        "institute",
+        4
+      ],
+      [
+        "association",
+        4
+      ],
+      [
+        "tv",
+        3
+      ],
+      [
+        "canadian",
+        3
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending."
+  ],
+  "candidate_query": "ami m i",
+  "semantic_input": {
+    "query": "ami m i\nAMI [ 619] A M I\n\nAmothy- gular, feminquinquifed, and perfilient: The _courillo_ is monospensioning. the border infiquorites are found in the _famina confitt_ of two slender filaments appreciated; the authors are simple and rounded. The _pilliflora has a four-clet german i fylvia_, the fate of the flaminis a figmatts two acurs No _corella :_ The _feels form; globos, and shorter than the colyx – There is only one known facec.\n\nThis plant is a native of Siberia, from whence the feeds were fet to the imperial garden at Peterburgh, and these brought to Russian. It is an amazing plant, with an upright folk, which rifles about a foot high. Towards the top it puts forth was on three fossil line related branches, garnished with small del leaves, lived on their edges, of a very dark green colour. The flowers appear in June or July, and are produced in final until all the extremities of the branches. They are of a fine blue colour, as are also the upper part of the branches, and the leaves immed",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 1.3581070899963383,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

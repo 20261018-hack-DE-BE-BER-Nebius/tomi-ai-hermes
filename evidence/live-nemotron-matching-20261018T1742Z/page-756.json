@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "MAGNETISM.",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:45471960",
+      "title": "Magnetism (album)",
+      "corpus": "wikipedia",
+      "text": "Magnetism is an album by American jazz pianist Matthew Shipp which was recorded in 1999 and released on the French Bleu Regard label. The work is a twenty-movement suite composed of solo, duo and trio performances by Shipp, saxophonist and flutist Rob Brown and bassist William Parker.\n\nIn his review for AllMusic, Steve Loewy states \"Shipp continues to impress with splendid technique, an ear for subtlety, and rhythmic variety.\"\n\nAll compositions by Matthew Shipp\n\n\"Magnetism I\" – 0:55\n\n\"Magnetism II\" – 3:19\n\n\"Magnetism III\" – 3:48\n\n\"Magnetism IV\" – 2:28\n\n\"Magnetism V\" – 3:29\n\n\"Magnetism VI\" – 1:10\n\n\"Magnetism VII\" – 3:07\n\n\"Magnetism VIII\" – 4:11\n\n\"Magnetism IX\" – 0:28\n\n\"Magnetism X\" – 3:24\n\n\"Magnetism XI\" – 3:38\n\n\"Magnetism XII\" – 0:43\n\n\"Magnetism XIII\" – 4:08\n\n\"Magnetism XIV\" – 2:18\n\n\"Magnetism XV\" – 4:54\n\n\"Magnetism XVI\" – 0:53\n\n\"Magnetism XVII\" – 3:05\n\n\"Magnetism XVIII\" – 3:42\n\n\"Magnetism XIX\" – 1:41\n\n\"Magnetism XX\" – 5:32\n\nMatthew Shipp – piano\n\nRob Brown – alto sax, flute\n\nWilliam Parker – double bass",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1291070535",
+      "revision_id": "1291070535",
+      "text_sha256": "cfe31fcc6ab2b72fab41fb644a3650fcae3367ed2832302341ba12e31f6eea3f",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:25.234662+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.71848726272583,
+      "vector_distance": 0.8374732136726379,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:38222069",
+      "title": "Magnetic (disambiguation)",
+      "corpus": "wikipedia",
+      "text": "The term magnetic usually refers to magnetism.\n\nMagnetic may also refer to:\n\nMagnetic (Goo Goo Dolls album), 2013\n\nMagnetic (Terence Blanchard album) or the title song, 2013\n\nMagnetic (Kaela Kimura album), 2022\n\n\"Magnetic\" (Earth, Wind & Fire song), 1983\n\n\"Magnetic\" (Kaela Kimura song), 2022\n\n\"Magnetic\" (Illit song), 2024\n\n\"Magnetic\", by Chlöe Howl, 2017\n\nMagnetic (film), a 2015 science-fiction film\n\n\"Magnetic\" (Smallville), a television episode\n\nMagnetic (video game), a 2003 adventure game\n\nMagnetic Island, off the coast of Townsville, Queensland, Australia\n\nHMAS Magnetic, a former Royal Australian Navy base at Townsville, Queensland, Australia\n\nSS Magnetic, a passenger tender of the White Star Line",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1343773243",
+      "revision_id": "1343773243",
+      "text_sha256": "e4a8d29156e46238f6f699a2f41fc08dade7e40f887da5d8b3937dcd67a01829",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:24.640829+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.05609130859375,
+      "vector_distance": 0.8364162445068359,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:1271622",
+      "title": "Magnet (disambiguation)",
+      "corpus": "wikipedia",
+      "text": "A magnet is an object that has a magnetic field.\n\nMagnet or magnets may also refer to:\n\nMagnet, Allier, a town in France\n\nMagnet, California, an unincorporated community in Madera County\n\nMagnet, Illinois, an unincorporated community in Coles County\n\nMagnet, Indiana, an unincorporated community in Perry County\n\nMagnet, Nebraska, a village in the United States\n\nMagnet, Texas, an unincorporated community in the United States\n\nMagnet (musician) (born 1970), Norwegian singer-songwriter\n\nMagnet (band), a folk band\n\nMagnet (magazine), a music magazine\n\nMagnet Records, a record label\n\nThe Magnets, a UK a cappella vocal group\n\nMagnet (album), a 2003 album by Robin Gibb\n\nMagnets (album), by The Vapors\n\n\"Magnet\" (BGYO song), 2022\n\n\"Magnet\" (Cardi B song), 2025\n\n\"Magnets\" (song), a 2015 song by Disclosure\n\n\"Magnet\", a song by Bikini Kill from Pussy Whipped\n\n\"Magnet\", a song by Bombay Bicycle Club from I Had the Blues But I Shook Them Loose\n\n\"Magnet\", a song by Punch Brothers from The Phosphorescent Blues\n\n\"Magnets\", a song by the Vapors and title track of Magnets\n\nThe Magnet, an early 20th-century British story paper\n\nThe Magnet Theater, an improv theater\n\nMagnet Releasing, an independent theatrical films distributor\n\nMagnet (children's television block)\n\nMagnet school, specialized public school in the United States\n\nMagnet Kitchens, a kitchen retailer based in the UK and Ireland\n\nMagnet Trade, a brand belonging to Magnet Kitchens\n\nMaritime Awareness Global Network, a US Coast Guard intelligence tool\n\nHMS Magnet, more than one ship of the British Royal Navy\n\nUSS Magnet, more than one ship of the United States Navy\n\nMagnet Networks, an internet, video and voice services provider in Ireland and the UK\n\nMagnet Recognition Program, a nursing recognition program\n\nMagnet URI scheme, a scheme for Uniform Resource Identifiers, often used with peer-to-peer networks",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1314917818",
+      "revision_id": "1314917818",
+      "text_sha256": "79344dacb9ce024d3d5644259682be935dcd1f7df867a09009513de84ebc2cb3",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:22.861318+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.325763463973999,
+      "vector_distance": 0.8119735717773438,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:756",
+    "title": "Britannica page 756",
+    "corpus": "britannica",
+    "text": "<x_0.3369><y_0.0312>MAGNETISM.<x_0.6055><y_0.0555><class_Page-header>\n\n<x_0.8965><y_0.0375>129<x_0.9443><y_0.057><class_Page-header>\n\n<x_0.0166><y_0.0578>41 tempered\nsheet\nfrom a\nthe magma\nfilm.<x_0.0596><y_0.1266><class_Text>\n\n<x_0.0713><y_0.0563>But any degree of temper that is given to feed makes\na very important change in this respect. In the first\nplace, it acquires magnentifin more flowly by induction\nthan an equal and similar piece of common iron, and its\nmaly acquired lets. These differences are only trans-\nmined by the deviations which it causes in the manner’s\nneedle from the magnetic meridian, and by its attractive\ntions.<x_0.4629><y_0.1578><class_Text>\n\n<x_0.0723><y_0.1602>When the inducing magnet is removed, fome mag-\nnetti remains in the fixed bar, which retains the polo-\nry which, it will be the neighborhood of the matter.<x_0.4639><y_0.2016><class_Text>\n\n<x_0.0732><y_0.2023>Steel tempered to the degree fit for watch Springs\nacquires along magnetic which is exhibits imme\ndisels on the removal of the magnet. But it diffipates\nvery fat ; and, in a very few minutes, it is reduced to\nlois than one half of its strength while in control with\nthe magnet, and not two thirds of what it was\ndistety on removal from it. It continues to diffidate for\nformer days, though the her be kept with care'; but the\ndiffusion diminishes at, and in the near at, half over\nthird of its greatest power forany length of time, unleef\ncardially keep or indjudicially treated.<x_0.4648><y_0.3484><class_Text>\n\n<x_0.0586><y_0.3477>Steel tempered into flowing cutting tools, fish a schlieb,\npunches, and drills for metal, acquires magnifin fill\nmore flowly by induction, and acquires five of it while\nin contact with the magnet, but it certain it more firms\nby, and finally retains a greater proportion of who it\nhad acquired.<x_0.4619><y_0.4266><class_Text>\n\n<x_0.0576><y_0.4273>Steel made as hard as possible, is much longer in ac-\nquiring all the magnifin which limple juxtaposition\ncan give to it. It acquires less than the formerly but it\nretains is with great firmness, and finally retains a much\ngreater proportion.<x_0.4658><y_0.4945><class_Text>\n\n<x_0.0566><y_0.4953>Such one of iron as are fulcypible of magnetifi,\nare nearly like hard feel in their effects you that in\nthe time necessary for their _properlift_ impregnation, and\nin the durability of the acquired magnifine. They\neffic exceedingly in respect to the degree of power\nwhich they can attain by mere juxtaption, and the\nvirieties form to depend on heterogeneous mixture.\nWe emit offriever, thus far once of our ones of influence of\nof magnetism of the metal in the fate of my way, and com-\nbred with dolphins, are not magnentable while remain-\ning in that there. Mott core require reading, and a fort\nof cementation, in contact with inflammable fuhlances.\nThis matter is not underdefended, but it would form\nthat complex metallization is far from being the north to\nvotrale condition, and that a certain degree of oxyda-\ntion, and perhaps some other positive yet unknown,\nmake the her lautiness. Our all this is extremely\noblicure. The late Dr Cowin Knight made a compolio-\ntion which required every phono and permanent mag-\nseting, but the recent died with him. Dr Gilbert\npeaks of limilat compositions, in which ferruginous\ndays were ingredients ; but we know nothing of the fate\nof the metal in them, nor their mode of acquiring mag-\nretin.<x_0.4531><y_0.8273><class_Text>\n\n<x_0.0557><y_0.8234>It is of peculiar importance to work that the ac-\nquition of magnetization is gradual and progrestive, and\nthat the gradation is the more perceptible in proportion\nas the field is of a hastheric temper. When a magnet is\nhrough to one end of a bar of common iron, to remote\nextremity, unleef exceedingly long, requires its utmost\nmagnifin immediately. But when the north pole of<x_0.4541><y_0.9219><class_Text>\n\n<x_0.4668><y_0.0508>a magnet is applied: to one end of a bar of hard flee,\nthe part in contact immediately becomes a fourth pole,\nand the far end is not yet affected. We offer a north\npole formed a fance difference from the concept, and bec-\nsent that a faint tooth pole. \"Their gradually advance\nalong the bar. The remote extremity become frit a\nfaint fourth pole, and it is not differ very long while\n(If ceer) that it becomes a simple, vigorous, north\npole. More frequently it remains a difficult and recycle\nnorth pole: may, if the her for very long, it often hop-\npus that have a sacrifice of north and forth poles,\nwhich never make their way to the far end of the bar.\nThis phenomenon was first observed (we think) by Dr\nBrook Taylor, who _they_ now account of his obtivations\nto the _Philophysical Transformation_, no 344.<x_0.8682><y_0.2547><class_Text>\n\n<x_0.4678><y_0.2586>From the account we have given of their phenomenons to a st-\nof indeed magnifine, it appears that the temporary because\nmagnifin is always lo disfpided that the rim of their beces\nmutual attractions of the difficiliate poles exceeds the\ngentich\nim of the repollon between the limlar, poles, and\nthat therefore the two magnets tend to each other.\nThis is evidently equivalent to flying, that a piece of\nmagnungtic iron is always attracted by a magnet. No\nexception has ever been observed to this fact, for Phys's\ndury of a Thamades, or loadlines, which repeals iron, is\nallowed by all to have been a false.<x_0.8701><y_0.4031><class_Text>\n\n<x_0.4688><y_0.4039>We think outfellow authorified to lay that this attraction\nof the headlines for iron, or this tendency of iron\nto the headline, is a secondary phenomenon, and is the\n_conference_ of the proper disposition of the induced mag-\nnetimin. The proofs already given of the compound\nmatters of this phenomena, namely, that is arise from\nthe excess of two attributions above two repetitions, need\n(we imagine) no addition. But the following condir-\nactions place the matter beyond doubt.<x_0.8604><y_0.5234><class_Text>\n\n<x_0.4697><y_0.5242>I. The magnifinal of the two poles is evidently of an\nopposite nature; the one repelling what the other at-\ntrade). If the aircraft iron, therefore, the other\nshould result it. But each path, by changing a magre-\ntifion opposite to its own, on the nearest end of the iron,\nand the fans with its own on the remote end, and its\naction diminishing with an increase of diflants, there\nmult always be an excess of attraction, and the iron mult\nbe attached.<x_0.8711><y_0.6422><class_Text>\n\n<x_0.4707><y_0.6414>A Each of the magnets A and B, in either of the\npositions reprefened in fig. 12. would alone attract the\npiece of common iron. But when placed together,\nthe fourth pole of 8 tends to render the upper end of\nC a north pole; while the north pole of B tends to\ntake it a South pole. If there actions be nearly equal,\nthe weight of C cannot be supposedly be the magnifin\ninduced by any difference of action that may remain.\nWhile C is hanging D I alone, let. A be gradually\nenough tree, it gradually thorley the action of the\nnorth pole of B, to that C gradually lofos its magnifin\nand polarity, and its weight prends.<x_0.8564><y_0.8023><class_Text>\n\n<x_0.4717><y_0.8016>§. He all three cases where the induction of magne-\ntifism is flow, the attraction is weak in proportion. This\nis particularly remarked by Dr Gilbers. If we take\npiece of common iron, and of fleet of different temps,\nbut all of the fame fine and form, we shall find that the\niron is much more thought attracted than any of the\nrel, and that the attraction for each of them a weaker\nproportion as they are harder. This liberty is to\naccurately observed, that when the piece is thoroughly<x_0.8545><y_0.9227><class_Text>\n\n<x_0.0781><y_0.9203>Surez, Vol. II. Part I.<x_0.2627><y_0.932><class_Caption>\n\n<x_0.8008><y_0.9234>R<x_0.999><y_0.9367><class_Picture>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "88fc3e313b0a120cf1f77e70b9045f86bbca4f346ea6a214529a33efabbc5d12",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:54:42.005181+00:00",
+    "parser_receipt_sha256": "2761c6fc6a7c4c5cd68b06f36bccdaaa556a8ab32620cec05a2da655fe996057",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 140,
+      "occurred_at": "2026-10-18T17:48:22.267949+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 593,
+      "occurred_at": "2026-10-18T17:48:22.861372+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 576,
+      "occurred_at": "2026-10-18T17:48:23.457415+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 550,
+      "occurred_at": "2026-10-18T17:48:24.030893+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 593,
+      "occurred_at": "2026-10-18T17:48:24.640877+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 567,
+      "occurred_at": "2026-10-18T17:48:25.234679+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1189,
+      "occurred_at": "2026-10-18T17:48:26.435011+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 544,
+      "occurred_at": "2026-10-18T17:48:26.998816+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 637,
+      "occurred_at": "2026-10-18T17:48:27.649275+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 36,
+      "occurred_at": "2026-10-18T17:48:27.706525+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 474,
+      "occurred_at": "2026-10-18T17:48:28.181007+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 84,
+      "occurred_at": "2026-10-18T17:48:28.272501+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 6,
+      "occurred_at": "2026-10-18T17:48:28.278115+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 175,
+      "occurred_at": "2026-10-18T17:48:28.453177+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1209,
+    "modern_words": 126,
+    "vocabulary_jaccard": 0.039927404718693285,
+    "jensen_shannon_divergence": 0.7723731851702912,
+    "historical_top_words": [
+      [
+        "the",
+        93
+      ],
+      [
+        "of",
+        73
+      ],
+      [
+        "a",
+        35
+      ],
+      [
+        "and",
+        35
+      ],
+      [
+        "is",
+        32
+      ],
+      [
+        "to",
+        26
+      ],
+      [
+        "it",
+        25
+      ],
+      [
+        "in",
+        23
+      ],
+      [
+        "that",
+        21
+      ],
+      [
+        "but",
+        13
+      ],
+      [
+        "iron",
+        13
+      ],
+      [
+        "by",
+        12
+      ],
+      [
+        "pole",
+        12
+      ],
+      [
+        "this",
+        11
+      ],
+      [
+        "its",
+        10
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "magnetism",
+        21
+      ],
+      [
+        "shipp",
+        5
+      ],
+      [
+        "and",
+        5
+      ],
+      [
+        "by",
+        3
+      ],
+      [
+        "matthew",
+        3
+      ],
+      [
+        "is",
+        2
+      ],
+      [
+        "an",
+        2
+      ],
+      [
+        "in",
+        2
+      ],
+      [
+        "the",
+        2
+      ],
+      [
+        "rob",
+        2
+      ],
+      [
+        "brown",
+        2
+      ],
+      [
+        "william",
+        2
+      ],
+      [
+        "parker",
+        2
+      ],
+      [
+        "for",
+        2
+      ],
+      [
+        "album",
+        1
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "magnetism",
+  "semantic_input": {
+    "query": "magnetism\nMAGNETISM.\n\n129\n\n41 tempered\nsheet\nfrom a\nthe magma\nfilm.\n\nBut any degree of temper that is given to feed makes\na very important change in this respect. In the first\nplace, it acquires magnentifin more flowly by induction\nthan an equal and similar piece of common iron, and its\nmaly acquired lets. These differences are only trans-\nmined by the deviations which it causes in the manner’s\nneedle from the magnetic meridian, and by its attractive\ntions.\n\nWhen the inducing magnet is removed, fome mag-\nnetti remains in the fixed bar, which retains the polo-\nry which, it will be the neighborhood of the matter.\n\nSteel tempered to the degree fit for watch Springs\nacquires along magnetic which is exhibits imme\ndisels on the removal of the magnet. But it diffipates\nvery fat ; and, in a very few minutes, it is reduced to\nlois than one half of its strength while in control with\nthe magnet, and not two thirds of what it was\ndistety on removal from it. It continues to diffidate for\nformer days, though ",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.3376040458679199,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

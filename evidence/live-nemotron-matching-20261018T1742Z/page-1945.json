@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "Part III. U P T I C S. 5605",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:2529691",
+      "title": "III Steps Forward",
+      "corpus": "wikipedia",
+      "text": "III Steps Forward is a 2002 album by the band Download. It is a collection of new material, as well as outtakes from their albums III and Effector.\n\nAccording to Brainwashed.com, the tracks were \"on par with or better than those that made the official releases\".\n\n\"Sticky Glandstin\" (Key/Western) – 3:14\n\n\"Dakota\" (Key/Western) – 4:30\n\n\"Resilient\" (Key/Western) – 3:38\n\n\"The Itch Of Trepanning\" (Key/Western) – 2:47\n\n\"Ratail Comb\" (Key/Western) – 3:58\n\n\"Manmade\" (Key/Western/Robinson) – 4:02\n\n\"Nor\" (Key/Western) – 5:59\n\n\"Walking, Talking\" (Key/Western/Torres) – 3:59\n\n\"D.O.G.\" (Key/Western/Torres) – 4:14\n\n\"P.U.P.\" (Key/Western/Torres) – 4:29 \"Bolantinis Pivoli\" (Key/Western) – 1:46\n\ncEvin Key\n\nPhil Western\n\nDre Robinson (additional electronics on \"Manmade\")\n\nOmar Torres (additional electronics on tracks 8–10)\n\nPhil Western, Simon Paul & Scott Graham - sleeve design and layout\n\nPhil Western & cEvin Key - photography\n\nPart 3 of 7 \"From the Vault...\" series: Limited edition of 1000\n\n\"dediCATed to d.o.g. and p.u.p. 9/30/1985 - 11/14/2001 - 4/3/2002\"",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1307637829",
+      "revision_id": "1307637829",
+      "text_sha256": "30326c42b5ff299da48ca8c72cb71c6030f01592c33e24a92b4b5a96ecf4c5ec",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:54:20.156356+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.901933670043945,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:3473092",
+      "title": "Thomas P. O'Neill III",
+      "corpus": "wikipedia",
+      "text": "Thomas Phillip O'Neill III (born September 20, 1944) is an American politician and businessman who served as the 65th lieutenant governor of Massachusetts.\n\nBorn in Cambridge, Massachusetts, he is a son of Mildred Anne Miller and Thomas Phillip \"Tip\" O'Neill Jr., who served as Speaker of the United States House of Representatives from 1977 to 1987. O'Neill received his bachelor's degree from Boston College and earned his Master of Public Administration from Harvard University ’s John F. Kennedy School of Government.\n\nPrior to becoming lieutenant governor, O’Neill served as a member of the Massachusetts House of Representatives from 1973 to 1974.\n\nFrom 1975 to 1983, O'Neill served as Lieutenant Governor of the Commonwealth of Massachusetts. During his term of office, O'Neill created and administered the Office of Federal-State Relations in Boston and Washington, D.C. During this time he also served on the U.S. State Department Ambassadorial Screening Committee. O'Neill is known for his work on behalf of the Big Dig, a project with which his father was instrumentally involved.\n\nO'Neill declined to seek a third term in 1982 in order to run for Governor of Massachusetts, but ran afoul of the state Democratic Party's rule changes and failed to make the ballot.\n\nO'Neill sits on the Board of Trustees for Boston College and chairs the Board of Trustees of Cristo Rey Boston High School, having graduated from both. He is on the board of Catholic Democrats, a national advocacy organization dealing with faith and politics.\n\nO'Neill has public relations and government affairs firm called O'Neill and Associates in Boston. In June 2020, the firm merged with Seven Letter, a communications firm based in Washington, D.C. O'Neill will maintain control of the firm's lobbying practice.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1350653898",
+      "revision_id": "1350653898",
+      "text_sha256": "64687c1c34a26802ee396eef0f16f801c10b895cc7f013862446874200ccaa46",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:54:10.922044+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.144272327423096,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:4345598",
+      "title": "Bentham & Hooker system",
+      "corpus": "wikipedia",
+      "text": "A taxonomic system for seed plants was published in Bentham and Hooker's Genera plantarum ad exemplaria imprimis in herbariis kewensibus servata definita in three volumes between 1862 and 1883.\n\nGeorge Bentham (1800–1884) and Joseph Dalton Hooker (1817–1911) were British botanists who were closely affiliated to the Royal Botanic Gardens, Kew, in England. Their system of botanical taxonomy was based on the principle of natural affinities and is considered as pre-Darwinian as it does not take evolution into account. The Genera plantarum classified an estimated 97,205 species into 202 families and 7,569 genera.\n\nThe system recognises the following main groups:\n\nClass DICOTYLEDONES\n\nDICOTYLEDONUM POLYPETALE vol I\n\nSeries 1. Thalamiflorae\n\nSeries 2. Disciflorae\n\nSeries 3. Calyciflorae\n\nDICOTYLEDONES GAMOPETALÆ vol II\n\nSeries 1. Inferae\n\nSeries 2. Heteromerae\n\nSeries 3. Bicarpellatae\n\nDICOTYLEDONES MONOCHLAMIDEÆ vol III\n\nClass GYMNOSPERMEÆ vol III (1)\n\nClass MONOCOTYLEDONES vol III (2)\n\nNote that this system was published well before there were internationally accepted rules for botanical nomenclature. It indicates a family by \"ordo\"; an order is indicated by \"cohors\" (in the first two volumes) or \"series\" (in the third volume); in the first two volumes “series” refers to a rank above that of order. Terminations for families are not what they are now. Neither of these phenomena is a problem from a nomenclatural perspective: the ICBN provides for this\n\nDicotyledonae\n\nDICOTYLEDONUM POLYPETALARUM Vol I\n\nS ERIES I T HALAMIFLORÆ\n\nC OHORS I. R ANALES\n\nI. R ANUNCULACEÆ\n\nII. D ILLENIACEAE\n\nIII. C ALYCANTHACEÆ\n\nIV. M AGNOLIACEAE\n\nV. A NONACEAE\n\nVI. M ENISPERMACEÆ\n\nVII. B ERBERIDACEÆ\n\nVIII. N YMPHÆACEAE\n\nC OHORS II. P ARIETALES\n\nIX. S ARRACENIACEAE\n\nX. P APAVERACEAE\n\nXI. C RUCIFERAE\n\nXII. C APPARIDEAE\n\nXIII. R ESEDACEAE\n\nXIV. C ISTINEAE\n\nXV. V IOLARIEAE p. 114 4 tribes\n\nXVI. C ANELLACEAE\n\nXVII. B IXINEAE\n\nC OHORS III. P OLYGALINÆ\n\nXVIII. P ITTOSPOREÆ\n\nXIX. T REMANDREAE\n\nXX. P OLYGALAE\n\nXXa. V OCHYSIACEAE\n\nC OHORS IV. C ARYOPHYLLINÆ\n\nXXI. F RANKENIACEÆ\n\nXXII. C ARYOPHYLLEÆ\n\nXXIII. P ORTULACEÆ\n\nXXIV. T AMARISCINEÆ\n\nC OHORS V. G UTTIFERALES\n\nXXV. E LATINEÆ\n\nXXVI. H YPERICINEÆ\n\nXXVII. G UTTIFERÆ\n\nXXVIII. T ERNSTROEMIACEÆ\n\nXXIX. D IPTEROCARPEÆ\n\nXXX. C HLENACEÆ\n\nC OHORS VI. M ALVALES\n\nXXXI. M ALVACEÆ\n\nXXXII. S TERCULIACEÆ\n\nXXXIII. T ILIACEÆ\n\nS ERIES II. D ISCIFLORÆ\n\nC OHORS VII. G ERANIALES\n\nXXXIV L INEÆ\n\nXXXV. H UMIRIACEÆ\n\nXXXVI. M ALPIGHIACEÆ\n\nXXXVII. Z YGOPHYLLEÆ\n\nXXXVIII. G ERANIACEÆ\n\nXXXIX. R UTACEÆ\n\nXL. S IMARUBEÆ\n\nXLI. O CHNACEÆ\n\nXLII. B URSERACEÆ\n\nXLIII. M ELIACEÆ\n\nXLIV. C HAILLETIACEÆ\n\nC OHORS VIII. O LACALES\n\nXLV. O LACINEÆ\n\nXLVI. I LICINEÆ\n\nC OHORS IX. C ELASTRALES\n\nXLVII. C ELASTRINEÆ\n\nXLVIII. S TACKHOUSIEÆ\n\nXLIX. R HAMNEÆ\n\nL. A MPELIDEÆ\n\nC OHORS X. S APINDALES\n\nLI. S APINDACEÆ\n\nLII. S ABIACEÆ\n\nLIII. A NACARDIACEÆ\n\nO RDINES V. POTIUS G ENERA ANOMALA\n\nLIV. C ORIARIEÆ\n\nLV. M ORINGEÆ\n\nS ERIES III. C ALYCIFLORÆ\n\nC OHORS XI. R OSALES\n\nLVI. C ONNARACEÆ\n\nLVII. L EGUMINOSÆ\n\nLVIII. R OSACEÆ\n\nLIX. S AXIFRAGEÆ\n\nLX. C RASSULACEÆ\n\nLXI. D ROSERACEÆ\n\nLXII. H AMAMELIDEÆ\n\nLXIII. B RUNIACEÆ\n\nLXIV. H ALORAGEÆ\n\nC OHORS XII. M YRTALES\n\nLXV. R HIZOPHOREÆ\n\nLXVI. C OMBRETACEÆ\n\nLXVII. M YRTACEÆ\n\nLXVIII. M ELASTOMACEÆ\n\nLXIX. L YTHRARIEÆ\n\nLXX. O NAGRARIEÆ\n\nC OHORS XIII. P ASSIFLORALES\n\nLXXI. S AMYDACEÆ\n\nLXXII. L OASEÆ\n\nLXXIII. T URNERACEÆ\n\nLXXIV. P ASSIFLOREÆ\n\nLXXV. C UCURBITACEÆ\n\nLXXVI. B EGONIACEÆ\n\nLXXVII. D ATISCEÆ\n\nC OHORS XIV. F ICOIDALES\n\nLXXVIII. C ACTEÆ\n\nLXXIX. F ICIOIDEÆ\n\nC OHORS XV. U MBELLALES\n\nLXXX. U MBELLIFERÆ\n\nLXXXI. A RALIACEÆ\n\nLXXXII. C ORNACEÆ\n\nDICOTYLEDONES GAMOPETALÆ vol II\n\nS ERIES I. I NFERÆ\n\nC OHORS I. R UBIALES\n\nLXXXIII. C APRIFOLIACEÆ\n\nLXXXIV. R UBIACEÆ\n\nC OHORS II. A STERALES\n\nLXXXV. V ALERIANEÆ\n\nLXXXVI. D IPSACEÆ\n\nLXXXVII. C ALCEREÆ\n\nLXXXVIII. C OMPOSITÆ\n\nC OHORS III. C AMPANALES\n\nLXXXIX. S TYLIDIEÆ\n\nXC. G OODENOVIEÆ\n\nXCI. C AMPANULACEÆ\n\nS ERIES II. H ETEROMERÆ\n\nC OHORS IV E RICALES\n\nXCII. V ACCINIACEÆ\n\nXCIII. E RICACEÆ\n\nXCIV. M ONOTROPEÆ\n\nXCV. E PACRIDEÆ\n\nXCVI. D IAPENSIACEÆ\n\nXCVII. L ENNOACEÆ\n\nC OHORS V. P RIMULALES\n\nXCVIII. P LUMBAGINEÆ\n\nXCIX. P RIMULACEÆ\n\nC. M YRSINEÆ\n\nC OHORS VI. E BENALES\n\nCI. S APOTACEÆ\n\nCII. E BENACEÆ\n\nCIII. S TYRACEÆ\n\nS ERIES III. B ICARPELLATÆ\n\nC OHORS VII. G ENTIANALES\n\nCIV. O LEACEÆ\n\nCV. S ALVADORACEÆ\n\nCVI. A POCYNACEÆ\n\nCVII. A SCLEPIADEÆ\n\nCVIII. L OGANIACEÆ\n\nCIX. G ENTIANEÆ\n\nC OHORS VIII. P OLEMONIALES\n\nCX. P OLEMONIACEÆ\n\nCXI. H YDROPHYLLACEÆ\n\nCXII. B ORAGINEÆ\n\nCXIII. C ONVOLVULACEÆ\n\nCXIV. S OLANACEÆ\n\nC OHORS IX. P ERSONALES\n\nCXV. S CROPHULARINEÆ\n\nCXVI. O ROBRANCHACEÆ\n\nCXVII. L ENTIBULARIEÆ\n\nCXVIII. C OLUMELLIACEÆ\n\nCXIX. G ESNERACEÆ\n\nCXX. B IGNONIACEÆ\n\nCXXI. P EDALINEÆ\n\nCXXII. A CANTHACEÆ\n\nC OHORS X. L AMIALES\n\nCXXIII. M YOPORINEÆ\n\nCXXIV. S ELAGINEÆ\n\nCXXV. V ERBENACEÆ\n\nCXXVI. L ABIATÆ\n\nincertae sedis\n\nCXXVII. P LANTAGINEÆ\n\nDICOTYLEDONES MONOCHLAMIDEÆ vol III\n\nSeries I. Curvembryeæ\n\nCXXVIII. N YCTAGINEÆ\n\nCXXIX. I LLECEBRACEÆ\n\nCXXX. A MARANTACEÆ\n\nCXXXI. C HENOPODIACEÆ\n\nCXXXII. P HYTOLACCACEÆ\n\nCXXXIII. B ATIDEÆ\n\nCXXXIV. P OLYGONACEÆ\n\nSeries II. Multiovulatæ Aquaticæ\n\nCXXXV. P ODOSTEMONACEÆ\n\nSeries III. Multiovulatæ Terrestres\n\nCXXXVI. N EPENTHACEÆ\n\nCXXXVII. C YTINACEÆ\n\nCXXXVIII. A RISTOLOCHIACEÆ\n\nSeries IV. Microembryeæ\n\nCXXXIX. P IPERACEÆ\n\nCXL. C HLORANTACEÆ\n\nCXLI. M YRISTICEÆ\n\nCXLII. M ONIMIACEÆ\n\nSeries V. Daphnales\n\nCXLIII. L AURINEÆ\n\nCXLIV. P ROTEACEÆ\n\nCXLV. T HYMELÆACEÆ\n\nCXLVI. P ENÆACEÆ\n\nCXLVII. E LÆAGNACEÆ\n\nSeries VI. Achlamydosporeæ\n\nCXLVIII. L ORANTHACEÆ\n\nCXLIX. S ANTALACEÆ\n\nCL. B ALANOPHOREÆ\n\nSeries VII. Unisexuales\n\nCLI. E UPHORBIACEÆ\n\nCLII. B ALANOPEÆ\n\nCLIII. U RTICACEÆ\n\nCLIV. P LATANACEÆ\n\nCLV. L EITNERIEÆ\n\nCLVI. J UGLANDEÆ\n\nCLVII. M YRICACEÆ\n\nCLVIII. C ASUARINEÆ\n\nCLIX. C UPULIFERÆ\n\nSeries VIII. Ordines anomali (incertae sedis)\n\nCLX. S ALICINEÆ\n\nCLXI. L ACISTEMACEÆ\n\nCLXII. E MPETRACEÆ\n\nCLXIII. C ERATOPHYLLEÆ\n\n' GYMNOSPERMEÆ vol III (1)\n\nCLXIV. G NETACEÆ\n\nCLXV. C ONIFERÆ\n\nCLXVI. C YCADACEÆ\n\nvol III\n\nFamily:-\n\n1> Gnetaceae2> Coniferae3> Cycadaceae\n\nMonocotyledons\n\nSummary pp viii–xi\n\nMONOCOTYLEDONES vol III (2) p. 448\n\nCLXVII. H YDROCHARIDEÆ p. 448\n\nCLXVIII. B URMANNIACEÆ\n\nCLXIX. O RCHIDEÆ p. 460\n\nCLXX. S CITAMINEÆ p. 636\n\nCLXXI. B ROMELIACEÆ p. 657\n\nCLXXII. H AEMODORACEÆ p. 671\n\nCLXXIII. I IRIDEÆ p. 681 3 tribes\n\nCLXXIV. A MARYLLIDEÆ p. 711 5 tribes\n\nI Tribus Hypoxideae p. 716\n\nII Tribus Amarylleae p. 718 3 subtribes\n\nIII Tribus Alstroemerieae p. 735\n\nIV Tribus Agaveae p. 737\n\nV Tribus Vellosieae p. 739\n\nCLXXV. T ACCACEÆ p. 740\n\nCLXXVI. D IOSCOREACEÆ p. 741\n\nCLXXVII. R OXBURGHIACEÆ p. 746\n\nCLXXVIII. L ILIACEÆ p. 748 (20 tribes) Schema 748–763\n\nTribus I Smilaceae p. 763\n\nTribus II Asparageae p. 764\n\nTribus III Luzuriageae\n\nTribus IV Polygonateae p. 768\n\nTribus V Convallariae\n\nTribus VI Aspidistreae\n\nTribus VII Hemerocalleae\n\nTribus VIII Aloineae\n\n...\n\nTribus X Asphodeleae p. 781 5 subtribes\n\nTribus XI Johnsonieae p. 795\n\nTribus XII Allieae p. 798 Schema p. 750 4 subtribes\n\nSubtribus I Agapantheae p. 798\n\nSubtribus II Euallieae p. 798\n\nSubtribus III Gilliesieae p. 804\n\nSubtribus IV Massonieae p. 806\n\nTribus XIII Scilleae p. 807\n\nTribus XIV Tulipeae p. 816\n\nTribus XV Colchiceae\n\n...\n\nTribus XX Veratreae p. 834\n\nCLXXIX. P ONTEDERIACEÆ p. 836\n\nCLXXX. P HILYDRACEÆ p. 840\n\nCLXXXI. X YRIDEÆ p. 841\n\nCLXXXII. M AYACEÆ p. 843\n\nCLXXXIII. C OMMELINACEÆ p. 844\n\nCLXXXIV. R APATEACEÆ p. 857\n\nCLXXXV. F LAGELLARIEÆ\n\nCLXXXVI. J UNCACEÆ\n\nCLXXXVII. P ALMÆ\n\nCLXXXVIII. P ANDANEÆ\n\nCLXXXIX. C YCLANTHACEÆ\n\nCXC T YPHACEÆ\n\nCXCI. A ROIDEÆ\n\nCXCII. L EMNACEÆ p. 1000\n\nCXCIII. T RIURIDEÆ\n\nCXCIV. A LISMACEÆ p. 1003\n\nCXCV. N AIADACEÆ\n\nCXCVI. E RIOCAULEÆ\n\nCXCVII. C ENTROLEPIDEÆ p. 1025\n\nCXCVIII. R ESTIACEÆ\n\nCXCIX. C YPERACEÆ\n\nCC. G RAMINEÆ",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1336316494",
+      "revision_id": "1336316494",
+      "text_sha256": "3c697b0cd3f47fa602c1dba1189231538f0d766d30064a69ed28dc4305d86181",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:54:08.549552+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.606383323669434,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1945",
+    "title": "Britannica page 1945",
+    "corpus": "britannica",
+    "text": "<x_0.0088><y_0.0297>Part III. U P T I C S. 5605<x_0.9639><y_0.0516><class_Page-header>\n\n<x_0.0098><y_0.0523>Ortial ferer has not any mark to direct him: hence after- momers are obliged to enlighten the crois-hairs artifi, in order to render them vifible, and this with- out letting the luminous body interfere with the ob- jefe which they intend to view , and, for doing this, two ways are propofel.<x_0.4834><y_0.1359><class_Text>\n\n<x_0.0742><y_0.1352>1. The object glafs of the telcfore may be obliquely enlightened by placing a could near usit in our oblique frition, to that its smoke or flame may not interfere with the object. But if the object-glafs should happen to be pretty deep in the tube, it cannot be difficultly enlightened by this means i said bedties, if the telefcope is above fix feet loop, there will be a considerable difficulty in throwing a sufficient quantity of high upon the crois hairs.<x_0.4844><y_0.2547><class_List-item>\n\n<x_0.0752><y_0.2555>2. By fome an opening is made in the tide of the tube near the focus of the object-glafs, though which the crois hairs are illuminated by means of a candle. But this method alfo is attended with inconveniences for the oblorer is incommeded by the light being the near his eyes, and the hair harmless become liable to accidents through their expelled frustration. An error also attends this method i, which is, that, according to the position of the light illuminating these hairs, they will appear in different situations. For example, when the horizontal hair is enlightened always be perceive a luminos line which may be taken for the hair itself, and which appears at its upper superficies. On the other hand, when the hair is enlightened underneath, the luminos line will appear as the under the face of i, and the corners will be the diameter of the hair, which often amounts to more than fix records. M. de la Hire, however, found a remedy for this convenience. He often obterred, that in monodhine nights, when the weather was a little foggy, the crois hairs were diflically fees; but when the heavens were ferene, they could occur by her corrected. Here therefore covered with a piece of gauge, or fine filk-craps, that end of the tube next the object-glafs i and this method succeeded to find the task at a good dilution from the telefope to enlightened the crapes, that the crats-hairs diflically appeared, and the fight of the fans was by no means obforced.<x_0.4854><y_0.6305><class_List-item>\n\n<x_0.0762><y_0.632>In making the oblorations, a model glafs mulb uefd for preserving the eyes i and which may be thus prepared. Take two equal and well political round prices of glafs into the farles of one of which, all round its limb, glue a palkboard ring: then put the other piece of glafs into the smoke of a lamp, taking it several times time, and putting it in again, left the heat thould break it, until the smoke be fo thick, that the lamp can favorably be free through it, but the smoke mult not be all over of the same thickets, that fito a place may be obtain anfering to the splendour of the fun. This being done, the glafs, thus blackened, mult e glued to the pathboard of abovementand, with its black fide next to the other glafs, that the smoke may not be ribbed off.<x_0.4824><y_0.8297><class_Text>\n\n<x_0.0771><y_0.8305>There are two kinds of observation relating to the flares, one is, when they are in the meridian; the other, when they are in vertical circles. If the polition of the meridian ke known, the quadrant wohl which the oblorates is much, mult he placed in the plane of that circle, and then the meridian altitudes are really obferred by means of the plumb-line. The meridian<x_0.4863><y_0.9258><class_Text>\n\n<x_0.5029><y_0.0531>altitude of a flat may likewise be had by a pendulum clock, if the exact time of the flat’s pulling by the meridian be known. It mult be obffered, however, therehas lines the fans of latitude a minute before and after their puffling the meridians, if they be not in on near the zenith i, but if they be, their altitudes mult be takes every minute when they are in or near the meridian, and then their greatest or their altitudes will be those in question. The polition of a given vertical circle mult he found by the following method. 1. The quadratus and telescope remaining in the frame situation wherein it was when the altitude of a flux, together with the time of its puffage by the interjection of the crois hairs in the focus of the object-glafs, was taken, we observe the time when the fan, or frame facet flar, whole longitude and latitude is known, arrives to the vertical bar in the telefops and from those the potion of the first vertical circle will be hard, and alfo the obferred flar's true place. But if the fun, or fome olertas, does not ask by the mouth of the tubes, and if a meridian liebe otherwise will drawn upon allows, or very level ground, in the place of obloration i a plan-like mull be fuufpared from a fixed place, at about 18 or 30 feet from the quadrata y under which a matmulb te mode on the floor, in a right line with the plumb-line. You mult next put a thin piece of trade of palefoard very near the object-glafs, in the middle of which there is a fits vertically placed, and puffing through the centre of the circular figure of the object-glafs. Now, by means of this fills, the before-mentioned plumb-line area to prevent, through the telefcope, which before could not be feny, because of its moments. Then the plumb-line mail be removed and fulpated, to that it be prevented in a right line with the vertical hair in the focus of the object-glafs, and a point marked on the floor directly under it. And if a right-line the drawn through this points, and that marked under the plumb-line before it was removal, the full line will meet the merididan draw upon the floor i, and do we shall have the polition of the vertical circle in which the observed flar's, with respect to the meridian, the angle where' may be measured in afleming known lengths upon the two lines from the point of concavity, for fi, through the extremities of thefe known lengths, a line or bafe be drawn, we shall have a triangle, which three tides being known, the angle at the verce may be found, which will be the angle made by the vertical circle and meridian.<x_0.9043><y_0.6977><class_Text>\n\n<x_0.4961><y_0.6984>Under the parallel Qaz waves, is flew the proper method of fixing that obfluent exactly in the meridian, but where the oblorer has no convivency of this kind, it will be proper to use a guarda quadrant; by means of which the altitude of a flare mulb be ob-hered a little before its puffage over the meridian, every minute, if polibbs, until its greatest or lealt altitude be bad, by which means, though we have not the true polition of the meridian, yet we know the meridian altitude of the flar. But although this method is very good, yet if a flatter splits by the meridian near the zenith, we cannot have its meridian altitude by repeated observations every minute, unless by chance, because in every minutes can now, the altriche arguments (z minutes of a degree i) and in thefe kind of observations, the inconvenient limitation of the oblerver, the variation of the flar's azimuth feveral de-<x_0.9033><y_0.925><class_Text>\n\n<x_0.8535><y_0.9273>greca<x_0.8994><y_0.9414><class_Page-footer>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "0fee7b7f82deb129f197f050634fa80a095f0d6289358bb47e3fc5f0f17f5aa7",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:57:29.748546+00:00",
+    "parser_receipt_sha256": "e5e031cb28a0ff91ddb39ded256471ca19937a003dd5de8cfedb961c6802e991",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 3777,
+      "occurred_at": "2026-10-18T17:54:07.731823+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 818,
+      "occurred_at": "2026-10-18T17:54:08.549594+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 847,
+      "occurred_at": "2026-10-18T17:54:09.417497+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 631,
+      "occurred_at": "2026-10-18T17:54:10.066176+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 834,
+      "occurred_at": "2026-10-18T17:54:10.922105+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1951,
+      "occurred_at": "2026-10-18T17:54:12.897615+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 7232,
+      "occurred_at": "2026-10-18T17:54:20.156556+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 5556,
+      "occurred_at": "2026-10-18T17:54:25.734179+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 556,
+      "occurred_at": "2026-10-18T17:54:26.312792+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 70,
+      "occurred_at": "2026-10-18T17:54:26.407521+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 715,
+      "occurred_at": "2026-10-18T17:54:27.122446+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 117,
+      "occurred_at": "2026-10-18T17:54:27.247752+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 7,
+      "occurred_at": "2026-10-18T17:54:27.254392+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 258,
+      "occurred_at": "2026-10-18T17:54:27.512221+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1261,
+    "modern_words": 143,
+    "vocabulary_jaccard": 0.048355899419729204,
+    "jensen_shannon_divergence": 0.7544141351451715,
+    "historical_top_words": [
+      [
+        "the",
+        146
+      ],
+      [
+        "of",
+        55
+      ],
+      [
+        "a",
+        35
+      ],
+      [
+        "be",
+        32
+      ],
+      [
+        "in",
+        28
+      ],
+      [
+        "and",
+        26
+      ],
+      [
+        "to",
+        20
+      ],
+      [
+        "by",
+        20
+      ],
+      [
+        "which",
+        17
+      ],
+      [
+        "meridian",
+        15
+      ],
+      [
+        "glafs",
+        13
+      ],
+      [
+        "is",
+        13
+      ],
+      [
+        "this",
+        12
+      ],
+      [
+        "that",
+        12
+      ],
+      [
+        "line",
+        12
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "western",
+        14
+      ],
+      [
+        "key",
+        13
+      ],
+      [
+        "the",
+        5
+      ],
+      [
+        "of",
+        4
+      ],
+      [
+        "torres",
+        4
+      ],
+      [
+        "p",
+        4
+      ],
+      [
+        "and",
+        3
+      ],
+      [
+        "on",
+        3
+      ],
+      [
+        "phil",
+        3
+      ],
+      [
+        "iii",
+        2
+      ],
+      [
+        "is",
+        2
+      ],
+      [
+        "a",
+        2
+      ],
+      [
+        "as",
+        2
+      ],
+      [
+        "from",
+        2
+      ],
+      [
+        "to",
+        2
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "part iii u p t i c s",
+  "semantic_input": {
+    "query": "part iii u p t i c s\nPart III. U P T I C S. 5605\n\nOrtial ferer has not any mark to direct him: hence after- momers are obliged to enlighten the crois-hairs artifi, in order to render them vifible, and this with- out letting the luminous body interfere with the ob- jefe which they intend to view , and, for doing this, two ways are propofel.\n\n1. The object glafs of the telcfore may be obliquely enlightened by placing a could near usit in our oblique frition, to that its smoke or flame may not interfere with the object. But if the object-glafs should happen to be pretty deep in the tube, it cannot be difficultly enlightened by this means i said bedties, if the telefcope is above fix feet loop, there will be a considerable difficulty in throwing a sufficient quantity of high upon the crois hairs.\n\n2. By fome an opening is made in the tide of the tube near the focus of the object-glafs, though which the crois hairs are illuminated by means of a candle. But this method alfo is attended with inconveniences for th",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.2423386573791504,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

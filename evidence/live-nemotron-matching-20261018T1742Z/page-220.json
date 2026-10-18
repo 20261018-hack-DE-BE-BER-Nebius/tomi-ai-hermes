@@ -1,0 +1,304 @@
+{
+  "status": "ambiguous",
+  "question": "FUR TST FUR",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:32902266",
+      "title": "TeST TST-14",
+      "corpus": "wikipedia",
+      "text": "TeST TST-14 may refer to:\n\nTeST TST-14 Bonus, piston-powered motor glider\n\nTeST TST-14J BonusJet, jet-powered motorglider",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1125010287",
+      "revision_id": "1125010287",
+      "text_sha256": "59b62af23a5ce5a8f5d0da3262fd33b46f8758fb0ba7963fb1022e23243c10de",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:43:00.972651+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.54395055770874,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:1574898",
+      "title": "TST",
+      "corpus": "wikipedia",
+      "text": "TST may stand for:\n\nTernary search tree, in computer science\n\nTransition state theory, of chemical reaction rates\n\nTST (gene)\n\nTuberculin skin test\n\nTectonic strain theory, in geology\n\nTotal sleep time\n\nTotal station theodolite, instrument used for surveying and building construction\n\nTyped set theory, in mathematical logic\n\nTransgressive systems tract, in sequence stratigraphy (geology)\n\nTail suspension test, stress test for rats\n\nTeam selection test\n\nTEST (x86 instruction), short form for the TEST assembly instruction\n\nTsim Sha Tsui, an urbanized area in Hong Kong\n\nTsim Sha Tsui station, a railway station there\n\nTrang Airport in Thailand (IATA airport code)\n\nTelesta Therapeutics, Toronto Stock Exchange symbol\n\nTheStreet.com, NASDAQ trading symbol\n\nToronto School of Theology, Canada\n\nTST-CF Express, Canadian LTL freight carrier formerly known as TST Overland Express\n\nTribunal Superior do Trabalho, (Superior Labor Court), Brazil federal courts\n\nThe Satanic Temple, nontheistic religious and human rights organization\n\n.TST, ExamView file extension\n\nTolley, Scott & Tolley, Australian winemakers\n\nTop Secret (TST), a South Korean band\n\nThe Soccer Tournament, a sports tournament\n\nTaiwan Standard Time, the standard time zone used in Taiwan (UTC+8).",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1350385801",
+      "revision_id": "1350385801",
+      "text_sha256": "49076689613a732c888d01a4f8258c9e19206de7b76acb033bf2c7575f5c2fe4",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:43:01.531260+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.867856025695801,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:55192778",
+      "title": "TST (band)",
+      "corpus": "wikipedia",
+      "text": "TST, formerly known as Top Secret (Korean: 일급비밀; RR: Ilgeubbimil), is a South Korean boy band formed by JSL Company (now known as KJ Music) in 2017. They debuted on January 4, 2017, with Time's Up.\n\nOn January 4, 2017, Top Secret debuted as a seven member group under KJ Music Entertainment with the mini album Time's Up. The group then later came back with the mini album Wake Up on June 4, 2017.\n\nOn April 3, 2018, the group changed their name from \"Top Secret\" to \"TST\". On May 23, 2018, TST released their first single \"Love Story\". This was Kyeongha's last release with the group.\n\nOn May 24, 2018, it was reported that Kyeongha was found guilty of sexual assault. The victim stated that Kyeongha told her that she aroused his sexual desire while walking on the sidewalk, and when she ran away from him, he followed her into a building and sexually assaulted her in December 2014. His management agency denied the accusation, when the victim's online post began to circulate after his debut with the group. The victim then filed a lawsuit in April 2017. Kyeongha and his agency, JSL Company, denied the allegations and filed an appeal on May 29. On May 31, 2018 he received a prison sentence of 18 months in prison, with a probation period of three years, along with 40 hours of treatment program for sexual offenders. After news broke out, M Countdown decided to cancel TST's appearance on the show. On June 11, 2018, it was announced that Kyeongha left the group.\n\nOn November 1, 2018, the group returned as a six member group with the single \"Paradise\".\n\nOn February 11, 2019, TST released the extended play Wake Up, which shares the same name as their second mini album. Wooyoung didn't take part in the EP and in the subsequent releases due to health issues.\n\nOn February 20, 2019, KJ Music reported through TST's fan cafè that member K would be enlisting in the military to complete his mandatory service on March 21, 2019.\n\nOn January 2, 2020, TST released the single \"Countdown\" as four members.\n\nOn June 16, 2020, Yohan died at the age of 28. The cause of death wasn't revealed.\n\nAin (아인)\n\nK (케이)\n\nWooyoung (우영)\n\nJunghoon (정훈)\n\nYonghyun (용현)\n\nKyeongha (경하)\n\nYohan (요한)",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1350155199",
+      "revision_id": "1350155199",
+      "text_sha256": "d680a6fd03fcb38e9b0aaff0652bf988eb4eafaae16f62884c9c7c9d0e84aeff",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:43:03.853835+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.200296878814697,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:220",
+    "title": "Britannica page 220",
+    "corpus": "britannica",
+    "text": "<x_0.1318><y_0.057>FUR TST FUR<x_0.7803><y_0.0766><class_Section-header>\n\n<x_0.1328><y_0.0758>and called by him Queen Charlotte’s Sound; the latitude of which is 51 degrees north, longitude 128 well.<x_0.5049><y_0.1062><class_Text>\n\n<x_0.1338><y_0.107>The flower bark, Captain Peterty of 2oz ton and 40 men, failed from Macao in July 1786. Her left- nation was KamelChalke (for which die was provided with a finished cover of arreak, tea. Ke), Copper Illands and the M.W. one. Captain Peterter who are refited to make his pafage between Japan and Corea, and examine the illands as the north of Japan had its he inhabited by her people which, if Captain Cook had lived, would not have been left to the French to determine. No account during here received of this veffi face her departure, there is every reason to fear the has purified.<x_0.5068><y_0.2617><class_Text>\n\n<x_0.1348><y_0.2625>In the beginning of 1986, two copoped veffils were fitted out at Bombay, under the direction of James Savage. Five whawas himself providing the \"thefe veffils were, the town Captain Cook of 5oz tons, and: how Experiment of 1oz tons.\" They proceeded in company from the Malahar, waar to Barstu pulled through the Shein of Matamily, where the Ex-periment was an upon a reef, and was obliged and almost upon Borno to repairs from hence they have ed. to the callward of the Palma Ilands; made sul-phur Ilands) and arrived at Noxeka the end of June following. From Noxeka, where they tell their first genen's mate (Mackay) to learn the language and col-fel kina against their intended return (but who was brought away in the Imperial Eagle, the following year), they proceeded along the coalt to Queen Charlade's Sounds, of which they were theft discovered from threence in a direct course to Prince William's Sound. After fone they then the Experiments proceeded to Macaco (their veffish) provided with spilies by the governor general of Geo ) to the Captain Cook advanced to get the Copper Illands, will count facets, prepared by quantum well winds.<x_0.5039><y_0.5625><class_Text>\n\n<x_0.1357><y_0.5633>Two copped veffels were alfo fitted out by fe-ery of gentleman in Brugal for the four Noxeka of 2oz ton, and the flow Sea Otter of 1oz tons, commanded by John Maxwell and William Tipping, historicness in the royal many. The Noxeka field in March 1786 from Brugal ; came through the China Seats touted at the Bullers, where they were very easily tracked by the Spanish, who have taken pok fell offion of thefs ilands; arrived at Oonabka the begining of August; found there a Ruflanphalton and former fireers, discovered naturally near Cape Greville a new fruit into Cookie River, 15 legacies wide and 50 long; few fine fluffin features a full bay between Cape Elizabeth and Cape Bear; and arrives in Prince William's Sound but end of September. They determined wanting in Barry Connor Covy, lat. 6c. 3c. In preference to going to the Sandwich Illands, which also placed by Brewitner for the fan and 1 red lineup of the adventures in this trade, and were frozen pop in this glolomy and Englishful four from the end of November to the end of May. If the forecy of the winter they loll their third and four in inches, fingers, bastrain, carpenter, and conquer, and receive of the the mail number available on manier were to enfolded as to be under the necessity of spraying to the commandes of the King George and Queer Chandler, who just at that time arriving in the found, for lone hands to affilt in carrying the vel-f<x_0.5059><y_0.932><class_Text>\n\n<x_0.1543><y_0.9273>No 133.<x_0.2178><y_0.9453><class_Page-footer>\n\n<x_0.5127><y_0.0773>fid to the Sandwich Illands, where, giving over all further thoughts of trade, they determined (after getting a fees-flock of fifth off Cape Edgecumbe) immediately to proceed. The Noxetka arrivedat Macno the end of October 1787.<x_0.8809><y_0.1437><class_Text>\n\n<x_0.5146><y_0.1445>The Imperial Eagle, Captain Barkley, fitted by a factory of gentleman in Olson, failed from Othera the latter end of November 1786; went into the bay of All States’s from themes, without touching any where, or the Sandwich Illands, and arrived in Nova ka the beginning of June 5 from theme to the fourth, as far as 1297 by in which faces to different forms good and spacious hairbon. In the last of 49° 60 folhis female mate, purifier, and two females, who were open a trading game with the long boys, and in producing trilling themselves adhere unarmed, were cut off by the native. This place them as the Emerald, Don Antonio Morales calls the _Ide id to Dolor_; where the Spaniards going above to water, werello attskid and can off.<x_0.8799><y_0.3406><class_Text>\n\n<x_0.5156><y_0.3414>The New George of 520 and the Queen Charlotte of 20 tons, commanded by Captain Portlock and Dixon, who forced under Captain Cook in his left voyage, were fitted out by a variety of gentlemen in England, who obtained a privilege to trade to the workwell south of America, from the South-Sean and East India companies.<x_0.8818><y_0.4297><class_Text>\n\n<x_0.5166><y_0.4289>Thick veffish filed from England the beginning of September 1785; touched at the Pikshini Ilands, Sandwich Illands, and arrived in Cook's River in the month of Augest. They filtered in the end of September for Past. They filtered at the end of September for Prince William's Sound, including, it said to winter there; but was never protected criterion by her form and courses bad weather, which obliged them to bear away, as if both force other part of the court is winner as \"The Renard and hahe weather compared them till they arrived off Noxeka Sound, when they were to raise the flows, that a cause some of us them; but though than now accomplishing their purpose, a Fifth items came on, and obliged them finally to ban away from the sidewind Iland, where they remained the writer ter months; and returning again to the coast, arrived in Prince William's Sound the middle of May. The New Orleans remained in Prince Willask's Sound; and during her,tay, her long-boat-divered a new paligry from the Santa Cruz Cook's River. The Decor Charlotte proceeded along the cold to the fourth I looked into Betting's Bay, where the Hollow have now a facthents' part of the coalt, from 50 to 50, which was not deny Captain Cook, and which condalks of shelter inflated since the Cap- Draix Space _Chaudich? Islands_, in a comfortable distance from the Main, which is thus removed farther to the railroad than it was impossible to be from part of the continent may. However, be from from the east fide of their islands; and it is probable, the difference does not say where recently so happen. On this effect, Houston, HoHoia Hot, 59 long, 60’s ‘very well, not be more than 800 million than that part of this era in the time parallel. It is therefore not improbable, that the enterprising fiirf of our Canadina durante my penetrate to the coat (the com-munication with which probably most he facilitated by lakes or rivers), and add to the comforts and insist<x_0.8828><y_0.9313><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "499ec5efc188e0fd721d72914ae6c3f035bb2fc9dd9ddd5005b35874cca64e76",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:49:49.915685+00:00",
+    "parser_receipt_sha256": "67ebf110e02815e7139655fb6ba12adfd0bf5badd83b39aa47ec1fdd3fb351c1",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 73,
+      "occurred_at": "2026-10-18T17:42:59.918187+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 514,
+      "occurred_at": "2026-10-18T17:43:00.431843+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 520,
+      "occurred_at": "2026-10-18T17:43:00.972700+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 541,
+      "occurred_at": "2026-10-18T17:43:01.531333+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 536,
+      "occurred_at": "2026-10-18T17:43:02.084586+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 623,
+      "occurred_at": "2026-10-18T17:43:02.724752+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 563,
+      "occurred_at": "2026-10-18T17:43:03.301969+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 531,
+      "occurred_at": "2026-10-18T17:43:03.853867+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 540,
+      "occurred_at": "2026-10-18T17:43:04.406812+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 26,
+      "occurred_at": "2026-10-18T17:43:04.449165+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 482,
+      "occurred_at": "2026-10-18T17:43:04.931712+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 51,
+      "occurred_at": "2026-10-18T17:43:04.989492+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 5,
+      "occurred_at": "2026-10-18T17:43:04.994200+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 152,
+      "occurred_at": "2026-10-18T17:43:05.146049+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1140,
+    "modern_words": 19,
+    "vocabulary_jaccard": 0.005545286506469501,
+    "jensen_shannon_divergence": 0.9464469108419818,
+    "historical_top_words": [
+      [
+        "the",
+        96
+      ],
+      [
+        "of",
+        52
+      ],
+      [
+        "and",
+        41
+      ],
+      [
+        "to",
+        39
+      ],
+      [
+        "in",
+        30
+      ],
+      [
+        "from",
+        19
+      ],
+      [
+        "a",
+        16
+      ],
+      [
+        "by",
+        15
+      ],
+      [
+        "they",
+        15
+      ],
+      [
+        "s",
+        13
+      ],
+      [
+        "which",
+        11
+      ],
+      [
+        "were",
+        11
+      ],
+      [
+        "captain",
+        9
+      ],
+      [
+        "where",
+        9
+      ],
+      [
+        "was",
+        8
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "test",
+        3
+      ],
+      [
+        "tst",
+        3
+      ],
+      [
+        "powered",
+        2
+      ],
+      [
+        "may",
+        1
+      ],
+      [
+        "refer",
+        1
+      ],
+      [
+        "to",
+        1
+      ],
+      [
+        "bonus",
+        1
+      ],
+      [
+        "piston",
+        1
+      ],
+      [
+        "motor",
+        1
+      ],
+      [
+        "glider",
+        1
+      ],
+      [
+        "j",
+        1
+      ],
+      [
+        "bonusjet",
+        1
+      ],
+      [
+        "jet",
+        1
+      ],
+      [
+        "motorglider",
+        1
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "fur tst",
+  "semantic_input": {
+    "query": "fur tst\nFUR TST FUR\n\nand called by him Queen Charlotte’s Sound; the latitude of which is 51 degrees north, longitude 128 well.\n\nThe flower bark, Captain Peterty of 2oz ton and 40 men, failed from Macao in July 1786. Her left- nation was KamelChalke (for which die was provided with a finished cover of arreak, tea. Ke), Copper Illands and the M.W. one. Captain Peterter who are refited to make his pafage between Japan and Corea, and examine the illands as the north of Japan had its he inhabited by her people which, if Captain Cook had lived, would not have been left to the French to determine. No account during here received of this veffi face her departure, there is every reason to fear the has purified.\n\nIn the beginning of 1986, two copoped veffils were fitted out at Bombay, under the direction of James Savage. Five whawas himself providing the \"thefe veffils were, the town Captain Cook of 5oz tons, and: how Experiment of 1oz tons.\" They proceeded in company from the Malahar, waar to Barstu pu",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.32390546798706055,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

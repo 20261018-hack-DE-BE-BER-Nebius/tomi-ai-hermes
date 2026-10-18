@@ -1,0 +1,36 @@
+{
+  "status": "blocked",
+  "question": "",
+  "locale": "en",
+  "candidates": [],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2077",
+    "title": "Britannica page 2077",
+    "corpus": "britannica",
+    "text": "<x_0.0><y_0.0><x_0.998><y_0.9992><class_Picture>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "995100b2d596a1efa9432c69e71591ac0353c4cc5d957489a31fe5e889840bff",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:57:35.123141+00:00",
+    "parser_receipt_sha256": "c8303a1d9eccb790444e810d12fd74d47f4eae6981552048f74deb9eb5950de1",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "failed",
+      "duration_ms": 2,
+      "error": "http: ConnectError",
+      "occurred_at": "2026-10-18T17:58:47.121946+00:00"
+    }
+  ],
+  "blockers": [
+    "http: ConnectError"
+  ],
+  "metrics": null,
+  "uncertainty": [],
+  "candidate_query": ""
+}

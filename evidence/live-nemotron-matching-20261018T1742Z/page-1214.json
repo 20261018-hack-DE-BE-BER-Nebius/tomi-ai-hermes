@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "DAM [ 658]",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:2195555",
+      "title": "List of dams and reservoirs in Iran",
+      "corpus": "wikipedia",
+      "text": "Major dam construction started in Iran in the 1950s. Some fourteen large dams were built with the help of foreign engineers and advisors during two decades preceding the Islamic Revolution in 1979.\n\nIn the post-revolution era, Iran's dam building capacity was significantly strengthened, with some 200 contracting companies, 70 consultant firms and 30 corporations as well as hundreds of hydroelectric manufacturing units having been established inside of Iran in less than three decades. In addition to the necessity of generating electricity, Iran needs dams to effectively control and manage a growing water shortage across the country.\n\nIran was constructing 88 small and large dams in 2007. On average, close to two billion cubic meters of water are added to the country's water reserves annually. As of 2010, Iran has constructed 588 dams (big and small), with 137 more under construction and 546 planned.\n\nAlavian Dam\n\nAlqadir Dam\n\nAmir Kabir Dam\n\nAshavan Dam\n\nAydughmush Dam\n\nAzad Dam\n\nDaryan Dam\n\nDez Dam\n\nDoroodzan Dam\n\nGaran Dam\n\nGavoshan Dam\n\nGivi Dam\n\nIlam Dam\n\nIran–Turkmenistan Friendship Dam\n\nJegin Dam\n\nJiroft dam\n\nKalghan Dam\n\nKarkheh dam\n\nKarun-1 (Shahid Abbaspour) Dam\n\nKarun-2 (Masjed Soleyman) Dam\n\nKarun-3 Dam\n\nKarun-4 Dam\n\nKhoda Afarin Dam\n\nKouhrang 1 Dam\n\nKouhrang 2 Dam\n\nLar Dam\n\nLatyan Dam\n\nMahabad Dam\n\nMamloo Dam\n\nMarun Dam\n\nNader Shah Dam\n\nPanzadh Khordad Dam\n\nRudbar Lorestan Dam\n\nSahand Dam\n\nSardasht Dam\n\nSefidrud (Manjil) Dam\n\nSeimare Dam\n\nShahid Rajaee (Soleyman Tangeh) Dam\n\nShirvan Dam\n\nSiah Bishe Dams\n\nSilveh Dam\n\nSivand Dam\n\nSumbar Dam\n\nTaleqan Dam\n\nTalvar Dam\n\nTarik Dam\n\nUpper Gotvand Dam\n\nZarrine River (Bukan) Dam\n\nZayandeh River Dam\n\nAras Watershed (Meghri) Dam\n\nBakhtiari Dam\n\nBalvabin Dam\n\nKhersan-3 Dam\n\nKouhrang 3 Dam\n\nMarash Dam\n\nMoshampa Dam\n\nBand-e Kaisar\n\nBoz Dam\n\nThe Great Hagi Jaffar Dam\n\nJaber Dam\n\nJawid Dam\n\nKebar Dam\n\nKurit Dam\n\nShahi Dam\n\nOne of Iran's most important international projects will see the construction of a $200 million hydroelectric dam in Nicaragua, starting in 2011. Iran is currently engaged in dam construction in Tajikistan, Armenia and Azerbaijan, and consultations are under way with a number of other countries. Kenya, Sri Lanka, Bolivia and Mali are the potential target markets being considered for exporting the country's technical and engineering services. In 2010, Iran won a contract to build a dam in Afghanistan and the third contract to build a power plant station in Syria.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1341365407",
+      "revision_id": "1341365407",
+      "text_sha256": "d27712727eeb5d977bc7b2e7692ccd6e5ac8b41001e7ae235555f00f5aa0ee73",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:49:18.557077+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.985522270202637,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:24611308",
+      "title": "List of dams and reservoirs in Turkey",
+      "corpus": "wikipedia",
+      "text": "Below is a partial list of dams in Turkey separated by region.\n\nThere are 45 dams in the Aegean Region, western part of Turkey.\n\nAdıgüzel Dam, Denizli\n\nAfşar Dam, Manisa\n\nAkgedik Dam, Muğla\n\nAkköprü Dam, Muğla\n\nAlaçatı Dam, İzmir\n\nBalçova Dam, İzmir (Reservoir empty since October 22nd 2025)\n\nBayır Dam, Muğla\n\nBuldan Dam\n\nCindere Dam\n\nÇavdarhisar Dam\n\nÇine Dam\n\nGeyik Dam\n\nGelinalan Dam, planned, İzmir\n\nGökpınar Dam\n\nGördes Dam (Reservoir empty since August 9th 2025)\n\nGüzelhisar Dam\n\nIşıklı Dam\n\nİkizdere Dam\n\nKabakum Dam, planned, İzmir\n\nKaracasu Dam\n\nKavakdere Dam\n\nKayaboğazı Dam\n\nKemer Dam\n\nKestel Dam\n\nKureyşler Dam\n\nKüçükler Dam\n\nMarmaris Dam\n\nMumcular Dam\n\nÖrenler Dam\n\nSeferihisar Dam\n\nSelevir Dam\n\nSevişler Dam\n\nSeyitler Dam\n\nSöğüt Dam\n\nTahtalı Dam\n\nTopçam Dam\n\nÜrkmez Dam\n\nYaylakavak Dam\n\nYenidere Dam\n\nYortanlı Dam\n\nThere are 55 dams in the Black Sea Region, northern part of Turkey.\n\nAlaca Dam, Çorum\n\nAlmus Dam, Tokat\n\nAlpu Dam, Tokat\n\nAltınkaya Dam, Samsun\n\nAtaköy Dam, Tokat\n\nAtasu Dam, Trabzon\n\nArkun Dam\n\nArtvin Dam\n\nBelpınar Dam\n\nBeyler Dam\n\nBezirgan Dam\n\nBorçka Dam\n\nBoyabat Dam\n\nBoztepe Dam\n\nÇakmak Dam\n\nÇatak Dam\n\nÇorum Dam\n\nDemirözü Dam\n\nDerbent Dam\n\nDeriner Dam\n\nDerinöz Dam\n\nDodurga Dam\n\nErfelek Dam\n\nGermeçtepe Dam\n\nGölköy Dam\n\nGülüç Dam\n\nGüzelce Dam\n\nHasan Uğurlu Dam\n\nHasanlar Dam\n\nHatap Dam\n\nKaraçomak Dam\n\nKaradere Dam\n\nKızılcapınar Dam\n\nKirazlıköprü Dam\n\nKoçhisar Dam\n\nKoruluk Dam\n\nKozlu Dam\n\nKöprübaşı Dam\n\nKöse Dam\n\nKulaksızlar Dam\n\nKürtün Dam\n\nMuratlı Dam\n\nObruk Dam\n\nOndokuzmayıs Dam\n\nSaraydüzü Dam\n\nSarayözü Dam\n\nSuat Uğurlu Dam\n\nTopçam Dam\n\nTortum Dam\n\nTorul Dam\n\nUluköy Dam\n\nVezirköprü Dam\n\nYedikır Dam\n\nYenihayat Dam\n\nYusufeli Dam\n\nThere are 75 dams in the Central Anatolia Region, central part of Turkey.\n\n4 Eylül Dam, Sivas\n\nAğcaşar Dam, Kayseri\n\nAkhasan Dam, Çankırı\n\nAkkaya Dam, Niğde\n\nAkköy Dam, Kayseri\n\nAkyar Dam, Ankara\n\nAltınapa Dam, Konya\n\nAltınhisar Dam, Niğde\n\nApa Dam, Konya\n\nAsartepe Dam, Ankara\n\nAşağı Karaören Dam\n\nAyhanlar Dam, Nevşehir\n\nAyrancı Dam, Karaman\n\nBahçelik Dam, Kayseri\n\nBayındır Dam, Ankara\n\nBeylikova Dam\n\nBozkır Dam\n\nÇamlıdere Dam\n\nÇamlıgöze Dam\n\nÇatören Dam\n\nÇoğun Dam\n\nÇubuk-1 Dam\n\nÇubuk-2 Dam\n\nDamsa Dam\n\nDeliçay Dam\n\nDerebucak Dam\n\nDoyduk Dam\n\nEğrekkaya Dam\n\nErmenek Dam\n\nGazibey Dam\n\nGebere Dam, Niğde\n\nGelingüllü Dam\n\nGödet Dam\n\nGökçekaya Dam, Eskişehir\n\nGölova Dam\n\nGüldürcek Dam\n\nGümüşler Dam\n\nGürsöğüt Dam\n\nHirfanlı Dam\n\nİbrala Dam\n\nİmranlı Dam\n\nİvriz Dam\n\nKapulukaya Dam\n\nKaracalar Dam\n\nKaraova Dam\n\nKargı Dam\n\nKaymaz Dam\n\nKesikköprü Dam\n\nKılıçkaya Dam, Sivas\n\nKovalı Dam\n\nKunduzlar Dam\n\nKurtboğazı Dam\n\nKuzfındık Dam\n\nKültepe Dam\n\nMaksutlu Dam\n\nMamasın Dam\n\nMay Dam\n\nMursal Dam\n\nMurtaza Dam\n\nMusaözü Dam\n\nÖzen Dam\n\nPorsuk Dam\n\nSarımsaklı Dam\n\nSarıoğlan Dam\n\nSarıyar Dam, Ankara\n\nSıddıklı Dam\n\nSille Dam, Konya\n\nSüreyyabey Dam\n\nTatlarin Dam\n\nUzunlu Dam\n\nYahyasaray Dam\n\nYapıaltın Dam\n\nYenice Dam\n\nYeşilburç Dam\n\nThere are 40 dams in the Eastern Anatolia region, eastern part of Turkey\n\nAlpaslan-1 Dam, Muş\n\nAlpaslan-2 Dam, Muş\n\nArpaçay Dam, Kars\n\nBağıştaş 1 Dam\n\nBağıştaş 2 Dam\n\nBaşköy Dam, Erzurum\n\nBayburt Dam, Kars\n\nBeyhan I Dam\n\nBeyhan II Dam, planned, Elazığ\n\nBoztepe Dam\n\nCip Dam\n\nÇamgazi Dam\n\nÇat Dam\n\nÇıldır Dam\n\nDemirdöven Dam\n\nDilimli Dam\n\nErzincan Dam\n\nGayt Dam\n\nGülbahar Dam\n\nKalecik Dam\n\nKapıkaya Dam\n\nKeban Dam, Elazığ\n\nKığı Dam\n\nKoçköprü Dam\n\nKuzgun Dam\n\nMedik Dam\n\nMorgedik Dam\n\nÖzlüce Dam\n\nPalandöken Dam\n\nPatnos Dam\n\nPazaryolu Dam\n\nPembelik Dam\n\nPolat Dam\n\nSarımehmet Dam\n\nSeyrantepe Dam\n\nSultansuyu Dam\n\nSürgü Dam\n\nTatar Dam\n\nTercan Dam\n\nUzunçayır Dam\n\nYazıcı Dam\n\nYedisu Dam\n\nYoncalı Dam\n\nZernek Dam\n\nThere are 50 dams in the Marmara region, northwestern part of Turkey.\n\nAlibey Dam, Istanbul\n\nAltınyazı Dam, Edirne\n\nArmağan Dam, Kırklareli\n\nAtikhisar Dam, Çanakkale\n\nAyvacık Dam, Çanakkale\n\nBabasultan Dam, Bursa\n\nBakacak Dam, Çanakkale\n\nBayramdere Dam\n\nBayramiç Dam\n\nBoğazköy Dam\n\nBüyükçekmece Dam\n\nBüyükorhan Dam\n\nÇakmak Dam\n\nÇamköy Dam\n\nÇaygören Dam\n\nÇınarcık Dam\n\nÇokal Dam\n\nDarıdere Dam\n\nDarlık Dam\n\nDemirtaş Dam\n\nDevecikonağı Dam\n\nDoğancı-1 Dam\n\nElmalı-2 Dam\n\nGökçe Dam\n\nGökçeada Dam\n\nGölbaşı Dam\n\nGölpazarı Dam\n\nGönen Dam\n\nGünyurdu Dam\n\nHasanağa Dam\n\nHavran Dam\n\nİkizcetepeler Dam\n\nKadıköy Dam\n\nKaraidemir Dam\n\nKayalıköy Dam\n\nKırklareli Dam\n\nKızıldamlar Dam\n\nKirazdere Dam\n\nKoyuntepe Dam\n\nMadra Dam\n\nManyas Dam\n\nÖmerli Dam\n\nSarıbeyler Dam\n\nSazlıdere Dam\n\nSultanköy Dam\n\nSüloğlu Dam\n\nTaşoluk Dam\n\nTayfur Dam\n\nTerkos Dam\n\nUmurbey Dam\n\nValide Dam, Istanbul\n\nThere are 41 dams in the Mediterranean Region, southern part of Turkey, with 1 dam under construction\n\nAdatepe Dam, Kahramanmaraş\n\nAlakır Dam, Antalya\n\nAlaköprü Dam\n\nAslantaş Dam, Osmaniye\n\nAyvalı Dam, Kahramanmaraş\n\nBademli Dam, Burdur\n\nBelkaya Dam\n\nBerdan Dam\n\nBerke Dam, Osmaniye\n\nÇatalan Dam\n\nÇavdır Dam\n\nÇayboğazı Dam\n\nDim Dam\n\nFriendship Dam\n\nGezende Dam\n\nGöktaş Dam\n\nKadıncık 1\n\nKadıncık 2\n\nKalecik Dam\n\nKaracaören-1 Dam\n\nKaracaören-2 Dam\n\nKaraçal Dam\n\nKaramanlı Dam\n\nKartalkaya Dam\n\nKavşak Bendi Dam\n\nKılavuzlu Dam\n\nKızılsu Dam\n\nKopru Dam\n\nKorkuteli Dam\n\nKozan Dam\n\nKozağacı Dam\n\nManavgat Dam\n\nMehmetli Dam\n\nMenzelet Dam\n\nNergizlik Dam\n\nOnaç-1 Dam\n\nOnaç-2 Dam\n\nOtluca HES\n\nOymapınar Dam, Antalya\n\nSeyhan Dam, Adana\n\nSır Dam, Kahramanmaraş\n\nSilifke HES\n\nSorgun Dam\n\nSücüllü Dam\n\nTahtaköprü Dam\n\nUluborlu Dam\n\nYalvaç Dam\n\nYapraklı Dam\n\nYarseli Dam\n\nYayladağ Dam\n\nThere are 20 dams in the Southeastern Anatolia Region, eastern part of Turkey, with a further 9 dams under construction and 5 dams planned.\n\nAlkumru Dam\n\nAslandağ Dam, Hakkâri\n\nAtatürk Dam, Adıyaman and Şanlıurfa\n\nBalli Dam, Şırnak\n\nBatman Dam, Batman\n\nBeyyurdu Dam, Hakkâri\n\nBirecik Dam, Şanlıurfa\n\nBurç Bendi Dam\n\nÇetintepe Dam, Şırnak, under construction\n\nÇetin Dam, Siirt, under construction\n\nCizre Dam, planned\n\nÇocuktepe Dam, Hakkâri, under construction\n\nDevegeçidi Dam, Diyarbakır\n\nDicle Dam, Diyarbakır\n\nDumluca Dam\n\nErkenek Dam\n\nGöksu Dam\n\nHacıhıdır Dam\n\nHancağız Dam\n\nIlısu Dam, Şırnak\n\nUpper Kaleköy Dam\n\nLower Kaleköy Dam, planned\n\nKarakaya Dam, Diyarbakır and Mardin\n\nKarkamış Dam, Gaziantep\n\nKavşaktepe Dam, Şırnak, under construction\n\nKayacık Dam\n\nKirazlık Dam, Siirt\n\nKralkızı Dam, Batman\n\nMusatepe Dam, Şırnak, under construction\n\nSeve Dam\n\nSilopi Dam, Şırnak\n\nSilvan Dam, under construction\n\nSırımtaş Dam\n\nŞırnak Dam, Şırnak\n\nUludere Dam, Şırnak, under construction",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1338035143",
+      "revision_id": "1338035143",
+      "text_sha256": "527e60b7288e4b6ce43c376ce053b1bec2e7a70e04c7268e6224c28caddca4af",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:49:16.154092+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.010150909423828,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:164917",
+      "title": "List of dams and reservoirs",
+      "corpus": "wikipedia",
+      "text": "The following is a list of reservoirs and dams, arranged by continent and country.\n\nDjorf Torba Dam\n\nKeddara Dam\n\nKoudiat Acerdoune Dam\n\nMeraldene Dam\n\nboughrara Dam\n\nBeni Bahdel Dam\n\nMafrouch Dam\n\nSikak Dam\n\nSidi Abdelli Dam\n\nAin Tolba Dam\n\nSarno Dam\n\nOuizert Dam\n\nBou Hanifia Dam\n\nOued Mina Dam\n\nAin Ferrah Dam\n\nAl Dahmouni Dam\n\nColonel Bougara Dam\n\nBakhadda Dam\n\nMaghaila Dam\n\nDeurdeur Dam\n\nGhrib Dam\n\nHarraza Dam\n\nOuled Melouk Zedin Dam\n\nSidi Mhamed Ben Taiba Dam\n\nBni Boutab Dam\n\nSidi Yacoub Dam\n\nGargar Dam\n\nKerrada Dam\n\nOued Kramis Dam\n\nBoukerdine Dam\n\nBouroumi Dam\n\nLadrat Dam\n\nOued Isser's Dam\n\nHamiz Dam\n\nOued Fodda Dam\n\nCalueque Dam\n\nCambambe Dam\n\nCapanda Dam\n\nGove Dam\n\nLauca Dam\n\nLomaum Dam\n\nRuacana Dam\n\nDieguoro Dam\n\nIlauko Dam\n\nBagre Dam\n\nKompienga Dam\n\nEdea Dam\n\nLagdo Dam\n\nLom Pangar Dam\n\nMaga Dam\n\nSong Loulou Dam\n\nPoilão Dam\n\nBoyoma fall\n\nGreat Inga Dam\n\nInga Dam 1, 2, 3, 4\n\nKatende Dam\n\nLubilash fall\n\nNzilo Dam\n\nRuzizi Dam 1\n\nRuzizi Dam 2\n\nRuzizi Dam 3\n\nRuzizi Dam 4\n\nTshala Dam\n\nTshopo dam\n\nZongo Dam 1, 2\n\nAswan Dam and Lake Nasser\n\nAswan Low Dam\n\nDjibloho Dam\n\nMai Nefhi\n\nToker Dam\n\nBeles\n\nFincha\n\nGilgel Gibe I Dam\n\nGilgel Gibe III Dam\n\nGrand Ethiopian Renaissance Dam\n\nKessem Dam\n\nKoka\n\nTekezé Dam\n\nTendaho Dam\n\nBongolo Dam\n\nGrand Poubara Dam\n\nAkosombo Dam - Lake Volta\n\nBarekese Dam\n\nBosumtwi Dam\n\nBui Dam\n\nKpong Dam\n\nMampong Dam\n\nOwabi Dam\n\nTono Dam\n\nWeija Dam\n\nAmaria Dam\n\nBanieya Dam\n\nGarafiri Dam\n\nKale Dam\n\nBuyo Dam\n\nKossou Dam\n\nTaabo Dam\n\nMasinga dam-R Tana\n\nKatse Dam\n\nMohale Dam\n\nMetolong Dam\n\nMuela Dam\n\nWadi Ghan Dam\n\nWadi Kaam Dam\n\nWadi Lebda Dam\n\nWadi Mejenin Dam\n\nWadi Qattara Dam\n\nWadi Wishka Dam\n\nAntelomita Dam\n\nAmbilivily Dam\n\nAmboromalandy Dam\n\nAndekaleka Dam\n\nAndilamena B2 Dam\n\nAndilamena B3 Dam\n\nAndranobe Dam\n\nAntanifotsy Dam\n\nAntelomita Dam\n\nMandraka Dam\n\nMantasoa Dam\n\nMorafeno Dam\n\nSahamaloto Dam\n\nTsiazompaniry Dam\n\nChitete Dam\n\nKamuzu Dam I Dam\n\nKamuzu Dam II Dam\n\nKapichira Dam\n\nLunyangwa Dam\n\nMpira-Balaka Dam\n\nMudi Dam\n\nMulunguzi Dam\n\nNankhuna Dam\n\nNkhula B Dam\n\nFélou Falls Weir\n\nGouina Weir\n\nManantali Dam\n\nSélingué Dam\n\nDiama Dam\n\nFoum Gleita Dam\n\nEau Bleue Reservoir\n\nLa Ferme Reservoir\n\nLa Nicolière Reservoir\n\nMare aux Vacoas\n\nMare Longue Reservoir\n\nMidlands Dam\n\nPiton du Milieu Reservoir\n\nTamarind Falls Reservoir\n\nValetta Reservoir\n\nAït Ouarda Dam\n\nAl Massira Dam\n\nAl Wahda Dam\n\nAllal al Fassi Dam\n\nBin el Ouidane Dam\n\nDaourat Dam\n\nHassan I Dam\n\nHassan II Dam\n\nIdriss I Dam\n\nImfout Dam\n\nMohamed V Dam\n\nTanafnit El Borj Dam\n\nYoussef Ibn Tachfin Dam\n\nCahora Bassa Dam\n\nMassingir Dam\n\nMphanda Nkuwa Dam\n\nAvis Dam\n\nBondels Dam\n\nFriedenau Dam\n\nHardap Dam\n\nNaute Dam\n\nOanob Dam\n\nOlushandja Dam\n\nOmatako Dam\n\nOmatjenne Dam\n\nSwakoppoort Dam\n\nVon Bach Dam\n\nNeckartal Dam\n\nKandadji Dam\n\nKainji Dam\n\nGoranyo Dam\n\nImboulou Dam\n\nNyabarongo Dam\n\nRusumo Dam\n\nDiama Dam\n\nBumbuna Dam\n\nGuma Dam\n\nMaguga Dam\n\nHombolo Dam\n\nKidatu Dam\n\nKihansi Dam\n\nMtera Dam\n\nNyumba ya Mungu Dam\n\nJulius Nyerere Hydro Power Plant (JNPP)\n\nNangbeto Dam\n\nKasserine Dam\n\nSidi el Barrak Dam\n\nSidi Salem Dam\n\nAdekokwok Hydroelectric Power Station\n\nAyago Power Station\n\nBujagali Power Station\n\nIsimba Power Station\n\nKaruma Power Station\n\nKiira Power Station\n\nNalubaale Power Station\n\nKariba Dam\n\nBangala Dam\n\nGwenoro Dam\n\nKariba Dam\n\nLake Chivero\n\nLake Mutirikwe\n\nManjirenji Dam\n\nManyuchi Dam\n\nMutange Dam\n\nNgondoma Dam\n\nOsborne Dam\n\nRuti Dam\n\nTokwe Mukorsi Dam\n\nBogen Dam\n\nBukhtarma Dam\n\nKapshagay Dam\n\nKyzyl-Agash Dam\n\nKyzylbulak Dam\n\nKyzylkungei Dam\n\nMedeu Dam\n\nMoinak Dam\n\nSergeyev Dam\n\nShardara Dam\n\nShulbinsk Dam\n\nTunkuruz Dam\n\nUst-Kamenogorsk Dam\n\nAt-Bashy Dam\n\nKambar-Ata-2 Dam\n\nKürpsay Dam\n\nShamaldy-Say Dam\n\nTash-Kömür Dam\n\nToktogul Dam\n\nÜch-Korgon Dam\n\nBaipaza Dam\n\nFarkhad Dam\n\nGolovnaya Dam\n\nKayrakkum Dam - Kayrakkum Reservoir\n\nNurek Dam\n\nRogun Dam\n\nSangtuda 1 Dam\n\nSangtuda 2 Dam\n\nUsoi Dam\n\nIran–Turkmenistan Friendship Dam\n\nTuyamuyun Hydro Complex\n\nAbdulkhan Bandi Dam\n\nAndijan Dam\n\nFarkhad Dam\n\nTuyamuyun Hydro Complex\n\nKurgantepa Reservoir\n\nKurobe Dam, Toyama, tallest in the country\n\nTokuyama Dam, largest dam in the country and creates the largest reservoir\n\nHuichon Dam\n\nHwanggang Dam\n\nImnam Dam\n\nNampo Dam\n\nSongwon Dam\n\nSup'ung Dam\n\nTaepyongman Dam\n\nUnbong Dam\n\nWiwon Dam\n\nYongnim Dam\n\nAndong Dam\n\nChungju Dam\n\nDaecheong Dam\n\nGongsan Dam\n\nHantangang Dam\n\nHwacheon Dam\n\nImha Dam\n\nInje Dam\n\nPeace Dam\n\nSoyang Dam\n\nUiam Dam\n\nYangsang (Sangbu) Dam\n\nBenutan Dam\n\nImang Dam\n\nKagu Dam\n\nMengkubau Dam\n\nTasek Dam\n\nUlu Tutong Dam\n\nCheay Areng Dam\n\nLower Se San 2 Dam\n\nLower Sre Pok 2 Dam\n\nO Chum 2 Hydropower Dam\n\nSambor Dam\n\nStung Battambang 1 Dam\n\nStung Sen Dam\n\nStung Treng Dam\n\nGariuai Dams\n\nBatujai Dam, Lombok, West Nusa Tenggara\n\nBatutegi Dam, Tanggamus, Lampung\n\nBili-Bili Dam, Gowa, South Sulawesi\n\nCacaban Dam, Tegal, Central Java\n\nCirata Dam, Purwakarta, West Java\n\nGajah Mungkur Dam, Wonogiri, Central Java\n\nGondang Dam, Lamongan, East Java\n\nJatigede Dam, Sumedang, West Java\n\nJatiluhur Dam, Purwakarta, West Java\n\nKedungombo Dam, Grobogan, Central Java\n\nRiam Kanan Dam, Banjar, South Kalimantan\n\nSaguling Dam, Bandung, West Java\n\nSempor Dam, Kebumen, Central Java\n\nSigura-gura Dam, North Tapanuli, North Sumatera\n\nSoedirman Dam, Banjarnegara, Central Java\n\nSutami Dam, Malang, East Java\n\nTilong Dam, Kupang, East Nusa Tenggara\n\nWadaslintang Dam, Kebumen, Central Java\n\nWonorejo Dam, Tulungagung, East Java\n\nAyer Itam Dam\n\nBabagon Dam\n\nBakun Dam\n\nBatang Ai Dam\n\nBatu Dam\n\nBekok Dam\n\nBeris Dam\n\nBetotan Dam, Sandakan\n\nBukit Merah Dam\n\nChenderoh Dam\n\nKenyir Dam\n\nKinta Dam, Perak\n\nKlang Gates Dam\n\nLayang Dam\n\nLebam Dam\n\nLinggiu Dam\n\nMachap Dam\n\nMengkuang Dam\n\nMurum Dam\n\nPedu Lake\n\nPergau Dam\n\nSembrong Dam\n\nSemenyih Dam\n\nSultan Iskandar Dam\n\nTasik Subang Dam\n\nTeluk Bahang Dam\n\nTemenggor Dam\n\nUlu Jelai Dam\n\nAgus I Dam\n\nAgus II Dam\n\nAgus III Dam (proposed)\n\nAgus IV Dam\n\nAgus V Dam\n\nAgus VI Dam\n\nAgus VII Dam\n\nAgusan Dam\n\nAmbuklao Dam\n\nAngat Dam\n\nAragon Dam\n\nBinga Dam\n\nBuhisan Dam\n\nBustos Dam\n\nCaliraya Dam\n\nCalumpang Diversion Dam\n\nCanili-Diayo Dam\n\nCasecnan Dam\n\nIpo Dam\n\nKaliwa Low Dam (proposed)\n\nLa Mesa Dam\n\nLabasin Dam\n\nLaiban Dam (proposed)\n\nLumot Dam\n\nMagat Dam\n\nMolino (Prinza) Dam\n\nPantabangan Dam\n\nPasa Dam\n\nPulangi Dam\n\nSan Roque Dam\n\nWawa Dam\n\nBhumibol Dam\n\nChao Phraya Dam\n\nChulabhorn Dam\n\nHua Na Dam\n\nHuai Kum Dam\n\nKaeng Krachan Dam\n\nKaeng Suea Ten Dam\n\nLam Phra Phloeng Dam\n\nLam Takhong Dam\n\nMae Ngat Somboon Chon Dam\n\nMae Wong Dam\n\nNam Phong Dam\n\nPa Sak Jolasid Dam\n\nPak Mun Dam\n\nRasi Salai Dam\n\nSirikit Dam\n\nSirindhorn Dam\n\nSrinagarind Dam\n\nTha Thung Na Dam\n\nUbol Ratana Dam\n\nVajiralongkorn Dam\n\nBuôn Kuốp Dam\n\nĐa Nhim Dam\n\nHàm Thuận – Đa Mi Dams\n\nHòa Bình Dam\n\nLai Châu Dam\n\nNa Hang Dam\n\nSơn La Dam\n\nThác Mơ Dam\n\nTrị An Dam\n\nTrung Sơn Dam\n\nYali Falls Dam\n\nKaptai Dam\n\nTala Dam\n\nBhote Koshi Dam\n\nChilime Dam\n\nKaligandaki A Dam\n\nKoshi Barrage\n\nKulekhani Dam\n\nMai Dam\n\nSunkoshi Dam\n\nUpper Karnali Dam\n\nUpper Tamakoshi Dam\n\nWest Seti Dam\n\nTarbela Dam\n\nMangla Dam\n\nKhanpur Dam\n\nDasu Dam\n\nSabakzai Dam\n\nMirani Dam\n\nRawal Dam\n\nGomal Zam Dam\n\nHub Dam\n\nMeghri Dam\n\nAgstafachay Dam\n\nAras Dam\n\nKhanbulanchay Dam\n\nKhoda Afarin Dam\n\nMil Mugim Dam\n\nMingachevir Dam - Mingachevir reservoir\n\nSarsang Dam - Sarsang reservoir\n\nShamkir Dam - Shamkir reservoir\n\nShamkirchay Dam\n\nTakhtakorpu Dam\n\nVarvara Dam\n\nVileshchay Dam\n\nYenikend Dam - Yenikend reservoir\n\nDegania Dam\n\nYeruham Dam\n\nAl-Wehda Dam\n\nJawa Dam\n\nKing Talal Dam\n\nMujib Dam\n\nAl Lith Dam\n\nBaysh Dam\n\nFatima Dam\n\nHali Dam\n\nJizan Dam\n\nKing Fahad Dam\n\nMurwani Dam\n\nNajran Valley Dam\n\nRabigh Dam\n\nEuphrates Dam\n\nHalabiye Dam\n\nHassakeh East Dam\n\nHassakeh South Dam\n\nHassakeh West Dam\n\nMansoura Dam\n\nTishrin Dam\n\nAl Rafisah Dam\n\nHatta Dam\n\nWadi Shi Dam\n\nShawka Dam 25°06′23″N 56°02′36″E / 25.106436°N 56.043461°E\n\nWadi Ham Dam\n\nWadi Al-Beeh Dam\n\nMarib Dam\n\nFaatautia (Hita'a) Dam\n\nTahinu Dam\n\nTevaiohiro Dam\n\nTitaaviri Dam\n\nVaihiria Dam\n\nVainavenave Dam\n\nVaitapaa Dam\n\nVaite Dam\n\nVaituoru Dam\n\nAfulilo Dam\n\nBanjë Dam\n\nFierza Dam\n\nKoman Dam\n\nMoglicë Dam\n\nShkopet Dam\n\nSkavica Dam\n\nUlëz Dam\n\nVau i Dejës Dam\n\nEngolasters Dam - Lake Engolasters\n\nGrodno Dam\n\nGileppe Dam\n\nBočac Dam\n\nBuk Bijela Dam\n\nBuško Lake\n\nČapljina Dam\n\nGlavatičevo Dam\n\nGrabovica Dam\n\nGrančarevo Dam (Trebinje)\n\nJablanica Dam\n\nJajce Dam\n\nKonjic Dam\n\nMostarsko Blato Dam\n\nPale Dam\n\nRama Dam\n\nSalakovac Dam\n\nFoča Dam\n\nVišegrad Dam\n\nŽupica Lake\n\nČakovec Dam\n\nDubrava Dam\n\nDubrovnik Dam\n\nGojak Dam\n\nGolubić Dam\n\nJaruga Dam\n\nKrčić Dam\n\nMiljacka Dam\n\nOzalj Dam\n\nPeruća Dam - Peruća Lake\n\nRoški Slap Dam\n\nSenj Dam\n\nSklope Dam - Lake Krušćica\n\nVaraždin Dam\n\nVelebit Dam\n\nVinodol Dam\n\nZakučac Dam\n\nZeleni Vir Dam\n\nAlroe Dam\n\nDenmark Dam\n\nKaloe Dam\n\nQorlortorsuaq Dam, Greenland\n\nRømø Dam\n\nTangevaerket Dam\n\nNarva Reservoir (shared with Russia)\n\nLake Eiði\n\nImatra Dam\n\nIsohaara Dam\n\nJylhama Dam\n\nKalajärvi Dam - Kalajärvi Reservoir\n\nKaltimo Dam\n\nKuurna Dam\n\nLokka Dam - Lokka Reservoir\n\nMelo Dam\n\nOssauskoski Dam\n\nPamilo Dam\n\nPetajaskoski Dam\n\nPorttipahta Dam\n\nPuntarikoski Dam\n\nSeitakorva Dam\n\nTainionkoski Dam\n\nTaivalkoski Dam\n\nUljua Dam - Uljua Reservoir\n\nValajaskoski Dam\n\nVanttauskoski Dam\n\nVenetjoki Reservoir\n\nInguri Dam\n\nKhrami Dam\n\nKhudoni Dam\n\nLadzhanuri Dam\n\nNamakhvani Dam\n\nSamtskhe-Javakheti Dam\n\nTvishi Dam\n\nVardnili Dam\n\nZhinvali Dam\n\nZhoneti Dam\n\nKastraki Dam\n\nKatsiki Dam\n\nKremasta Dam\n\nMarathon Dam\n\nMesochora Dam\n\nMornos Dam\n\nPlastiras Dam\n\nStratos Dam\n\nSykia Dam\n\nThisavros Dam\n\nKofini dam\n\nFehervarcsurgoi Dam\n\nMarkazi Dam\n\nRakacai Dam\n\nTisza Dam, Lake Tisza\n\nBlanda Dam\n\nBlöndulón\n\nKárahnjúkar Hydropower Plant\n\nSigöldulón\n\nÞórisvatn\n\nArdnacrusha\n\nCarrigadrohid\n\nCathaleen's Fall\n\nCliff\n\nGolden Falls\n\nInniscarra Dam\n\nLeixlip lake\n\nPoulaphouca Reservoir\n\nTurlough Hill\n\nAlpe Gera Dam\n\nCampo Moro dams\n\nCancano Dam\n\nChiotas Dam\n\nCingino Dam\n\nCorbara Dam\n\nFrera (Belviso) Dam\n\nGleno Dam\n\nLei Dam\n\nPiastra Dam\n\nPlace Moulin Dam\n\nPonte Cola Dam - Lake Val Vestino\n\nPunt dal Gall Dam\n\nSanta Giustina Dam\n\nSpeccheri Dam\n\nSubiaco Dams\n\nVajont Dam\n\nVal di Stava Dam\n\nAiviekste Dam\n\nDaugavpils Dam\n\nĶegums Dam\n\nPļaviņas Dam\n\nRiga Dam\n\nElektrėnai Reservoir\n\nKaunas Reservoir\n\nEsch-sur-Sûre Dam\n\nVianden Pumped Storage Plant\n\nDubăsari Dam\n\nStânca-Costeşti Dam\n\nMratinje Dam\n\nAfsluitdijk\n\nDelta Works\n\nHaringvlietdam\n\nHartelkering\n\nOosterscheldekering\n\nPhilipsdam\n\nSloedam\n\nZuiderzee Works\n\nBoškov Dam\n\nČebren Dam\n\nKozjak Dam\n\nSpilje Dam, Lake Debar\n\nTikveš Dam\n\nVrutok Dam\n\nAbo Dam\n\nAura Dam\n\nAurland Dam\n\nBratsberg Dam\n\nBrokke Dam\n\nByrte Dam\n\nCårrujavrit Dam\n\nEvanger Dam\n\nFinndøla Dam\n\nFortun Dam\n\nGlomfjord Dam\n\nHakavik Dam\n\nHammeren Dam\n\nHardeland Dam\n\nHjartdøla Dam\n\nHylen Dam\n\nKjofossen Dam\n\nKvilldal Dam\n\nLassa Dam\n\nLittle Dam\n\nLøkjelsvatnet\n\nLysebotn Dam\n\nMår Dam\n\nMatre Dam\n\nMauranger Dam\n\nMelkefoss Dam\n\nNea Dam\n\nNes Dam\n\nNore Dam\n\nNygårds Dam\n\nPaatsjoki Dam\n\nRana Dam\n\nRingedals Dam\n\nSåheim Dam\n\nSaurdal Dam\n\nSildvik Dam\n\nSima Dam\n\nSkogfoss Dam\n\nStorglomvatn Dam\n\nSvartevatn Dam\n\nSvartisen Dam\n\nSvelgfoss Dam\n\nSvorkmo Dam\n\nTjodan Dam\n\nTokke Dam\n\nTonstad Dam\n\nTunnsjødal Dam\n\nTyin Dam\n\nTyssedal Dam\n\nVamma Dam\n\nVatnedalen Dam\n\nVemork Dam\n\nVinje Dam\n\nVirdnejávri Dam, Virdnejávri\n\nKosovo:\n\nBadovc Dam\n\nBatlava Dam\n\nGazivoda (Ujman) Dam\n\nPrilepnica Dam\n\nRadoniqi Dam\n\nGabčíkovo Dam on river Danube\n\nLiptovská Mara on river Váh\n\nOrava (reservoir)\n\nSĺňava on river Váh\n\nStarina reservoir\n\nTajchy artificial water reservoirs in the Štiavnica Mountains\n\nVeľká Domaša on river Ondava\n\nZemplínska Šírava on river Laborec\n\nAjba Dam\n\nAvče Dam\n\nBlanca Dam\n\nBoštanj Dam\n\nDravograd Dam\n\nMarkovci Dam\n\nMavčiče Dam\n\nMedvode Dam\n\nMoste Dam\n\nPodselo Dam\n\nSolkan Dam\n\nVuhred Dam\n\nZlatoličje Dam\n\nAldeadávila Dam\n\nAlcántara Dam\n\nEl Atazar Dam\n\nEntrepeñas\n\nItoiz\n\nRiaño\n\nSalime\n\nTalarn Dam\n\nTous\n\nYesa Reservoir\n\nÄlvkarleby Dam\n\nEbbe Dam\n\nHarsprånget Dam\n\nHojum Dam\n\nOlidan Dam\n\nPorjus Dam\n\nSuorva\n\nTrängslet Dam\n\nDnieper reservoir cascade\n\nCuciurgan Reservoir\n\nDnieper Reservoir\n\nKakhovka Reservoir\n\nKamianske Reservoir\n\nKaniv Reservoir\n\nKleban-Buk Reservoir\n\nKremenchuk Reservoir\n\nKyiv Reservoir\n\nOskil Reservoir\n\nTernopil Pond\n\nTravianske Reservoir\n\nChalillo Dam\n\nLake Arenal\n\nLake Cachí\n\nPresa Sangregado Dam\n\nReventazón Dam\n\nCanasí Dam\n\nChalons Dam\n\nHanabanilla Dam\n\nJibacoa Dam\n\nLa Yaya Dam\n\nLebrije Dam\n\nNuevo Mundo Dam\n\nMelones Dam\n\nPorvenir Dam\n\nZaza Dam\n\nCerrón Grande Dam\n\nAguacapa Dam\n\nChixoy Dam\n\nJurún Marinalá Dam\n\nLas Vacas Dam\n\nLos Esclavos Dam\n\nSanta María Dam\n\nXacbal Dam\n\nXalalá Dam\n\nPéligre Dam\n\nEl Cajón\n\nFrancisco Morazan\n\nHermitage Dam\n\nMona Dam Mona Dam\n\nRio Beuno Dam\n\nRio Cobre Dam\n\nAdolfo Ruiz Cortines Dam\n\nAguamilpa Dam\n\nÁlvaro Obregón Dam\n\nAmistad Dam\n\nAngostura Dam\n\nCerro de Oro Dam\n\nChicoasén Dam\n\nEl Cajón Dam\n\nEmilio López Zamora dam\n\nFalcon Dam\n\nHuites Dam\n\nInfiernillo Dam\n\nInternational Diversion Dam\n\nLa Boquilla Dam\n\nLa Yesca Dam\n\nLago Colina Dam\n\nLake Amistad Dam International Crossing\n\nLázaro Cárdenas Dam\n\nMalpaso Dam\n\nMiguel Alemán Dam\n\nMorelos Dam\n\nOjo de Agua Dam\n\nPeñitas Dam\n\nSan Jerónimo Dam\n\nZimapán Dam\n\nEl Dorado Dam - Lake Asturias\n\nMancotal Dam - Lake Apanás\n\nTumarín Dam\n\nVirgen Dam\n\nBarro Blanco Dam\n\nBayano Dam\n\nBonyic Dam\n\nChanguinola Dam\n\nFortuna Dam\n\nGatun Dam\n\nMadden Dam\n\nPanama Canal\n\nCarraizo Dam\n\nPortugues Dam\n\nJohn Compton Dam\n\nMonasavu Dam\n\nNadarivatu Dam\n\nVaturu Dam\n\nNéaoua Dam\n\nTu Dam\n\nYaté Dam\n\nYonki Dam\n\nAgua del Toro Dam\n\nAlicurá\n\nArroyito\n\nArroyo Corto Dam\n\nBlas Brisoli Dam\n\nCaracoles Dam\n\nCasa de Piedra Dam\n\nCerro Pelado Dam\n\nChocón\n\nEl Cajón Dam\n\nIngeniero Ballester Dam\n\nJorge Cepernic Dam\n\nLa Viña Dam\n\nLoma de la Lata Dam\n\nLos Caracoles Dam\n\nLos Molinos\n\nMari - Menuco Dam\n\nNéstor Kirchner Dam\n\nPichi Picún Leufú\n\nPiedra del Aguila\n\nPlanicie Banderita Dam\n\nPortezuelo Dam\n\nPunta Negra Dam\n\nQuebrada de Ullúm Dam\n\nSalto Grande (shared with Uruguay)\n\nSan Roque\n\nYaciretá Dam (shared with Paraguay)\n\nInkachaka Dam\n\nMilluni Lake\n\nMisicuni Dam\n\nWarawara Lake (Cochabamba)\n\nAromos\n\nCalabocillo\n\nCogotí\n\nColbún\n\nConvento Viejo\n\nDigua\n\nEl Yeso\n\nLa Invernada\n\nLa Paloma\n\nLago Laja\n\nLaguna del Maule\n\nLautaro\n\nMachicura\n\nMelado\n\nPangue\n\nPolcura\n\nPuclaro\n\nRalco\n\nRapel\n\nRecoleta\n\nSanta Juana\n\nVega Larga\n\nAlberto Lleras Dam\n\nCalima Lake\n\nChingaza Dam\n\nEl Quimbo Dam\n\nGuaicaramo Dam\n\nItuango Dam\n\nLa Esmeralda Dam\n\nMiel I Dam\n\nPorce III Dam\n\nPunchiná Dam\n\nSalvajina Dam\n\nSogamoso Dam\n\nMazar Dam\n\nPaute Dam\n\nPetit-Saut Dam\n\nAmaila Dam\n\nItaipu Dam (shared with Brazil)\n\nYaciretá Dam (shared with Argentina)\n\nAntamina Tailings Dam\n\nLimon Dam\n\nUpamayu Dam\n\nAfobaka Dam\n\nBrokopondo Reservoir\n\nSalto Grande (shared with Argentina)\n\nCaruachi Dam\n\nGuri Dam\n\nMacagua Dam\n\nTocoma Dam",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1351711775",
+      "revision_id": "1351711775",
+      "text_sha256": "8ba3245d2032185b3353f0c07bfeef952708738cdd308dfed3d6b8dc53bb8971",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:49:16.780019+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.0585103034973145,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1214",
+    "title": "Britannica page 1214",
+    "corpus": "britannica",
+    "text": "<x_0.2539><y_0.0266>DAM [ 658]<x_0.583><y_0.0477><class_Page-header>\n\n<x_0.708><y_0.0258>DAM<x_0.8203><y_0.0469><class_Caption>\n\n<x_0.0801><y_0.0492>Damps.<x_0.1406><y_0.082><class_Text>\n\n<x_0.1367><y_0.0484>thickened the air in the pit, and then it would appear again; they lighted their candles at it sometimes when they went out; and fo in this pit it did no further human?<x_0.5283><y_0.1031><class_Text>\n\n<x_0.1377><y_0.1023>In another pits, however, it from apparently, and at half produced a multi terrible explolions. \"This was oca- fioned by none of the workmen going independent down with a lighted candle, after a ceilation of work for form days, and the force exerted by it femen equal to that of gun powder.<x_0.5293><y_0.1852><class_Text>\n\n<x_0.1387><y_0.1859>The formation of unintractable air in mines cannot be attributed to any variation of atmospheric or there is no natural process with which we are ac- quanted, by which fish a change could be accom- plished. In one influence, however, we have an ex- ample of a champ being produced, not only with- out any confidential flagation of atmospheric air, has where there is the belt circularism recognizable. This is in large bellows ufeid in metallurgie works, which are foretime birth by an explosion of infam- make matter processing from the mind matters with which the leather is greeded. Dr Priefley has flown, that inflammable air is comprised of pure ele- mentary fire charcoal or phologines and stable veter; and that this composition may take place even _in_ _wason._ All the materials are to be met with in the bowels of the earth. Coal, a bitumen imbalance, is abundantly able to supply the phogililon; the na- tural motions of the earth affords water, and the heat, between goods, which constantly calls in the bowels of the earth, may be sufficient to produce a quantity of fullammable air, which gradually occurring- falling in chois places where it is not a constant threat of atmospheric air to carry it off, will foam produce the desirable effects already mentioned.<x_0.5273><y_0.5227><class_Text>\n\n<x_0.1357><y_0.5234>A much more important consideration than the formation of damps, however, is the proper method of avoiding their practical effects. The inflammation lies at one kind develops on eye methods of preventing it from accumulating, viz., by letting fire to it. This may be done with flying under it has been offered to get too far before the very moment is made: I’m the insan- hammable air, being much lighter than any other kind will naturally fit to the day so that a man, ly- ing flat on the ground to avoid the force of the ex- plofion, and holding up a lighted candle fixed upon a pole, you at once fee the mine from fetch a trouble- home goodt. But where it has been allowed to ac- cumulise in too great quantity, fo that this method causes be ufeid, or in the other kind, which is not in- flannable, the method commonly justified is to pro- duce a confluent circulation of air as much as possible through all parts of the mine. To procure this they make a perpendicular opening, which they call _haunk_ or _flaqls_, to that the mine may have two or more openings; and thus by realtion of the difference of em- perature between the open atmosphere and that in the mine, there is a constant danger of air through them both. This current will always be fronger in proportion to the difference between the external at- mendapre and that of the mine; and likewise in pro- portion to the difference between the depth of the two thafts. But as the temperature of the atmosphere is variable, it happens, at certain feafons of the year, that there is not a sufficient difference between that<x_0.5264><y_0.9273><class_Text>\n\n<x_0.5352><y_0.0453>of the atmosphere and in the mine to produce the ne- ceffiny circulation. This happens principally in the firing and assembly, at which relation if necessary to fight iron in the fluids, which are always efficacious for the purpose defend.<x_0.9268><y_0.1172><class_Text>\n\n<x_0.5361><y_0.118>Among the other afes to which dephloglitated air, might be applied, Mr Cavallo reckona that of recurring people from the dangerous effects of dams in mines, and some fishermenous places. If a large blad- der;\" fays he, \" into which a foliation of lime in va- ter is introduced, be filled with dephlogilitated air, and in his wooden or glala pipe. He adapted to its deck, a man may hold that pipe in his mouth, and may breathe the ofphiglicated clay, and thus equip- pedel be may enter into the fubtermous places, until the various shade fluids contained in them. A large bladder of dephiglittered air will fever be above a quarter of an hour, which is a length of time follicles for various purposes besides, it longer time it required to be feet in these places, aper- do may have two or more bladder of dephiglitated air along with him, and may fihlit as foot as the air of use is contaminated. Without the receiptify of any more complicated approach, the diabetes full of de- phloglicitated air may be kept flopped by putting corks into the gills or wooden pipes that are tied to their necks. This is mainly allo to feed the diving balls.\"<x_0.9258><y_0.4125><class_Text>\n\n<x_0.5762><y_0.4133>DAMSEL, from the French _damself or demasifons_, an application ancestri given to all young people of eitherys, that were of endular or genest extraction, as the fons and daughters of princes, knights, and barons: thus we read of Daniel Prisin DaudiL Louis le Gros, David Richard spruce (My Wales.<x_0.9248><y_0.4945><class_Text>\n\n<x_0.542><y_0.4938>From the folos of Kings this appellation ftp piled to theife of great locals and barons, and a length to think of gestionome who were not yet lengths.<x_0.9238><y_0.5352><class_Text>\n\n<x_0.541><y_0.5344>At present damful is applied to all meals or girls not yet material, provided by be not of the vulgar.<x_0.9229><y_0.5609><class_Text>\n\n<x_0.54><y_0.5602>DANX, er Jo now, which shall literally denotes “the river Dan?” to named from the people where it has its forces, which is also called Plulah, from its round figure, to the north of big apparent ting from the mountain Panman or Pancum, as was discovered by Philip, Tetrarch of Trecontenes, for on throwing light bodies into the Plulah, he found them to emerge at Pancum (Jofaphay) Eron Pancum it runs in a direct course to a lake called _Manandames_ is for as which is called _Yardan the Lafa_s and theme to the lake Cheretherly, of Tiberias, where it comes incrediely the lake Samanthouis and its fringes and is called the _Greater Yardan_ containing its check counts, forthwards, till it falls into the Alkalities.<x_0.9219><y_0.7492><class_Text>\n\n<x_0.5391><y_0.7508>Dax (use grow), a term to the wet of the fource of the Jordan’s formerly called Leair (Jofhan, Judges, Jofaphus). This was the north, as Berichholz was the fourth, bounded of the patient, as appears from the common expection in Scripture, from Dar to Beefhe- ha. At Dan Jeradeam credited one of the golden calers (1 King size).<x_0.917><y_0.843><class_Text>\n\n<x_0.5381><y_0.8422>Dax, the tribe, extended itself wellward of Judah, and was permitted by Azotus and Dora on the Medi- terminom (Jofaphay).<x_0.918><y_0.8836><class_Text>\n\n<x_0.5371><y_0.8844>DANAE, in antiquity, a coin famewhat more than an obolus, died to be put into the mouths of the dead, to pay their patige over the river Acheron.<x_0.9189><y_0.9234><class_Text>\n\n<x_0.8506><y_0.9211>DANAS<x_0.916><y_0.9383><class_Picture>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "853588341eb038a7e25c4f31170c11ef5726149bf97f0e044d9dcf3f6d236d9b",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:15.397018+00:00",
+    "parser_receipt_sha256": "e2020e4f4e1330c404578993f8692c84d6a07715f6b4ad84b8bf50d312e68c37",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 188,
+      "occurred_at": "2026-10-18T17:49:15.604414+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 550,
+      "occurred_at": "2026-10-18T17:49:16.154133+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 606,
+      "occurred_at": "2026-10-18T17:49:16.780086+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 585,
+      "occurred_at": "2026-10-18T17:49:17.389099+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 565,
+      "occurred_at": "2026-10-18T17:49:17.978424+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 549,
+      "occurred_at": "2026-10-18T17:49:18.557096+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 544,
+      "occurred_at": "2026-10-18T17:49:19.116592+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 539,
+      "occurred_at": "2026-10-18T17:49:19.685648+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 544,
+      "occurred_at": "2026-10-18T17:49:20.243133+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 44,
+      "occurred_at": "2026-10-18T17:49:20.310399+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 522,
+      "occurred_at": "2026-10-18T17:49:20.832404+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 91,
+      "occurred_at": "2026-10-18T17:49:20.931783+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 6,
+      "occurred_at": "2026-10-18T17:49:20.938241+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 245,
+      "occurred_at": "2026-10-18T17:49:21.183510+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1167,
+    "modern_words": 379,
+    "vocabulary_jaccard": 0.04632152588555858,
+    "jensen_shannon_divergence": 0.7268243338463058,
+    "historical_top_words": [
+      [
+        "the",
+        87
+      ],
+      [
+        "of",
+        55
+      ],
+      [
+        "to",
+        36
+      ],
+      [
+        "in",
+        29
+      ],
+      [
+        "and",
+        28
+      ],
+      [
+        "a",
+        28
+      ],
+      [
+        "is",
+        23
+      ],
+      [
+        "it",
+        18
+      ],
+      [
+        "which",
+        16
+      ],
+      [
+        "air",
+        15
+      ],
+      [
+        "be",
+        15
+      ],
+      [
+        "that",
+        14
+      ],
+      [
+        "this",
+        12
+      ],
+      [
+        "from",
+        12
+      ],
+      [
+        "or",
+        12
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "dam",
+        67
+      ],
+      [
+        "in",
+        14
+      ],
+      [
+        "the",
+        12
+      ],
+      [
+        "and",
+        11
+      ],
+      [
+        "iran",
+        10
+      ],
+      [
+        "of",
+        9
+      ],
+      [
+        "to",
+        6
+      ],
+      [
+        "a",
+        6
+      ],
+      [
+        "s",
+        5
+      ],
+      [
+        "dams",
+        5
+      ],
+      [
+        "construction",
+        4
+      ],
+      [
+        "with",
+        4
+      ],
+      [
+        "karun",
+        4
+      ],
+      [
+        "as",
+        3
+      ],
+      [
+        "water",
+        3
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "dam",
+  "semantic_input": {
+    "query": "dam\nDAM [ 658]\n\nDAM\n\nDamps.\n\nthickened the air in the pit, and then it would appear again; they lighted their candles at it sometimes when they went out; and fo in this pit it did no further human?\n\nIn another pits, however, it from apparently, and at half produced a multi terrible explolions. \"This was oca- fioned by none of the workmen going independent down with a lighted candle, after a ceilation of work for form days, and the force exerted by it femen equal to that of gun powder.\n\nThe formation of unintractable air in mines cannot be attributed to any variation of atmospheric or there is no natural process with which we are ac- quanted, by which fish a change could be accom- plished. In one influence, however, we have an ex- ample of a champ being produced, not only with- out any confidential flagation of atmospheric air, has where there is the belt circularism recognizable. This is in large bellows ufeid in metallurgie works, which are foretime birth by an explosion of infam- make ma",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.024628639221191406,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

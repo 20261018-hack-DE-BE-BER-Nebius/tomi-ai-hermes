@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "CH I 671 CHI",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:37627410",
+      "title": "Chi-won",
+      "corpus": "wikipedia",
+      "text": "Chi-won is a Korean given name.\n\nPeople with this name include:\n\nCh'oe Ch'iwŏn (fl. 857–924), Korean Silla Dynasty philosopher and poet\n\nChi-Won Yoon (born 1959), South Korean financier and executive",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1312034258",
+      "revision_id": "1312034258",
+      "text_sha256": "7ee1474d61d6c7941dcc7d888804cd590f54ed18cb93a1e20b1505b51d35fc61",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:59.936421+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.116152763366699,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:12534514",
+      "title": "Tai chi classics",
+      "corpus": "wikipedia",
+      "text": "The tai chi classics (Chinese: 太极拳谱; pinyin: tàijíquán pǔ or 太極拳經; tàijíquán jīng) are a collection of more than 100 articles on the Chinese martial art of tai chi written by the art's master practitioners over the centuries. They cover everything from the underlying taiji philosophical principles, to methods of practice and application. Previously passed down in secret from generation to generation in whole or in parts through various lineages, they achieved classical status as they became public starting in the mid-1930s. Together they now serve as the single authoritative guide for the development and usage of tai chi skills. Written mostly in classical Chinese, they are used today mostly by the serious martial art practitioners of modern 6 Lineages that all trace their lineages to the ancient style taught by the Chen family and Yang family starting in the mid-19th century.\n\nWhile great antiquity is usually claimed for texts by legendary authors, modern scholarship has not been able to date any of them earlier than the late 19th century.\n\nTai Chi Classic (太極拳經; Tàijíquán Jīng) attributed to the legendary founder of tai chi, Zhang Sanfeng, claimed to be ca. 12th-14th century.\n\nSalt Shop Manual (鹽店譜; Yándiàn Pǔ) containing the \"Tai Chi Treatise\" (太極拳論; Tàijíquán Lùn) attributed to the legendary Wang Zongyue. The text was said to have been found stored in the back room of a Beijing salt shop by Wu Yuxiang 's brother Wu Chengqing.\n\nMiscellaneous texts: Song of Thirteen Postures, Mental Elucidation of the Practise of Tai Chi and the Song of Sparring handed down in the Yang and Wu families.\n\nTexts by Wu Yuxiang, a central figure in Wu (Hao)-style tai chi, and his nephew Li Yiyu (李亦畬; 1832–1892).\n\nForty Chapters of writings, with the last three chapters directly attributed to Zhang Sanfeng, preserved in the Yang and Wu families.\n\nTai Chi Illustrated (太極拳圖說; Tàijíquán Túshuō) published in 1919 by Chen Xin (陳鑫; 1849–1929) an important Chen family scholar.\n\nThe Study of Tai Chi (太極拳學; Tàijíquán Xué) first published in 1924 by Sun Lutang, the founder of his eponymous style of tai chi.\n\nYang Chengfu (1883-1936) published his Complete Principles and Applications of Tai Chi in 1934, a work considered authoritative in schools influenced by his many students and progeny. The book includes the well known \"Ten Essential Points of Tai Chi Theory\" authored by Yang.\n\nWu Kung-tsao (Wu Gongzao; 1902–1983) provided original texts and commentary on the previously mentioned Forty Chapters in Wu Family T'ai Chi Ch'uan. Wu's grandfather Wu Quanyou had inherited the Forty Chapters from Yang Banhou. The book was first published in Changsha in 1935. In 1980, when the book was published again in Hong Kong, the famous wuxia author Jin Yong contributed a postscript to Wu Kung-tsao's text in which Jin described influences from as far back as Laozi and Zhuang Zhou on contemporary Chinese martial arts.\n\nLiang, T. T., T'ai Chi Ch'uan for Health and Self-Defense:Philosophy and Practice (New York: Vintage, 1977)\n\nLo, Benjamin; Inn, Martin; Amacker, Robert; Foe, Susan - The Essence of T'ai Chi Ch'uan: The Literary Tradition (Berkeley: North Atlantic, 1979 ISBN 0913028630)\n\nJou, Tsung-hwa, The Tao of T'ai Chi Ch'uan (Rutland: Tuttle, 1980)\n\nWile, Doug, Tai Chi Touchstones: Yang Family Secret Transmissions (Sweet Ch'i Press, 1983)\n\nWile, Doug, Lost T'ai-chi Classics from the Late Ch'ing Dynasty (Albany: SUNY, 1996)\n\nDavis, Barbara, The Taijiquan Classics: An Annotated Translation (Berkeley: North Atlantic, 2004)\n\nXin, Chen, The Illustrated Canon of Chen Family Taijiquan (Xi'an: INBI Matrix, 2007)\n\nYun, Zhang; Ho, David, The Taijiquan Classics: The Essential Translation and Explanation with Commentary on History and Culture (Lulu, 2016 ISBN 978-0-578-17886-8)",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1332388906",
+      "revision_id": "1332388906",
+      "text_sha256": "e15b1c03796684957847cf7e48925ec0f0fde05e1850630065c9a42a82519022",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:51:01.078482+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.411728858947754,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:4175360",
+      "title": "Ch'oe Malli",
+      "corpus": "wikipedia",
+      "text": "Ch'oe Manli (Korean: 최만리; Hanja: 崔萬里, d. October 23, 1445) was an associate professor (부제학; 副提學) in the Hall of Worthies who spoke against the creation of Hangul (then called ŏnmun) together with other Confucian scholars in 1444. He submitted a protest that year to King Sejong against Hangul.\n\nFather - Ch'oe Ha (최하; 崔荷); 11th generation descendant of Ch'oe Ch'ung\n\nMother - Lady Chi of the Chungju Chi clan (충주 지씨)\n\nWife - Lady Yang of the Junghwa Yang clan (중화 양씨)\n\nIssue\n\nSon - Ch'oe Kak (최각; 崔塙)\n\nSon - Ch'oe Chŏng (최정; 崔埥; 1429 – 27 March 1466)\n\nDaughter-in-law - Lady Yi of the Yeoheung Yi clan (여흥 이씨; 1429 – 25 March 1505)\n\nSon - Ch'oe Tang (최당; 崔塘)\n\nSon - Ch'oe Ŭn (최은; 崔垠)\n\nSon - Ch'oe Yŏn (최연; 崔堧)\n\nDaughter - Lady Ch'oe of the Haeju Ch'oe clan (해주 최씨)\n\nPortrayed by Kwon Tae-won in the 2011 SBS TV series Deep Rooted Tree.\n\nPortrayed by Lee Dae-yeon in the 2015 MBC TV series Splash Splash Love.\n\nPortrayed by Ahn Shin-woo in the 2016 KBS1 TV series Jang Yeong-sil.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1321459338",
+      "revision_id": "1321459338",
+      "text_sha256": "b8d1a7ec7c7cf1963c3b3d8159d0f4339c8962a1935460aa03ea049e28bd15d6",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:51:03.603771+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.413250923156738,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1649",
+    "title": "Britannica page 1649",
+    "corpus": "britannica",
+    "text": "<x_0.2129><y_0.0359>CH I 671 CHI<x_0.7354><y_0.057><class_Page-header>\n\n<x_0.0322><y_0.0578>Chiraly, and they extend their influence equally through the whole fyllem. Difference of armour, and different modes of military dielpilings, produce difinition of orders among those who prouddle the anti of war, while other circumburse originating from the false general centes, creation familiar changes to take place amid the political peace.<x_0.459><y_0.1508><class_Text>\n\n<x_0.0303><y_0.1406>## 4. The difine-tion into a direct into the military entity the use of cavalry.<x_0.0977><y_0.2313><class_Caption>\n\n<x_0.0996><y_0.1516>None of the new difinitions which are introduced among men, with respect to the dielpine and con-a few of war on an conference of the acquisition of property and the invention of arts, is more remarkable than that escalated by the use of horse in military expeditions, and the training of them to the exalviations of the military art. Tre-arm, it is true, give to those for are separated with them a greater fa- peritiory over hote to whom their wife is unknown than that the forena maudific or nor him who lights on foot. But the use of fire arms is of fish apartance in war, and the expense attending it is inconfierable, that wherever there had been announced, they have hidden been confirmed to one particular order in an army, and therefore they produce indeed a remarkable, though members, didthisfor among different nations, but thoughtful on permanent difichiers in the armies of any our nation. But to maintain a horse, to equip them with only features, to manage him with dexterity and vigour, are circumstances which have invariably produced as a leading and conspicuous difichiers among the military codes, wherever bodies of cavalry have been formed. The Roman _equities_, who bought became a single a body of uniforms and first generic ones were originally the only body of cavalry employed by the fate, occupied a reputable rank between the femand and the pleaters, and the elegance and humanity of their manners were faithful to their ranks. In ancient Greece, and in the celebrated branches of Asia, the fine dillonline prevailed at a similar period.<x_0.4727><y_0.5547><class_Text>\n\n<x_0.0312><y_0.5602>Mildar is, functions among the moving German Germans<x_0.0986><y_0.6195><class_Caption>\n\n<x_0.1025><y_0.6219>Another felt worthy of notice reflecting the manera of the batarians of Germany before they cla-<x_0.4717><y_0.9109><class_Text>\n\n<x_0.4746><y_0.0563>billified themselves in the cultivated provinces of the Chirary, Roman empire is, that their women, contrary to what we and among many other rule nations, were treated with a high degree of refuted. They did not guess 8 rally rise via the men in deeds of values but they share of the animalist them by their exhordiations to diffusion and warn as freedom in the field, and virtue of expertise were evenge the confided with a faced veneration, as endowed with propried powers, capable to forced eternal aid in the form of fluitty, and even to influence the all of the dieties. Hence, though domestic duties were their peculiar province, yet they were not hardly tested the confined to a state of slavery. There appears in died a striking analogy between the condition of the women among the endold dies of Spain and the rank which, they occupied among the warkite cantons of Germany. Perhaps indyed, the Germans were fill more honorable than the Spartan woman, as they were taught to weld the magic weapons of imperfection, which life Greece were propagated to the prefix.<x_0.4834><y_0.3211><class_Text>\n\n<x_0.4736><y_0.3219>It apposed to, this, in the fourth of Germany at kall, if not in the more northern regions of Alina and Europe, the components of the Roman cons., below, they generated into its province, treated their women with a degree of rejects unknown to small the nation of anonymity; it that the character of the warrior was likewife highly honourable, being under flood to unice all those qualities which were in the highest education, and that it was only at a particular age, and with certain forms, that the youth were admitted to be armra.<x_0.8584><y_0.4625><class_Text>\n\n<x_0.4844><y_0.4633>When those actions failed from their defects and the names of the theories in the provinces, the change which took habenam place on their circumstances was remarkably and by either they a natural influence, could not but produce an equally fertile a remarkable change on their hiding out and most the romanem. The great outlines might fill remain, but wish gave they could not now find to be filled up in a different tip to chi- manner. Here, however, the records of all delivery arely.<x_0.9482><y_0.5828><class_Text>\n\n<x_0.4854><y_0.5836>pecially imperfect. We have no Cafar or Tacitus to Reply fields or direct reading at the Gotha nation had not yet returned to read and writes , and the Romans were to depreciled under the finite of their own milties, as to be negligent of the changes which appeared around them. But as foon as the light of bilbery begins again to dawn, we find that the leading courses of the bahacion character were not affected, but only modified in a particular manner, in consequence of their missing among a more pollid people, becoming associated with the theories of life, and acquiring extensive five power and property.<x_0.8535><y_0.7422><class_Text>\n\n<x_0.4863><y_0.7414>those who fought on horriback now began to be diltingified with peculiar honours. The manners of warrior too were become more cultivate), and his spirit more humain. Lofure and opulence, with the influence of a polibled people, even though in a fate of slavery, taught those habenam to a desire more robust relations and the federal amendments than those who which they had been before fattued with. The influence of birthtime too, which, though grdify co-exist was still immounds to the fiscal lingands of mankind, concurred to polish their manners and dealt their character. Hence, in the end of the tenth and in the beginning of the seventh century, we few<x_0.8672><y_0.9289><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "72fb98bbf2b620f07ba563b39e097d119624c96a18a558a5e57d526bffcbb98c",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:53.575780+00:00",
+    "parser_receipt_sha256": "3a1010684fbce7c31a052d8b9a637238ef2429f17d115cd050cdeac8c1e41693",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 120,
+      "occurred_at": "2026-10-18T17:50:58.813377+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 555,
+      "occurred_at": "2026-10-18T17:50:59.368739+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 540,
+      "occurred_at": "2026-10-18T17:50:59.936456+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 546,
+      "occurred_at": "2026-10-18T17:51:00.504607+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 552,
+      "occurred_at": "2026-10-18T17:51:01.078527+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 554,
+      "occurred_at": "2026-10-18T17:51:01.664255+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 590,
+      "occurred_at": "2026-10-18T17:51:02.275733+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 639,
+      "occurred_at": "2026-10-18T17:51:02.933328+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 656,
+      "occurred_at": "2026-10-18T17:51:03.603790+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 47,
+      "occurred_at": "2026-10-18T17:51:03.666122+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 896,
+      "occurred_at": "2026-10-18T17:51:04.562244+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 141,
+      "occurred_at": "2026-10-18T17:51:04.727184+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 10,
+      "occurred_at": "2026-10-18T17:51:04.736767+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 232,
+      "occurred_at": "2026-10-18T17:51:04.968759+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 942,
+    "modern_words": 32,
+    "vocabulary_jaccard": 0.017391304347826087,
+    "jensen_shannon_divergence": 0.8717598338030932,
+    "historical_top_words": [
+      [
+        "the",
+        83
+      ],
+      [
+        "of",
+        57
+      ],
+      [
+        "and",
+        34
+      ],
+      [
+        "to",
+        32
+      ],
+      [
+        "a",
+        24
+      ],
+      [
+        "in",
+        21
+      ],
+      [
+        "their",
+        15
+      ],
+      [
+        "were",
+        14
+      ],
+      [
+        "they",
+        13
+      ],
+      [
+        "with",
+        13
+      ],
+      [
+        "among",
+        9
+      ],
+      [
+        "which",
+        9
+      ],
+      [
+        "that",
+        8
+      ],
+      [
+        "but",
+        8
+      ],
+      [
+        "those",
+        7
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "korean",
+        3
+      ],
+      [
+        "chi",
+        2
+      ],
+      [
+        "won",
+        2
+      ],
+      [
+        "name",
+        2
+      ],
+      [
+        "ch",
+        2
+      ],
+      [
+        "and",
+        2
+      ],
+      [
+        "is",
+        1
+      ],
+      [
+        "a",
+        1
+      ],
+      [
+        "given",
+        1
+      ],
+      [
+        "people",
+        1
+      ],
+      [
+        "with",
+        1
+      ],
+      [
+        "this",
+        1
+      ],
+      [
+        "include",
+        1
+      ],
+      [
+        "oe",
+        1
+      ],
+      [
+        "iwŏn",
+        1
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "ch i chi",
+  "semantic_input": {
+    "query": "ch i chi\nCH I 671 CHI\n\nChiraly, and they extend their influence equally through the whole fyllem. Difference of armour, and different modes of military dielpilings, produce difinition of orders among those who prouddle the anti of war, while other circumburse originating from the false general centes, creation familiar changes to take place amid the political peace.\n\n## 4. The difine-tion into a direct into the military entity the use of cavalry.\n\nNone of the new difinitions which are introduced among men, with respect to the dielpine and con-a few of war on an conference of the acquisition of property and the invention of arts, is more remarkable than that escalated by the use of horse in military expeditions, and the training of them to the exalviations of the military art. Tre-arm, it is true, give to those for are separated with them a greater fa- peritiory over hote to whom their wife is unknown than that the forena maudific or nor him who lights on foot. But the use of fire arms is of fis",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.2955760955810547,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

@@ -1,0 +1,307 @@
+{
+  "status": "candidate",
+  "question": "222",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:52646213",
+      "title": "222 (disambiguation)",
+      "corpus": "wikipedia",
+      "text": "222 was a year of the Julian calendar, in the third century AD.\n\n222 also commonly refers to:\n\n222 (number), the natural number following 221 and preceding 223\n\n222 may also refer to:\n\n222 (album), a 2023 album by Lil Tjay\n\n222 (Live & Uncut), a version of Patton Oswalt's comedy album Feelin' Kinda Patton\n\n222 (EP), María Becerra, 2019\n\n\"222\" (song), from the 2007 Paul McCartney album Memory Almost Full\n\n222 Records, an American record label founded in 2012 by Adam Levine\n\nThe 222s, a Montreal band\n\n\"222\", a song by Flatbush Zombies on the 2013 EP BetterOffDead\n\nRoom 222, a television show\n\n\"222\" (Squid Game), a television episode\n\nBritish Rail Class 222, a class of trains used in Great Britain\n\nA222 road, a road between Bexley and Croydon, UK\n\nRoute 222 (MBTA), a bus route in Massachusetts, US\n\nBell 222, an American twin-engine light helicopter\n\nSd.Kfz. 222, a World War II German reconnaissance vehicle\n\n2-2-2, a classification of steam locomotive\n\nU.S. Route 222, a road in the U.S. states of Maryland and Pennsylvania\n\nA bus route in London from Hounslow to Uxbridge\n\nMaserati 222, a coupé\n\n130 mm coastal defense gun A-222\n\nA-222 Bereg, a Russian self-propelled 130 mm coastal defence gun\n\n.222 Remington and.222 Remington Magnum, firearm cartridges\n\n2:22 (disambiguation)\n\n222, a formulation of the compound analgesic co-codaprin\n\n222 Lucia, an asteroid",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1335072190",
+      "revision_id": "1335072190",
+      "text_sha256": "658a95cc0b86211d5f625919c862b84759f6a4d117f4c2994efafb0d24604e85",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:44:04.458872+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -1.5560593605041504,
+      "vector_distance": 0.8830204010009766,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:1832197",
+      "title": "List of highways numbered 222",
+      "corpus": "wikipedia",
+      "text": "The following highways are numbered 222:\n\nManitoba Provincial Road 222\n\nNewfoundland and Labrador Route 222\n\nPrince Edward Island Route 222\n\nQuebec Route 222\n\nChina National Highway 222\n\nNational Route 222\n\nMain road 222 (Hungary)\n\nNational Highway 222 (India)\n\nJapan National Route 222\n\nThailand Route 222\n\nA222 road\n\nB222 road\n\nInterstate 222 (future)\n\nU.S. Route 222\n\nArkansas Highway 222\n\nCalifornia State Route 222\n\nConnecticut Route 222\n\nFlorida State Road 222\n\nGeorgia State Route 222 (former)\n\nK-222 (Kansas highway) (former)\n\nKentucky Route 222\n\nMaine State Route 222\n\nMaryland Route 222\n\nM-222 (Michigan highway)\n\nMinnesota State Highway 222\n\nMontana Secondary Highway 222\n\nNew York State Route 222\n\nNorth Carolina Highway 222\n\nOhio State Route 222\n\nOregon Route 222\n\nPennsylvania Route 222\n\nTennessee State Route 222\n\nTexas State Highway 222\n\nUtah State Route 222\n\nVirginia State Route 222\n\nWyoming Highway 222",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1276816100",
+      "revision_id": "1276816100",
+      "text_sha256": "0aa91511b356d6e4e7077194b9567be0b4389ae82353f65424bb57f550034eca",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:44:03.878967+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.351478576660156,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:22681212",
+      "title": "Maryland 222",
+      "corpus": "wikipedia",
+      "text": "In the context of the U.S. state of Maryland, Maryland 222 may refer to:\n\nThe portion of U.S. Route 222 in Maryland\n\nMaryland Route 222, a state highway",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=932985593",
+      "revision_id": "932985593",
+      "text_sha256": "175ac779b93a4db0e5f8de0583e5fc00a5bcdd365668a8c3bf3a0e801a4fd945",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:44:06.081180+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.1271018981933594,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:261",
+    "title": "Britannica page 261",
+    "corpus": "britannica",
+    "text": "<x_0.0547><y_0.0523>222<x_0.0947><y_0.0672><class_Page-header>\n\n<x_0.3643><y_0.0359>ENTOMOLOGY.<x_0.6631><y_0.0633><class_Title>\n\n<x_0.9062><y_0.0352>Aptera<x_0.9863><y_0.0602><class_Caption>\n\n<x_0.1309><y_0.0641>a great height; to accomplish which, they climb up some eminence, and are walked about by the winds, filling the air with their threads. They are destroyed by the spikes and ichneumon.<x_0.5146><y_0.1234><class_Text>\n\n<x_0.1338><y_0.1172>Linnaeus has subdivided this genus according to the number and position of their eyes:<x_0.5156><y_0.1508><class_Text>\n\n<x_0.2705><y_0.1531>**A.** _Eyes eight._<x_0.376><y_0.1719><class_Section-header>\n\n<x_0.2402><y_0.175>_1. Eyes placed thus_, :<x_0.4121><y_0.1922><class_Section-header>\n\n<x_0.0586><y_0.1953>fasnata. Of a silver color; the abdomen marked with yel- lowish bandes; the legs surrounded with brown rings. 49. A native of the island of Malachi<x_0.5176><y_0.2367><class_List-item>\n\n<x_0.0605><y_0.2352>* diadema Abdomen nearly globale and reddish; brown, mark- ed with a white cross composed of dots. 1. A native of Europe, on trees; it is a very beautiful insect.<x_0.5195><y_0.2797><class_List-item>\n\n<x_0.0615><y_0.2742>_aquatica_ Browny abbonen ovat and of an ash colour; the back brown, marked with two dots. 30. A native of Europe, in stagnant waters, where it direct to the bottom in search of the area. It takes up to winter quar-ters in an empty snail shell, the aperture of which it closes up with a web; jaws black, claws red.<x_0.5234><y_0.3609><class_List-item>\n\n<x_0.2441><y_0.3641>## 2. Eyes placed thus, :<x_0.4297><y_0.3695><class_Section-header>\n\n<x_0.0625><y_0.3836>_latro._<x_0.0859><y_0.3828><class_Text>\n\n<x_0.1348><y_0.382>Thorax hairy, and of an ash colour; the abdomen oval, black, and spotted with red. 95. A native of America; large, the thorax oval, legs black, thighs pale.<x_0.5205><y_0.4367><class_List-item>\n\n<x_0.0635><y_0.4359>_domestic._<x_0.2979><y_0.4773><class_Text>\n\n<x_0.0645><y_0.4789>_obs._<x_0.5225><y_0.4969><class_Text>\n\n<x_0.2295><y_0.5023>## 3. Eyes placed thus,<x_0.4053><y_0.525><class_Section-header>\n\n<x_0.0654><y_0.5289>_globosa._ Black; sides of the abdomen of a blood-red colour.<x_0.5215><y_0.5477><class_List-item>\n\n<x_0.1416><y_0.5453>99. A native of Europe, in meadows.<x_0.4111><y_0.5617><class_List-item>\n\n<x_0.2461><y_0.5672>## 4. Eyes placed thus,<x_0.4229><y_0.5883><class_Section-header>\n\n<x_0.0664><y_0.5961>_argentata._<x_0.1436><y_0.5938><class_Text>\n\n<x_0.1387><y_0.5945>Abdown white, and brown behind, and marked round the edge with six small projections. 70. A native of South America.<x_0.5244><y_0.6406><class_Text>\n\n<x_0.251><y_0.6438>## 5. Eyes placed thus, :<x_0.4209><y_0.6609><class_Section-header>\n\n<x_0.0674><y_0.6719>fumigate.<x_0.1426><y_0.6922><class_Text>\n\n<x_0.1396><y_0.668>Abdenom oval and brown, marked at the base with two white dots. 16. A native of Europe, in meadows; it washes near the nest of the larva of different insects, and make their coming out, when it leaves on one after another, and sucks out their substance.<x_0.5254><y_0.7398><class_List-item>\n\n<x_0.0684><y_0.7414>_saccata._<x_0.1445><y_0.7711><class_Text>\n\n<x_0.1406><y_0.7383>Abdomoval, of a brownial, colour, 40. A native of Europe, age gardens, and carries its eggs behind it enclosed in a bag; legs livid, marked with unequal brown rings set close together.<x_0.5293><y_0.7969><class_List-item>\n\n<x_0.2764><y_0.7984>_Eyes placed thus, :_<x_0.4131><y_0.8141><class_Section-header>\n\n<x_0.0703><y_0.8211>_extensa._<x_0.1318><y_0.8352><class_Text>\n\n<x_0.1377><y_0.8156>Abdemon long, of a silver colour tinged with green, the legs extended longitudinally. 22. A native of Europe, in woods; its legs are applied closely to the branches.<x_0.5303><y_0.8719><class_List-item>\n\n<x_0.0723><y_0.8727>_ridulana._<x_0.1328><y_0.8859><class_Text>\n\n<x_0.0752><y_0.8742>_Shining black; the abdomen hairy and black. 73._ A native of America; it forms a nest under ground, and spin as large cylindrical web, which is covered with a id; its bite is very painful, and frequently oc- casions fever and delirium, which is soon removed by a<x_0.5283><y_0.9437><class_List-item>\n\n<x_0.5312><y_0.057>gentle suborfics, thorax marked with a large depressed circular spot; abdominal oval; legs equal.<x_0.9131><y_0.0883><class_Text>\n\n<x_0.6426><y_0.0898>## 9. Eyes placed thus, :<x_0.8096><y_0.1094><class_Section-header>\n\n<x_0.5459><y_0.1133>Black, thorax marked with a white line on the back\\* density 79. A native of Britain.<x_0.9756><y_0.1461><class_Text>\n\n<x_0.5332><y_0.1422>Marked with triangular black spots on the back of torantsis, the abdomen; the legs spotted with black. 34. A native of the south of Europe, particularly Italy and Barbary. It is found in screens in agriculture soil; its bite was formerly supposed to be combble by nothing but remains; though it occasions a great deal of pain, it is almost never fatal.<x_0.9746><y_0.2391><class_Text>\n\n<x_0.6436><y_0.2422>## 8. Eyes placed thus,<x_0.8262><y_0.2625><class_Section-header>\n\n<x_0.5352><y_0.2664>Oval and oblong; thorax hair, white; abdomen and _pakkra_. legs black, marked with yellow bands. 32. A native of Europe.<x_0.9736><y_0.3125><class_Text>\n\n<x_0.625><y_0.3211>## 9. Eyes placed thus,<x_0.8076><y_0.3438><class_Section-header>\n\n<x_0.5371><y_0.3531>Black, abdominal oval, forehead white, and leaps on gocuit, its prey. 84. It is to be found frequently in woods about Vienna; abdommed with two compressed dots.<x_0.9639><y_0.4102><class_Text>\n\n<x_0.6406><y_0.4109>## 10. Eyes placed thus,<x_0.8213><y_0.4281><class_Section-header>\n\n<x_0.5381><y_0.4344>Thorax orbicular and convex, with a transverse cen-orientral tra excavation. 31. It is a native of South America, among others, where a preys upon the larger insects, and even small birds, dropping into their nests, and sucking their blood and legs; it is of so enormous a size, that its flag may be compared to the latons of a havk, and its eyes are very large.<x_0.9766><y_0.5352><class_Text>\n\n<x_0.6445><y_0.543>## 11. Eyes placed thus,<x_0.8203><y_0.5609><class_Section-header>\n\n<x_0.54><y_0.5742>Of a grayish rusty colour, and slightly clouded; tho-truncets, rax globular, and slightly heart-shaped; abdomen some-what irregular, and marked with a faint longitudinal cross. 85. A native of Europe, on oak and other trees; abdommed marked with four impressed dots on the back; papilla three.<x_0.9785><y_0.657><class_Text>\n\n<x_0.6455><y_0.6703>## 12. Eyes placed thus,<x_0.8271><y_0.6914><class_Section-header>\n\n<x_0.542><y_0.6953>Abdomen oval, ostusely conic behind, variegated comis. with brown and white; beneath black. 86. A native of Europe, among boshes; it spins and spreads out a web, to the surface of which it attaches the insects it has emanated, after it has stacked their joint. Tho-rax buck, slightly tinged with rusty colour, and nearly double behind; legs gravy, marked with brown rings; abdommed marked as a whilish spot; beneath resem- bhing a horse shoe; papilla four.<x_0.9707><y_0.8227><class_Text>\n\n<x_0.626><y_0.8289>## 13. Eyes placed thus,<x_0.8369><y_0.8492><class_Section-header>\n\n<x_0.543><y_0.8477>Hairy; body oval, black, variegated with brown, albfiform. 99. A native of Europe.<x_0.9814><y_0.882><class_Text>\n\n<x_0.6318><y_0.8852>B. Eyes six, placed thus, ...<x_0.8457><y_0.9031><class_Section-header>\n\n<x_0.5449><y_0.9023>Abdomen greenish, the sides yellow. 30. A na- agents rive of Europe; in gardens.<x_0.999><y_0.9367><class_Text>\n\n<x_0.8701><y_0.9313>C. Eye<x_0.9268><y_0.9477><class_Page-footer>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "ccff9cf90b2cc28736def4dedfe6b1a0d4e70d3be85d3e04cb916eded1d72af8",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:50:04.308629+00:00",
+    "parser_receipt_sha256": "2ef163289694a0092c8dd437a15eb3b93be315eb32a6026a37857ceaac3e1a35",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 144,
+      "occurred_at": "2026-10-18T17:44:03.364374+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 515,
+      "occurred_at": "2026-10-18T17:44:03.879007+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 565,
+      "occurred_at": "2026-10-18T17:44:04.458918+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 536,
+      "occurred_at": "2026-10-18T17:44:05.008675+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 524,
+      "occurred_at": "2026-10-18T17:44:05.542175+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 530,
+      "occurred_at": "2026-10-18T17:44:06.081198+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 523,
+      "occurred_at": "2026-10-18T17:44:06.613593+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 538,
+      "occurred_at": "2026-10-18T17:44:07.161802+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 535,
+      "occurred_at": "2026-10-18T17:44:07.707063+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 21,
+      "occurred_at": "2026-10-18T17:44:07.737413+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 295,
+      "occurred_at": "2026-10-18T17:44:08.032579+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 55,
+      "occurred_at": "2026-10-18T17:44:08.093563+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 4,
+      "occurred_at": "2026-10-18T17:44:08.097400+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 140,
+      "occurred_at": "2026-10-18T17:44:08.237854+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 781,
+    "modern_words": 199,
+    "vocabulary_jaccard": 0.03480278422273782,
+    "jensen_shannon_divergence": 0.7495778528257279,
+    "historical_top_words": [
+      [
+        "a",
+        43
+      ],
+      [
+        "of",
+        39
+      ],
+      [
+        "and",
+        33
+      ],
+      [
+        "the",
+        32
+      ],
+      [
+        "with",
+        25
+      ],
+      [
+        "it",
+        18
+      ],
+      [
+        "eyes",
+        17
+      ],
+      [
+        "native",
+        17
+      ],
+      [
+        "placed",
+        14
+      ],
+      [
+        "thus",
+        14
+      ],
+      [
+        "marked",
+        13
+      ],
+      [
+        "black",
+        13
+      ],
+      [
+        "europe",
+        12
+      ],
+      [
+        "in",
+        11
+      ],
+      [
+        "abdomen",
+        10
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "a",
+        20
+      ],
+      [
+        "the",
+        8
+      ],
+      [
+        "of",
+        6
+      ],
+      [
+        "in",
+        6
+      ],
+      [
+        "and",
+        4
+      ],
+      [
+        "album",
+        4
+      ],
+      [
+        "s",
+        4
+      ],
+      [
+        "route",
+        4
+      ],
+      [
+        "to",
+        3
+      ],
+      [
+        "by",
+        3
+      ],
+      [
+        "an",
+        3
+      ],
+      [
+        "road",
+        3
+      ],
+      [
+        "also",
+        2
+      ],
+      [
+        "number",
+        2
+      ],
+      [
+        "patton",
+        2
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending."
+  ],
+  "candidate_query": "222",
+  "semantic_input": {
+    "query": "222\n222\n\nENTOMOLOGY.\n\nAptera\n\na great height; to accomplish which, they climb up some eminence, and are walked about by the winds, filling the air with their threads. They are destroyed by the spikes and ichneumon.\n\nLinnaeus has subdivided this genus according to the number and position of their eyes:\n\n**A.** _Eyes eight._\n\n_1. Eyes placed thus_, :\n\nfasnata. Of a silver color; the abdomen marked with yel- lowish bandes; the legs surrounded with brown rings. 49. A native of the island of Malachi\n\n* diadema Abdomen nearly globale and reddish; brown, mark- ed with a white cross composed of dots. 1. A native of Europe, on trees; it is a very beautiful insect.\n\n_aquatica_ Browny abbonen ovat and of an ash colour; the back brown, marked with two dots. 30. A native of Europe, in stagnant waters, where it direct to the bottom in search of the area. It takes up to winter quar-ters in an empty snail shell, the aperture of which it closes up with a web; jaws black, claws red.\n\n## 2. Eyes placed thus,",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.7954192161560054,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

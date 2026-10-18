@@ -1,0 +1,307 @@
+{
+  "status": "candidate",
+  "question": "(a) This might have been the case in the time of Pennant, from whom the above account is taken. It is not so now, although the population has increased to nearly 12,000. Isla indeed enjoys the peculiar advantages of being not only a grazing but it com own ",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:62163987",
+      "title": "Isla, Queensland",
+      "corpus": "wikipedia",
+      "text": "Isla is a rural locality in the Shire of Banana, Queensland, Australia. In the 2021 census, Isla had a population of 213 people.\n\nThe Dawson River forms the northern and eastern boundaries of the locality. The Dawson Range forms part of the north-western boundary of the locality.\n\nThe Leichhardt Highway enters the locality from the south-west (Ghinghinda) and exits to the north-east (Glenmoral / Theodore).\n\nThe Isla Gorge National Park is in the west of the locality extending into neighbouring Glenmoral to the north-west. The Devils Nest State Forest is also in the west of the locality. Apart from these protected areas, the land use is predominantly grazing on native vegetation with some crop growing in the north of the locality near the Dawson River.\n\nIn the 2016 census, Isla had a population of 159 people.\n\nIn the 2021 census, Isla had a population of 213 people.\n\nThere are no schools in Isla. The nearest government primary and secondary school (to Year 10) is Theodore State School in neighbouring Theodore to the north-east. The nearest government secondary school to Year 12 is Moura State High School in Moura to the north, but it is sufficiently distant that only students living in the north of the locality of Isla could attend; the alternatives are distance education and boarding school.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1341807501",
+      "revision_id": "1341807501",
+      "text_sha256": "a7fb93fd366a3fba939fcaa795607f630da75e6c38659838a9defdc854a2fee5",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:47:01.209865+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -0.9543014764785768,
+      "vector_distance": 0.8093312978744507,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:47544",
+      "title": "Carrying capacity",
+      "corpus": "wikipedia",
+      "text": "The carrying capacity of an ecosystem is the maximum population size of a biological species that can be sustained by that specific environment, given the food, habitat, water, and other resources available. The carrying capacity is defined as the environment 's maximal load, which in population ecology corresponds to the population equilibrium, when the number of deaths in a population equals the number of births (as well as immigration and emigration). Carrying capacity of the environment implies that the resources extraction is not above the rate of regeneration of the resources and the wastes generated are within the assimilating capacity of the environment. The effect of carrying capacity on population dynamics is modelled with a logistic function. Carrying capacity is applied to the maximum population an environment can support in ecology, agriculture and fisheries. The term carrying capacity had been applied to a few different processes in the past before finally being applied to human population limits in the 1950s. The notion of carrying capacity for humans is covered by the notion of sustainable population.\n\nAn early detailed examination of global limits on human population was published in the 1972 book Limits to Growth, which has prompted follow-up commentary and analysis, including much criticism. A 2012 review in the journal Nature by 22 international researchers expressed concerns that the Earth may be \"approaching a state shift\" in which the biosphere may become less hospitable to human life, and in which the human carrying capacity may diminish. This concern that humanity may be passing beyond \" tipping points \" for safe use of the biosphere has increased in subsequent years. Although the global population has now passed 8 billion, recent estimates of Earth's carrying capacity run from two to four billion people, depending on how optimistic researchers are about the prospects for international cooperation to solve problems requiring collective action.\n\nIn terms of population dynamics, the term 'carrying capacity' was not explicitly used in 1838 by the Belgian mathematician Pierre François Verhulst when he first published his equations based on research on modelling population growth.\n\nThe origins of the term \"carrying capacity\" are uncertain, with sources variously stating that it was originally used \"in the context of international shipping \" in the 1840s, or that it was first used during 19th-century laboratory experiments with micro-organisms. A 2008 review finds the first use of the term in English was an 1845 report by the US Secretary of State to the US Senate. It then became a term used generally in biology in the 1870s, being most developed in wildlife and livestock management in the early 1900s. It had become a staple term in ecology used to define the biological limits of a natural system related to population size in the 1950s.\n\nNeo-Malthusians and eugenicists popularised the use of the words to describe the number of people the Earth can support in the 1950s, although American biostatisticians Raymond Pearl and Lowell Reed had already applied it in these terms to human populations in the 1920s.\n\nHadwen and Palmer (1923) defined carrying capacity as the density of stock that could be grazed for a definite period without damage to the range.\n\nIt was first used in the context of wildlife management by the American Aldo Leopold in 1933, and a year later by the American Paul Lester Errington, a wetlands specialist. They used the term in different ways, Leopold largely in the sense of grazing animals (differentiating between a 'saturation level', an intrinsic level of density a species would live in, and carrying capacity, the most animals which could be in the field) and Errington defining 'carrying capacity' as the number of animals above which predation would become 'heavy' (this definition has largely been rejected, including by Errington himself). The important and popular 1953 textbook on ecology by Eugene Odum, Fundamentals of Ecology, popularised the term in its modern meaning as the equilibrium value of the logistic model of population growth.\n\nThe specific reason why a population stops growing is known as a limiting or regulating factor.\n\nThe difference between the birth rate and the death rate is the natural increase. If the population of a given organism is below the carrying capacity of a given environment, this environment could support a positive natural increase; should it find itself above that threshold the population typically decreases. Thus, the carrying capacity is the maximum number of individuals of a species that an environment can support in long run.\n\nPopulation size decreases above carrying capacity due to a range of factors depending on the species concerned, but can include insufficient space, food supply, or sunlight. The carrying capacity of an environment varies for different species.\n\nIn the standard ecological algebra as illustrated in the simplified Verhulst model of population dynamics, carrying capacity is represented by the constant K {\\displaystyle K}:\n\nd N d t = r N (1 − N K), {\\displaystyle {\\mathrm {d} N \\over \\mathrm {d} t}=rN\\left(1-{N \\over K}\\right),}\n\nwhere\n\nN is the population size,\n\nr is the intrinsic rate of natural increase\n\nK is the carrying capacity of the local environment, and\n\ndN/dt, the derivative of N with respect to time t, is the rate of change in population with time.\n\nThus, the equation relates the growth rate of the population N to the current population size, incorporating the effect of the two constant parameters r and K. (Note that decrease is negative growth.) The choice of the letter K came from the German Kapazitätsgrenze (capacity limit).\n\nThe Verhulst equation is a first-order ordinary differential equation. Combined with an initial value N = N 0 {\\displaystyle N=N_{0}} for the population at time t = 0 {\\displaystyle t=0}, the solution takes the form of the logistic growth curve:\n\nN (t) = K 1 + A e − r t, {\\displaystyle N(t)={K \\over 1+Ae^{-rt}},}\n\nwhere\n\ne is Euler's number,\n\nA is a constant determined by the initial population N 0 {\\displaystyle N_{0}} via A = K N 0 − 1 {\\displaystyle A={K \\over N_{0}}-1}. When the initial population is below the carrying capacity, A {\\displaystyle A} is positive; when it is above, A {\\displaystyle A} is negative.\n\nr is the initial exponential growth rate, and\n\nK is the carrying capacity.\n\nThe logistic growth curve depicts how population growth rate and carrying capacity are inter-connected. As illustrated in the logistic growth curve model, when the population size is small, the population increases exponentially. However, as population size nears carrying capacity, the growth decreases and reaches zero at K.\n\nWhat determines a specific system's carrying capacity involves a limiting factor; this may be available supplies of food or water, nesting areas, space, or the amount of waste that can be absorbed without degrading the environment and decreasing carrying capacity.\n\nCarrying capacity is a commonly used concept for biologists when trying to better understand biological populations and the factors which affect them. When addressing biological populations, carrying capacity can be seen as a stable dynamic equilibrium, taking into account extinction and colonization rates. In population biology, logistic growth assumes that population size fluctuates above and below an equilibrium value.\n\nNumerous authors have questioned the usefulness of the term when applied to actual wild populations. Although useful in theory and in laboratory experiments, carrying capacity as a method of measuring population limits in the environment is less useful as it sometimes oversimplifies the interactions between species.\n\nIt is important for farmers to calculate the carrying capacity of their land so they can establish a sustainable stocking rate. For example, calculating the carrying capacity of a paddock in Australia is done in Dry Sheep Equivalents (DSEs). A single DSE is 50 kg Merino wether, dry ewe or non-pregnant ewe, which is maintained in a stable condition. Not only sheep are calculated in DSEs, the carrying capacity for other livestock is also calculated using this measure. A 200 kg weaned calf of a British style breed gaining 0.25 kg/day is 5.5DSE, but if the same weight of the same type of calf were gaining 0.75 kg/day, it would be measured at 8DSE. Cattle are not all the same, their DSEs can vary depending on breed, growth rates, weights, if it is a cow ('dam'), steer or ox ('bullock' in Australia), and if it weaning, pregnant or 'wet' (i.e. lactating).\n\nIn other parts of the world different units are used for calculating carrying capacities. In the United Kingdom the paddock is measured in LU, livestock units, although different schemes exist for this. New Zealand uses either LU, EE (ewe equivalents) or SU (stock units). In the US and Canada the traditional system uses animal units (AU). A French/Swiss unit is Unité de Gros Bétail (UGB).\n\nIn some European countries such as Switzerland the pasture (alm or alp) is traditionally measured in Stoß, with one Stoß equaling four Füße (feet). A more modern European system is Großvieheinheit (GV or GVE), corresponding to 500 kg in liveweight of cattle. In extensive agriculture 2 GV/ha is a common stocking rate, in intensive agriculture, when grazing is supplemented with extra fodder, rates can be 5 to 10 GV/ha. In Europe average stocking rates vary depending on the country, in 2000 the Netherlands and Belgium had a very high rate of 3.82 GV/ha and 3.19 GV/ha respectively, surrounding countries have rates of around 1 to 1.5 GV/ha, and more southern European countries have lower rates, with Spain having the lowest rate of 0.44 GV/ha.\n\nThis system can also be applied to natural areas. Grazing megaherbivores at roughly 1 GV/ha is considered sustainable in central European grasslands, although this varies widely depending on many factors. In ecology it is theoretically (i.e. cyclic succession, patch dynamics, Megaherbivorenhypothese) taken that a grazing pressure of 0.3 GV/ha by wildlife is enough to hinder afforestation in a natural area. Because different species have different ecological niches, with horses for example grazing short grass, cattle longer grass, and goats or deer preferring to browse shrubs, niche differentiation allows a terrain to have slightly higher carrying capacity for a mixed group of species, than it would if there were only one species involved.\n\nSome niche market schemes mandate lower stocking rates than can maximally be grazed on a pasture. In order to market ones' meat products as 'biodynamic', a lower Großvieheinheit of 1 to 1.5 (2.0) GV/ha is mandated, with some farms having an operating structure using only 0.5 to 0.8 GV/ha.\n\nThe Food and Agriculture Organization has introduced three international units to measure carrying capacity: FAO Livestock Units for North America, FAO Livestock Units for sub-Saharan Africa, and Tropical Livestock Units.\n\nAnother rougher and less precise method of determining the carrying capacity of a paddock is simply by looking objectively at the condition of the herd. In Australia, the national standardized system for rating livestock conditions is done by body condition scoring (BCS). An animal in a very poor condition is scored with a BCS of 0, and an animal which is extremely healthy is scored at 5: animals may be scored between these two numbers in increments of 0.25. At least 25 animals of the same type must be scored to provide a statistically representative number, and scoring must take place monthly -if the average falls, this may be due to a stocking rate above the paddock's carrying capacity or too little fodder. This method is less direct for determining stocking rates than looking at the pasture itself, because the changes in the condition of the stock may lag behind changes in the condition of the pasture.\n\nIn fisheries, carrying capacity is used in the formulae to calculate sustainable yields for fisheries management. The maximum sustainable yield (MSY) is defined as \"the highest average catch that can be continuously taken from an exploited population (=stock) under average environmental conditions\". MSY was originally calculated as half of the carrying capacity, but has been refined over the years, now being seen as roughly 30% of the population, depending on the species or population. Because the population of a species which is brought below its carrying capacity due to fishing will find itself in the exponential phase of growth, as seen in the Verhulst model, the harvesting of an amount of fish at or below MSY is a surplus yield which can be sustainably harvested without reducing population size at equilibrium, keeping the population at its maximum recruitment. However, annual fishing can be seen as a modification of r in the equation -i.e. the environment has been modified, which means that the population size at equilibrium with annual fishing is slightly below what K would be without it.\n\nNote that mathematically and in practical terms, MSY is problematic. If mistakes are made and even a tiny amount of fish are harvested each year above the MSY, populations dynamics imply that the total population will eventually decrease to zero. The actual carrying capacity of the environment may fluctuate in the real world, which means that practically, MSY may actually vary from year to year (annual sustainable yields and maximum average yield attempt to take this into account). Other similar concepts are optimum sustainable yield and maximum economic yield; these are both harvest rates below MSY.\n\nThese calculations are used to determine fishing quotas.\n\nHuman carrying capacity is a function of how people live and the technology at their disposal. The two great economic revolutions that marked human history up to 1900—the agricultural and industrial revolutions —greatly increased the Earth's human carrying capacity, allowing human population to grow from 5 to 10 million people in 10,000 BCE to 1.5 billion in 1900. The immense technological improvements of the past 100 years—in applied chemistry, physics, computing, genetic engineering, and more—have further increased Earth's human carrying capacity, at least in the short term. Without the Haber-Bosch process for fixing nitrogen, modern agriculture could not support 8 billion people. Without the Green Revolution of the 1950s and 60s, famine might have culled large numbers of people in poorer countries during the last three decades of the twentieth century.\n\nRecent technological successes, however, have come at grave environmental costs. Climate change, ocean acidification, and the huge dead zones at the mouths of many of world's great rivers, are a function of the scale of contemporary agriculture and the many other demands 8 billion people make on the planet. Scientists now speak of humanity exceeding or threatening to exceed 9 planetary boundaries for safe use of the biosphere. Humanity's unprecedented ecological impacts threaten to degrade the ecosystem services that people and the rest of life depend on—potentially decreasing Earth's human carrying capacity. The signs that we have crossed this threshold are increasing.\n\nThe fact that degrading Earth's essential services is obviously possible, and happening in some cases, suggests that 8 billion people may be above Earth's human carrying capacity. But human carrying capacity is always a function of a certain number of people living a certain way. This was encapsulated by Paul Ehrlich and James Holdren's (1972) IPAT equation: environmental impact (I) = population (P) x affluence (A) x the technologies used to accommodate human demands (T). IPAT has found spectacular confirmation in recent decades within climate science, where the Kaya identity for explaining changes in CO emissions is essentially IPAT with two technology factors broken out for ease of use.\n\nThis suggests to technological optimists that new technological discoveries (or the deployment of existing ones) could continue to increase Earth's human carrying capacity, as it has in the past. Yet technology has unexpected side effects, as we have seen with stratospheric ozone depletion, excessive nitrogen deposition in the world's rivers and bays, and global climate change. This suggests that 8 billion people may be sustainable for a few generations, but not over the long term, and the term 'carrying capacity' implies a population that is sustainable indefinitely. It is possible, too, that efforts to anticipate and manage the impacts of powerful new technologies, or to divide up the efforts needed to keep global ecological impacts within sustainable bounds among more than 200 nations all pursuing their own self-interest, may prove too complicated to achieve over the long haul.\n\nOne issue with applying carrying capacity to any species is that ecosystems are not constant and change over time, therefore changing the resources available. Research has shown that sometimes the presence of human populations can increase local biodiversity, demonstrating that human habitation does not always lead to deforestation and decreased biodiversity.\n\nAnother issue to consider when applying carrying capacity, especially to humans, is that measuring food resources is arbitrary. This is due to choosing what to consider (e.g., whether or not to include plants that are not available every year), how to classify what is considered (e.g., classifying edible plants that are not usually eaten as food resources or not), and determining if caloric values or nutritional values are privileged. Additional layers to this for humans are their cultural differences in culinary preferences (e.g., some consume flying termites) and individual choices on what to invest their labor into (e.g., fishing vs. farming), both of which vary over time. This leads to the need to determine whether or not to include all food resources or only those the population considered will actually consume.\n\nMeasuring water resources carrying capacity is likewise highly arbitrary: choices in temporal resolution (e.g., monthly versus annual), spatial resolution (e.g., how subbasins are delineated), and whether to include human activities such as inter-basin water transfers and reservoir storage in the assessment can all lead to vastly different WRCC results.\n\nCarrying capacity measurements over large areas also assumes homogeneity in the resources available but this does not account for how resources and access to them can greatly vary within regions and populations. They also assume that the populations in the region only rely on that region's resources even though humans exchange resources with others from other regions and there are few, if any, isolated populations. Variations in standards of living which directly impact resource consumption are also not taken into account. These issues show that while there are limits to resources, a more complex model of how humans interact with their ecosystem needs to be used to understand them.\n\nBetween 1900 and 2020, Earth's human population increased from 1.6 billion to 7.8 billion (a 390% increase). These successes greatly increased human resource demands, generating significant environmental degradation.\n\nThe Millennium Ecosystem Assessment (MEA) of 2005 was a massive, collaborative effort to assess the state of Earth's ecosystems, involving more than 1,300 experts worldwide. Their first two of four main findings were the following. The first finding is:\n\nOver the past 50 years, humans have changed ecosystems more rapidly and extensively than in any comparable period of time in human history, largely to meet rapidly growing demands for food, fresh water, timber, fiber, and fuel. This has resulted in a substantial and largely irreversible loss in the diversity of life on Earth.\n\nThe second of the four main findings is:\n\nThe changes that have been made to ecosystems have contributed to substantial net gains in human well-being and economic development, but these gains have been achieved at growing costs in the form of the degradation of many ecosystem services, increased risks of nonlinear changes, and the exacerbation of poverty for some groups of people. These problems, unless addressed, will substantially diminish the benefits that future generations obtain from ecosystems.\n\nAccording to the MEA, these unprecedented environmental changes threaten to reduce the Earth's long-term human carrying capacity. \"The degradation of ecosystem services could grow significantly worse during the first half of this century,\" they write, serving as a barrier to improving the lives of poor people around the world.\n\nEcological footprint accounting measures the demands people make on nature and compares them to available supplies, for both individual countries and the world as a whole. Developed originally by Mathis Wackernagel and William Rees, it has been refined and applied in a variety of contexts over the years by Global Footprint Network (GFN). On the demand side, the ecological footprint measures how fast a population uses resources and generates wastes, with a focus on five main areas: carbon emissions (or carbon footprint); land devoted to direct settlement; timber and paper use; food and fiber use; and seafood consumption. It converts these into per capita or total hectares used. On the supply side, national or global biocapacity represents the productivity of ecological assets in a particular nation or the world as a whole; this includes \"cropland, grazing land, forest land, fishing grounds, and built-up land.\" Again the various metrics to capture biocapacity are translated into the single term of hectares of available land. As Global Footprint Network (GFN) states:\n\nEach city, state or nation's Ecological Footprint can be compared to its biocapacity, or that of the world. If a population's Ecological Footprint exceeds the region's biocapacity, that region runs a biocapacity deficit. Its demand for the goods and services that its land and seas can provide—fruits and vegetables, meat, fish, wood, cotton for clothing, and carbon dioxide absorption—exceeds what the region's ecosystems can regenerate. In more popular communications, this is called \"an ecological deficit.\" A region in ecological deficit meets demand by importing, liquidating its own ecological assets (such as overfishing), and/or emitting carbon dioxide into the atmosphere. If a region's biocapacity exceeds its Ecological Footprint, it has a biocapacity reserve.\n\nAccording to the GFN's calculations, humanity has been using resources and generating wastes in excess of sustainability since approximately 1970: currently humanity use Earth's resources at approximately 170% of capacity. This implies that humanity is well over Earth's human carrying capacity for our current levels of affluence and technology use. According to Global Footprint Network:\n\nIn 2024, fell on August 1. Earth Overshoot Day marks the date when humanity has exhausted nature's budget for the year. For the rest of the year, we are maintaining our ecological deficit by drawing down local resource stocks and accumulating carbon dioxide in the atmosphere. We are operating in overshoot.\n\nThe concept of ' ecological overshoot ' can be seen as equivalent to exceeding human carrying capacity. According to the most recent calculations from Global Footprint Network, most of the world's residents live in countries in ecological overshoot (see the map on the right).\n\nThis includes countries with dense populations (such as China, India, and the Philippines), countries with high per capita consumption and resource use (France, Germany, and Saudi Arabia), and countries with both high per capita consumption and large numbers of people (Japan, the United Kingdom, and the United States).\n\nAccording to its developers, the planetary boundaries framework defines \"a safe operating space for humanity based on the intrinsic biophysical processes that regulate the stability of the Earth system.\" Human civilization has evolved in the relative stability of the Holocene epoch; thus crossing planetary boundaries for safe levels of atmospheric carbon, ocean acidity, or one of the other stated boundaries could send the global ecosystem spiraling into novel conditions that are less hospitable to life—possibly reducing global human carrying capacity.\n\nThis framework, developed in an article published in 2009 in Nature and then updated in two articles published in 2015 in Science and in 2018 in PNAS, identifies nine stressors of planetary support systems that need to stay within critical limits to preserve stable and safe biospheric conditions (see figure below). Climate change and biodiversity loss are seen as especially crucial, since on their own, they could push the Earth system out of the Holocene state: \"transitions between time periods in Earth history have often been delineated by substantial shifts in climate, the biosphere, or both.\"\n\nThe scientific consensus is that humanity has exceeded three to five of the nine planetary boundaries for safe use of the biosphere and is pressing hard on several more. By itself, crossing one of the planetary boundaries does not prove humanity has exceeded Earth's human carrying capacity; perhaps technological improvements or clever management might reduce this stressor and bring us back within the biosphere's safe operating space. But when several boundaries are crossed, it becomes harder to argue that carrying capacity has not been breached.\n\nBecause fewer people helps reduce all nine planetary stressors, the more boundaries are crossed, the clearer it appears that reducing human numbers is part of what is needed to get back within a safe operating space. Population growth regularly tops the list of causes of humanity's increasing impact on the natural environment in Earth system science literature. Recently, planetary boundaries developer Will Steffen and co-authors ranked global population change as the leading indicator of the influence of socio-economic trends on the functioning of the Earth system in the modern era, post-1750.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1351342059",
+      "revision_id": "1351342059",
+      "text_sha256": "7745748413b6f69d8440c5d82e59a26c0bcaed2e0cef5be68ee9040902909657",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:47:00.620511+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.128847599029541,
+      "vector_distance": 0.8449748754501343,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:8942458",
+      "title": "Hill–Robertson effect",
+      "corpus": "wikipedia",
+      "text": "In population genetics, the Hill–Robertson effect, or Hill–Robertson interference, is a phenomenon first identified by Bill Hill and Alan Robertson in 1966. It provides an explanation as to why there may be an evolutionary advantage to genetic recombination.\n\nIn a population of finite but effective size which is subject to natural selection, varying extents of linkage disequilibria (LD) will occur. These can be caused by genetic drift or by mutation, and they will tend to slow down the process of evolution by natural selection.\n\nThis is most easily seen by considering the case of disequilibria caused by mutation:Consider a population of individuals whose genome has only two genes, a and b. If an advantageous mutant (A) of gene a arises in a given individual, that individual's genes will through natural selection become more frequent in the population over time. However, if a separate advantageous mutant (B) of gene b arises before A has gone to fixation, and happens to arise in an individual who does not carry A, then individuals carrying B and individuals carrying A will be in competition. If recombination is present, then individuals carrying both A and B (of genotype AB) will eventually arise. Provided there are no negative epistatic effects of carrying both, individuals of genotype AB will have a greater selective advantage than aB or Ab individuals, and AB will hence go to fixation. However, if there is no recombination, AB individuals can only occur if the latter mutation (B) happens to occur in an Ab individual. The chance of this happening depends on the frequency of new mutations, and on the size of the population, but is in general unlikely unless A is already fixed, or nearly fixed. Hence one should expect the time between the A mutation arising and the population becoming fixed for AB to be much longer in the absence of recombination. Hence recombination allows evolution to progress faster. There tends to be a correlation between the rate of recombination and the likelihood of the preferred haplotype (in the above example labeled as AB) goes into fixation in a population.\n\nJoe Felsenstein (1974) showed this effect to be mathematically identical to the Fisher–Muller model proposed by R. A. Fisher (1930) and H. J. Muller (1932), although the verbal arguments were substantially different. Although the Hill-Robertson effect is usually thought of as describing a disproportionate buildup of fitness-reducing (relative to fitness increasing) LD over time, these effects also have immediate consequences for mean population fitness.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1332561482",
+      "revision_id": "1332561482",
+      "text_sha256": "d200de2e6f098caebc915043dff7af1a58b38b9dade7e6948fa11381f75d0e1e",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:46:59.301333+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.352597236633301,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:493",
+    "title": "Britannica page 493",
+    "corpus": "britannica",
+    "text": "<x_0.0605><y_0.0422>(a) This might have been the case in the time of Pennant, from whom the above account is taken. It is not so now, although the population has increased to nearly 12,000. Isla indeed enjoys the peculiar advantages of being not only a grazing but it com own country, and can thus afford a very considerable exportation of both species of produce. The number of cattle are expected for exceeds that stated above by Pennant.<x_0.8486><y_0.9484><class_Footnote>\n\n<x_0.2402><y_0.0477>L A [ 159] T L A<x_0.7393><y_0.0742><class_Page-header>\n\n<x_0.0186><y_0.0711>Jillice<x_0.0723><y_0.118><class_Caption>\n\n<x_0.0742><y_0.0672>JILLIEFREE, a town on the northern bank of the river Cambia, opposite to James’s island, where the English had formerly a small part. The kingdom of Barrs, in which it is situated, produces abundance of the necessities of life; but the chief trade of the inhabitants in salt, which they carry up the river in mossy and, in recent bring them Italian corn, cotton-colby, elephants teeth, small quantities of gold duty. See. The number of causes and people continually employed in this trade, make the king of Barrs, according to Mr Park, more formalable or European, then one other definition on the river, and have encouraged him to establish those extravaguard duties, which traders of all nations are obliged to pay the entry, assuming almost 30:2), and wasn't great and small. These duties are commonly collected in person by the governor of Jillifires, who is attended by a troublesome train in diplomats, who have some knowledge of the English language, in consequence of their intercourse with them, and be well such importantly, that renders are often under the necessity of supplying with their demands, in order to get rid of them. N. Lat. 13: 16. W. Song. 16, 15, from Greenwich.<x_0.4639><y_0.3797><class_Text>\n\n<x_0.0889><y_0.3773>IIN. No Getta.<x_0.208><y_0.3914><class_Section-header>\n\n<x_0.0732><y_0.3891>REENLD STREET, one of the four famous ways which the Romanes made in England, called _Stretim Rescrown_, because it began in the country of the _Leon_ who inhabited Norfolk, Suffolk, and Gaulridgeshire.<x_0.4629><y_0.4477><class_Text>\n\n<x_0.0586><y_0.5766>HEL, Levy _For Eddy_, one of the chief of the Hebrides or Western sides of Scotland, lying to the west of Junu, from which it is separated by a narrow channel. Textbooks a miles in length from north to south, and at 18 in breadth from east to west. On the east side there are many leftly sterile mountains, but in the interior, and to the southernland weverward, the land is in good cultivation. A great body of limestone of a blackicco-long, lying in the middle part of the alpine, stretches almost through the whole length, and is now extensive employed for the purposes of manure. Marly, which is also abundant, is applied to the same use. Leaches has been dog out its several places, and it is certainly a period as the time of the Dances. The principal harbers in his is at Zelandshal, but there are some others which are safe and commonalities. Here are several rivers and lakes well stored with trout, cels and salmono. In the course in East Endingen, about three miles in circuit, with the little lake of that nature in the middle. Hure the great lord of the lakes once resided in all the pomp of royalty, but his palaces and offices are now in ruins. Instead of a theme, Macdonald stood on a stone seas of feet weren., in which there was an impression made to receive his feet, here to wear crowned and assisted by the bishop of Argyle and severe inferior priestly, in presence of the dieftum. This stems still coming. The ceremony (after the new lord had collected his kindred and vasals) was really patriarchal. After putting on his armour, his belest and his words, he took an forth to rule an his ancestors<x_0.4551><y_0.8484><class_Text>\n\n<x_0.4707><y_0.0688>had done; that is, to govern as a father would his children : his people in return swore that they would pay the same existence to him and children would to their parent. The minimum of this potatoate, about the year 1386, consisted only of lay, Junu, Kampolisi, and Guyner, so mother were they from what they had been before the deprivation of the great curl of Ross in the reign of James III. Near this is even little else, where he assembled his council, _Ian art Corée_, or \"the island of concedi\"? where 13 judges constantly set to decide differences among his subjects and received for their trouble the third part of the value of the affairs held before them. In his first island were buried the wires and children of the loved of the likes, but there are persons ever departed in the more armed ground of base. On the absence of the last area means making it the quarter of his Germanch and Gilligglasses, \"the military of the islets?\" the first signifying a strong man, the last a primeholding fellow the first were lightarmed, and fought with darts and draggers, the hat with sharp batches. These are the troops that Shakespeare alludes it, when he speaks of a Donald, who<x_0.8633><y_0.3836><class_Text>\n\n<x_0.5029><y_0.3906>From the Western idea Of Kerros and Gallow glasses was supplied.<x_0.8184><y_0.418><class_Section-header>\n\n<x_0.4658><y_0.4188>Besides those already mentioned, the lords had a house and church at Logan, on the south side of Cochin-dal, a strong condition on rock in the near a Danne walk, at the north-east end of the country, fire they made this island their residence after their explication from that of Man in 1204—There is a tendency that while the site of Man may part of the Kingdom of the Ides, the rents were far a time paid in this country: these in seven were paid on a red, still called Org- _acanton_, or the revel of the silver rust;? the other, _Org-a-amrgel,_ or \"the rock of mean in kind.\" These lie opposite to each other, at the month of a harbour on the south side of this island. There are several force built on the idea in fresh water takes, and divers covered in different parts of the island, which have been used occasionally as places of strength. The island is divided into four parishes, viz. Kildahon, Kildahon, and Kildamore. The products is born of different kinds ; such as bears, which sometimes yields eleven folds and non-sig fold. Much flag is raised here, and about 2000, worth the end out of the island in yarn, which might better be manufactured on the spay, is give employ the poet native. Notwithstanding the experiences of the land, above 1000, worth of meal is annually imported (A). Ale is frequently made in this island the young top of earth, mixing technique due to that plant with one of mal, sometimes adding hops. Boththis relates, that this lifepe was much not among the Piesis yet and when that nation was estimated by the Scenic, the secret of marking it perished with them. Numbers of cattle are bred here, and about 1700 are annually exported as the<x_0.8545><y_0.8609><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "c6872aefcfb1b864272ee4ed229bd6d2fb37067167b757f7cf13ddcba8f39e0a",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:54:15.224118+00:00",
+    "parser_receipt_sha256": "1d4a934ad19a5bb44a807ece3e72ec8d665663d649b91c620d0b1fcd9ec5579b",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 350,
+      "occurred_at": "2026-10-18T17:46:57.529422+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 560,
+      "occurred_at": "2026-10-18T17:46:58.089272+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 625,
+      "occurred_at": "2026-10-18T17:46:58.732329+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 547,
+      "occurred_at": "2026-10-18T17:46:59.301368+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1302,
+      "occurred_at": "2026-10-18T17:47:00.620589+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 569,
+      "occurred_at": "2026-10-18T17:47:01.209927+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 734,
+      "occurred_at": "2026-10-18T17:47:01.964847+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 617,
+      "occurred_at": "2026-10-18T17:47:02.599893+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 626,
+      "occurred_at": "2026-10-18T17:47:03.250217+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 27,
+      "occurred_at": "2026-10-18T17:47:03.297667+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 958,
+      "occurred_at": "2026-10-18T17:47:04.255839+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 247,
+      "occurred_at": "2026-10-18T17:47:04.511159+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 7,
+      "occurred_at": "2026-10-18T17:47:04.518266+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 306,
+      "occurred_at": "2026-10-18T17:47:04.824191+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1134,
+    "modern_words": 214,
+    "vocabulary_jaccard": 0.06837606837606838,
+    "jensen_shannon_divergence": 0.5604318570086371,
+    "historical_top_words": [
+      [
+        "the",
+        105
+      ],
+      [
+        "of",
+        73
+      ],
+      [
+        "in",
+        39
+      ],
+      [
+        "and",
+        35
+      ],
+      [
+        "a",
+        28
+      ],
+      [
+        "is",
+        20
+      ],
+      [
+        "to",
+        20
+      ],
+      [
+        "are",
+        14
+      ],
+      [
+        "his",
+        14
+      ],
+      [
+        "on",
+        12
+      ],
+      [
+        "that",
+        11
+      ],
+      [
+        "which",
+        11
+      ],
+      [
+        "this",
+        10
+      ],
+      [
+        "it",
+        9
+      ],
+      [
+        "island",
+        9
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "the",
+        32
+      ],
+      [
+        "of",
+        12
+      ],
+      [
+        "in",
+        11
+      ],
+      [
+        "locality",
+        8
+      ],
+      [
+        "isla",
+        7
+      ],
+      [
+        "is",
+        7
+      ],
+      [
+        "north",
+        7
+      ],
+      [
+        "to",
+        6
+      ],
+      [
+        "school",
+        5
+      ],
+      [
+        "a",
+        4
+      ],
+      [
+        "and",
+        4
+      ],
+      [
+        "west",
+        4
+      ],
+      [
+        "census",
+        3
+      ],
+      [
+        "had",
+        3
+      ],
+      [
+        "population",
+        3
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending."
+  ],
+  "candidate_query": "this might have been case time pennant whom above account taken it not so now although population has increased nearly isla indeed enjoys peculiar advantages being only grazing but com own",
+  "semantic_input": {
+    "query": "this might have been case time pennant whom above account taken it not so now although population has increased nearly isla indeed enjoys peculiar advantages being only grazing but com own\n(a) This might have been the case in the time of Pennant, from whom the above account is taken. It is not so now, although the population has increased to nearly 12,000. Isla indeed enjoys the peculiar advantages of being not only a grazing but it com own country, and can thus afford a very considerable exportation of both species of produce. The number of cattle are expected for exceeds that stated above by Pennant.\n\nL A [ 159] T L A\n\nJillice\n\nJILLIEFREE, a town on the northern bank of the river Cambia, opposite to James’s island, where the English had formerly a small part. The kingdom of Barrs, in which it is situated, produces abundance of the necessities of life; but the chief trade of the inhabitants in salt, which they carry up the river in mossy and, in recent bring them Italian corn, cotton-colby, elephants teeth, small quantities of gold duty. See. The number of causes and people continually employed in this trade, make the king of Barrs, according to Mr Park, more formalable",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 1.1745461225509644,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

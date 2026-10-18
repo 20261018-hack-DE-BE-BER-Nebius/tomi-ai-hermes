@@ -1,0 +1,2597 @@
+{
+  "started_at": "2026-10-18T17:42:37.395050+00:00",
+  "mode": "sample",
+  "execution": "real sequential model and source calls, no mock transport",
+  "models": {
+    "agent_alias": "nemotron-3.5-super-vl",
+    "embed_alias": "nemotron-3-embed-vl",
+    "embed_revision": "582e3bf72aee355e3c59ed89de53543c5b0657ee",
+    "embed_dimensions": 2048,
+    "rerank_alias": "nemotron-3-rerank-vl",
+    "rerank_revision": "b8a9987b05b75db5ad949c825cbcbf6eb7c48b5a"
+  },
+  "results": [
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+      "row_index": 13,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "292 SHIP-BUILDING.",
+      "receipt_sha256": "0b56c25b00330ed46b84ddba50e1f563dbdf93309cd94f34716fd7beeab51e85",
+      "candidates": [
+        {
+          "document_id": "wikipedia:81127720",
+          "title": "American Ship Building Co. v. NLRB",
+          "score": -5.180790424346924,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:17059445",
+          "title": "Spain's National Exhibition of Ship Building",
+          "score": -5.227252960205078,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:77637434",
+          "title": "Abu Dhabi Ship Building",
+          "score": -5.352723598480225,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:104",
+      "row_index": 104,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "WEIGHTS AND MEASURES.",
+      "receipt_sha256": "a314389f668b8ca2c77d71cfeb79c39cc00da4d00bfb11ea47d01f68f9b92249",
+      "candidates": [
+        {
+          "document_id": "wikipedia:32368790",
+          "title": "Weights and measures (disambiguation)",
+          "score": -4.31622314453125,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:46450138",
+          "title": "Weights and Measures Act",
+          "score": -5.159547328948975,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:51143693",
+          "title": "Weights and Measures Act 1972",
+          "score": -5.564484119415283,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:115",
+      "row_index": 115,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "6goa BLEACHING. Part II.",
+      "receipt_sha256": "fb61be419767a381280133f1744622f29a495d795a6a5364ffc635c115bcf9bd",
+      "candidates": [
+        {
+          "document_id": "wikipedia:5719941",
+          "title": "Curtorim",
+          "score": -4.908281326293945,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:9140022",
+          "title": "The Goa Inquisition",
+          "score": -5.3324055671691895,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:9461242",
+          "title": "Wallsuches",
+          "score": -5.463372230529785,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:217",
+      "row_index": 217,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "FAR [ 107] FAR",
+      "receipt_sha256": "b789fb0e7fb13952a10a4f51041b3fb0a3c1ee55cbdd37c0cdb84c5485f8222d",
+      "candidates": [
+        {
+          "document_id": "wikipedia:5212631",
+          "title": "Far Away",
+          "score": -4.54298734664917,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:4348863",
+          "title": "Far Far Away",
+          "score": -4.655074596405029,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:43651704",
+          "title": "Far from Over",
+          "score": -4.758945941925049,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:220",
+      "row_index": 220,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "FUR TST FUR",
+      "receipt_sha256": "bb03739b0fca0f4ffa2e3572e1b2ef38c6f6338aeeed987151c63a452ca2bec8",
+      "candidates": [
+        {
+          "document_id": "wikipedia:32902266",
+          "title": "TeST TST-14",
+          "score": -4.54395055770874,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:1574898",
+          "title": "TST",
+          "score": -4.867856025695801,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:55192778",
+          "title": "TST (band)",
+          "score": -5.200296878814697,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:247",
+      "row_index": 247,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "ET N [ 8 ] E T N",
+      "receipt_sha256": "7abe629f38c02105f9c3f87e944e164d1b099997279cc8c8dcf33660acda60a3",
+      "candidates": [
+        {
+          "document_id": "wikipedia:330114",
+          "title": "List of islands of Italy",
+          "score": -6.598690032958984,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:21133038",
+          "title": "77th meridian east",
+          "score": -6.676272392272949,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:20667751",
+          "title": "104th meridian east",
+          "score": -6.853357315063477,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:251",
+      "row_index": 251,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "SWI [ 248] SYD",
+      "receipt_sha256": "b4d4baa94ffc92eeb81cffb5432e4847f3f00953595bf76bbda98545e1faee54",
+      "candidates": [
+        {
+          "document_id": "wikipedia:1287439",
+          "title": "SWI",
+          "score": -2.132368564605713,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:42683299",
+          "title": "SWY",
+          "score": -2.8981919288635254,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:1719280",
+          "title": "SWI-Prolog",
+          "score": -3.4115676879882812,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:257",
+      "row_index": 257,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "_Swift_ in his power to provide him indarwify. Swift that person (10/3) in different, having previously taken his matter’s degree at Oxford, by means of a tellimonal from Dublin, in which the world of debates were omitted. He was referred to enter into the",
+      "receipt_sha256": "816ac52db767d0cb12b55cb00599e7ef634d245eceb9c69a175a2d1a9df8af1b",
+      "candidates": [
+        {
+          "document_id": "wikipedia:3573435",
+          "title": "Moral certainty",
+          "score": -2.1477952003479004,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:5683641",
+          "title": "Passive intellect",
+          "score": -2.7402515411376953,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:1445268",
+          "title": "Master of Arts (Oxford, Cambridge and Dublin)",
+          "score": -2.850755214691162,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:258",
+      "row_index": 258,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "Willant lodhip, and fame time after the great feel. Edward being returned to England, after having carried on a very favouris- ful war in France, found his echterpect is great director. The duke of Lancafter, one of his foons, at the head of feveral lands,",
+      "receipt_sha256": "74a5112f02d9f8ab0da29adf1fcac0495ad265186fe08db851532769d3c6b9cf",
+      "candidates": [
+        {
+          "document_id": "wikipedia:19038039",
+          "title": "Hundred Years' War",
+          "score": -3.920411348342895,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:46858",
+          "title": "Henry VI of England",
+          "score": -3.9284238815307617,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:70506",
+          "title": "Louis XI",
+          "score": -4.199227809906006,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:261",
+      "row_index": 261,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "222",
+      "receipt_sha256": "fd37cc337c099b05fc134825f36a61e077fcd661703a1624fdeb8c2f8df19df3",
+      "candidates": [
+        {
+          "document_id": "wikipedia:52646213",
+          "title": "222 (disambiguation)",
+          "score": -1.5560593605041504,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:1832197",
+          "title": "List of highways numbered 222",
+          "score": -2.351478576660156,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:22681212",
+          "title": "Maryland 222",
+          "score": -3.1271018981933594,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:266",
+      "row_index": 266,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "art III.",
+      "receipt_sha256": "880e1e9d2a3a799dd18e84e1793dbe668b47f7371b5be70faec179df4c910635",
+      "candidates": [
+        {
+          "document_id": "wikipedia:59413822",
+          "title": "Monza Biennial III",
+          "score": -6.4030375480651855,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:63862582",
+          "title": "Henry Masterson III",
+          "score": -6.60512113571167,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:32192112",
+          "title": "Thomas N. Armstrong III",
+          "score": -6.666160583496094,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:268",
+      "row_index": 268,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "LA U [ 6oz ] L AU",
+      "receipt_sha256": "6c67d5624d05e2874332ea913bbfd2ad35dbbf5eeb3b0aa37c52d910d8780d57",
+      "candidates": [
+        {
+          "document_id": "wikipedia:2593018",
+          "title": "Emerald City (disambiguation)",
+          "score": -6.6509294509887695,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:27183459",
+          "title": "Red Lake Mine",
+          "score": -6.656762599945068,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:818050",
+          "title": "MHSnet",
+          "score": -6.7242255210876465,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:270",
+      "row_index": 270,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "HYDROSTATICS. Plate CCXXXIX.",
+      "receipt_sha256": "b5737089cbd870100f8b21132441d67b4693372058b2d43b482dcb7ebb96992a",
+      "candidates": [
+        {
+          "document_id": "wikipedia:527232",
+          "title": "Hydrostatics",
+          "score": -2.4936349391937256,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:33926140",
+          "title": "Hydrostatic seal",
+          "score": -4.091378688812256,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:533618",
+          "title": "Hydrostatic skeleton",
+          "score": -5.025054931640625,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:318",
+      "row_index": 318,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "N I L 75 J N I L",
+      "receipt_sha256": "83870bf3a8bcd1580364aa4b6139af289275ac43c68e8e0161b7f7724fd5bcd6",
+      "candidates": [
+        {
+          "document_id": "wikipedia:14182874",
+          "title": "Schuette–Nesbitt formula",
+          "score": -6.797638416290283,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:62610482",
+          "title": "Kaplansky's theorem on projective modules",
+          "score": -6.962270736694336,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:23280931",
+          "title": "Ladder operator",
+          "score": -6.966675758361816,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:374",
+      "row_index": 374,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "",
+      "receipt_sha256": "87c5f77e62ed23a6aea6bed6a8d66f9819e30b58c3aafe714ec1ddb49d15d9cf",
+      "candidates": [],
+      "blockers": [
+        "v1/search: HTTP 422"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:383",
+      "row_index": 383,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "110 Nature of Wash, Sc.",
+      "receipt_sha256": "0f6202b4bb2920ab3e20475bd4bc114db909f792e63bc44b12488fd5b183456c",
+      "candidates": [
+        {
+          "document_id": "wikipedia:12535980",
+          "title": "Color wash",
+          "score": -4.511939525604248,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:45647817",
+          "title": "Thorley Wash nature reserve",
+          "score": -4.651643753051758,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:8921249",
+          "title": "Texize",
+          "score": -5.185370445251465,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:403",
+      "row_index": 403,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "PHILLOOGY.",
+      "receipt_sha256": "baf40373293f0dc42b8885c3c19df7b79a1a13fdca72dc4979edf41c8c0ed1a3",
+      "candidates": [],
+      "blockers": [
+        "wikipedia: No complete, hash-verified candidates"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:452",
+      "row_index": 452,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "status": "unreadable_or_nontext",
+      "reason": "No accepted OCR record; original page retained"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:473",
+      "row_index": 473,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "466",
+      "receipt_sha256": "8bc58701ae29558c1dc8ead18657650d7c433cea6998e8e8589ec240cef4d5f9",
+      "candidates": [
+        {
+          "document_id": "wikipedia:9986056",
+          "title": "List of highways numbered 466",
+          "score": -3.370522975921631,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:67501488",
+          "title": "Manitoba Provincial Road 466",
+          "score": -3.7212631702423096,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:59001334",
+          "title": "New Mexico State Road 466",
+          "score": -4.114987850189209,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:493",
+      "row_index": 493,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "(a) This might have been the case in the time of Pennant, from whom the above account is taken. It is not so now, although the population has increased to nearly 12,000. Isla indeed enjoys the peculiar advantages of being not only a grazing but it com own ",
+      "receipt_sha256": "b410943043c1b6cfd26dab53a9b40e786fd886cbce25df3a51b040c496124f54",
+      "candidates": [
+        {
+          "document_id": "wikipedia:62163987",
+          "title": "Isla, Queensland",
+          "score": -0.9543014764785768,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:47544",
+          "title": "Carrying capacity",
+          "score": -2.128847599029541,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:8942458",
+          "title": "Hill–Robertson effect",
+          "score": -2.352597236633301,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:499",
+      "row_index": 499,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "I N D T A",
+      "receipt_sha256": "e56215e14b10d50c9b510339f6b247a5e86f28aecbfc71682c3847f40bb4dd85",
+      "candidates": [
+        {
+          "document_id": "wikipedia:5069711",
+          "title": "List of Nepenthes species by distribution",
+          "score": -6.518666744232178,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:5067412",
+          "title": "List of Nepenthes natural hybrids",
+          "score": -6.674936294555664,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:77167075",
+          "title": "List of flora of Pennsylvania",
+          "score": -6.806889533996582,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:513",
+      "row_index": 513,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "E N G [ 2756 ] E N G",
+      "receipt_sha256": "ec2ee692e2f01464c9ebeade72408d3809307365a76b017e3a7de97ca4d0e720",
+      "candidates": [
+        {
+          "document_id": "wikipedia:1191490",
+          "title": "Pairing",
+          "score": -7.217000007629395,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:36704617",
+          "title": "Hardy–Littlewood inequality",
+          "score": -7.230524063110352,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:27175770",
+          "title": "Watson's lemma",
+          "score": -7.379239082336426,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:523",
+      "row_index": 523,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "EN G [ 2729] E N G",
+      "receipt_sha256": "e0004b9243833dac9ced4487e2053d90eaedd4063953d9d7f4667c4ce5e639be",
+      "candidates": [
+        {
+          "document_id": "wikipedia:36704617",
+          "title": "Hardy–Littlewood inequality",
+          "score": -5.395184516906738,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:56835844",
+          "title": "Cryptographic multilinear map",
+          "score": -5.582455635070801,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:1191490",
+          "title": "Pairing",
+          "score": -5.649402618408203,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:546",
+      "row_index": 546,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "This means that the number of users are available to the same as they do not have a few times. The number of users can be used in the case where the number of users are able to use the number of users. However, the number of users are also used to generate",
+      "receipt_sha256": "0a1f8da052e9f797a29df51c735d75d5fafbcaf748c421aed56c6cdd19781ce5",
+      "candidates": [
+        {
+          "document_id": "wikipedia:26497231",
+          "title": "IO Group, Inc. v. Veoh Networks, Inc.",
+          "score": -5.0114288330078125,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:5285100",
+          "title": "Comparison of mobile phone standards",
+          "score": -5.19789981842041,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:9246679",
+          "title": "JWPce",
+          "score": -5.5219807624816895,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:560",
+      "row_index": 560,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "AMI [ 619] A M I",
+      "receipt_sha256": "cfb07b38b51a1959880f6370a6027e707ba5a37b068edb48b3d731bfcd31970b",
+      "candidates": [
+        {
+          "document_id": "wikipedia:6646906",
+          "title": "Ami",
+          "score": -3.633214950561523,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:6290855",
+          "title": "Ami (given name)",
+          "score": -4.991322040557861,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:6656324",
+          "title": "Amy (disambiguation)",
+          "score": -5.462541580200195,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:563",
+      "row_index": 563,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "ACT [ 97] ACT",
+      "receipt_sha256": "322c42adc8d613432ceb52100d28a58842b329b8f9d8bc3eccb52a1a32ec7e6c",
+      "candidates": [
+        {
+          "document_id": "wikipedia:21490029",
+          "title": "List of short titles",
+          "score": -5.104468822479248,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:5046618",
+          "title": "List of acts of the New Zealand Parliament (1840–1890)",
+          "score": -5.390714645385742,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:49588563",
+          "title": "List of acts of the Parliament of Malaysia by citation number",
+          "score": -5.617517471313477,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:604",
+      "row_index": 604,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "T H O T H R",
+      "receipt_sha256": "203aa54abe03b903576c7ca3151336ef501b15ac34636d16453ba7fa14305486",
+      "candidates": [
+        {
+          "document_id": "wikipedia:12347214",
+          "title": "Fleischmannia",
+          "score": -6.839362144470215,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:904441",
+          "title": "Ageratina",
+          "score": -6.8395771980285645,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:2604796",
+          "title": "Eupatorieae",
+          "score": -7.000748634338379,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:611",
+      "row_index": 611,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "R E S 752 T RES",
+      "receipt_sha256": "5e757c320166e9bf40de68389ee63c24611e50e67b064a830e92ddd250e830b6",
+      "candidates": [
+        {
+          "document_id": "wikipedia:2195020",
+          "title": "Resultant",
+          "score": -4.40380859375,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:361168",
+          "title": "Weil restriction",
+          "score": -4.947570323944092,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:29719506",
+          "title": "Residue at infinity",
+          "score": -5.040465831756592,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:651",
+      "row_index": 651,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "HELMINTHOLOGY. Plate CCLI",
+      "receipt_sha256": "8a22e625430d87cdda9c040f27b8b94de60a197b8c2a8b0267fa770b0da60f5b",
+      "candidates": [
+        {
+          "document_id": "wikipedia:2203555",
+          "title": "Helminthology",
+          "score": -4.491147041320801,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:49030783",
+          "title": "Journal of Helminthology",
+          "score": -5.380772113800049,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:34802434",
+          "title": "Edwin Linton",
+          "score": -5.751197814941406,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:681",
+      "row_index": 681,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "O P T I C S. 427",
+      "receipt_sha256": "7d9f943e64972cc20a19c193ed73d4873d956ea064613e5c7337aa632b106654",
+      "candidates": [
+        {
+          "document_id": "wikipedia:81648138",
+          "title": "Bau (plant)",
+          "score": -5.122136116027832,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:71610808",
+          "title": "List of Lupinus species",
+          "score": -5.320127487182617,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:81648227",
+          "title": "Borneoa",
+          "score": -5.397154331207275,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:713",
+      "row_index": 713,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "**OYI ( 447)** **OUS**",
+      "receipt_sha256": "b4bd4f1ba6359bf297b5921db8e2b2bb50cb1086bd19d7f5aa7027ed232698ae",
+      "candidates": [
+        {
+          "document_id": "wikipedia:39804647",
+          "title": "Oyi (song)",
+          "score": -4.9396233558654785,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:13567361",
+          "title": "Oyi",
+          "score": -5.064939022064209,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:78703530",
+          "title": "Vincent Ofumelu",
+          "score": -5.874249458312988,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:756",
+      "row_index": 756,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "MAGNETISM.",
+      "receipt_sha256": "22f758b85249f7d64673632ee169dfae45d0821f529ccd3d1fd83563e311a0e8",
+      "candidates": [
+        {
+          "document_id": "wikipedia:45471960",
+          "title": "Magnetism (album)",
+          "score": -2.71848726272583,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:38222069",
+          "title": "Magnetic (disambiguation)",
+          "score": -3.05609130859375,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:1271622",
+          "title": "Magnet (disambiguation)",
+          "score": -3.325763463973999,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:851",
+      "row_index": 851,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "5550",
+      "receipt_sha256": "7014e82a0e91db5bb6398251793058ff2017211256c7a03ebc7c416d193b51ec",
+      "candidates": [
+        {
+          "document_id": "wikipedia:47873636",
+          "title": "HD 5550",
+          "score": -3.1395726203918457,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:20607348",
+          "title": "IBM 5550",
+          "score": -3.149717092514038,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:27046174",
+          "title": "Hanshin 5550 series",
+          "score": -3.4944887161254883,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:914",
+      "row_index": 914,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "A R A  [ 182 ] A R A",
+      "receipt_sha256": "e05e80244930dbc3284bc4de3279ec819b66fb55ac9c902923e8ce0e30ddaca7",
+      "candidates": [
+        {
+          "document_id": "wikipedia:15680402",
+          "title": "Ramaria",
+          "score": -6.719456672668457,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:53584442",
+          "title": "Minesweeper flotilla (Kriegsmarine)",
+          "score": -6.844709396362305,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:2902975",
+          "title": "List of Australian plant species described by Robert Brown",
+          "score": -6.867560863494873,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:944",
+      "row_index": 944,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "M E A [ 715] M E A",
+      "receipt_sha256": "4fbaca45031db6d55de9e5da64657949d9e2aa3829400c0aac23eba0a60848d4",
+      "candidates": [
+        {
+          "document_id": "wikipedia:23988412",
+          "title": "Epiphragma",
+          "score": -5.899655818939209,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:23988417",
+          "title": "Erioptera",
+          "score": -5.918327331542969,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:43235241",
+          "title": "Entyloma",
+          "score": -5.967785835266113,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:948",
+      "row_index": 948,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "Lava.",
+      "receipt_sha256": "9dc25958be71c961f8e6803a19078fa8f3f6a14a99a4bfd53003d4c36f90c489",
+      "candidates": [
+        {
+          "document_id": "wikipedia:14158935",
+          "title": "Lava (color)",
+          "score": -3.1481714248657227,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:1354210",
+          "title": "Lava (disambiguation)",
+          "score": -3.32545804977417,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:4232899",
+          "title": "Lava field",
+          "score": -4.479132652282715,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1017",
+      "row_index": 1017,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "H E L",
+      "receipt_sha256": "d7de04b965374d41da498265d193ab5f92f4c314f825e988aa11d0dabd0e9f09",
+      "candidates": [
+        {
+          "document_id": "wikipedia:28540222",
+          "title": "Nick Fury, Agent of S.H.I.E.L.D. (disambiguation)",
+          "score": -5.578307628631592,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:56057078",
+          "title": "S.H.I.E.L.D. (disambiguation)",
+          "score": -5.757538795471191,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:59594801",
+          "title": "List of Erica species",
+          "score": -6.010533332824707,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1032",
+      "row_index": 1032,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "HE A ( 776 )",
+      "receipt_sha256": "72868b9f63afb0638106a54b3c72960cfff9e22850c3b92a194ac883a6cbf17c",
+      "candidates": [],
+      "blockers": [
+        "wikipedia: No complete, hash-verified candidates"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1102",
+      "row_index": 1102,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "182 COM COM",
+      "receipt_sha256": "7ea55377034d173a511eb206c40ce31e97030d362404216f919e18a0899e41d8",
+      "candidates": [
+        {
+          "document_id": "wikipedia:39527518",
+          "title": "2-hydroxypropyl-CoM lyase",
+          "score": -7.588779449462891,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:60782614",
+          "title": "Com Truise discography",
+          "score": -7.889083862304688,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:41527859",
+          "title": "BoatTrader.com",
+          "score": -7.961872100830078,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1166",
+      "row_index": 1166,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "**LIBERTY OF THE PRESS.**",
+      "receipt_sha256": "c2f283b0e86f1ba11ced3b231c0ed0b68506414557763fb085c0464ab0f53edd",
+      "candidates": [
+        {
+          "document_id": "wikipedia:23369583",
+          "title": "Liberties Press",
+          "score": -2.4051671028137207,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:3955928",
+          "title": "Press laws",
+          "score": -3.555582046508789,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:29678713",
+          "title": "Liberty Party (Turkey)",
+          "score": -3.713358879089355,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1214",
+      "row_index": 1214,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "DAM [ 658]",
+      "receipt_sha256": "0ec3ced77c893625e459a2ad7b0f93d74730bbd820f19f7a2515ac19e7378162",
+      "candidates": [
+        {
+          "document_id": "wikipedia:2195555",
+          "title": "List of dams and reservoirs in Iran",
+          "score": -4.985522270202637,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:24611308",
+          "title": "List of dams and reservoirs in Turkey",
+          "score": -5.010150909423828,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:164917",
+          "title": "List of dams and reservoirs",
+          "score": -5.0585103034973145,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1250",
+      "row_index": 1250,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "COI I 130 | COI",
+      "receipt_sha256": "2b514a15c7b8e7a4d98cc62666c183546df19ae6cd999ce3c3e2d5db1363f35c",
+      "candidates": [
+        {
+          "document_id": "wikipedia:629195",
+          "title": "COI",
+          "score": -4.3701677322387695,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:3626867",
+          "title": "Community of interest (computer security)",
+          "score": -4.38186502456665,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:7867266",
+          "title": "Dennis Coi",
+          "score": -5.133235931396484,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1268",
+      "row_index": 1268,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "66",
+      "receipt_sha256": "0e365ec44227ffb7708ae36cd4013dbdbea90a382ec7b3a1a47a11334b6d64b5",
+      "candidates": [
+        {
+          "document_id": "wikipedia:9109170",
+          "title": "66",
+          "score": -2.9897496700286865,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:5640035",
+          "title": "List of highways numbered 66",
+          "score": -5.1692094802856445,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:21124312",
+          "title": "66th meridian east",
+          "score": -5.273998260498047,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1284",
+      "row_index": 1284,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "S C O [ 865 ]",
+      "receipt_sha256": "4216f390fa87a6701f38a0756e537a5cc8d2e3411dd5b94c8515ed08932c21c5",
+      "candidates": [
+        {
+          "document_id": "wikipedia:29686909",
+          "title": "List of Coleophora species",
+          "score": -6.727106094360352,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:57279534",
+          "title": "List of Diapheromeridae genera",
+          "score": -6.803274631500244,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:57279624",
+          "title": "List of Phasmatidae genera",
+          "score": -6.860485553741455,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1298",
+      "row_index": 1298,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "452 EdWARDS",
+      "receipt_sha256": "075b9f9580043b0f38cdce83e00e1f9133899f8df1a5e7f16920ff9fbb9fa2b1",
+      "candidates": [
+        {
+          "document_id": "wikipedia:6356690",
+          "title": "Edwards (surname)",
+          "score": -1.680882453918457,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:352350",
+          "title": "Edwards",
+          "score": -2.2178468704223633,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:2554077",
+          "title": "William Edwards",
+          "score": -2.8908567428588867,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1324",
+      "row_index": 1324,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "Hedges. price of line in high they may be built without any content, and author the purple very well if the work is properly executed?’",
+      "receipt_sha256": "6fc22f7a7a6542ae4923447ef11eea5552872b7186c6fbdb634358f21b92ea3a",
+      "candidates": [
+        {
+          "document_id": "wikipedia:19402331",
+          "title": "Fuel hedging",
+          "score": -4.16614294052124,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:24083658",
+          "title": "Zero Hedge",
+          "score": -4.565417766571045,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:20529838",
+          "title": "Mailüfterl",
+          "score": -4.649918079376221,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1327",
+      "row_index": 1327,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "H U E [ 707 ] H U G",
+      "receipt_sha256": "369ceab0043cffbf91c9df5eeaf5624ec69e5d6fb32dd5ec75ab28c8383aceb7",
+      "candidates": [
+        {
+          "document_id": "wikipedia:12396",
+          "title": "Group homomorphism",
+          "score": -5.0750603675842285,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:51941639",
+          "title": "List of Greek and Latin roots in English/H–O",
+          "score": -5.1970906257629395,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:398874",
+          "title": "Associated bundle",
+          "score": -5.524472713470459,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1344",
+      "row_index": 1344,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "H O R [ 664 ] H O R",
+      "receipt_sha256": "f3fcbcf3d7b77e20d3325c6e13a3bdef8dd9ce9fdca41c88fa9107684c4e4530",
+      "candidates": [
+        {
+          "document_id": "wikipedia:40486440",
+          "title": "Hyperharmonic number",
+          "score": -4.1159515380859375,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:3727020",
+          "title": "Quasitriangular Hopf algebra",
+          "score": -4.544454097747803,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:904441",
+          "title": "Ageratina",
+          "score": -4.583945274353027,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1400",
+      "row_index": 1400,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "MIDWIFERY PLATE CCCXLVII.",
+      "receipt_sha256": "c80fb3b31036e8b8f6154a437f8bf5af0e21df68d12854b777388e62d226c7d3",
+      "candidates": [
+        {
+          "document_id": "wikipedia:47456362",
+          "title": "Midwife",
+          "score": -4.718364715576172,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:48432",
+          "title": "347",
+          "score": -5.0363569259643555,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:35292793",
+          "title": "Robert Bland",
+          "score": -5.042166709899902,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1415",
+      "row_index": 1415,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "ET H  [ 797 ] E T H",
+      "receipt_sha256": "946620e009c129f75a68b79ad6f2c72ad73a9538938707fd5491dda81a7861e5",
+      "candidates": [
+        {
+          "document_id": "wikipedia:30954485",
+          "title": "H-E-B Mexico",
+          "score": -6.704868793487549,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:12857155",
+          "title": "Antimima",
+          "score": -6.762581825256348,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:69682704",
+          "title": "The Existence of God (book)",
+          "score": -6.833709716796875,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1422",
+      "row_index": 1422,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "**ED U** **[ 353 1 E D U**",
+      "receipt_sha256": "c5b496b8de2660d61531fbd25107fc3b7d8d9e630eda54eb6febe4fb2be6cda0",
+      "candidates": [
+        {
+          "document_id": "wikipedia:1371357",
+          "title": "Ed Iacobucci",
+          "score": -5.697178363800049,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:5540485",
+          "title": "ISO 639:u",
+          "score": -5.860966205596924,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:65133209",
+          "title": "Searchable symmetric encryption",
+          "score": -6.1706318855285645,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1430",
+      "row_index": 1430,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "EGY [ 368 ] E G Y",
+      "receipt_sha256": "3cc613f528cc519a23558804f96ca2b22efcb5959b6e46cda04103feb7f0bfb2",
+      "candidates": [
+        {
+          "document_id": "wikipedia:61495967",
+          "title": "C18H22N4O2",
+          "score": -5.65127420425415,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:24424280",
+          "title": "C20H31NO",
+          "score": -5.974724769592285,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:14286084",
+          "title": "GYKI-52895",
+          "score": -6.054306983947754,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1466",
+      "row_index": 1466,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "E S S [ 729 ] E S S",
+      "receipt_sha256": "e9e95a366b057137174a6b6d27b1200c3378dd227c942b9bb9b5a4fe88c0dffc",
+      "candidates": [
+        {
+          "document_id": "wikipedia:23988417",
+          "title": "Erioptera",
+          "score": -7.189795970916748,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:23988412",
+          "title": "Epiphragma",
+          "score": -7.276165962219238,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:75165526",
+          "title": "List of Aldama species",
+          "score": -7.356570243835449,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1473",
+      "row_index": 1473,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "ESC 1723 I ESC",
+      "receipt_sha256": "5fb9fa65407c73137dff4a528887d1778e991b07ad4830f5151ad824c01edaca",
+      "candidates": [
+        {
+          "document_id": "wikipedia:18009617",
+          "title": "European Society of Cardiology",
+          "score": -4.529507637023926,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:420943",
+          "title": "Electronic stability control",
+          "score": -4.8422698974609375,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:34805348",
+          "title": "Guggenmos ESC",
+          "score": -5.004822254180908,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1580",
+      "row_index": 1580,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "TRIGONOMETRY.",
+      "receipt_sha256": "7928635d9feeed90aeda4141fa7ebba88e9eeaf957e458c681d262f4fa7ecdc4",
+      "candidates": [
+        {
+          "document_id": "wikipedia:6600160",
+          "title": "Outline of trigonometry",
+          "score": -3.726428270339966,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:753225",
+          "title": "Uses of trigonometry",
+          "score": -4.155629634857178,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:22850636",
+          "title": "Generalized trigonometry",
+          "score": -4.237818241119385,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1614",
+      "row_index": 1614,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "T H O ( 896 )",
+      "receipt_sha256": "8634ac9a6603324eabe9b6b1ee77906b336ec62346ef61b7fd57d76649b5d680",
+      "candidates": [
+        {
+          "document_id": "wikipedia:26963888",
+          "title": "Hilara",
+          "score": -5.97603702545166,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:51528922",
+          "title": "Hymenobacter",
+          "score": -6.128030300140381,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:23988447",
+          "title": "Hexatoma",
+          "score": -6.225326061248779,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1615",
+      "row_index": 1615,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "",
+      "receipt_sha256": "52f4b47bad8c814fe6c78cb18abdb592d62fbde74b7f6c057317d92b398e0a31",
+      "candidates": [],
+      "blockers": [
+        "v1/search: HTTP 422"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1649",
+      "row_index": 1649,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "CH I 671 CHI",
+      "receipt_sha256": "3fc3088c1e930c49395c311927117142042e0d2198d1055b068bf232c236e5e7",
+      "candidates": [
+        {
+          "document_id": "wikipedia:37627410",
+          "title": "Chi-won",
+          "score": -7.116152763366699,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:12534514",
+          "title": "Tai chi classics",
+          "score": -7.411728858947754,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:4175360",
+          "title": "Ch'oe Malli",
+          "score": -7.413250923156738,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1670",
+      "row_index": 1670,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "G-AP [ 141] C A P",
+      "receipt_sha256": "cfcb49a7a3d661b8092090c29a4f19240a4d83d0726b6943ca2ae4541e2e612d",
+      "candidates": [
+        {
+          "document_id": "wikipedia:51941621",
+          "title": "List of Greek and Latin roots in English/A–G",
+          "score": -5.221173286437988,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:51941660",
+          "title": "List of Greek and Latin roots in English/P–Z",
+          "score": -5.337468147277832,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:51941639",
+          "title": "List of Greek and Latin roots in English/H–O",
+          "score": -5.342511177062988,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1678",
+      "row_index": 1678,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "B I L",
+      "receipt_sha256": "846fa78905da4b44df7b11b44bf33e1ebe4a85b54e8c9f936a77d9cb2c0ed873",
+      "candidates": [
+        {
+          "document_id": "wikipedia:39323582",
+          "title": "Quadratic Jordan algebra",
+          "score": -4.556595325469971,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:9477973",
+          "title": "Navia (plant)",
+          "score": -4.76521635055542,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:57356837",
+          "title": "Agalmyla",
+          "score": -4.846980094909668,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1680",
+      "row_index": 1680,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "C ARPENTRY. 631",
+      "receipt_sha256": "bf14b180e40172d23bb6f493876cce8f2f662ad6089a6b4bb204d442d2dcdd18",
+      "candidates": [
+        {
+          "document_id": "wikipedia:57279534",
+          "title": "List of Diapheromeridae genera",
+          "score": -6.818097114562988,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:57053633",
+          "title": "List of Achilidae genera",
+          "score": -6.917015552520752,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:57279624",
+          "title": "List of Phasmatidae genera",
+          "score": -6.977560043334961,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1722",
+      "row_index": 1722,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "A R S 354 7 A R S",
+      "receipt_sha256": "eee15fb8b96ebebef2feb7560d2b79fedfd8e19be8e1958f57ace0da90efc6d1",
+      "candidates": [
+        {
+          "document_id": "wikipedia:334710",
+          "title": "List of Quebec provincial highways",
+          "score": -7.332513809204102,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:15680402",
+          "title": "Ramaria",
+          "score": -7.439078807830811,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:2902975",
+          "title": "List of Australian plant species described by Robert Brown",
+          "score": -7.481316566467285,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1765",
+      "row_index": 1765,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "KAL [ 421]",
+      "receipt_sha256": "9465ee897cf52309533026327d7ab04c39ba47b0a10bdfce47de9f4d02bcc7ec",
+      "candidates": [
+        {
+          "document_id": "wikipedia:3210346",
+          "title": "Kal",
+          "score": -3.2334342002868652,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:73289023",
+          "title": "Kal, Kolovrat",
+          "score": -3.5327365398406982,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:39334525",
+          "title": "Kal (name)",
+          "score": -4.1818695068359375,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1803",
+      "row_index": 1803,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "EN G E 141 T E N G",
+      "receipt_sha256": "d6fd05ae1f38c800a3bbf0d4867272b503031a265cae2b13acc3bc4f7411070a",
+      "candidates": [
+        {
+          "document_id": "wikipedia:36704617",
+          "title": "Hardy–Littlewood inequality",
+          "score": -6.7111406326293945,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:56835844",
+          "title": "Cryptographic multilinear map",
+          "score": -6.758218288421631,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:1191490",
+          "title": "Pairing",
+          "score": -6.8264641761779785,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1805",
+      "row_index": 1805,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "EXE [ 375 ] EXE",
+      "receipt_sha256": "1e13a1a1b5b4c4dabfcaa7bea49d1cc4f75f0ed68c67e7e6dc4674129cad9f7f",
+      "candidates": [
+        {
+          "document_id": "wikipedia:621239",
+          "title": "Exe",
+          "score": -2.3767781257629395,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:52774693",
+          "title": "HMS Exe",
+          "score": -5.406440258026123,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:48218465",
+          "title": "Exes",
+          "score": -5.551100730895996,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1818",
+      "row_index": 1818,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "BLOW-PIPE 713",
+      "receipt_sha256": "98d32851e0fe71bda28aa721d24d61b386da6c2ab2a2d9f1a71c983550cead05",
+      "candidates": [
+        {
+          "document_id": "wikipedia:2762233",
+          "title": "Blowpipe (tool)",
+          "score": -1.0901789665222168,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:1646704",
+          "title": "Bubble pipe",
+          "score": -4.325198173522949,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:3349329",
+          "title": "Blow football",
+          "score": -4.408000946044922,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1828",
+      "row_index": 1828,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "BEAUTY. 489",
+      "receipt_sha256": "133f35bb94f3446c9f493a07c9e40bd223b54542d86f549864c10e4d0e8efa09",
+      "candidates": [
+        {
+          "document_id": "wikipedia:3491990",
+          "title": "Beauty (disambiguation)",
+          "score": -2.004852771759033,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:5927337",
+          "title": "Something Beautiful",
+          "score": -3.2288818359375,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:214502",
+          "title": "Beautiful",
+          "score": -3.269042730331421,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1845",
+      "row_index": 1845,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "XVII.",
+      "receipt_sha256": "91ef9db07eabf40c8acc770f7280898ca802ddea9b134b0b343289957493d2fb",
+      "candidates": [
+        {
+          "document_id": "wikipedia:35197356",
+          "title": "XVII Reserve Corps (German Empire)",
+          "score": -2.4252443313598633,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:38756019",
+          "title": "Kodam XVII/Cenderawasih",
+          "score": -2.803167819976806,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:33609182",
+          "title": "XVII Corps",
+          "score": -2.8642706871032715,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1904",
+      "row_index": 1904,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "candidate",
+      "query": "**LY R  [ 4329 ]** **L Y R**",
+      "receipt_sha256": "4f38828b1f67196709cd40162188f7b191c5ab926c2f5061720d3dc10c84348f",
+      "candidates": [
+        {
+          "document_id": "wikipedia:3855241",
+          "title": "-ly",
+          "score": -3.742179155349731,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:1948966",
+          "title": "List of drugs: L",
+          "score": -4.32960844039917,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:25496773",
+          "title": "Early Lý dynasty",
+          "score": -4.335818767547607,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1910",
+      "row_index": 1910,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "L I G [ 4230 ] L I G",
+      "receipt_sha256": "5928e07c98f0ba61701dbcf9597b4eb7cd849bffd413c67918d199b24b8a46aa",
+      "candidates": [
+        {
+          "document_id": "wikipedia:43597724",
+          "title": "Kingman's subadditive ergodic theorem",
+          "score": -5.619640827178955,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:57045644",
+          "title": "List of Lepidodexia species",
+          "score": -5.680160045623779,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:59741801",
+          "title": "Desmocladus",
+          "score": -5.856993198394775,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1933",
+      "row_index": 1933,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "5706",
+      "receipt_sha256": "9ba7e02d667becd6286f9f815e9f541b9f0096424714f6e9b7f3b80df96ead09",
+      "candidates": [
+        {
+          "document_id": "wikipedia:14473324",
+          "title": "Pale, Goa",
+          "score": -3.976154804229736,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:2583659",
+          "title": "And So to Sleep Again",
+          "score": -4.346334457397461,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:9251816",
+          "title": "Boston Street Railway Association",
+          "score": -4.352438449859619,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1939",
+      "row_index": 1939,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "6056",
+      "receipt_sha256": "cedac4b13ed0e34c69b788598079f525c689af0e8fba559671d755a9d07f673d",
+      "candidates": [
+        {
+          "document_id": "wikipedia:58350677",
+          "title": "NGC 6056",
+          "score": -2.94144868850708,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:2961028",
+          "title": "Midvale, Western Australia",
+          "score": -3.142056941986084,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:81570758",
+          "title": "Dimethylhomotryptamine",
+          "score": -3.6005403995513916,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1942",
+      "row_index": 1942,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "6046",
+      "receipt_sha256": "c1461274b7e9cb133609f616517ef565bd88d4e7d2f13e9ed36a68a9986c5a1f",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1945",
+      "row_index": 1945,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "Part III. U P T I C S. 5605",
+      "receipt_sha256": "1520a53f1254c3ff832519eee09fbbcd7b8bf6408a0ddc2286e7dae73aa7af9c",
+      "candidates": [
+        {
+          "document_id": "wikipedia:2529691",
+          "title": "III Steps Forward",
+          "score": -4.901933670043945,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:3473092",
+          "title": "Thomas P. O'Neill III",
+          "score": -5.144272327423096,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:4345598",
+          "title": "Bentham & Hooker system",
+          "score": -5.606383323669434,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2001",
+      "row_index": 2001,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "ambiguous",
+      "query": "S I L [ 355 ]",
+      "receipt_sha256": "6756c5d0b3be7509fbb75a0e9b4ae5daba165562b8a02dca16b5e4eb703d65fd",
+      "candidates": [
+        {
+          "document_id": "wikipedia:23988460",
+          "title": "Libnotes",
+          "score": -7.44962215423584,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:10032514",
+          "title": "List of United States Navy Landing Craft Infantry",
+          "score": -7.508918285369873,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:27156020",
+          "title": "Lingulella",
+          "score": -7.5884294509887695,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2051",
+      "row_index": 2051,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "**LOM [ 168 ]**",
+      "receipt_sha256": "1bb671a78ed1a63b282a6ee253834ffdb864c4ab9564678db208cedc38873982",
+      "candidates": [],
+      "blockers": [
+        "v1/embeddings: HTTP 502"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2077",
+      "row_index": 2077,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "",
+      "receipt_sha256": "ea37d51d1b43d1f70fd18f05d3bc771fde44a03ee6472501669f3d8cc4818c9a",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2087",
+      "row_index": 2087,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "BRITAIN. 571",
+      "receipt_sha256": "e6035451540b4dbeee7b945434d7547d2eb7aa6aca2a83e8300d73cbb100ad07",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2093",
+      "row_index": 2093,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "S E N T I ST J SEN",
+      "receipt_sha256": "5b149dbd1ca9f33c13a6bb971f2ec9bcedea84d3b3aa68f4992f2c204354aed3",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2108",
+      "row_index": 2108,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "B R I  [ 645 J B R F",
+      "receipt_sha256": "797936e43a4531793dadf7c9756684848031a56e4e8ddf76d375731f3ec306bc",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2131",
+      "row_index": 2131,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "BOM [ 353 BOM",
+      "receipt_sha256": "0229ded72e83f2859253be97e6025f82c1291a1a3bfa7f429e02ca126bd9f0b7",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2155",
+      "row_index": 2155,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "B L I [ 301] B LI",
+      "receipt_sha256": "4fff646679f6362293a8863b93b9bae21b53356edd7da39309f74b951eff4330",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2171",
+      "row_index": 2171,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "A S T [ 852] A S T",
+      "receipt_sha256": "8ca71bbba4805af8d271310bd7e4aed753a906a96f5647df4938f6f219a1a6bc",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2209",
+      "row_index": 2209,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "Plate. XLVI",
+      "receipt_sha256": "80ae3681b2292a842a6ae05ecc27befb85f4169a49cbc49a2c302a5f702f4273",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2243",
+      "row_index": 2243,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "Ng. 1.",
+      "receipt_sha256": "e31bb1c628503c87991d0801a2ec2ff9621fbce517c1335297f547b46aa0a3c9",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2250",
+      "row_index": 2250,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "B U X ( 697 ) B Y Z",
+      "receipt_sha256": "ca35e04cf3de582d5c227ffa902e746608a982847f68683baf38d490a640fbcf",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2277",
+      "row_index": 2277,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "Chap. VI.",
+      "receipt_sha256": "ca3089084253d7235da00847350297d4c58c673d957c7341f670fd33c1a1c7b5",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2296",
+      "row_index": 2296,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "**POL [ 93 ]**",
+      "receipt_sha256": "4628eeb0992fbb07264377d2aec5472858799d1856f77903bb952904c73c549e",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2307",
+      "row_index": 2307,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "**AL G** **241** **A L G**",
+      "receipt_sha256": "5f9dc04e534046787ddd24a8088f84a9120acc775dfa8a0a66672968838a1c04",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2402",
+      "row_index": 2402,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "A N A T O M Y. 3",
+      "receipt_sha256": "933035397320ebeed49946147c49b2d526150b3d856416abfc51c4674dad8e7b",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2424",
+      "row_index": 2424,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "AGRICULTURE. 245",
+      "receipt_sha256": "b156897050d848c4fa2e635c915558b2703c6bd58fe2cc87d32ed3e23bfee536",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2446",
+      "row_index": 2446,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "C H E M I S SI T R Y. 17",
+      "receipt_sha256": "60cdf7cfe5f4b64c76fb64a424a9d7f5f316e84284ee52d31b2e0055dde4a4b1",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2448",
+      "row_index": 2448,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "**C O M ( 255 ) C O M**",
+      "receipt_sha256": "5cfd84eedbadbb7c7f0b19303eb416670f7a3a98f952ff0dc5a147dd3a1ef005",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2464",
+      "row_index": 2464,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "C A B ( 2 ) C A B",
+      "receipt_sha256": "948d6b2dd0e4a2897116ff6c421a5fdaf9bc602fd4fd2ca7579d316f6da7bf60",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2473",
+      "row_index": 2473,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "E R A ( sit)",
+      "receipt_sha256": "63e10e17aa4a3a8279bf5c9b2ca8bc990015b1df47d50548d417a3cd7bc47ad4",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2479",
+      "row_index": 2479,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "948 L A W.",
+      "receipt_sha256": "286fb40b36d58955b9b50a5ee0617be6b3823a35c709e7748a952e4ae19d1209",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2493",
+      "row_index": 2493,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "598",
+      "receipt_sha256": "512b8436efd368c19b30387a09057f0231984f4cf198a28710d515d6e57d1fa2",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2524",
+      "row_index": 2524,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "408",
+      "receipt_sha256": "549c67e1abd3f465a8ad610cebed4574f83328292df23f278269d1a50a01c1f9",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2569",
+      "row_index": 2569,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "ABY S SINIA. 57",
+      "receipt_sha256": "b4698e386e3ef15529551c1c84776a5691b425f659658aa679ee61fe29fa2779",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2570",
+      "row_index": 2570,
+      "human_review": "pending",
+      "accepted_article_ids": [],
+      "query_method": "production baseline: first normalized OCR line, at most256 characters",
+      "status": "blocked",
+      "query": "88 ABYSSINIA.",
+      "receipt_sha256": "f3744cdc29498d12a76073e2842186ce8867ba9a357732470b8b2e64fce31211",
+      "candidates": [],
+      "blockers": [
+        "http: ConnectError"
+      ]
+    }
+  ],
+  "human_review": "pending",
+  "successful_cases_claimed": 0,
+  "selection": {
+    "method": "random_without_replacement",
+    "seed": 20261016,
+    "sort": "source_row_index"
+  },
+  "sample_size": 100,
+  "completed_at": "2026-10-18T17:58:51.457443+00:00",
+  "counts": {
+    "documents": 701,
+    "vectors": 556,
+    "historical_pages": 99,
+    "wikipedia_articles": 602
+  }
+}

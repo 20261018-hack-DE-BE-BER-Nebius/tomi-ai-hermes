@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "466",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:9986056",
+      "title": "List of highways numbered 466",
+      "corpus": "wikipedia",
+      "text": "The following highways are numbered 466:\n\nManitoba Provincial Road 466\n\nJapan National Route 466\n\nU.S. Route 466 (former)\n\nFlorida State Road 466 (former)\n\nLouisiana Highway 466\n\nLouisiana Highway 466-1 (former)\n\nLouisiana Highway 466-2 (former)\n\nLouisiana Highway 466-3 (former)\n\nLouisiana Highway 466-4 (former)\n\nLouisiana Highway 466-5 (former)\n\nLouisiana Highway 466-6 (former)\n\nLouisiana Highway 466-7 (former)\n\nLouisiana Highway 466-8 (former)\n\nLouisiana Highway 466-9 (former)\n\nLouisiana Highway 466-10\n\nLouisiana Highway 466-11 (former)\n\nLouisiana Highway 466-12 (former)\n\nLouisiana Highway 466-13 (former)\n\nLouisiana Highway 466-14 (former)\n\nLouisiana Highway 466-15 (former)\n\nLouisiana Highway 466-16 (former)\n\nMontana Secondary Highway 466\n\nPennsylvania Route 466 (former)\n\nPuerto Rico Highway 466\n\nFarm to Market Road 466",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1217283843",
+      "revision_id": "1217283843",
+      "text_sha256": "35b2c3a138d927f7a59fe0c2de8ce769e56e85adcdf1d1152bbd34aebc7a3578",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:46:51.881574+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.370522975921631,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:67501488",
+      "title": "Manitoba Provincial Road 466",
+      "corpus": "wikipedia",
+      "text": "Provincial Road 466 (PR 466) is a short 10-kilometre-long (6.2 mi) north-south provincial road in the Westman Region of the Canadian province of Manitoba.\n\nPR 466 is a north–south provincial road that begins at PR 465 near the unincorporated community of Cordova, and travels to its northbound terminus with the Yellowhead Highway near Franklin.\n\nPR 466 is a gravel road for its entire length.\n\nIn the early 1990s, the Manitoba government decommissioned a number of provincial secondary roads and returned the maintenance of these roads back to the rural municipalities. A large portion of the original PR 466 was included in this decommissioning.\n\nPrior to this, PR 466 continued east in concurrence with the Yellowhead Highway for 1.6 kilometres (0.99 mi) to Franklin Road. From this point, it travelled north through Franklin and terminated at a junction with PR 471.\n\nIn 1984, PR 466 was extended further north to the unincorporated community of Mountain Road, where it terminated at PR 357. The section of the extension between Mountain Road and PR 265 had previously been designated as PR 562, which was decommissioned and transferred to the new number. This section is now a municipal road.\n\nThe original length of PR 466 was 26 kilometres (16 mi) to PR 471, and 39 kilometres (24 mi) after its extension to PR 357.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1316237322",
+      "revision_id": "1316237322",
+      "text_sha256": "80f762555b9e1bbc8b29055bf0ae4148481f2dbc337fa9ba2293b1dd1bec8324",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:46:53.073232+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.7212631702423096,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:59001334",
+      "title": "New Mexico State Road 466",
+      "corpus": "wikipedia",
+      "text": "State Road 466 (NM 466) is a 4-mile-long (6.4 km) state highway in the US state of New Mexico. NM 466's southern terminus is at County Route 58D in Santa Fe, and the northern terminus is at NM 14 in Santa Fe.\n\nNM 466 was created in the mid-1980s, established on St. Michaels Drive from NM 14 to U.S. Route 84 (US 84) which replaced former US 85 Bypass. In the mid-1990s US 285 was rerouted from Old Pecos Trail to along US 84 (St. Francis Drive). At that time NM 466 was extended along Old Pecos Trail to its current southern terminus.\n\nThe entire route is in Santa Fe, Santa Fe County.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1290787911",
+      "revision_id": "1290787911",
+      "text_sha256": "6d3acb02732efd6ff9805b1cdc405b6d5b322f5aa3e6c7ebbeb2101e8abdd871",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:46:54.333638+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.114987850189209,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:473",
+    "title": "Britannica page 473",
+    "corpus": "britannica",
+    "text": "<x_0.0869><y_0.05>466<x_0.1357><y_0.068><class_Page-header>\n\n<x_0.4023><y_0.0484>C O N C H O L G Y.<x_0.7021><y_0.0688><class_Section-header>\n\n<x_0.9141><y_0.0508>Chap 1<x_0.9902><y_0.0695><class_Caption>\n\n<x_0.0908><y_0.0703>Of the Com Slesa, Misca Madera, were alo fujected to chemical examination, by the fame philosopher. When needed tested best in a crochets, they emitted a perpetraphie fnell of them or feathers, and by further examination, by foliation, the proportion of carbonic matter degraded appeared to be greater, and the proportion of carbonate time lobe, than what was indicated by the refut of the experiments on pencilhenures fields. When natural shells belonging to the fame species, were amended in nitric acid very much diluted, the epidermis separated, and the whole of the carbonate of lime we differed. A gelatinoid diffusence, yearly in a liquid that, remains, ed, but it did not retain the figure of the shell, and ex-philic no appearance at Alorsra Hardure. These fields, therefore, contains a larger portion of gelatinous matter than the porcellaneous fluffs, but the other com-parent part counts entirely of carbonate time.<x_0.5498><y_0.2961><class_Text>\n\n<x_0.0889><y_0.2938>My Mother of peat.<x_0.1602><y_0.3281><class_Text>\n\n<x_0.1611><y_0.293>_Health composed of nuclear-depart—Shells of this description were subjected to familiar experiments with this former. When the common oyster was expelled to a red heat, the effects were the fans as those which were produced by the fame processis on the facies of patches from Madeira. The foliation of the hallmark shell was also funlier, except only little the gelatinous parts are of a greater confidence. When the river, muffel was burnt a crushing, the melted much make, with a frongu find all burnt born or cartilage; the shell become of a dark gray colour, and exfoliated. By foliation in the acids, the proportion of carbonic matter Separated was greatest, and but of carbonaceous oil line obtained was left, than from the other shells on which experiments were made.<x_0.5508><y_0.4961><class_Text>\n\n<x_0.1592><y_0.4969>When an unburnt fluef of this description was im-mected in diluted nitric oxide, a rapid foliation and effir-vicosecond took place, and at the end of two days the whole of the carbonate of lime was nearly diffused. A feries of means now only remnants, of which the epidemics constituted the full. These membranes fill retained the figure of the shell. The carbonate of lime was a flat readily diffused, because the acid came easily to contain with it; but the proceeds became flower, as it was more difficult for the acid to indicate itself between the different membranes of which the shell is compelled. The halted iris, and the turbo olearies, were found to rethable this muffel, except that the membranaceous parts were more compact and dendric.<x_0.5488><y_0.6906><class_Text>\n\n<x_0.1582><y_0.6914>When these fields are deprived by an acid of the carbonate of lime, which gives them their birders, they appear to be formed: of different membranes, ap- pled fratum fuer fratum. Each membranes is fur- milled with a corresponding coarse cruml of carbonate of lime, and it is foisted, that it is always between every two membranes, beginning with the epidermis, and ending with the internal membrane, which has been latformed. The animals which inhabit both fleaified flesh, precede their habitation by the addi-tion of a fratum of carbonate of lime, which is fe-cured by a new membrane. And as every additional fratum exceeds in extent that which was previously formed, the shell becomes stronger in properties as it is enlarged; and thus the growth and age of the animal may be denoted by the number of frata of which the thell is compold. Similar experiments were made<x_0.5479><y_0.9141><class_Text>\n\n<x_0.5576><y_0.0742>on pieces of mother of pearl as they are imported from China, China, and with precisely the fame refute. They ap- peated to be compelled of the fame grafiations matter such as carbonate of lime. In all the thiefs of this description which were named in aside, the membranes parts retained the each figure of the field, and they appeared different to be compelled of fibres, arranged in a parallel direction, correponding to the configuration of the flank.<x_0.9844><y_0.1859><class_Text>\n\n<x_0.5586><y_0.1867>_Pearl_--The constituent parts of pearl appear to be Pearl familiar to thief of mother-of-pent. They are compelled concerned costs of membranes and colonies of lines, and resemble in firstature the globular, calcareous con-cretions which are known by the name of _phylidae._ The influence and produced appearance of pearl and another-of-past, evidently depend on their lamellated fracture and femitran/parency.<x_0.9834><y_0.2945><class_Text>\n\n<x_0.5557><y_0.2953>From their experiments, it appears, that shells are complex composed of surface of lime and gluten. In formas as pure in the porcellaneous shells, the proportion of carbonate. Time is great, while that of the animal matter is finally, and the mean one regarded as the beginning of the feries; while shells that come under the definition of mother-of-post are to be placed into the extra-mity, having a smaller proportion of carbonate of lime, and a greater proportion of membranous fusblance. It is the first the carbonate of lime is merely consumed by the animal matter; in the better the carbonate of lime-ferives to harden the membranous fusblance. But between fields are enzymes, in the proportion of carbone-nate of lime and animal glutes, of which alltaculous fulblances are compelled, there are no doubt numerous intermediates, arising from the nature of the animal to which they from a covering, its peculiar ha-bits, or mode of life.<x_0.9482><y_0.5258><class_Text>\n\n<x_0.6104><y_0.5367>Sect. II. _Of the Formation of Shells._<x_0.8916><y_0.5539><class_Section-header>\n\n<x_0.5566><y_0.5609>Tuz thehell or covering of telacous animals, has been considered as in fome marine analogues to the bones of other animals, although it formation and growth are very different, since it feres as a hole coupport to the mulches, which are attached to its inter-fortified. The principal side of the shell, however, is to force as a covering or defense to the animal.<x_0.9473><y_0.6523><class_Text>\n\n<x_0.5547><y_0.6531>Telacous animals are not only extremely different in external form, had alls in the mode of their problem. Limtion. Some are viviparous, as the motif of their which people inhabit bivalve shells, multivalves, and even forms of the unitvives, while the others, which form the fire greetate proportions are ostropus. In non point, how ever, they all agree, that whatever be the mode of probilution, whether from an egg, or directly from the uterus of the mother, the fluid is formed on the body of the young animal, and is propontioned to its bulk.<x_0.9854><y_0.7789><class_Text>\n\n<x_0.5537><y_0.7805>The bell defenders who have yet been made, and made the most elaborate investigation which has hitherto ophawvel peace, concerning the formation and development of iron.<x_0.8594><y_0.8063><class_Text>\n\n<x_0.5527><y_0.807>balls, are holes of the colonized Heamur, which were published in the Memoirs of the Academy of Sciences for the year 1790. The fate should be beenpecucul- and by other authors, but their orbits have been mainly the arms so thole of this distinguished naturalidh. Klein is almost the only author who has advanced a different opinion. In his dissertation concerning the formation<x_0.9863><y_0.9133><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "aaf9311cf965cbb3e6f28e5eaabfc9b9d30ea77f74f0b6bbe048d0b27022e228",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:54:12.870464+00:00",
+    "parser_receipt_sha256": "a97c70b1381d1d7f22cd072958dd9153556fe07f9de9574ac3c3becaefba7b4e",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 348,
+      "occurred_at": "2026-10-18T17:46:51.229728+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 652,
+      "occurred_at": "2026-10-18T17:46:51.881637+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 574,
+      "occurred_at": "2026-10-18T17:46:52.479587+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 574,
+      "occurred_at": "2026-10-18T17:46:53.073264+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 556,
+      "occurred_at": "2026-10-18T17:46:53.646782+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 667,
+      "occurred_at": "2026-10-18T17:46:54.333710+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 577,
+      "occurred_at": "2026-10-18T17:46:54.933729+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 580,
+      "occurred_at": "2026-10-18T17:46:55.531315+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 574,
+      "occurred_at": "2026-10-18T17:46:56.121732+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 30,
+      "occurred_at": "2026-10-18T17:46:56.173318+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 628,
+      "occurred_at": "2026-10-18T17:46:56.801308+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 87,
+      "occurred_at": "2026-10-18T17:46:56.895704+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 5,
+      "occurred_at": "2026-10-18T17:46:56.900657+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 178,
+      "occurred_at": "2026-10-18T17:46:57.078864+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1131,
+    "modern_words": 81,
+    "vocabulary_jaccard": 0.008,
+    "jensen_shannon_divergence": 0.9390991255092958,
+    "historical_top_words": [
+      [
+        "the",
+        111
+      ],
+      [
+        "of",
+        88
+      ],
+      [
+        "and",
+        32
+      ],
+      [
+        "to",
+        23
+      ],
+      [
+        "a",
+        23
+      ],
+      [
+        "in",
+        21
+      ],
+      [
+        "which",
+        19
+      ],
+      [
+        "are",
+        16
+      ],
+      [
+        "is",
+        15
+      ],
+      [
+        "by",
+        13
+      ],
+      [
+        "carbonate",
+        13
+      ],
+      [
+        "lime",
+        12
+      ],
+      [
+        "as",
+        12
+      ],
+      [
+        "were",
+        11
+      ],
+      [
+        "was",
+        11
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "highway",
+        19
+      ],
+      [
+        "former",
+        18
+      ],
+      [
+        "louisiana",
+        17
+      ],
+      [
+        "road",
+        3
+      ],
+      [
+        "route",
+        3
+      ],
+      [
+        "the",
+        1
+      ],
+      [
+        "following",
+        1
+      ],
+      [
+        "highways",
+        1
+      ],
+      [
+        "are",
+        1
+      ],
+      [
+        "numbered",
+        1
+      ],
+      [
+        "manitoba",
+        1
+      ],
+      [
+        "provincial",
+        1
+      ],
+      [
+        "japan",
+        1
+      ],
+      [
+        "national",
+        1
+      ],
+      [
+        "u",
+        1
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "466",
+  "semantic_input": {
+    "query": "466\n466\n\nC O N C H O L G Y.\n\nChap 1\n\nOf the Com Slesa, Misca Madera, were alo fujected to chemical examination, by the fame philosopher. When needed tested best in a crochets, they emitted a perpetraphie fnell of them or feathers, and by further examination, by foliation, the proportion of carbonic matter degraded appeared to be greater, and the proportion of carbonate time lobe, than what was indicated by the refut of the experiments on pencilhenures fields. When natural shells belonging to the fame species, were amended in nitric acid very much diluted, the epidermis separated, and the whole of the carbonate of lime we differed. A gelatinoid diffusence, yearly in a liquid that, remains, ed, but it did not retain the figure of the shell, and ex-philic no appearance at Alorsra Hardure. These fields, therefore, contains a larger portion of gelatinous matter than the porcellaneous fluffs, but the other com-parent part counts entirely of carbonate time.\n\nMy Mother of peat.\n\n_Health composed o",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.3507401943206787,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

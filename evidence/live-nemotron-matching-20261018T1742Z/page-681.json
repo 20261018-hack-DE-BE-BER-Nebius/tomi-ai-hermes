@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "O P T I C S. 427",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:81648138",
+      "title": "Bau (plant)",
+      "corpus": "wikipedia",
+      "text": "Bau is a genus of flowering plants in the arum family, Araceae. It includes 26 species native to Peninsular Thailand, Peninsular Malaysia, Sumatra, Borneo, and Sulawesi.\n\nThe genus was described by Sin Yeng Wong and Peter Charles Boyce in 2024, and includes species formerly placed in Schismatoglottis.\n\n26 species are accepted.\n\nBau adoceta (S.Y.Wong) S.Y.Wong & P.C.Boyce\n\nBau amosyui (S.Y.Wong, S.L.Low & P.C.Boyce) S.Y.Wong & P.C.Boyce\n\nBau antu (S.Y.Wong & P.C.Boyce) S.Y.Wong & P.C.Boyce\n\nBau brevicuspis (Hook.f.) S.Y.Wong & P.C.Boyce\n\nBau camera-lucida (P.C.Boyce & S.Y.Wong) S.Y.Wong & P.C.Boyce\n\nBau elegans (A.Hay) S.Y.Wong, A.Hay & P.C.Boyce\n\nBau gui (P.C.Boyce & S.Y.Wong) S.Y.Wong & P.C.Boyce\n\nBau hayi (S.Y.Wong & P.C.Boyce) S.Y.Wong & P.C.Boyce\n\nBau hendrikii (S.Y.Wong & P.C.Boyce) S.Y.Wong & P.C.Boyce\n\nBau inculta (Kurniawan & P.C.Boyce) S.Y.Wong & P.C.Boyce\n\nBau latevaginata (Engl.) S.Y.Wong & P.C.Boyce\n\nBau liniae (S.Y.Wong) S.Y.Wong & P.C.Boyce\n\nBau matangensis (S.Y.Wong) S.Y.Wong & P.C.Boyce\n\nBau meriraiensis (P.C.Boyce & S.Y.Wong) S.Y.Wong & P.C.Boyce\n\nBau metallica (S.Y.Wong, Koens & P.C.Boyce) S.Y.Wong & P.C.Boyce\n\nBau multinervia (M.Hotta) S.Y.Wong & P.C.Boyce\n\nBau nervosa (Ridl.) S.Y.Wong & P.C.Boyce\n\nBau pellucida (S.Y.Wong, P.C.Boyce & S.K.Chai) S.Y.Wong & P.C.Boyce\n\nBau pocong (S.Y.Wong, S.L.Low & P.C.Boyce) S.Y.Wong & P.C.Boyce\n\nBau porpax (S.Y.Wong, Kartini & P.C.Boyce) S.Y.Wong & P.C.Boyce\n\nBau puberulipes (Alderw.) S.Y.Wong & P.C.Boyce\n\nBau reticosa (S.Y.Wong, Koens & P.C.Boyce) S.Y.Wong & P.C.Boyce\n\nBau simonii (S.Y.Wong) S.Y.Wong & P.C.Boyce\n\nBau tessellata (S.Y.Wong) S.Y.Wong & P.C.Boyce\n\nBau turbata (S.Y.Wong) S.Y.Wong & P.C.Boyce\n\nBau ulusarikeiensis (S.Y.Wong) S.Y.Wong & P.C.Boyce",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1323246610",
+      "revision_id": "1323246610",
+      "text_sha256": "640121ae0d1d904aac2e561a93966da2256ce51f78c693faea123183a1939d90",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:12.973146+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.122136116027832,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:71610808",
+      "title": "List of Lupinus species",
+      "corpus": "wikipedia",
+      "text": "The following species in the flowering plant genus Lupinus, the lupins or lupines, are accepted by Plants of the World Online. Although the genus originated in the Old World, about 500 of these species are native to the New World, probably due to multiple adaptive radiation events.\n\nLupinus aberrans C.P.Sm.\n\nLupinus acopalcus C.P.Sm.\n\nLupinus adinoanthus C.P.Sm.\n\nLupinus adsurgens Drew\n\nLupinus affinis J.Agardh\n\nLupinus agardhianus A.Heller\n\nLupinus alaimandus C.P.Sm.\n\nLupinus alaristatus C.P.Sm.\n\nLupinus albert-smithianus C.P.Sm.\n\nLupinus albescens Hook. & Arn.\n\nLupinus albicaulis Douglas\n\nLupinus albifrons Benth.\n\nLupinus albosericeus C.P.Sm.\n\nLupinus albus L.\n\nLupinus alcis-montis C.P.Sm.\n\nLupinus aliamandus C.P.Sm.\n\nLupinus aliattenuatus C.P.Sm.\n\nLupinus alibicolor C.P.Sm.\n\nLupinus alimanens C.P.Sm.\n\nLupinus alinanus C.P.Sm.\n\nLupinus alipatulus C.P.Sm.\n\nLupinus alirevolutus C.P.Sm.\n\nLupinus alivillosus C.P.Sm.\n\nLupinus allargyreius C.P.Sm.\n\nLupinus alopecuroides Desr.\n\nLupinus altimontanus C.P.Sm.\n\nLupinus altiplani C.P.Sm.\n\nLupinus alveorum C.P.Sm.\n\nLupinus amabayensis C.P.Sm.\n\nLupinus amandus C.P.Sm.\n\nLupinus amboensis C.P.Sm.\n\nLupinus ammophilus Greene\n\nLupinus amnis-otuni C.P.Sm.\n\nLupinus ampaiensis C.P.Sm.\n\nLupinus amphibius Suksd.\n\nLupinus ananeanus Ulbr.\n\nLupinus anatolicus W.Święcicki & W.K.Święcicki\n\nLupinus andersonii S.Watson\n\nLupinus andicola Gillies ex Hook. & Arn.\n\nLupinus andinus Rose ex J.F.Macbr.\n\nLupinus angustiflorus Eastw.\n\nLupinus angustifolius L.\n\nLupinus antensis C.P.Sm.\n\nLupinus antoninus Eastw.\n\nLupinus apertus A.Heller\n\nLupinus appositus C.P.Sm.\n\nLupinus aralloius C.P.Sm.\n\nLupinus arboreus Sims\n\nLupinus arbustus Douglas\n\nLupinus arbutosocius C.P.Sm.\n\nLupinus archeranus C.P.Sm.\n\nLupinus arcticus S.Watson\n\nLupinus arenarius Gardner\n\nLupinus arequipensis C.P.Sm.\n\nLupinus argenteus Pursh\n\nLupinus argurocalyx C.P.Sm.\n\nLupinus aridulus C.P.Sm.\n\nLupinus aridus Douglas\n\nLupinus ariste-josephi C.P.Sm.\n\nLupinus arizelus C.P.Sm.\n\nLupinus arizonicus (S.Watson) S.Watson\n\nLupinus arvensi-plasketti C.P.Sm.\n\nLupinus arvensis Benth.\n\nLupinus asa-grayanus C.P.Sm.\n\nLupinus aschenbornii S.Schauer\n\nLupinus asplundianus C.P.Sm.\n\nLupinus asymbepus C.P.Sm.\n\nLupinus atacamicus C.P.Sm.\n\nLupinus atlanticus Gladst.\n\nLupinus atropurpureus C.P.Sm.\n\nLupinus aureonitens Gillies ex Hook. & Arn.\n\nLupinus aureus J.Agardh\n\nLupinus austrobicolor C.P.Sm.\n\nLupinus austrohumifusus C.P.Sm.\n\nLupinus austrorientalis C.P.Sm.\n\nLupinus austrosericeus C.P.Sm.\n\nLupinus ballianus C.P.Sm.\n\nLupinus bandelierae C.P.Sm.\n\nLupinus bangii Rusby\n\nLupinus barbatilabius C.P.Sm.\n\nLupinus barbiger S.Watson\n\nLupinus barkeri Lindl.\n\nLupinus bartlettianus C.P.Sm.\n\nLupinus bartolomei M.E.Jones\n\nLupinus benthamii A.Heller\n\nLupinus bicolor Lindl.\n\nLupinus bi-inclinatus C.P.Sm.\n\nLupinus bingenensis Suksd.\n\nLupinus blaisdellii Eastw.\n\nLupinus bogotensis Benth.\n\nLupinus bolivianus Rusby ex C.P.Sm.\n\nLupinus bombycinocarpus C.P.Sm.\n\nLupinus boyacensis C.P.Sm.\n\nLupinus brachypremnon C.P.Sm.\n\nLupinus bracteolaris Desr.\n\nLupinus brevecuneus C.P.Sm.\n\nLupinus brevicaulis S.Watson\n\nLupinus brevior (Jeps.) J.A.Christian & D.B.Dunn\n\nLupinus breviscapus Ulbr.\n\nLupinus breweri A.Gray\n\nLupinus bryoides C.P.Sm.\n\nLupinus buchtienii Rusby\n\nLupinus burkartianus C.P.Sm.\n\nLupinus burkei S.Watson\n\nLupinus caballoanus B.L.Turner\n\nLupinus cachupatensis C.P.Sm.\n\nLupinus cacuminis Standl.\n\nLupinus caespitosus Nutt.\n\nLupinus calcensis C.P.Sm.\n\nLupinus caldasensis C.P.Sm.\n\nLupinus camiloanus C.P.Sm.\n\nLupinus canus Hemsl.\n\nLupinus carazensis Ulbr.\n\nLupinus carchiensis C.P.Sm.\n\nLupinus cardenasianus C.P.Sm.\n\nLupinus carhuamayus C.P.Sm.\n\nLupinus carlos-ochoae C.P.Sm.\n\nLupinus carpapaticus C.P.Sm.\n\nLupinus carrikeri C.P.Sm.\n\nLupinus caucensis C.P.Sm.\n\nLupinus caudatus Kellogg\n\nLupinus cavicaulis C.P.Sm.\n\nLupinus ccorilazensis Vargas ex C.P.Sm.\n\nLupinus celsimontanus C.P.Sm.\n\nLupinus cervinus Kellogg\n\nLupinus cesaranus C.P.Sm.\n\nLupinus cesar-vargasii C.P.Sm.\n\nLupinus chachas Ochoa ex C.P.Sm.\n\nLupinus chamissonis Eschsch.\n\nLupinus chavanillensis (J.F.Macbr.) C.P.Sm.\n\nLupinus chiapensis Rose\n\nLupinus chihuahuensis S.Watson\n\nLupinus chipaquensis C.P.Sm.\n\nLupinus chlorolepis C.P.Sm.\n\nLupinus chocontensis C.P.Sm.\n\nLupinus chongos-bajous C.P.Sm.\n\nLupinus christinae A.Heller\n\nLupinus chrysanthus Ulbr.\n\nLupinus chrysocalyx C.P.Sm.\n\nLupinus chumbivilcensis C.P.Sm.\n\nLupinus citrinus Kellogg\n\nLupinus clarkei Oerst.\n\nLupinus cochapatensis C.P.Sm.\n\nLupinus colcabambensis C.P.Sm.\n\nLupinus colombiensis C.P.Sm.\n\nLupinus compactiflorus Rose\n\nLupinus comptus Mart. ex Benth.\n\nLupinus concinnus J.Agardh\n\nLupinus condensiflorus C.P.Sm.\n\nLupinus confertus Kellogg\n\nLupinus congdonii (C.P.Sm.) D.B.Dunn\n\nLupinus conicus C.P.Sm.\n\nLupinus constancei T.W.Nelson & J.P.Nelson\n\nLupinus convencionensis C.P.Sm.\n\nLupinus cookianus C.P.Sm.\n\nLupinus coriaceus Benth.\n\nLupinus cosentinii Guss.\n\nLupinus costaricensis D.B.Dunn\n\nLupinus cotopaxiensis C.P.Sm.\n\nLupinus couthouyanus C.P.Sm.\n\nLupinus covillei Greene\n\nLupinus croceus Eastw.\n\nLupinus crotalarioides Mart. ex Benth.\n\nLupinus crucis-viridis C.P.Sm.\n\nLupinus cuatrecasasii C.P.Sm.\n\nLupinus culbertsonii Greene\n\nLupinus cumulicola Small\n\nLupinus cusickii S.Watson\n\nLupinus cuspidatus Rusby\n\nLupinus cuzcensis C.P.Sm.\n\nLupinus × cymba-egressus C.P.Sm.\n\nLupinus cymboides C.P.Sm.\n\nLupinus dalesiae Eastw.\n\nLupinus decaschistus C.P.Sm.\n\nLupinus decemplex C.P.Sm.\n\nLupinus decurrens Gardner\n\nLupinus deflexus Congdon\n\nLupinus delicatulus Sprague & L.Riley\n\nLupinus densiflorus Benth.\n\nLupinus depressus Rydb.\n\nLupinus diasemus C.P.Sm.\n\nLupinus diehlii M.E.Jones\n\nLupinus diffusus Nutt.\n\nLupinus digitatus Forssk.\n\nLupinus disjunctus C.P.Sm.\n\nLupinus dissimulans C.P.Sm.\n\nLupinus dorae C.P.Sm.\n\nLupinus dotatus C.P.Sm.\n\nLupinus durangensis C.P.Sm.\n\nLupinus duranii Eastw.\n\nLupinus dusenianus C.P.Sm.\n\nLupinus eanophyllus C.P.Sm.\n\nLupinus edysomatus C.P.Sm.\n\nLupinus egens C.P.Sm.\n\nLupinus ehrenbergii Schltdl.\n\nLupinus elaphoglossum Barneby\n\nLupinus elatus I.M.Johnst.\n\nLupinus elegans Kunth\n\nLupinus elegantulus Eastw.\n\nLupinus ellsworthianus C.P.Sm.\n\nLupinus elmeri Greene\n\nLupinus eramosus C.P.Sm.\n\nLupinus erectifolius C.P.Sm.\n\nLupinus eremonomus C.P.Sm.\n\nLupinus eriocalyx (C.P.Sm.) C.P.Sm.\n\nLupinus eriocladus Ulbr.\n\nLupinus ermineus S.Watson\n\nLupinus espinarensis C.P.Sm.\n\nLupinus evermannii Rydb.\n\nLupinus exaltatus Zucc.\n\nLupinus excubitus M.E.Jones\n\nLupinus exochus C.P.Sm.\n\nLupinus expetendus C.P.Sm.\n\nLupinus extrarius C.P.Sm.\n\nLupinus falsomutabilis C.P.Sm.\n\nLupinus falsoprostratus C.P.Sm.\n\nLupinus falsorevolutus C.P.Sm.\n\nLupinus famelicus C.P.Sm.\n\nLupinus fiebrigianus Ulbr.\n\nLupinus fieldii Rose ex J.F.Macbr.\n\nLupinus filicaulis C.P.Sm.\n\nLupinus fissicalyx A.Heller\n\nLupinus flavoculatus A.Heller\n\nLupinus foliolosus Benth.\n\nLupinus formosus Greene\n\nLupinus fragrans A.Heller\n\nLupinus francis-whittieri C.P.Sm.\n\nLupinus fratrum C.P.Sm.\n\nLupinus fulcratus Greene\n\nLupinus gachetensis C.P.Sm.\n\nLupinus garfieldensis C.P.Sm.\n\nLupinus gaudichaudianus C.P.Sm.\n\nLupinus gayanus C.P.Sm.\n\nLupinus gentryanus C.P.Sm.\n\nLupinus gibertianus C.P.Sm.\n\nLupinus giganteus Rose\n\nLupinus glabratus J.Agardh\n\nLupinus goodspeedii J.F.Macbr.\n\nLupinus gormanii Piper\n\nLupinus gracilentus Greene\n\nLupinus grauensis C.P.Sm.\n\nLupinus grayi S.Watson\n\nLupinus gredensis Gand.\n\nLupinus grisebachianus C.P.Sm.\n\nLupinus guadalupensis Greene\n\nLupinus guaraniticus (Hassl.) C.P.Sm.\n\nLupinus guascensis C.P.Sm.\n\nLupinus guggenheimianus Rusby\n\nLupinus gussoneanus J.Agardh\n\nLupinus hamaticalyx C.P.Sm.\n\nLupinus hartmannii C.P.Sm.\n\nLupinus haughtianus C.P.Sm.\n\nLupinus hautcarazensis C.P.Sm.\n\nLupinus havardii S.Watson\n\nLupinus hazenanus C.P.Sm.\n\nLupinus heptaphyllus (Vell.) Hassl.\n\nLupinus herreranus C.P.Sm.\n\nLupinus herzogii Ulbr.\n\nLupinus hieronymi C.P.Sm.\n\nLupinus hillii Greene\n\nLupinus hinkleyorum C.P.Sm.\n\nLupinus hintonii C.P.Sm.\n\nLupinus hintoniorum B.L.Turner\n\nLupinus hirsutissimus Benth.\n\nLupinus hispanicus Boiss. & Reut.\n\nLupinus holosericeus Nutt.\n\nLupinus holwayorum C.P.Sm.\n\nLupinus honoratus C.P.Sm.\n\nLupinus horizontalis A.Heller\n\nLupinus hornemannii J.Agardh\n\nLupinus hortonianus C.P.Sm.\n\nLupinus hortorum C.P.Sm.\n\nLupinus howardii M.E.Jones\n\nLupinus howard-scottii C.P.Sm.\n\nLupinus huachucanus M.E.Jones\n\nLupinus huancayoensis C.P.Sm.\n\nLupinus huariacus C.P.Sm.\n\nLupinus huaronensis J.F.Macbr.\n\nLupinus huigrensis Rose ex C.P.Sm.\n\nLupinus humifusus Sessé & Moc. ex G.Don\n\nLupinus hyacinthinus Greene\n\nLupinus idoneus C.P.Sm.\n\nLupinus ignobilis C.P.Sm.\n\nLupinus imminutus C.P.Sm.\n\nLupinus insulae C.P.Sm.\n\nLupinus interruptus Benth.\n\nLupinus intortus C.P.Sm.\n\nLupinus inusitatus C.P.Sm.\n\nLupinus involutus C.P.Sm.\n\nLupinus × inyoensis A.Heller\n\nLupinus jahnii Rose ex Pittier & C.P.Sm.\n\nLupinus jaimehintonianus B.L.Turner\n\nLupinus jamesonianus C.P.Sm.\n\nLupinus james-westii C.P.Sm.\n\nLupinus jean-julesii C.P.Sm.\n\nLupinus jelskianus C.P.Sm.\n\nLupinus johannis-howellii C.P.Sm.\n\nLupinus jonesii Rydb.\n\nLupinus jujuyensis C.P.Sm.\n\nLupinus juninensis C.P.Sm.\n\nLupinus kalenbornorum C.P.Sm.\n\nLupinus kellermanianus C.P.Sm.\n\nLupinus killipianus C.P.Sm.\n\nLupinus kingii S.Watson\n\nLupinus klamathensis Eastw.\n\nLupinus kunthii J.Agardh\n\nLupinus kuschei Eastw.\n\nLupinus lacus C.P.Sm.\n\nLupinus laevigatus Benth.\n\nLupinus lagunae-negrae C.P.Sm.\n\nLupinus lanatocarpus C.P.Sm.\n\nLupinus lanatus Benth.\n\nLupinus lapidicola A.Heller\n\nLupinus latifolius Lindl. ex J.Agardh\n\nLupinus laudandrus C.P.Sm.\n\nLupinus lechlerianus C.P.Sm.\n\nLupinus ledigianus C.P.Sm.\n\nLupinus lemmonii C.P.Sm.\n\nLupinus lepidus Douglas ex Lindl.\n\nLupinus leptocarpus Benth.\n\nLupinus leptophyllus Schltdl. & Cham.\n\nLupinus lespedezoides C.P.Sm.\n\nLupinus lesueurii Standl.\n\nLupinus leucophyllus Douglas ex Lindl.\n\nLupinus lindleyanus J.Agardh\n\nLupinus linearis Desr.\n\nLupinus littoralis Douglas ex Lindl.\n\nLupinus lobbianus C.P.Sm.\n\nLupinus longifolius (S.Watson) Abrams\n\nLupinus longilabrum C.P.Sm.\n\nLupinus lorenzensis C.P.Sm.\n\nLupinus ludovicianus Greene\n\nLupinus luisanae N.Contr.-Ortiz & Jara\n\nLupinus luteolus Kellogg\n\nLupinus lutescens C.P.Sm.\n\nLupinus luteus L.\n\nLupinus lyallii A.Gray\n\nLupinus macbrideianus C.P.Sm.\n\nLupinus × macounii Rydb.\n\nLupinus macranthus Rose\n\nLupinus maculatus Rydb.\n\nLupinus maderensis Seem.\n\nLupinus magdalenensis C.P.Sm.\n\nLupinus magnificus M.E.Jones\n\nLupinus magniflorus C.P.Sm.\n\nLupinus magnistipulatus Planchuelo & D.B.Dunn\n\nLupinus malacophyllus Greene\n\nLupinus malacotrichus C.P.Sm.\n\nLupinus maleopinatus C.P.Sm.\n\nLupinus mandonianus C.P.Sm.\n\nLupinus mantaroensis C.P.Sm.\n\nLupinus mariae-josephae H.Pascual\n\nLupinus marschallianus Sweet\n\nLupinus martensis C.P.Sm.\n\nLupinus martinetianus (C.P.Sm.) C.P.Sm.\n\nLupinus mathewsianus C.P.Sm.\n\nLupinus matucanicus Ulbr.\n\nLupinus mearnsii C.P.Sm.\n\nLupinus meionanthus A.Gray\n\nLupinus melaphyllus C.P.Sm.\n\nLupinus meridanus O.Moritz\n\nLupinus metensis C.P.Sm.\n\nLupinus mexiae C.P.Sm.\n\nLupinus mexicanus Cerv. ex Lag.\n\nLupinus michelianus C.P.Sm.\n\nLupinus microcarpus Sims\n\nLupinus microphyllus Desr.\n\nLupinus minimus Douglas\n\nLupinus mirabilis C.P.Sm.\n\nLupinus misticola Ulbr.\n\nLupinus mollendoensis Ulbr.\n\nLupinus mollis A.Heller\n\nLupinus monserratensis C.P.Sm.\n\nLupinus montanus Kunth\n\nLupinus monticola Rydb.\n\nLupinus moritzianus Kunth\n\nLupinus mucronulatus Howell\n\nLupinus muelleri Standl.\n\nLupinus multiflorus Desr.\n\nLupinus munzianus C.P.Sm.\n\nLupinus mutabilis Sweet\n\nLupinus nanus Douglas ex Benth.\n\nLupinus neglectus Rose\n\nLupinus nehmadiae C.P.Sm.\n\nLupinus neocotus C.P.Sm.\n\nLupinus neomexicanus Greene\n\nLupinus nepubescens C.P.Sm.\n\nLupinus nevadensis A.Heller\n\nLupinus nipomensis Eastw.\n\nLupinus niveus S.Watson\n\nLupinus nonoensis C.P.Sm.\n\nLupinus nootkatensis Donn ex Sims\n\nLupinus notabilis C.P.Sm.\n\nLupinus nubigenus Kunth\n\nLupinus nubilorum C.P.Sm.\n\nLupinus obscurus C.P.Sm.\n\nLupinus obtunsus C.P.Sm.\n\nLupinus obtusilobus A.Heller\n\nLupinus ochoanus C.P.Sm.\n\nLupinus octablomus C.P.Sm.\n\nLupinus onustus S.Watson\n\nLupinus opertospicus C.P.Sm.\n\nLupinus oquendoanus C.P.Sm.\n\nLupinus oreganus A.Heller\n\nLupinus oreophilus Phil.\n\nLupinus ornatus Douglas ex Lindl.\n\nLupinus oscar-haughtii C.P.Sm.\n\nLupinus oscarii R.Bernal\n\nLupinus otto-buchtienii C.P.Sm.\n\nLupinus otto-kuntzeanus C.P.Sm.\n\nLupinus otuzcoensis C.P.Sm.\n\nLupinus ovalifolius Benth.\n\nLupinus pachanoanus C.P.Sm.\n\nLupinus pachitensis C.P.Sm.\n\nLupinus pachylobus Greene\n\nLupinus padre-crowleyi C.P.Sm.\n\nLupinus palaestinus Boiss.\n\nLupinus pallidus Brandegee\n\nLupinus paniculatus Desr.\n\nLupinus paraguariensis Chodat & Hassl.\n\nLupinus paranensis C.P.Sm.\n\nLupinus paruroensis C.P.Sm.\n\nLupinus parvifolius Gardner\n\nLupinus pasachoensis C.P.Sm.\n\nLupinus patulus C.P.Sm.\n\nLupinus paucartambensis C.P.Sm.\n\nLupinus paucovillosus C.P.Sm.\n\nLupinus pearceanus C.P.Sm.\n\nLupinus peirsonii H.Mason\n\nLupinus pendentiflorus C.P.Sm.\n\nLupinus penlandianus C.P.Sm.\n\nLupinus perblandus C.P.Sm.\n\nLupinus perbonus C.P.Sm.\n\nLupinus perennis L.\n\nLupinus perissophytus C.P.Sm.\n\nLupinus persistens Rose\n\nLupinus peruvianus Ulbr.\n\nLupinus philippianus C.P.Sm.\n\nLupinus pickeringii A.Gray\n\nLupinus pilosissimus M.Martens & Galeotti\n\nLupinus pilosus L.\n\nLupinus pinguis Ulbr.\n\nLupinus pipersmithianus J.F.Macbr.\n\nLupinus pisacensis C.P.Sm.\n\nLupinus piurensis C.P.Sm.\n\nLupinus platamodes C.P.Sm.\n\nLupinus plattensis S.Watson\n\nLupinus platyptenus C.P.Sm.\n\nLupinus polycarpus Greene\n\nLupinus polyphyllus Lindl.\n\nLupinus poopoensis C.P.Sm.\n\nLupinus popayanensis C.P.Sm.\n\nLupinus potosinus Rose\n\nLupinus praealtus C.P.Sm.\n\nLupinus praestabilis C.P.Sm.\n\nLupinus praetermissus C.P.Sm.\n\nLupinus pratensis A.Heller\n\nLupinus princei Harms\n\nLupinus pringlei Rose\n\nLupinus proculaustrinus C.P.Sm.\n\nLupinus prostratus J.Agardh\n\nLupinus protrusus C.P.Sm.\n\nLupinus prouvensalanus C.P.Sm.\n\nLupinus prunophilus M.E.Jones\n\nLupinus × pseudopolyphyllus C.P.Sm.\n\nLupinus pseudotsugoides C.P.Sm.\n\nLupinus pubescens Benth.\n\nLupinus pucapucensis C.P.Sm.\n\nLupinus pulloviridus C.P.Sm.\n\nLupinus pulvinaris Ulbr.\n\nLupinus punto-reyesensis C.P.Sm.\n\nLupinus puracensis C.P.Sm.\n\nLupinus purdieanus C.P.Sm.\n\nLupinus × pureriae C.P.Sm.\n\nLupinus purosericeus C.P.Sm.\n\nLupinus purpurascens A.Heller\n\nLupinus pusillus Pursh\n\nLupinus puyupatensis C.P.Sm.\n\nLupinus pycnostachys C.P.Sm.\n\nLupinus quellomayus C.P.Sm.\n\nLupinus quercuum C.P.Sm.\n\nLupinus quitensis C.P.Sm.\n\nLupinus radiatus C.P.Sm.\n\nLupinus ramosissimus Benth.\n\nLupinus reflexus Rose\n\nLupinus regnellianus C.P.Sm.\n\nLupinus reitzii Burkart ex M.Pinheiro & Miotto\n\nLupinus revolutus C.P.Sm.\n\nLupinus rhodanthus C.P.Sm.\n\nLupinus richardianus C.P.Sm.\n\nLupinus rivetianus C.P.Sm.\n\nLupinus rivularis Douglas ex Lindl.\n\nLupinus romasanus Ulbr.\n\nLupinus roseolus Rydb.\n\nLupinus roseorum C.P.Sm.\n\nLupinus rotundiflorus M.E.Jones\n\nLupinus rowleeanus C.P.Sm.\n\nLupinus ruber A.Heller\n\nLupinus rubriflorus Planchuelo\n\nLupinus ruizensis C.P.Sm.\n\nLupinus rupestris Kunth\n\nLupinus rusbyanus C.P.Sm.\n\nLupinus russellianus C.P.Sm.\n\nLupinus sabinianus Douglas ex Lindl.\n\nLupinus sandiensis C.P.Sm.\n\nLupinus santanderensis C.P.Sm.\n\nLupinus sarmentosus Desr.\n\nLupinus saxatilis Ulbr.\n\nLupinus saxosus Howell\n\nLupinus schickendantzii C.P.Sm.\n\nLupinus schumannii C.P.Sm.\n\nLupinus seifrizianus C.P.Sm.\n\nLupinus sellowianus Harms\n\nLupinus sellulus Kellogg\n\nLupinus semiaequus C.P.Sm.\n\nLupinus semiprostratus C.P.Sm.\n\nLupinus semperflorens Hartw. ex Benth.\n\nLupinus sericatus Kellogg\n\nLupinus sericeolodix C.P.Sm.\n\nLupinus sericeus Pursh\n\nLupinus shockleyi S.Watson\n\nLupinus shrevei C.P.Sm.\n\nLupinus sierrae-blancae Wooton & Standl.\n\nLupinus simonsianus C.P.Sm.\n\nLupinus simulans Rose\n\nLupinus sinaloensis C.P.Sm.\n\nLupinus smithianus Kunth\n\nLupinus solanagrorum C.P.Sm.\n\nLupinus somaliensis Baker\n\nLupinus soratensis Rusby\n\nLupinus soukupianus C.P.Sm. ex J.F.Macbr.\n\nLupinus sparsiflorus Benth.\n\nLupinus spectabilis Hoover\n\nLupinus splendens Rose\n\nLupinus spruceanus C.P.Sm.\n\nLupinus staffordiae C.P.Sm.\n\nLupinus stipulatus J.Agardh\n\nLupinus stiversii Kellogg\n\nLupinus storkianus C.P.Sm.\n\nLupinus subacaulis Griseb.\n\nLupinus subcarnosus Hook.\n\nLupinus subcuneatus C.P.Sm.\n\nLupinus subhamatus C.P.Sm.\n\nLupinus subinflatus C.P.Sm.\n\nLupinus subsessilis Benth.\n\nLupinus subtomentosus C.P.Sm.\n\nLupinus subvexus C.P.Sm.\n\nLupinus succulentus Douglas ex K.Koch\n\nLupinus sufferrugineus Rusby\n\nLupinus suksdorfii B.L.Rob.\n\nLupinus sulphureus Douglas\n\nLupinus summersianus C.P.Sm.\n\nLupinus surcoensis C.P.Sm.\n\nLupinus syriggedes C.P.Sm.\n\nLupinus tacitus C.P.Sm.\n\nLupinus tafiensis C.P.Sm.\n\nLupinus talahuensis C.P.Sm.\n\nLupinus tarapacensis C.P.Sm.\n\nLupinus tarijensis Ulbr.\n\nLupinus tarmaensis C.P.Sm.\n\nLupinus tassilicus Maire\n\nLupinus tatei Rusby\n\nLupinus taurimortuus C.P.Sm.\n\nLupinus tauris Benth.\n\nLupinus tayacajensis C.P.Sm.\n\nLupinus tetracercophorus C.P.Sm.\n\nLupinus texensis Hook.\n\nLupinus tidestromii Greene\n\nLupinus tolimensis C.P.Sm.\n\nLupinus tomentosus DC.\n\nLupinus tominensis Wedd.\n\nLupinus toratensis C.P.Sm.\n\nLupinus tracyi Eastw.\n\nLupinus triananus C.P.Sm.\n\nLupinus truncatus Nutt. ex Hook. & Arn.\n\nLupinus tucumanensis C.P.Sm.\n\nLupinus ulbrichianus C.P.Sm.\n\nLupinus uleanus C.P.Sm.\n\nLupinus ultramontanus C.P.Sm.\n\nLupinus umidicola C.P.Sm.\n\nLupinus uncialis S.Watson\n\nLupinus uncinatus Schltdl.\n\nLupinus urcoensis C.P.Sm.\n\nLupinus urubambensis C.P.Sm.\n\nLupinus valerioi Standl.\n\nLupinus vallicola A.Heller\n\nLupinus vargasianus C.P.Sm.\n\nLupinus varicaulis C.P.Sm.\n\nLupinus variicolor Steud.\n\nLupinus varnerianus C.P.Sm.\n\nLupinus velillensis C.P.Sm.\n\nLupinus velutinus Benth.\n\nLupinus venezuelensis C.P.Sm.\n\nLupinus ventosus C.P.Sm.\n\nLupinus verbasciformis Sandwith\n\nLupinus verjonensis C.P.Sm.\n\nLupinus vernicius Rose\n\nLupinus versicolor Sweet\n\nLupinus viduus C.P.Sm.\n\nLupinus vilcabambensis C.P.Sm.\n\nLupinus villosus Willd.\n\nLupinus visoensis J.F.Macbr.\n\nLupinus volubilis C.P.Sm.\n\nLupinus volutans Greene\n\nLupinus weberbaueri Ulbr.\n\nLupinus werdermannianus C.P.Sm.\n\nLupinus westianus Small\n\nLupinus wilkesianus C.P.Sm.\n\nLupinus william-lobbii C.P.Sm.\n\nLupinus williamsianus C.P.Sm.\n\nLupinus wyethii S.Watson\n\nLupinus xanthophyllus C.P.Sm.\n\nLupinus xenophytus C.P.Sm.\n\nLupinus yanahuancensis C.P.Sm.\n\nLupinus yarushensis C.P.Sm.\n\nLupinus yaulyensis C.P.Sm.\n\nLupinus ynesiae C.P.Sm.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1106896020",
+      "revision_id": "1106896020",
+      "text_sha256": "65015d8d6651d4f2425f3ee5ca600587d2957b1b75869da929547c7605ed9bf1",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:11.085659+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.320127487182617,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:81648227",
+      "title": "Borneoa",
+      "corpus": "wikipedia",
+      "text": "Borneoa is a genus of flowering plants in the arum family, Araceae. It includes 22 species native to Borneo and Peninsular Malaysia.\n\nThe genus was described by Sin Yeng Wong and Peter Charles Boyce in 2024, and includes species formerly placed in Schismatoglottis.\n\n22 species are accepted.\n\nBorneoa asperata (Engl.) S.Y.Wong & P.C.Boyce\n\nBorneoa barbata (Engl.) S.Y.Wong & P.C.Boyce\n\nBorneoa ciliata (A.Hay) S.Y.Wong & P.C.Boyce\n\nBorneoa crinitissima (A.Hay) S.Y.Wong & P.C.Boyce\n\nBorneoa crypta (P.C.Boyce & S.Y.Wong) S.Y.Wong & P.C.Boyce\n\nBorneoa dilecta (S.Y.Wong, P.C.Boyce & S.L.Low) S.Y.Wong & P.C.Boyce\n\nBorneoa ferruginea (Merr.) S.Y.Wong & P.C.Boyce\n\nBorneoa gampsospadix (P.C.Boyce & S.Y.Wong) S.Y.Wong & P.C.Boyce\n\nBorneoa gillianiae (P.C.Boyce) S.Y.Wong & P.C.Boyce\n\nBorneoa hottae (Bogner & Nicolson) S.Y.Wong & P.C.Boyce\n\nBorneoa jelandii (P.C.Boyce & S.Y.Wong) S.Y.Wong & P.C.Boyce\n\nBorneoa mira (S.Y.Wong, P.C.Boyce & S.L.Low) S.Y.Wong & P.C.Boyce\n\nBorneoa mons (Kartini) S.Y.Wong & P.C.Boyce\n\nBorneoa persistens (S.Y.Wong & P.C.Boyce) S.Y.Wong & P.C.Boyce\n\nBorneoa pyrrhias (A.Hay) S.Y.Wong & P.C.Boyce\n\nBorneoa scortechinii (Hook.f.) S.Y.Wong & P.C.Boyce\n\nBorneoa sejuncta (A.Hay) S.Y.Wong & P.C.Boyce\n\nBorneoa shaleicola (P.C.Boyce & S.Y.Wong) S.Y.Wong & P.C.Boyce\n\nBorneoa tahubangensis (A.Hay & Hersc.) S.Y.Wong & P.C.Boyce\n\nBorneoa tegorae (P.C.Boyce & S.Y.Wong) S.Y.Wong & P.C.Boyce\n\nBorneoa thelephora (S.Y.Wong, P.C.Boyce & S.L.Low) S.Y.Wong & P.C.Boyce\n\nBorneoa zainuddinii (Kartini, P.C.Boyce & S.Y.Wong) S.Y.Wong & P.C.Boyce",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1323291734",
+      "revision_id": "1323291734",
+      "text_sha256": "ec8fc22a1f30bdbd186c6d9661c5823cc31db81a97ae30d38052b3438c89fff9",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:14.136972+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.397154331207275,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:681",
+    "title": "Britannica page 681",
+    "corpus": "britannica",
+    "text": "<x_0.2432><y_0.0156>O P T I C S. 427<x_0.8916><y_0.0352><class_Page-header>\n\n<x_0.0117><y_0.0375>the eye at a: fo that none of the rays that fall above _h_ on below i, can be reflected to the eye at o; and the dif. stance between _6 and i is equal to half the length of the object _AB._<x_0.4473><y_0.0938><class_Text>\n\n<x_0.0107><y_0.0945>Hence it appears, that if a man fees like whole image in a plane looking glats, the part of the glats that reflects his image melt be jull half as long and half as broad as himself, let him fland at any distance from it whatever; and that this image mull appear just as far behind the glafs as he is before it. Thus, the man AB (No. 30.) viewing himself in the plane mirrored CD, which is jull half as long as himself, fees his whole image as at _EF_, behind the glafs exactly equal to his own fzz. For, a ray AC, proceeding from his eye at A, and falling perpendicularly upon the surface of the glafs at G, is re-flected back to his eye, in the frame line CaI : and the eye of this image will appear at B, in the frame line pro-duced to E, beyond the glafs. And a ray BD, wrong from his foot, and falling obliquely on the glafs at D, will be reflected as obliquely on the other side of the perpendicular AD), in the direction D,K, and the foot of this image will appear at Ft, in the direction of the re-fled ray AD, produced to F, where is is cut by the right line ACE, drawn parallel to the right line ACE. Jull the fans as if the glafs were taken away, and a real man flood at F, equal in five to the man (handing as B: for to his eyes at A, the eye of the other man at E would be few in the direction of the line ACE; and the foot of the man as F would be seen by the eye A, in the direrection of the line ADF.<x_0.4668><y_0.2719><class_Text>\n\n<x_0.4727><y_0.2625>_Of the_ DIFFERENT REFRANGIBILITY of LIGHT.<x_0.8672><y_0.2789><class_Section-header>\n\n<x_0.4551><y_0.2844>We have hitherto toppofed that a particle of light, as it comes from the fun, is the leaf particular iron which light can be separated. But we mull now correct this top-polition, by thawing, that a particle of light, as it comes from the fun, is, properly speaking, a bundle of rays, which may be farated from one another. Therefore, for the future, by a ray of light we mull be understood to mean, not that collection of particles which we have hitherto called by this name, but the leaf particles in- to which light can be farated.<x_0.8906><y_0.418><class_Text>\n\n<x_0.4775><y_0.4258>_Rays of light are laid to be differently refrangible, when an the form or equal angles of incidence forms are more turned out of the way than others._<x_0.8877><y_0.4664><class_Text>\n\n<x_0.4756><y_0.4719>_Rays are laid to be differently refasible, if firms are more safely reflected than others._<x_0.8857><y_0.5016><class_Text>\n\n<x_0.4746><y_0.5055>_Light is called homogeneous, when all the rays are e- quality refrangible: i is treated heterogeneous, when time rays are other refrangible than others._<x_0.8867><y_0.5492><class_Text>\n\n<x_0.4736><y_0.5523>_The colours of homogeneous light are called primary or female colours ; and thief of heterogeneous light are called secondary or mixed._<x_0.8887><y_0.5945><class_Text>\n\n<x_0.4717><y_0.5992>_The rays of the fun are not all equally refrangible: and thief rays, which have a different degree of re-fragibility, here likewise a different colors._<x_0.8896><y_0.6469><class_Text>\n\n<x_0.458><y_0.6484>If a beam of light SF, (No. 32.) that comes from the fun, paths into a dark room through F a round hole in a window fluter EG ; this beam proceeding straight forwards, and falling upon a paper as Y, would there make a round picture of the fun. This picture would be a confufed one indeed, if the hole is a large one and there is no lens in the hole. However, as this round f spotlight a a picture of the fun, we shall hereafter, notwithflanking its condition, call it by this name. Now it a glafs prifm ABC is placed between the hole in the window-fluiter and the paper at Y, the rays of this term; by the refraction which they differ in the prifm, will be bent from their fruit courte, and instead of going to io as to fall upon the paper at Y, they will be turned upwards, and the picture of the fun produced by them will fall up- on a paper MN that is placed above Y. If all the rays<x_0.8877><y_0.8781><class_Text>\n\n<x_0.0537><y_0.8656>**Vox. III. No §7.**<x_0.2139><y_0.8789><class_Caption>\n\n<x_0.459><y_0.0391>object at fg upon a white wall, a fiecet or a fireen of white paper, provided the object is farther from the less than its principal focus. To make this picture appear, dificent and brighty, it must have no other light fall up- on it but what comes through the lens kl ; and for this reason the whole apparatus is to be placed in a dark, room EFGH. The lens A mull be very convex, fo that the object de may be very near to it, and yet not be near- orthan its principal focus; for by this means, as the object is near to the lens, the picture fg will be at a great distance from it , and consequently the picture will be much bigger than the object. Since the picture is inverted in respect of the object, in order to make the picture appear with the right end upwards, it is neceflary that the object de should be placed with the wrong end upwards.<x_0.8926><y_0.257><class_Text>\n\n<x_0.1182><y_0.6016>_Of the_ MAGIC LANTERN.<x_0.334><y_0.6156><class_Section-header>\n\n<x_0.0098><y_0.6211>ABCD (No. 31.) is a tin lantern, with a tube nklm fixed in the field of it. This tube conflicts of two joints, one of which dips into the others and by drawing this joint out, or pulling it in, the tube may be made longer or shorter. At kl in the end of the moveable joint of the tube, a convex lens is fixed, and an object painted with transparent colors upon a piece of thin glafs is pla- edat de homewhere in the immovable joint of the tube; fo that as the tube is lengthened or fluorescent, the lens will be either at a greater or a left distance from this transferen object. In the field of the lantern three is a very convex lens bbc, which ferries to call a very frong light from the candle within the lantern upon the object de. New when the rays, which fringe through the objet de, diverge from the several points as Å, a, sc. in the object, and fall upon the lens kl, they will be made to converge to as many points fj, g &e. on the other ride of the lens, and will point an inverted picture of the<x_0.4434><y_0.8648><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "87c41adb8f0b47c8450489ced90db7710e49b7801397b7f186e6101220ee11e0",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:54:36.739730+00:00",
+    "parser_receipt_sha256": "6525ddea84024cd0aadb6651be2a84366292c34517f1aa37c72e089514da85c1",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 179,
+      "occurred_at": "2026-10-18T17:48:09.869248+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 562,
+      "occurred_at": "2026-10-18T17:48:10.430786+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 641,
+      "occurred_at": "2026-10-18T17:48:11.085685+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 560,
+      "occurred_at": "2026-10-18T17:48:11.658153+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 572,
+      "occurred_at": "2026-10-18T17:48:12.244652+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 708,
+      "occurred_at": "2026-10-18T17:48:12.973180+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 576,
+      "occurred_at": "2026-10-18T17:48:13.571902+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 548,
+      "occurred_at": "2026-10-18T17:48:14.137034+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 651,
+      "occurred_at": "2026-10-18T17:48:14.813357+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 37,
+      "occurred_at": "2026-10-18T17:48:14.872134+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 663,
+      "occurred_at": "2026-10-18T17:48:15.534895+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 82,
+      "occurred_at": "2026-10-18T17:48:15.623867+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 7,
+      "occurred_at": "2026-10-18T17:48:15.630505+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 249,
+      "occurred_at": "2026-10-18T17:48:15.879949+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1117,
+    "modern_words": 377,
+    "vocabulary_jaccard": 0.040380047505938245,
+    "jensen_shannon_divergence": 0.8808721716852501,
+    "historical_top_words": [
+      [
+        "the",
+        107
+      ],
+      [
+        "of",
+        45
+      ],
+      [
+        "a",
+        42
+      ],
+      [
+        "and",
+        26
+      ],
+      [
+        "be",
+        24
+      ],
+      [
+        "is",
+        24
+      ],
+      [
+        "to",
+        23
+      ],
+      [
+        "in",
+        23
+      ],
+      [
+        "as",
+        21
+      ],
+      [
+        "at",
+        18
+      ],
+      [
+        "this",
+        16
+      ],
+      [
+        "it",
+        14
+      ],
+      [
+        "that",
+        13
+      ],
+      [
+        "from",
+        13
+      ],
+      [
+        "light",
+        13
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "s",
+        48
+      ],
+      [
+        "wong",
+        46
+      ],
+      [
+        "y",
+        45
+      ],
+      [
+        "boyce",
+        40
+      ],
+      [
+        "p",
+        39
+      ],
+      [
+        "c",
+        39
+      ],
+      [
+        "bau",
+        27
+      ],
+      [
+        "a",
+        3
+      ],
+      [
+        "in",
+        3
+      ],
+      [
+        "species",
+        3
+      ],
+      [
+        "and",
+        3
+      ],
+      [
+        "genus",
+        2
+      ],
+      [
+        "the",
+        2
+      ],
+      [
+        "includes",
+        2
+      ],
+      [
+        "peninsular",
+        2
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "o p t i c s",
+  "semantic_input": {
+    "query": "o p t i c s\nO P T I C S. 427\n\nthe eye at a: fo that none of the rays that fall above _h_ on below i, can be reflected to the eye at o; and the dif. stance between _6 and i is equal to half the length of the object _AB._\n\nHence it appears, that if a man fees like whole image in a plane looking glats, the part of the glats that reflects his image melt be jull half as long and half as broad as himself, let him fland at any distance from it whatever; and that this image mull appear just as far behind the glafs as he is before it. Thus, the man AB (No. 30.) viewing himself in the plane mirrored CD, which is jull half as long as himself, fees his whole image as at _EF_, behind the glafs exactly equal to his own fzz. For, a ray AC, proceeding from his eye at A, and falling perpendicularly upon the surface of the glafs at G, is re-flected back to his eye, in the frame line CaI : and the eye of this image will appear at B, in the frame line pro-duced to E, beyond the glafs. And a ray BD, wrong from his foo",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.19799137115478516,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

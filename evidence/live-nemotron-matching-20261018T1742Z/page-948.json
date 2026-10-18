@@ -1,0 +1,260 @@
+{
+  "status": "ambiguous",
+  "question": "Lava.",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:14158935",
+      "title": "Lava (color)",
+      "corpus": "wikipedia",
+      "text": "Lava #CF1020\n\nLava is a color that is a purplish shade of red. It is named after the color of volcanic lava.\n\nThis is the color (color #CF1020, shown at right) of fresh lava pouring out of a volcano.\n\nThe first recorded use of lava as a color name in English was in 1891.\n\nThe color dark lava is the color of lava that has cooled and begun to congeal into igneous rock.\n\nThe normalized color coordinates for dark lava are identical to taupe, which came into use as a color name in English in the early 19th century;",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1338375406",
+      "revision_id": "1338375406",
+      "text_sha256": "bcca1c869e55f86dcd16a0a8f9935cdcbb56876956d56ff41a6d225d1e44ff9e",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:53.053127+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.1481714248657227,
+      "vector_distance": 0.6089943051338196,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:1354210",
+      "title": "Lava (disambiguation)",
+      "corpus": "wikipedia",
+      "text": "Lava is molten volcanic rock or the resulting solid rock after cooling.\n\nLava or LAVA also refer to:\n\nLava (1980 film), an Indian Malayalam action drama\n\nLava (1985 film), an Indian Hindi drama\n\nLava (2001 film), a British comedy\n\nLava (2014 film), a Pixar short\n\nLava Records, an American record label\n\nLava (band), a Norwegian band\n\n\"Lava\", a song from the album Filth Pig by American band Ministry\n\n\"Lava\", a song from the album Silver Sun by Silver Sun\n\nLava (Ramayana), one of the sons of Rama and Sita, in Hindu religious scripture\n\nWilliam Lava (1911–1971), American composer\n\nLava, West Bengal, a town in Darjeeling, India\n\nLava Lake (British Columbia), in British Columbia, Canada\n\nLava Lake (Oregon), in Oregon, US\n\nLava (river), a coastal stream in Corse-du-Sud, France\n\nLava, Russia, a rural locality (a selo) in Sursky District of Ulyanovsk Oblast, Russia\n\nLava, Russian name of Łyna River which flows through Poland and Russia\n\nBenny Lava, a soramimi spoof of the song \"Kalloori Vaanil\" from the 2000 Tamil film Pennin Manathai Thottu\n\nlava, cavalry tactics utilised by Cossacks and by the Imperial Russian Army\n\nLava (color), a shade of red, named after the color of volcanic lava\n\nLava International, an Indian electronics-manufacturer\n\nLava (soap), a hand-cleaner\n\nLava shearwater, extinct seabird from the Canary Islands\n\nLAVA (magazine), a triathlon periodical\n\nLava, former name of the UK music-television channel Greatest Hits TV\n\nLinaro Automated Validation\n\nLAVA - Laboratory for Visionary Architecture\n\nLAVA - Lesser Antilles Volcanic Arc, a chain of volcanoes and volcanic islands in the eastern Caribbean\n\nLava steatite, one of the names of soapstone\n\nLava cake, another name of molten chocolate cake",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1345748773",
+      "revision_id": "1345748773",
+      "text_sha256": "eb6d506cd773f6149da73ac63fadceede13eace598713cc047534b8b2e4b0447",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:49.465598+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.32545804977417,
+      "vector_distance": 0.5714752674102783,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:4232899",
+      "title": "Lava field",
+      "corpus": "wikipedia",
+      "text": "A lava field, sometimes called a lava bed, is a large, mostly flat area of lava flows. Such features are generally composed of highly fluid basalt lava, and can extend for tens or hundreds of kilometers across the underlying terrain.\n\nThe final morphology of a lava field can reveal properties such as internal structure, composition, and mechanics of the lava flow when it was fluid. The ridges and patterns on top of the lava field show the direction of the lava channels and the often active lava tubes that may be underneath the solidified \"crust.\" It can also reveal whether the lava flow can be classified as pāhoehoe or 'a'ā. The two main types of lava field structures are defined as sheet flow lava and pillow lava. Sheet flow lava appears like a wrinkled or folded sheet, while pillow lava is bulbous, and often looks like a pile of pillows atop one another.\n\nAn important aspect of lava flow morphology is a phenomenon known as lava flow inflation. This occurs in pāhoehoe flows that have a high effusion rate, and initially forms a thin crust atop the lava flow. The fluid lava underneath the crust continues to increase due to the sustained high effusion rate, and thus the entire \"structure\" increases in size, up to four meters in height. This anomaly can expose important physics and mechanisms behind lava flow that was not previously known.\n\nThe structure of lava fields also vary based on geographic location. For example, in subaqueous lava fields, sheet flow lava is found near volcanoes characterized by fast-flowing centers, like the Galapagos Rift, while on the other hand pillow lava fields are found near more slow-flowing centers, like the Mid-Atlantic Ridge.\n\nThe extent of large lava fields is most readily studied from the air or in satellite photos, where their commonly dark, near-black color contrasts sharply with the rest of the landscape. Current computer models are mostly unable to predict the placement of lava fields due to the inability to anticipate random environmental influences. Computer modeling is consistently increasing in quality, but the many micro factors directing lava flow and shape, such as source geometry and lava extrusion rate, limit the accuracy that is currently available.\n\nBoring Lava Field (United States)\n\nHarrat Rahat, which threatened the city of Medina in the 13th century (Saudi Arabia)\n\nHell's Half Acre Lava Field (Idaho, United States)\n\nReykjanes, Iceland (peninsula is mainly a barren waste of lava fields)\n\nSt. George, Utah, United States (city built around fields and bluffs covered in lava rocks)\n\nMackenzie Large Igneous Province, Canada",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1291895743",
+      "revision_id": "1291895743",
+      "text_sha256": "6b9ab9a4aaa67a1bc98d4119ec0847a4ad2a1cc01adce65fa700b5d659d0b885",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:50.724048+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.479132652282715,
+      "vector_distance": 0.6606446504592896,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:948",
+    "title": "Britannica page 948",
+    "corpus": "britannica",
+    "text": "<x_0.0><y_0.0>Lava.\nPlate CCLXXIV.<x_0.999><y_0.9141><class_Picture>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "45fb676aabd6fe3cb22080dbf71dec8079334df52ebe20491cad718292c31601",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:03.613415+00:00",
+    "parser_receipt_sha256": "408f7637fcbdfddcb7f1c3074d52a38e14753fc3a6f46d2ad9a3d980bb4fa24f",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 122,
+      "occurred_at": "2026-10-18T17:48:48.907044+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 559,
+      "occurred_at": "2026-10-18T17:48:49.465681+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 595,
+      "occurred_at": "2026-10-18T17:48:50.085915+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 613,
+      "occurred_at": "2026-10-18T17:48:50.724115+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 560,
+      "occurred_at": "2026-10-18T17:48:51.303996+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 571,
+      "occurred_at": "2026-10-18T17:48:51.895211+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 555,
+      "occurred_at": "2026-10-18T17:48:52.486194+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 549,
+      "occurred_at": "2026-10-18T17:48:53.053193+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 561,
+      "occurred_at": "2026-10-18T17:48:53.642466+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 40,
+      "occurred_at": "2026-10-18T17:48:53.699080+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 641,
+      "occurred_at": "2026-10-18T17:48:54.339713+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 90,
+      "occurred_at": "2026-10-18T17:48:54.437230+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 6,
+      "occurred_at": "2026-10-18T17:48:54.442962+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 172,
+      "occurred_at": "2026-10-18T17:48:54.615097+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 3,
+    "modern_words": 98,
+    "vocabulary_jaccard": 0.018518518518518517,
+    "jensen_shannon_divergence": 0.8515828393842279,
+    "historical_top_words": [
+      [
+        "lava",
+        1
+      ],
+      [
+        "plate",
+        1
+      ],
+      [
+        "cclxxiv",
+        1
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "color",
+        9
+      ],
+      [
+        "lava",
+        8
+      ],
+      [
+        "the",
+        7
+      ],
+      [
+        "of",
+        6
+      ],
+      [
+        "is",
+        5
+      ],
+      [
+        "a",
+        5
+      ],
+      [
+        "in",
+        4
+      ],
+      [
+        "cf",
+        2
+      ],
+      [
+        "that",
+        2
+      ],
+      [
+        "use",
+        2
+      ],
+      [
+        "as",
+        2
+      ],
+      [
+        "name",
+        2
+      ],
+      [
+        "english",
+        2
+      ],
+      [
+        "dark",
+        2
+      ],
+      [
+        "to",
+        2
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "lava",
+  "semantic_input": {
+    "query": "lava\nLava.\nPlate CCLXXIV.",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.17728662490844727,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

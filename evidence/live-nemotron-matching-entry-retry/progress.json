@@ -1,0 +1,40 @@
+{
+  "completed_at": "2026-10-18T18:23:27.473986+00:00",
+  "results": [
+    {
+      "row_index": 2171,
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2171",
+      "status": "candidate",
+      "query": "ataraxy calmness mind",
+      "receipt_path": "evidence/live-nemotron-matching-entry-retry/page-2171.json",
+      "receipt_sha256": "68f47a5487fed8f657d64b8b4d5546555956d0ab1dcca05e612b2b8f092cad3d",
+      "candidates": [
+        {
+          "document_id": "wikipedia:5976304",
+          "title": "Calmness",
+          "score": -3.515918254852295,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:46718991",
+          "title": "Ruben Pang",
+          "score": -4.653426647186279,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:63346867",
+          "title": "Tamara Levitt",
+          "score": -4.772984981536865,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    }
+  ],
+  "counts": {
+    "documents": 894,
+    "vectors": 755,
+    "historical_pages": 99,
+    "wikipedia_articles": 795
+  }
+}

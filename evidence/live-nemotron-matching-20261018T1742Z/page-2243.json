@@ -1,0 +1,36 @@
+{
+  "status": "blocked",
+  "question": "Ng. 1.",
+  "locale": "en",
+  "candidates": [],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2243",
+    "title": "Illustrated plate, sampled row 2243",
+    "corpus": "britannica",
+    "text": "<x_0.0><y_0.0>Ng. 1.<x_0.9961><y_0.9969><class_Picture>\n\n<x_0.0><y_0.0>Plate XLIII\nTyp. 2.<x_0.9961><y_0.9992><class_Picture>\n\n<x_0.0><y_0.0>L\nS\nX\nT\nW\nW\nO\nH\nC<x_0.999><y_0.9961><class_Picture>\n\n<x_0.0><y_0.0>Walt\n1\n2\nAug. 4.<x_0.998><y_0.9961><class_Picture>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "91b4014c86458c5e83a33c2f986089cc3fdba3f57ff6c559da8eba7857757a40",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T16:06:14.048950+00:00",
+    "parser_receipt_sha256": "b3fa41bc0cdff7703ea43a756c45ffdb7bf43511ff5f222a9ab407a94cdcdb7f",
+    "source_kind": "illustration",
+    "parse_status": "partial_illustration_ocr"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "failed",
+      "duration_ms": 2,
+      "error": "http: ConnectError",
+      "occurred_at": "2026-10-18T17:58:48.605163+00:00"
+    }
+  ],
+  "blockers": [
+    "http: ConnectError"
+  ],
+  "metrics": null,
+  "uncertainty": [],
+  "candidate_query": "ng"
+}

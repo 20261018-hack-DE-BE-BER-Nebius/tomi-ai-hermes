@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "TRIGONOMETRY.",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:6600160",
+      "title": "Outline of trigonometry",
+      "corpus": "wikipedia",
+      "text": "The following outline is provided as an overview of and topical guide to trigonometry:\n\nTrigonometry – branch of mathematics that studies the relationships between the sides and the angles in triangles. Trigonometry defines the trigonometric functions, which describe those relationships and have applicability to cyclical phenomena, such as waves.\n\nGeometry – mathematics concerned with questions of shape, size, the relative position of figures, and the properties of space. Geometry is used extensively in trigonometry.\n\nAngle – the angle is the figure formed by two rays, called the sides of the angle, sharing a common endpoint, called the vertex of the angle. Angles formed by two rays lie in a plane, but this plane does not have to be a Euclidean plane.\n\nRatio – a ratio indicates how many times one number contains another\n\nTrigonometry\n\nTrigonometric functions\n\nTrigonometric identities\n\nEuler's formula\n\nArchimedes\n\nAristarchus\n\nAryabhata\n\nBhaskara I\n\nClaudius Ptolemy\n\nEuclid\n\nHipparchus\n\nMadhava of Sangamagrama\n\nPtolemy\n\nPythagoras\n\nRegiomontanus\n\nAristarchus's inequality\n\nBhaskara I's sine approximation formula\n\nGreek astronomy\n\nIndian astronomy\n\nJyā, koti-jyā and utkrama-jyā\n\nMadhava's sine table\n\nPtolemy's table of chords\n\nRule of marteloio\n\nĀryabhaṭa's sine table\n\nUses of trigonometry\n\nAcoustics\n\nArchitecture\n\nAstronomy\n\nBiology\n\nCartography\n\nChemistry\n\nCivil engineering\n\nComputer graphics\n\nCryptography\n\nCrystallography\n\nEconomics\n\nElectrical engineering\n\nElectronics\n\nGame development\n\nGeodesy\n\nMechanical engineering\n\nMedical imaging\n\nMeteorology\n\nMusic theory\n\nNumber theory\n\nOceanography\n\nOptics\n\nPharmacy\n\nPhonetics\n\nPhysical science\n\nProbability theory\n\nSeismology\n\nStatistics\n\nSurveying\n\nAbbe sine condition\n\nGreninger chart\n\nPhasor\n\nSnell's law\n\nEquant\n\nParallax\n\nDialing scales\n\nGreninger chart\n\nHansen's problem\n\nSnellius–Pothenot problem\n\nGreat-circle distance – how to find that distance if one knows the latitude and longitude.\n\nResection (orientation)\n\nVincenty's formulae\n\nGeographic distance\n\nTriangulation in three dimensions\n\nHaversine formula\n\nRule of marteloio\n\nBelt problem\n\nPhase response\n\nPhasor\n\nRake (angle)\n\nDialing scales\n\nGunter's quadrant\n\nGunter's scale\n\nProtractor\n\nScale of chords\n\nInverse trigonometric functions\n\nList of integrals of trigonometric functions\n\nList of integrals of inverse trigonometric functions\n\nRegiomontanus' angle maximization problem\n\nTangent half-angle substitution\n\nTrigonometric integral\n\nTrigonometric substitution\n\nApplications\n\nFourier transform\n\nWave equation\n\nFor examples of trigonometric functions as generating functions in combinatorics, see Alternating permutation.\n\nDirichlet kernel\n\nEuler's formula\n\nExact trigonometric values\n\nExponential sum\n\nTrigonometric integral\n\nTrigonometric polynomial\n\nTrigonometric series\n\nAltern base\n\nAngle\n\nPlane angle\n\nSolid angle\n\nSpherical angle\n\nRight angle\n\nAngle excess\n\nAngular distance\n\nAngular unit\n\nDegree (angle)\n\nGon (angle) (aka Grad, Gradian)\n\nRadian\n\nTurn (angle)\n\nBrocard points\n\nChord (geometry)\n\nCircle (also see List of circle topics)\n\nUnit circle\n\nHypotenuse\n\nOpposites post\n\nπ (pi)\n\nPtolemy's theorem\n\nPythagorean theorem\n\nRegiomontanus' angle maximization problem\n\nThales' theorem\n\nTrigonometric function\n\nTrigonometry of a tetrahedron\n\nTriangle (also see List of triangle topics)\n\nSine, Cosine, Tangent (trigonometric function), Cotangent, Secant (trigonometric function), Cosecant – see Trigonometric function\n\natan2\n\nc is — see Euler's formula\n\nCofunction\n\nExsecant\n\nGudermannian function\n\nInverse trigonometric functions\n\nJyā, koti-jyā and utkrama-jyā\n\nVersine\n\nTrigonometric identity (list)\n\nDe Moivre's formula\n\nEuler's formula\n\nHermite's cotangent identity\n\nLagrange's trigonometric identities\n\nMorrie's law\n\nProofs of trigonometric identities\n\nPythagorean trigonometric identity\n\nTangent half-angle formula\n\nSolution of triangles\n\nLaw of sines\n\nLaw of cosines\n\nLaw of tangents\n\nLaw of cotangents\n\nMollweide's formula\n\nChebyshev polynomials\n\nConway triangle notation\n\nExact trigonometric constants\n\nGeneralized trigonometry\n\nGudermannian function\n\nLissajous curve\n\nPolar sine\n\nRational trigonometry\n\nSpread polynomials\n\nAbbe error\n\nHypot\n\nProsthaphaeresis\n\nTrigonometric interpolation\n\nKunstweg, an algorithm for computing sines, introduced in the late 1500s\n\nTrigonometric tables\n\nGenerating trigonometric tables\n\nĀryabhaṭa's sine table\n\nBhaskara I's sine approximation formula\n\nMadhava's sine table\n\nPtolemy's table of chords, written in the second century A.D.\n\nRule of marteloio\n\nCanon Sinuum, listing sines at increments of two arcseconds, published in the late 1500s\n\nSpherical trigonometry\n\nHalf-side formula\n\nHaversine formula\n\nmnemonics in trigonometry\n\nAll Students Take Calculus\n\nList of integrals of trigonometric functions\n\nList of integrals of inverse trigonometric functions\n\nList of trigonometric identities\n\nTable of mathematical symbols",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1318180906",
+      "revision_id": "1318180906",
+      "text_sha256": "3c230aa4fc005a8e4c1692a261dbcec78333eb829ba0a772b7232e5d18bfcbe7",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:49.649287+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.726428270339966,
+      "vector_distance": 0.6390519142150879,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:753225",
+      "title": "Uses of trigonometry",
+      "corpus": "wikipedia",
+      "text": "Amongst the lay public of non-mathematicians and non-scientists, trigonometry is known chiefly for its application to measurement problems, yet is also often used in ways that are far more subtle, such as its place in the theory of music; still other uses are more technical, such as in number theory. The mathematical topics of Fourier series and Fourier transforms rely heavily on knowledge of trigonometric functions and find application in a number of areas, including statistics.\n\nIn Chapter XI of The Age of Reason, the American revolutionary and Enlightenment thinker Thomas Paine wrote:\n\nThe scientific principles that man employs to obtain the foreknowledge of an eclipse, or of any thing else relating to the motion of the heavenly bodies, are contained chiefly in that part of science that is called trigonometry, or the properties of a triangle, which, when applied to the study of the heavenly bodies, is called astronomy; when applied to direct the course of a ship on the ocean, it is called navigation; when applied to the construction of figures drawn by a ruler and compass, it is called geometry; when applied to the construction of plans of edifices, it is called architecture; when applied to the measurement of any portion of the surface of the earth, it is called land-surveying. In fine, it is the soul of science. It is an eternal truth: it contains the mathematical demonstration of which man speaks, and the extent of its uses are unknown.\n\nFrom 1802 until 1871, the Great Trigonometrical Survey was a project to survey the Indian subcontinent with high precision. Starting from the coastal baseline, mathematicians and geographers triangulated vast distances across the country. One of the key achievements was measuring the height of Himalayan mountains, and determining that Mount Everest is the highest point on Earth.\n\nFor the 25 years preceding the invention of the logarithm in 1614, prosthaphaeresis was the only known generally applicable way of approximating products quickly. It used the identities for the trigonometric functions of sums and differences of angles in terms of the products of trigonometric functions of those angles.\n\nScientific fields that make use of trigonometry include:\n\nacoustics, architecture, astronomy, cartography, civil engineering, geophysics, crystallography, electrical engineering, electronics, land surveying and geodesy, many physical sciences, mechanical engineering, machining, medical imaging, number theory, oceanography, optics, pharmacology, probability theory, seismology, statistics, and visual perception\n\nThat these fields involve trigonometry does not mean knowledge of trigonometry is needed in order to learn anything about them. It does mean that some things in these fields cannot be understood without trigonometry. For example, a professor of music may perhaps know nothing of mathematics, but would probably know that Pythagoras was the earliest known contributor to the mathematical theory of music.\n\nIn some of the fields of endeavor listed above it is easy to imagine how trigonometry could be used. For example, in navigation and land surveying, the occasions for the use of trigonometry are in at least some cases simple enough that they can be described in a beginning trigonometry textbook. In the case of music theory, the application of trigonometry is related to work begun by Pythagoras, who observed that the sounds made by plucking two strings of different lengths are consonant if both lengths are small integer multiples of a common length. The resemblance between the shape of a vibrating string and the graph of the sine function is no mere coincidence. In oceanography, the resemblance between the shapes of some waves and the graph of the sine function is also not coincidental. In some other fields, among them climatology, biology, and economics, there are seasonal periodicities. The study of these often involves the periodic nature of the sine and cosine functions.\n\nMany fields make use of trigonometry in more advanced ways than can be discussed in a single article. Often those involve what are called the Fourier series, after the 18th- and 19th-century French mathematician and physicist Joseph Fourier. Fourier series have a surprisingly diverse array of applications in many scientific fields, in particular in all of the phenomena involving seasonal periodicities mentioned above, and in wave motion, and hence in the study of radiation, of acoustics, of seismology, of modulation of radio waves in electronics, and of electric power engineering.\n\nA Fourier series is a function series (infinite sum of functions) of the form\n\na 0 + a 1 cos (θ) + b 1 sin (θ) + a 2 cos (2 θ) + b 2 sin (2 θ) + a 3 cos (3 θ) + b 3 cos (3 θ) ⋯ = a 0 + ∑ n = 1 ∞ (a n cos (n θ) + b n sin (n θ)), {\\displaystyle {\\begin{aligned}&a_{0}+a_{1}\\cos(\\theta)+b_{1}\\sin(\\theta)+a_{2}\\cos(2\\theta)+b_{2}\\sin(2\\theta)+a_{3}\\cos(3\\theta)+b_{3}\\cos(3\\theta)\\dotsb \\\\&\\qquad =a_{0}+\\sum _{n=1}^{\\infty }{\\bigl (}a_{n}\\cos(n\\theta)+b_{n}\\sin(n\\theta){\\big)},\\end{aligned}}}\n\nwith real- or complex-valued coefficients a n {\\displaystyle a_{n}} and b n {\\displaystyle b_{n}}. When the series converges, it represents a periodic function of θ {\\displaystyle \\theta }. Fourier used these for studying heat flow and diffusion.\n\nFourier series are also applicable to subjects whose connection with wave motion is far from obvious. One ubiquitous example is digital compression whereby images, audio and video data are compressed into a much smaller size which makes their transmission feasible over telephone, internet and broadcast networks. Another example, mentioned above, is diffusion. Among others are: the geometry of numbers, isoperimetric problems, recurrence of random walks, quadratic reciprocity, the central limit theorem, Heisenberg's inequality.\n\nA more abstract concept than Fourier series is the idea of Fourier transform. Fourier transforms involve integrals rather than sums, and are used in a similarly diverse array of scientific fields. Many natural laws are expressed by relating rates of change of quantities to the quantities themselves. For example: The rate population change is sometimes jointly proportional to (1) the present population and (2) the amount by which the present population falls short of the carrying capacity. This kind of relationship is called a differential equation. If, given this information, one tries to express population as a function of time, one is trying to solve the differential equation. Fourier transforms may be used to convert some differential equations to algebraic equations for which methods of solving them are known. In almost any scientific context in which the words spectrum, harmonic, or resonance are encountered, Fourier transforms, or Fourier series are nearby.\n\nIntelligence quotients are sometimes held to be distributed according to a bell-shaped curve. About 40% of the area under the curve is in the interval from 100 to 120; correspondingly, about 40% of the population scores between 100 and 120 on IQ tests. Nearly 9% of the area under the curve is in the interval from 120 to 140; correspondingly, about 9% of the population scores between 120 and 140 on IQ tests, etc. Similarly, many other things are distributed according to the \"bell-shaped curve\", including measurement errors in many physical measurements. The theoretical reason for the ubiquity of the \"bell-shaped curve\" involves Fourier transforms, and hence trigonometric functions. That is one of a variety of applications of Fourier transforms to statistics.\n\nTrigonometric functions are also applied when statisticians study seasonal periodicities, which are often represented by Fourier series.\n\nThere is a hint of a connection between trigonometry and number theory. Loosely speaking, one could say that number theory deals with qualitative properties rather than quantitative properties of numbers.\n\n1 42, 2 42, 3 42, … …, 39 42, 40 42, 41 42. {\\displaystyle {\\frac {1}{42}},\\qquad {\\frac {2}{42}},\\qquad {\\frac {3}{42}},\\qquad \\dots \\dots,\\qquad {\\frac {39}{42}},\\qquad {\\frac {40}{42}},\\qquad {\\frac {41}{42}}.}\n\nDiscard the ones that are not in lowest terms; keep only those that are in lowest terms:\n\n1 42, 5 42, 11 42, …, 31 42, 37 42, 41 42. {\\displaystyle {\\frac {1}{42}},\\qquad {\\frac {5}{42}},\\qquad {\\frac {11}{42}},\\qquad \\dots,\\qquad {\\frac {31}{42}},\\qquad {\\frac {37}{42}},\\qquad {\\frac {41}{42}}.}\n\nThen bring in trigonometry:\n\ncos (2 π ⋅ 1 42) + cos (2 π ⋅ 5 42) + ⋯ + cos (2 π ⋅ 37 42) + cos (2 π ⋅ 41 42) {\\displaystyle \\cos \\left(2\\pi \\cdot {\\frac {1}{42}}\\right)+\\cos \\left(2\\pi \\cdot {\\frac {5}{42}}\\right)+\\cdots +\\cos \\left(2\\pi \\cdot {\\frac {37}{42}}\\right)+\\cos \\left(2\\pi \\cdot {\\frac {41}{42}}\\right)}\n\nThe value of the sum is −1, because 42 has an odd number of prime factors and none of them is repeated: 42 = 2 × 3 × 7. (If there had been an even number of non-repeated factors then the sum would have been 1; if there had been any repeated prime factors (e.g., 60 = 2 × 2 × 3 × 5) then the sum would have been 0; the sum is the Möbius function evaluated at 42.) This hints at the uses of applying Fourier analysis to number theory.\n\nVarious types of equations can be solved using trigonometry; for example, a linear difference equation or linear differential equation with constant coefficients has solutions expressed in terms of the eigenvalues of its characteristic equation; if some of the eigenvalues are complex, the complex terms can be replaced by trigonometric functions of real terms, showing that the dynamic variable exhibits oscillations.\n\nSimilarly, cubic equations with three real solutions have an algebraic solution that is unhelpful in that it contains cube roots of complex numbers; again an alternative solution exists in terms of trigonometric functions of real terms.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1322907549",
+      "revision_id": "1322907549",
+      "text_sha256": "c9ae71de6a310296f57933322ce5a15356e926197ec0cf36f5eafc30e61d9a9b",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:51.423669+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.155629634857178,
+      "vector_distance": 0.7113418579101562,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:22850636",
+      "title": "Generalized trigonometry",
+      "corpus": "wikipedia",
+      "text": "Ordinary trigonometry studies triangles in the Euclidean plane R 2 {\\displaystyle \\mathbb {R} ^{2}}. There are a number of ways of defining the ordinary Euclidean geometric trigonometric functions on real numbers, for example right-angled triangle definitions, unit circle definitions, series definitions, definitions via differential equations, and definitions using functional equations. Generalizations of trigonometric functions are often developed by starting with one of the above methods and adapting it to a situation other than the real numbers of Euclidean geometry. Generally, trigonometry can be the study of triples of points in any kind of geometry or space. A triangle is the polygon with the smallest number of vertices, so one direction to generalize is to study higher-dimensional analogs of angles and polygons: solid angles and polytopes such as tetrahedrons and n -simplices.\n\nIn spherical trigonometry, triangles on the surface of a sphere are studied. The spherical triangle identities are written in terms of the ordinary trigonometric functions but differ from the plane triangle identities.\n\nHyperbolic trigonometry:\n\nStudy of hyperbolic triangles in hyperbolic geometry with hyperbolic functions.\n\nHyperbolic functions in Euclidean geometry: The unit circle is parameterized by (cos t, sin t) whereas the equilateral hyperbola is parameterized by (cosh t, sinh t).\n\nGyrotrigonometry: A form of trigonometry used in the gyrovector space approach to hyperbolic geometry, with applications to special relativity and quantum computation.\n\nTrigonometry for taxicab geometry\n\nSpacetime trigonometries\n\nFuzzy qualitative trigonometry\n\nOperator trigonometry\n\nLattice trigonometry\n\nTrigonometry on symmetric spaces\n\nSchläfli orthoschemes - right simplexes (right triangles generalized to n dimensions) - studied by Schoute who called the generalized trigonometry of n Euclidean dimensions polygonometry.\n\nPythagorean theorems for n -simplices with an \"orthogonal corner\"\n\nTrigonometry of a tetrahedron\n\nDe Gua's theorem – a Pythagorean theorem for a tetrahedron with a cube corner\n\nA law of sines for tetrahedra\n\nPolar sine\n\nTrigonometric functions can be defined for fractional differential equations.\n\nIn time scale calculus, differential equations and difference equations are unified into dynamic equations on time scales which also includes q-difference equations. Trigonometric functions can be defined on an arbitrary time scale (a subset of the real numbers).\n\nThe series definitions of sin and cos define these functions on any algebra where the series converge such as complex numbers, p -adic numbers, matrices, and various Banach algebras.\n\nPolar/Trigonometric forms of hypercomplex numbers\n\nPolygonometry – trigonometric identities for multiple distinct angles\n\nThe Lemniscate elliptic functions, sinlem and coslem",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1305451622",
+      "revision_id": "1305451622",
+      "text_sha256": "fc43f459843287ec3ed1acd09f0d39068a0f26f14a6f4e8c66695761fc7065c4",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:47.354550+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.237818241119385,
+      "vector_distance": 0.7153677940368652,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1580",
+    "title": "Britannica page 1580",
+    "corpus": "britannica",
+    "text": "<x_0.251><y_0.0156>TRIGONOMETRY.<x_0.6895><y_0.0375><class_Section-header>\n\n<x_0.041><y_0.0398>\\begin{tabular}{cc}\nb to their difference 21 & 1:32222\\\\\nSo is the tangent of half the fum of? & 84 & 1.92428\\\\\nthe angle ID and C & 610 58' 10.27372\\\\\nTo the tangent of half their difference 79 50' & 9.13806\\\\\nSo by theorem, we have the angles D and C thus; & \\\\\nTo hold the fun of the angles I D and C & 611 58'\\\\\nAdd half their difference & 70 50'\\\\\nAnd the fum is the greater angle D & 69o 48'\\\\\nAlfo, from half the fum & 61o 58'\\\\\nTake half the difference & 70 50'\\\\\nAnd there remains the lifter angle C & 54°08'\\\\\nThen by Cafel II, we have the following analogy for find ing On the leg required, viz. & S.C. B D :: S, B. D C.\\\\\nI. As the fine of C & 54°03' 9.90860\\\\\nTo BD & 133 & 2.12385\\\\\nSo is the fine of B & 56°03' 9.91883\\\\\nTOO & 150A 1.13590\\\\\nCase VI. Three files being given, to find the angles. & \\\\\nExamle: In the triangle A B C ((bit a 9) ) fuppfe AB=13, AC=185 7, and BC=B4 y required the angles & \\\\\nA, B, and C; To the triangle will be confucted, and the angles may be incurred by a line of clouds. & \\\\\nII. By undertaking: Let fall the perpendicular, BD from the vertex B, upon the bafe’AC; which will divide the one into two segments AD and DC, the lengths where of may be found by theorem 4, thus: & \\\\\nAs the bafe AC & 185 7 & 2.26893\\\\\nTo the form of the sides AB and BC 240 & 2.8034\\\\\nSo is the difference of the files 72 & 1.85733\\\\\nTo the diff, of the figures of the bafa 93 & 1.0687i\\\\\nAnd having the fum of the fragments, viz. the whole bafs, and their difference, we find the fragments themselves, by theorem 3, thus: & \\\\\nTo half the fum of the fragments & 92E-6\\\\\nAnd half their difference & 46-5\\\\\nAnd the fum is the greater fragment AD & 139-7\\\\\nAllo from half the fum of the fragment & 52-8\\\\\nTake half their difference & 46-5\\\\\nThe remainder is the lifter fragment DC & 46-3\\\\\nNow the triangle ABC is divided, by the perpendicular DB, into two right angles triangles, ADB and DRG; in the lift of which are given the hypothecule AB=156, and the bafe AD=130-3, to find the oblique angles, for which we have (by Cafel V, of rechargular trigonometry) the fol-lowing analogy, viz. & \\\\\nAs AB & 159 & 2.10312\\\\\nTier AD & 193 & 2.1359\\\\\nSo is the radius & 90° & 1.00000\\\\\nTo the co-fise of the angle A & 26° 40° & 9.95083\\\\\n\\end{tabular}<x_0.4639><y_0.9141><class_Table>\n\n<x_0.4727><y_0.0391>Alfo the angle C is found by the fam cafe, thus:\\\\\nAs IB 84 & 1.92428\\\\\nTo CD & 46:3 & 1.66518\\\\\nSo is the radius & 90° & 10.0000\\\\\nTo the co-fine of C & 56° 30° & 9.74130\\\\\nHaving found the two angles A and C, we have the third, B, by taking the time of the other two from 150, thus: & \\\\\nThe fum of all the three angles is 180° & The fum of A and C is & 83° 10°\\\\\nThe angle B is & 96° 50° & \\\\\nAll the proportions ufd for the foliations of the fever et cafes in plain trigonometry, may be performed by the final and compd. On the leaf there are several logarithmic lines, viz. one of numbers, another of fines, and one of tangents, éx. & \\\\\nAnd the way of working a proportion by these is this, viz., extend your compaifles from the frit term of your pro portion, found on the feale, to the second; and with that extent, flying on foot in the third term, the other will reach the fourth term required. & \\\\\nSPHERICAL TRIGONOMETRY & \\\\\n\\end{tabular}<x_0.8682><y_0.0875><class_Table>\n\n<x_0.4707><y_0.3836>SPHERICAL TRIGONOMETRY is the art whereby, from three given parts of a spherical triangle, we discover the refl; and, like plane trigonometry, is either right-angled, or obliquely-angle]. But there we give the analogies for the foliation of the Several cases in other, it will be proper to premile the following theorems.<x_0.8994><y_0.4695><class_Text>\n\n<x_0.4717><y_0.4711>Taraxad. I. In all right-angled, spherical triangles, the fino of the hypothecial’s radius : fine of a leg - fine of its opposite angle. And the fine of a leg: radius : tan- gent of the other the tangent of its opposite angle.<x_0.9004><y_0.525><class_Text>\n\n<x_0.4736><y_0.5258>Demonstration, Let E DA X (this id, fig. 1) re-prefent the eighth part of a Sphere, where the quadratil plane EDFG, DRG, can both prepened to the quadri-plane EDFs; and the quadratil plane ADG is perperendicular to the plane EDFG; and the spherical tri- angle ARC is right-angle as B, where CA is the hypo-theme, and BA, BC, so the legs.<x_0.9014><y_0.6211><class_Text>\n\n<x_0.4746><y_0.6219>To the arches GF, C B, draw the tangents HF, OB, and the finses CM G and the radii DP DB; and draw list the fine of the arch AB, and Ct the fine of AC; and then join IK and OL NowHF, OB, GM, CL are all perpendiculor to the plane ADDB. And HD, GK, OL, the all in the fans plane ADGC. Therefore, the right-angled triangles HHD, CKK, ODL, having the equal angles HDF, CKK OLB, see further. And CK-NOM CI COM; that is, as the fine of the hypothetic: rad:: fine of a leg - fine of its opposite angle. For OM is the fine of the arc GC, which therefore the angle CAB. Both, LB DF+; BO: FH; that is, as the fino of a leg: radius : tangent of the other leg: tangent of its opposite angle, J, E. D. Hence is follows: that the first of the angles of any ex-blique spherical triangle ACD (_this_, o^2), letto one ano- they, directly, as the fins of the opposite fides. Hence it allo follows, that, in right-angled- spherical triangles, having the fame perpendicular, the fino of the bafs will be to each other, inverify, as the tangents of the angles at the bafs.<x_0.8965><y_0.9102><class_Text>\n\n<x_0.8105><y_0.9086>THROXEN<x_0.8916><y_0.9258><class_Page-footer>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "8b443e8528941e6ee5a18e76fdb489e1c7b1c8ae9dfcadcec4a735beb1dbf97a",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:48.709069+00:00",
+    "parser_receipt_sha256": "0caa3979f9bd72f1f1e7647f21443a731bc38ecb9dcaf1bb1b00042935817745",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 136,
+      "occurred_at": "2026-10-18T17:50:46.786958+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 568,
+      "occurred_at": "2026-10-18T17:50:47.354801+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 555,
+      "occurred_at": "2026-10-18T17:50:47.937941+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 544,
+      "occurred_at": "2026-10-18T17:50:48.511882+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 536,
+      "occurred_at": "2026-10-18T17:50:49.067678+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 554,
+      "occurred_at": "2026-10-18T17:50:49.649314+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 585,
+      "occurred_at": "2026-10-18T17:50:50.253299+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 550,
+      "occurred_at": "2026-10-18T17:50:50.820953+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 582,
+      "occurred_at": "2026-10-18T17:50:51.423742+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 53,
+      "occurred_at": "2026-10-18T17:50:51.505012+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 451,
+      "occurred_at": "2026-10-18T17:50:51.956282+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 93,
+      "occurred_at": "2026-10-18T17:50:52.056202+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 6,
+      "occurred_at": "2026-10-18T17:50:52.061745+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 289,
+      "occurred_at": "2026-10-18T17:50:52.351010+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 902,
+    "modern_words": 635,
+    "vocabulary_jaccard": 0.08633093525179857,
+    "jensen_shannon_divergence": 0.660218719571886,
+    "historical_top_words": [
+      [
+        "the",
+        128
+      ],
+      [
+        "of",
+        51
+      ],
+      [
+        "and",
+        35
+      ],
+      [
+        "is",
+        23
+      ],
+      [
+        "to",
+        20
+      ],
+      [
+        "a",
+        15
+      ],
+      [
+        "angle",
+        14
+      ],
+      [
+        "c",
+        14
+      ],
+      [
+        "b",
+        12
+      ],
+      [
+        "by",
+        12
+      ],
+      [
+        "angles",
+        12
+      ],
+      [
+        "fine",
+        12
+      ],
+      [
+        "half",
+        9
+      ],
+      [
+        "fum",
+        9
+      ],
+      [
+        "as",
+        9
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "of",
+        36
+      ],
+      [
+        "trigonometric",
+        29
+      ],
+      [
+        "s",
+        26
+      ],
+      [
+        "angle",
+        18
+      ],
+      [
+        "the",
+        17
+      ],
+      [
+        "formula",
+        12
+      ],
+      [
+        "trigonometry",
+        11
+      ],
+      [
+        "functions",
+        10
+      ],
+      [
+        "in",
+        9
+      ],
+      [
+        "sine",
+        9
+      ],
+      [
+        "list",
+        8
+      ],
+      [
+        "and",
+        7
+      ],
+      [
+        "table",
+        7
+      ],
+      [
+        "a",
+        6
+      ],
+      [
+        "jyā",
+        6
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "trigonometry",
+  "semantic_input": {
+    "query": "trigonometry\nTRIGONOMETRY.\n\n\\begin{tabular}{cc}\nb to their difference 21 & 1:32222\\\\\nSo is the tangent of half the fum of? & 84 & 1.92428\\\\\nthe angle ID and C & 610 58' 10.27372\\\\\nTo the tangent of half their difference 79 50' & 9.13806\\\\\nSo by theorem, we have the angles D and C thus; & \\\\\nTo hold the fun of the angles I D and C & 611 58'\\\\\nAdd half their difference & 70 50'\\\\\nAnd the fum is the greater angle D & 69o 48'\\\\\nAlfo, from half the fum & 61o 58'\\\\\nTake half the difference & 70 50'\\\\\nAnd there remains the lifter angle C & 54°08'\\\\\nThen by Cafel II, we have the following analogy for find ing On the leg required, viz. & S.C. B D :: S, B. D C.\\\\\nI. As the fine of C & 54°03' 9.90860\\\\\nTo BD & 133 & 2.12385\\\\\nSo is the fine of B & 56°03' 9.91883\\\\\nTOO & 150A 1.13590\\\\\nCase VI. Three files being given, to find the angles. & \\\\\nExamle: In the triangle A B C ((bit a 9) ) fuppfe AB=13, AC=185 7, and BC=B4 y required the angles & \\\\\nA, B, and C; To the triangle will be confucted, and the angles ma",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.4292013645172119,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

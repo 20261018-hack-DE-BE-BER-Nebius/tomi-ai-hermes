@@ -1,0 +1,985 @@
+{
+  "started_at": "2026-10-18T18:14:33.079129+00:00",
+  "baseline": "evidence/live-nemotron-matching-20261018T1742Z/progress.json",
+  "results": [
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:374",
+      "row_index": 374,
+      "original_status": "blocked",
+      "original_blockers": [
+        "v1/search: HTTP 422"
+      ],
+      "original_receipt_sha256": "87c5f77e62ed23a6aea6bed6a8d66f9819e30b58c3aafe714ec1ddb49d15d9cf",
+      "human_review": "pending",
+      "status": "nontext_blank_leaf",
+      "candidate_titles": [],
+      "reason": "Original image visually reviewed as blank; normalized Parse response empty. No substitute text or inference."
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:403",
+      "row_index": 403,
+      "original_status": "blocked",
+      "original_blockers": [
+        "wikipedia: No complete, hash-verified candidates"
+      ],
+      "original_receipt_sha256": "baf40373293f0dc42b8885c3c19df7b79a1a13fdca72dc4979edf41c8c0ed1a3",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "philology Chaldean Ethiopian",
+      "receipt_sha256": "1481d779ab6f4da4e34d45d41886260d0ebb897c1ec1552caf5aad882bc0295e",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-403.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:18977595",
+          "title": "Ethiopian studies",
+          "score": -4.917393207550049,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:50063897",
+          "title": "Giovanni Battista Gallizioli",
+          "score": -5.072309494018555,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:9032476",
+          "title": "Johannes Potken",
+          "score": -5.238911151885986,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1032",
+      "row_index": 1032,
+      "original_status": "blocked",
+      "original_blockers": [
+        "wikipedia: No complete, hash-verified candidates"
+      ],
+      "original_receipt_sha256": "72868b9f63afb0638106a54b3c72960cfff9e22850c3b92a194ac883a6cbf17c",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "heart blood physiology",
+      "receipt_sha256": "42fb882fb9ad598b7fb60eb34075e0e0f5e1ed93f9546b16ab26dc3f543e146d",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-1032.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:4156844",
+          "title": "Cardiovascular physiology",
+          "score": -5.306503772735596,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:71776328",
+          "title": "Léon Fredericq",
+          "score": -5.733771324157715,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:523886",
+          "title": "Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus",
+          "score": -5.7604780197143555,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1615",
+      "row_index": 1615,
+      "original_status": "blocked",
+      "original_blockers": [
+        "v1/search: HTTP 422"
+      ],
+      "original_receipt_sha256": "52f4b47bad8c814fe6c78cb18abdb592d62fbde74b7f6c057317d92b398e0a31",
+      "human_review": "pending",
+      "status": "nontext_blank_leaf",
+      "candidate_titles": [],
+      "reason": "Original image visually reviewed as blank; normalized Parse response empty. No substitute text or inference."
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1942",
+      "row_index": 1942,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "c1461274b7e9cb133609f616517ef565bd88d4e7d2f13e9ed36a68a9986c5a1f",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "6046",
+      "receipt_sha256": "18937ec38acc634171abd66edc047b2261f9349b79dce299274c43ff585a3e05",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-1942.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:877975",
+          "title": "U engine",
+          "score": -5.161656379699707,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:7512347",
+          "title": "Dedications II",
+          "score": -5.533343315124512,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:51508759",
+          "title": "Brilanestrant",
+          "score": -5.597591400146484,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2051",
+      "row_index": 2051,
+      "original_status": "blocked",
+      "original_blockers": [
+        "v1/embeddings: HTTP 502"
+      ],
+      "original_receipt_sha256": "1bb671a78ed1a63b282a6ee253834ffdb864c4ab9564678db208cedc38873982",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "**LOM [ 168 ]**",
+      "receipt_sha256": "4e930efa32752896a9ae9f9749bf9f5ac174799600816643a2d91d2355d2a399",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2051.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:29413734",
+          "title": "Lom language",
+          "score": -3.5821683406829834,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:178042",
+          "title": "Lom",
+          "score": -3.635998487472534,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:81710051",
+          "title": "Si Lom",
+          "score": -4.463083267211914,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2077",
+      "row_index": 2077,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "ea37d51d1b43d1f70fd18f05d3bc771fde44a03ee6472501669f3d8cc4818c9a",
+      "human_review": "pending",
+      "status": "nontext_blank_leaf",
+      "candidate_titles": [],
+      "reason": "Original image visually reviewed as blank; normalized Parse response empty. No substitute text or inference."
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2087",
+      "row_index": 2087,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "e6035451540b4dbeee7b945434d7547d2eb7aa6aca2a83e8300d73cbb100ad07",
+      "human_review": "pending",
+      "status": "candidate",
+      "query": "BRITAIN. 571",
+      "receipt_sha256": "54292e8ce9a36d592da027cb2d29c8131548c832bad4ad58fa1b109c95308ab5",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2087.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:3745",
+          "title": "Britain",
+          "score": -2.9118242263793945,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:1671663",
+          "title": "Little Britain",
+          "score": -4.184450626373291,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:44279949",
+          "title": "List of national sports teams of the United Kingdom",
+          "score": -4.2797980308532715,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2093",
+      "row_index": 2093,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "5b149dbd1ca9f33c13a6bb971f2ec9bcedea84d3b3aa68f4992f2c204354aed3",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "S E N T I ST J SEN",
+      "receipt_sha256": "c20fa2569b562393a661d39a82045349b9222ac69c420984c9ec75f4bb7ea22f",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2093.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:33069652",
+          "title": "Ayusman Sen",
+          "score": -3.33960485458374,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:7392833",
+          "title": "Eu Tong Sen Street",
+          "score": -3.6876778602600098,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:2156522",
+          "title": "Institution (computer science)",
+          "score": -3.866905927658081,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2108",
+      "row_index": 2108,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "797936e43a4531793dadf7c9756684848031a56e4e8ddf76d375731f3ec306bc",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "B R I  [ 645 J B R F",
+      "receipt_sha256": "eaf473a05f6990a66c70ae2e90452b9f9c6d790403c0c3a907d7fc0dd52b0c39",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2108.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:63653137",
+          "title": "Asemeia (plant)",
+          "score": -6.38482666015625,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:4384572",
+          "title": "Werauhia",
+          "score": -6.44475793838501,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:2909442",
+          "title": "Senega",
+          "score": -6.45501184463501,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2131",
+      "row_index": 2131,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "0229ded72e83f2859253be97e6025f82c1291a1a3bfa7f429e02ca126bd9f0b7",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "BOM [ 353 BOM",
+      "receipt_sha256": "0a177447720abed97d08f27e136c1f633ff11af1a5cf1e650a5a491589eb876f",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2131.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:848101",
+          "title": "BOM",
+          "score": -4.061990261077881,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:8980535",
+          "title": "Bom Bom Bom",
+          "score": -4.331661701202393,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:44601954",
+          "title": "Bom Dia",
+          "score": -4.732617378234863,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2155",
+      "row_index": 2155,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "4fff646679f6362293a8863b93b9bae21b53356edd7da39309f74b951eff4330",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "B L I [ 301] B LI",
+      "receipt_sha256": "557202a29cce05dbfdbfbf035a95a6df853865c6fdad9f8677dea296fad37c6b",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2155.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:48030863",
+          "title": "Henckelia",
+          "score": -5.808230400085449,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:67331254",
+          "title": "Petrocodon",
+          "score": -6.0190629959106445,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:42328549",
+          "title": "Primulina",
+          "score": -6.053431987762451,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2171",
+      "row_index": 2171,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "8ca71bbba4805af8d271310bd7e4aed753a906a96f5647df4938f6f219a1a6bc",
+      "human_review": "pending",
+      "status": "blocked",
+      "query": "A S T [ 852] A S T",
+      "receipt_sha256": "d32fefd44dcec67fb4cdb20659c70e3eab4e88ca26f4342b3ac1e7a065c77097",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2171.json",
+      "candidates": [],
+      "blockers": [
+        "wikipedia: No complete, hash-verified candidates"
+      ]
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2209",
+      "row_index": 2209,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "80ae3681b2292a842a6ae05ecc27befb85f4169a49cbc49a2c302a5f702f4273",
+      "human_review": "pending",
+      "status": "candidate",
+      "query": "Plate. XLVI",
+      "receipt_sha256": "2a0b67d8763eeee5761482c41aaa0b0ae4f0b32e8dbb5b2c5ce8db80ed6be636",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2209.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:59205109",
+          "title": "Kebon Kopi I inscription",
+          "score": -4.526774883270264,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:81071116",
+          "title": "Orlando del Fierro",
+          "score": -5.137694835662842,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:81071132",
+          "title": "Manuel Ferreira Guzmán",
+          "score": -5.216279983520508,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2243",
+      "row_index": 2243,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "e31bb1c628503c87991d0801a2ec2ff9621fbce517c1335297f547b46aa0a3c9",
+      "human_review": "pending",
+      "status": "candidate",
+      "query": "Ng. 1.",
+      "receipt_sha256": "1eb44cfcc519a84bcc7dd939f298ca88394627c2df24209d14724c1c2255a91f",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2243.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:2148752",
+          "title": "Ng",
+          "score": -5.192503452301025,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:1663951",
+          "title": "Ng (name)",
+          "score": -5.729209899902344,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:1237667",
+          "title": ".ng",
+          "score": -5.979867458343506,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2250",
+      "row_index": 2250,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "ca35e04cf3de582d5c227ffa902e746608a982847f68683baf38d490a640fbcf",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "B U X ( 697 ) B Y Z",
+      "receipt_sha256": "e01ecfeb6a2c4b59607b05efff809c1246aaac04ba11248f5791c873e8ac7737",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2250.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:245660",
+          "title": "Beta function",
+          "score": -6.216197967529297,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:4722013",
+          "title": "First-order partial differential equation",
+          "score": -6.401905536651611,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:3303198",
+          "title": "Fokker periodicity block",
+          "score": -6.562056541442871,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2277",
+      "row_index": 2277,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "ca3089084253d7235da00847350297d4c58c673d957c7341f670fd33c1a1c7b5",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "Chap. VI.",
+      "receipt_sha256": "b9060cffca30134ed95e2e1c2571af60f17ff8520b681d917b60553e6ab817ab",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2277.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:17785596",
+          "title": "The Chronology of Ancient Kingdoms Amended",
+          "score": -5.025331497192383,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:1127193",
+          "title": "I quattro libri dell'architettura",
+          "score": -5.390249252319336,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:34260620",
+          "title": "Pierre Meile",
+          "score": -5.5380024909973145,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2296",
+      "row_index": 2296,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "4628eeb0992fbb07264377d2aec5472858799d1856f77903bb952904c73c549e",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "**POL [ 93 ]**",
+      "receipt_sha256": "d54a31a3e906511431a426c9a2900ca7f2b382cbad88384d8d448fb0124679e3",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2296.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:57679348",
+          "title": "Pol (given name)",
+          "score": -1.9505953788757324,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:3522496",
+          "title": "Pol",
+          "score": -2.1076231002807617,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:34653492",
+          "title": "List of pols in Ahmedabad",
+          "score": -2.4276325702667236,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2307",
+      "row_index": 2307,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "5f9dc04e534046787ddd24a8088f84a9120acc775dfa8a0a66672968838a1c04",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "**AL G** **241** **A L G**",
+      "receipt_sha256": "0c36d410e100da71fbdb7057746411cab74f96f9d1d542edb4262e905fabdede",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2307.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:12567412",
+          "title": "1932 Philadelphia Athletics season",
+          "score": -6.723322868347168,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:16039945",
+          "title": "1915 Chicago White Sox season",
+          "score": -7.067785739898682,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:82267036",
+          "title": "Pristepyris",
+          "score": -7.073563575744629,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2402",
+      "row_index": 2402,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "933035397320ebeed49946147c49b2d526150b3d856416abfc51c4674dad8e7b",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "A N A T O M Y. 3",
+      "receipt_sha256": "913811ac10100ec222ec17685f6c138bf83df68181e932ed99444ffd89cb3ca8",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2402.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:11030945",
+          "title": "Limit comparison test",
+          "score": -5.626537799835205,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:2874706",
+          "title": "Stolz–Cesàro theorem",
+          "score": -5.798581600189209,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:2597408",
+          "title": "Fekete's lemma",
+          "score": -5.883128643035889,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2424",
+      "row_index": 2424,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "b156897050d848c4fa2e635c915558b2703c6bd58fe2cc87d32ed3e23bfee536",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "AGRICULTURE. 245",
+      "receipt_sha256": "c947a56ce8518f6554a8e5d8b6ec7c4253a36e848afebf8e0328b95ccb4f1724",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2424.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:23589291",
+          "title": "Agricultural literacy",
+          "score": -4.440187931060791,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:38121957",
+          "title": "Census of agriculture",
+          "score": -4.663873672485352,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:47484819",
+          "title": "Ministry of Agriculture (Indonesia)",
+          "score": -4.711767673492432,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2446",
+      "row_index": 2446,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "60cdf7cfe5f4b64c76fb64a424a9d7f5f316e84284ee52d31b2e0055dde4a4b1",
+      "human_review": "pending",
+      "status": "candidate",
+      "query": "C H E M I S SI T R Y. 17",
+      "receipt_sha256": "4198bcfc0e9e36b2874f06eaf5c490c19504be16a02b932bf12d61e9a36e7510",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2446.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:34410870",
+          "title": "List of chemistry mnemonics",
+          "score": -5.154231071472168,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:60826815",
+          "title": "Silanes",
+          "score": -5.84858512878418,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:51379805",
+          "title": "Group 14 hydride",
+          "score": -5.989545822143555,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2448",
+      "row_index": 2448,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "5cfd84eedbadbb7c7f0b19303eb416670f7a3a98f952ff0dc5a147dd3a1ef005",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "**C O M ( 255 ) C O M**",
+      "receipt_sha256": "0eb6c240726aa4872938dcc1c9635f6a2b1c1fafd1c58c6b8341c946f5f5731d",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2448.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:57053633",
+          "title": "List of Achilidae genera",
+          "score": -5.553001403808594,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:57279534",
+          "title": "List of Diapheromeridae genera",
+          "score": -5.714068412780762,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:29686909",
+          "title": "List of Coleophora species",
+          "score": -5.716134071350098,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2464",
+      "row_index": 2464,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "948d6b2dd0e4a2897116ff6c421a5fdaf9bc602fd4fd2ca7579d316f6da7bf60",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "C A B ( 2 ) C A B",
+      "receipt_sha256": "46d75836f4b6cbf0bf41ecf650f765731feb42088a9ba9fef8321610f0edc559",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2464.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:26563388",
+          "title": "Half-side formula",
+          "score": -5.5847086906433105,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:58325116",
+          "title": "Titu's lemma",
+          "score": -5.671999454498291,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:31940975",
+          "title": "Extranatural transformation",
+          "score": -5.71829080581665,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2473",
+      "row_index": 2473,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "63e10e17aa4a3a8279bf5c9b2ca8bc990015b1df47d50548d417a3cd7bc47ad4",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "E R A ( sit)",
+      "receipt_sha256": "da474595dc3b0fc7c5bf78eab4b172f11f966918b6172551273238d746f87419",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2473.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:15884551",
+          "title": "List of R.E.M. concert tours",
+          "score": -5.791364669799805,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:12059818",
+          "title": "1980 Edmonton municipal election",
+          "score": -5.833600044250488,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:46263746",
+          "title": "1971 Haringey London Borough Council election",
+          "score": -5.987055778503418,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2479",
+      "row_index": 2479,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "286fb40b36d58955b9b50a5ee0617be6b3823a35c709e7748a952e4ae19d1209",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "948 L A W.",
+      "receipt_sha256": "0b4cf2549320356f8f0d195e390123cf25149a7d2f308309615443be777fe07b",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2479.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:208850",
+          "title": "Quotient of a formal language",
+          "score": -5.974740028381348,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:6689057",
+          "title": "List of Nature Conservation Review sites",
+          "score": -6.255165100097656,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:58104681",
+          "title": "Pseudo-polynomial transformation",
+          "score": -6.297734260559082,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2493",
+      "row_index": 2493,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "512b8436efd368c19b30387a09057f0231984f4cf198a28710d515d6e57d1fa2",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "598",
+      "receipt_sha256": "ee30d8ab327513b6d27741803ee2efe433d9f1fbd10fafc9b7be8fcb5bea5f98",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2493.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:303855",
+          "title": "598 BC",
+          "score": -2.6554107666015625,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:8206340",
+          "title": "Ohio State Route 598",
+          "score": -2.9687952995300293,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:19974823",
+          "title": "List of highways numbered 598",
+          "score": -3.073697566986084,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2524",
+      "row_index": 2524,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "549c67e1abd3f465a8ad610cebed4574f83328292df23f278269d1a50a01c1f9",
+      "human_review": "pending",
+      "status": "candidate",
+      "query": "408",
+      "receipt_sha256": "2ec1b30e5cf2fe2e58ee457b2299456bec45238d0dd258076a88f4048044196f",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2524.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:24033355",
+          "title": "The 408",
+          "score": -2.1811633110046387,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:17457294",
+          "title": "List of highways numbered 408",
+          "score": -2.6850807666778564,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:64135080",
+          "title": "National Route 408 (Costa Rica)",
+          "score": -3.1704065799713135,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2569",
+      "row_index": 2569,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "b4698e386e3ef15529551c1c84776a5691b425f659658aa679ee61fe29fa2779",
+      "human_review": "pending",
+      "status": "ambiguous",
+      "query": "ABY S SINIA. 57",
+      "receipt_sha256": "4757172d88602fecd73db100a9bc2f43397f5d7a919862058c36016f08a61809",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2569.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:19926970",
+          "title": "Sinia",
+          "score": -3.991347312927246,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:61344333",
+          "title": "Mavri Sinia",
+          "score": -4.4504194259643555,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:38602828",
+          "title": "Navut language",
+          "score": -4.502475738525391,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2570",
+      "row_index": 2570,
+      "original_status": "blocked",
+      "original_blockers": [
+        "http: ConnectError"
+      ],
+      "original_receipt_sha256": "f3744cdc29498d12a76073e2842186ce8867ba9a357732470b8b2e64fce31211",
+      "human_review": "pending",
+      "status": "candidate",
+      "query": "88 ABYSSINIA.",
+      "receipt_sha256": "db95034f05dc1f93ba533b2e11196652ef02635f3b143d49abd45ae0d4dd558c",
+      "receipt_path": "evidence/live-nemotron-matching-retry-20261018T1800Z/page-2570.json",
+      "candidates": [
+        {
+          "document_id": "wikipedia:2123",
+          "title": "Abyssinia (disambiguation)",
+          "score": -1.1330277919769287,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:12173260",
+          "title": "Abyssinia (1987 musical)",
+          "score": -1.7772960662841797,
+          "score_type": "raw_logit"
+        },
+        {
+          "document_id": "wikipedia:74544097",
+          "title": "Abyssinia (1906 musical)",
+          "score": -2.169802665710449,
+          "score_type": "raw_logit"
+        }
+      ],
+      "blockers": []
+    }
+  ],
+  "query_overrides": {
+    "403": "philology Chaldean Ethiopian",
+    "1032": "heart blood physiology"
+  },
+  "query_override_reason": "Assistant derived narrow search terms from legible original OCR after misspelled/abbreviated headings found no articles. Raw source text unchanged.",
+  "completed_at": "2026-10-18T18:21:44.370637+00:00",
+  "counts": {
+    "documents": 886,
+    "vectors": 747,
+    "historical_pages": 99,
+    "wikipedia_articles": 787
+  }
+}

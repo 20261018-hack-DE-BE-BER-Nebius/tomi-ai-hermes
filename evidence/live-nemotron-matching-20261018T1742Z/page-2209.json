@@ -1,0 +1,36 @@
+{
+  "status": "blocked",
+  "question": "Plate. XLVI",
+  "locale": "en",
+  "candidates": [],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2209",
+    "title": "Britannica page 2209",
+    "corpus": "britannica",
+    "text": "<x_0.0><y_0.0>Plate. XLVI<x_0.999><y_0.993><class_Picture>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "7a3e561cff2ba99947a03910d5dbe9c68a6a54b3fc2169dd2d4c5b2681f11998",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:57:49.163950+00:00",
+    "parser_receipt_sha256": "6334f1bb07abb019e9ffcd8ae3fd7667c0c4bfdbe14cdcd0dbcae38f2c0b756e",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "failed",
+      "duration_ms": 2,
+      "error": "http: ConnectError",
+      "occurred_at": "2026-10-18T17:58:48.426960+00:00"
+    }
+  ],
+  "blockers": [
+    "http: ConnectError"
+  ],
+  "metrics": null,
+  "uncertainty": [],
+  "candidate_query": "plate xlvi"
+}

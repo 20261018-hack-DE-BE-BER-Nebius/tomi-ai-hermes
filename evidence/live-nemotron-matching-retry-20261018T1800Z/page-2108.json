@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "B R I  [ 645 J B R F",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:63653137",
+      "title": "Asemeia (plant)",
+      "corpus": "wikipedia",
+      "text": "Asemeia is a genus of flowering plants belonging to the family Polygalaceae. It includes 36 species native to the tropical and subtropical Americas, ranging from the southeastern United States through Mexico, Central America, the Caribbean, and tropical South America to northern Argentina.\n\nAs of April 2024, Plants of the World Online accepts the following species:\n\nAsemeia acuminata (Willd.) J.F.B.Pastore & J.R.Abbott\n\nAsemeia aguiariana J.F.B.Pastore & M.Mota\n\nAsemeia apopetala (Brandegee) J.F.B.Pastore & J.R.Abbott\n\nAsemeia campestris J.F.B.Pastore & M.Mota\n\nAsemeia coracoralinae M.Mota & J.F.B.Pastore\n\nAsemeia echinosperma (Görts) J.F.B.Pastore & J.R.Abbott\n\nAsemeia eglandulosa J.F.B.Pastore & M.Mota\n\nAsemeia extraaxillaris (Chodat) J.F.B.Pastore & J.R.Abbott\n\nAsemeia floribunda (Benth.) J.F.B.Pastore & J.R.Abbott\n\nAsemeia galmeri (Chodat) J.F.B.Pastore & J.R.Abbott\n\nAsemeia glabra (A.W.Benn.) J.F.B.Pastore & J.R.Abbott\n\nAsemeia grandiflora (Walter) Small\n\nAsemeia hebeclada (DC.) J.F.B.Pastore & J.R.Abbott\n\nAsemeia hirsuta (A.St.-Hil. & Moq.) J.F.B.Pastore & J.R.Abbott\n\nAsemeia hondurana (Chodat) J.F.B.Pastore & J.R.Abbott\n\nAsemeia ignatii (Chodat) J.F.B.Pastore & J.R.Abbott\n\nAsemeia ilheotica (Wawra) J.F.B.Pastore & J.R.Abbott\n\nAsemeia lindmaniana (Chodat) J.F.B.Pastore & J.R.Abbott\n\nAsemeia marquesiana (J.F.B.Pastore & T.B.Cavalc.) J.F.B.Pastore & J.R.Abbott\n\nAsemeia martiana (A.W.Benn.) J.F.B.Pastore & J.R.Abbott\n\nAsemeia minensis M.Mota & J.F.B.Pastore\n\nAsemeia mollis (Kunth) J.F.B.Pastore & J.R.Abbott\n\nAsemeia monninoides (Kunth) J.F.B.Pastore & J.R.Abbott\n\nAsemeia monticola (Kunth) J.F.B.Pastore & J.R.Abbott\n\nAsemeia nana M.Mota & J.F.B.Pastore\n\nAsemeia ovata (Poir.) J.F.B.Pastore & J.R.Abbott\n\nAsemeia parietaria (Chodat) J.F.B.Pastore & J.R.Abbott\n\nAsemeia pohliana (A.St.-Hil. & Moq.) J.F.B.Pastore & J.R.Abbott\n\nAsemeia pseudohebeclada (Chodat) J.F.B.Pastore & J.R.Abbott\n\nAsemeia rhodoptera (Mart. ex A.W.Benn.) J.F.B.Pastore & J.R.Abbott\n\nAsemeia securidaca (Chodat) J.F.B.Pastore & J.R.Abbott\n\nAsemeia sphaerospora (Chodat) J.F.B.Pastore & J.R.Abbott\n\nAsemeia subaphylla J.F.B.Pastore & M.Mota\n\nAsemeia tobatiensis (Chodat) J.F.B.Pastore & J.R.Abbott\n\nAsemeia tonsa (S.F.Blake) J.F.B.Pastore & J.R.Abbott\n\nAsemeia violacea (Aubl.) J.F.B.Pastore & J.R.Abbott",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1322167288",
+      "revision_id": "1322167288",
+      "text_sha256": "f4c403bfdc7b26300beb7984780ece98217008ddc1d9f139bd98c1df7bb47467",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:15:54.585642+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.38482666015625,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:4384572",
+      "title": "Werauhia",
+      "corpus": "wikipedia",
+      "text": "Werauhia is a genus of the botanical family Bromeliaceae, subfamily Tillandsioideae. The genus is named for Werner Rauh, a German botanist (1913–2000). Based on molecular evidence, a number of species previously classified within other bromeliad genera, especially Vriesea and Tillandsia, have been placed in Werauhia instead. Species in this genus are distributed across tropical regions in the Americas.\n\nWerauhia acuminata (Mez & Wercklé) J.R. Grant\n\nWerauhia ampla (L.B. Smith) J.R. Grant\n\nWerauhia anitana J.F. Morales\n\nWerauhia apiculata (L.B. Smith) J.R. Grant\n\nWerauhia attenuata (L.B. Smith & Pittendrigh) J.R. Grant\n\nWerauhia balanophora (Mez) J.R. Grant\n\nWerauhia barii (J.F. Morales) J.F. Morales\n\nWerauhia bicolor (L.B. Smith) J.R. Grant\n\nWerauhia boliviana H. Luther\n\nWerauhia bracteosa (Mez & Wercklé) J.R. Grant\n\nWerauhia broadwayi (L.B. Smith) J.R. Grant\n\nWerauhia brunei (Mez & Wercklé) J.R. Grant\n\nWerauhia burgeri (L.B. Smith) J.R. Grant\n\nWerauhia camptoclada (Mez & Wercklé) J.F. Morales\n\nWerauhia capitata (Mez & Wercklé) J.R. Grant\n\nWerauhia comata (Mez & Wercklé) J.R. Grant\n\nWerauhia cowellii (Mez & N.L. Britton) J.R. Grant\n\nWerauhia dalstroemii H. Luther\n\nWerauhia diantha (H. Luther) J.R. Grant\n\nWerauhia dressleri (Rauh) J.R. Grant\n\nWerauhia gibba (L.B. Smith) J.R. Grant\n\nWerauhia gigantea (Martius ex Schultes f.) J.R. Grant\n\nWerauhia gladioliflora (H. Wendland) J.R. Grant\n\nWerauhia graminifolia (Mez & Wercklé) J.R. Grant\n\nWerauhia greenbergii (J. Utley) J.R. Grant\n\nWerauhia guadelupensis (Baker) J.R. Grant\n\nWerauhia haberi (J.F. Morales) J.F. Morales\n\nWerauhia hainesiorum (L.B. Smith) J.R. Grant\n\nWerauhia haltonii (H. Luther) J.R. Grant\n\nWerauhia haplostachya (C. Wright ex Sauvalle) J.R. Grant\n\nWerauhia hygrometrica (André) J.R. Grant\n\nWerauhia insignis (Mez) W. Till, Barfuss & R. Samuel\n\nWerauhia jenii S. Pierce\n\nWerauhia kathyae (J. Utley) J.R. Grant\n\nWerauhia kupperiana (Suessenguth) J.R. Grant\n\nWerauhia latissima (Mez & Wercklé) J.R. Grant\n\nWerauhia laxa (Mez & Wercklé) J.R. Grant\n\nWerauhia leucophylla (L.B. Smith) J.R. Grant\n\nWerauhia luis-gomezii (J. Utley) J.R. Grant\n\nWerauhia lutheri S. Pierce & J.E. Aranda\n\nWerauhia lyman-smithii (J. Utley) J.R. Grant\n\nWerauhia macrantha (Mez & Wercklé) J.R. Grant\n\nWerauhia macrochlamys (Mez & Wercklé) J.F. Morales\n\nWerauhia marnier-lapostollei (L.B. Smith) J.R. Grant\n\nWerauhia millennia J.R. Grant\n\nWerauhia moralesii H. Luther\n\nWerauhia nephrolepis (L.B. Smith & Pittendrigh) J.R. Grant\n\nWerauhia noctiflorens T. Krömer, Espejo, López-Ferrari & Acebey\n\nWerauhia notata (L.B. Smith & Pittendrigh) J.R. Grant\n\nWerauhia nutans (L.B. Smith) J.R. Grant\n\nWerauhia ochracea (Rauh & E. Gross) J.R. Grant\n\nWerauhia orjuelae (L.B. Smith) J.R. Grant\n\nWerauhia ororiensis (Mez) J.R. Grant\n\nWerauhia osaensis (J.F. Morales) J.F. Morales\n\nWerauhia panamaensis (E. Gross & Rauh) J.R. Grant\n\nWerauhia paniculata (Mez & Wercklé) J.R. Grant\n\nWerauhia paupera (Mez & Sodiro) J.R. Grant\n\nWerauhia pectinata (L.B. Smith) J.R. Grant\n\nWerauhia pedicellata (Mez & Wercklé) J.R. Grant\n\nWerauhia picta (Mez & Wercklé) J.R. Grant\n\nWerauhia pittieri (Mez) J.R. Grant\n\nWerauhia proctorii Cedeño-Maldonado\n\nWerauhia pycnantha (L.B. Smith) J.R. Grant\n\nWerauhia ringens (Grisebach) J.R. Grant\n\nWerauhia rubra (Mez & Wercklé) J.R. Grant\n\nWerauhia rugosa (Mez & Wercklé) J.R. Grant\n\nWerauhia sanguinolenta (Linden ex Cogniaux & Marchal) J.R. Grant\n\nWerauhia singuliflora (Mez & Wercklé) J.R. Grant\n\nWerauhia sintenisii (Baker) J.R. Grant\n\nWerauhia stenophylla (Mez & Wercklé) J.R. Grant\n\nWerauhia subsecunda (Wittmack) J.R. Grant\n\nWerauhia tarmaensis (Rauh) J.R. Grant\n\nWerauhia tiquirensis (J.F. Morales) J.F. Morales\n\nWerauhia tonduziana (L.B. Smith) J.R. Grant\n\nWerauhia umbrosa (L.B. Smith) J.R. Grant\n\nWerauhia urbaniana (Mez) J.R. Grant\n\nWerauhia uxoris (Utley) J.R. Grant\n\nWerauhia van-hyningii (L.B. Smith) J.R. Grant\n\nWerauhia verrucosa (L.B. Smith) J.R. Grant\n\nWerauhia vietoris (J. Utley) J.R. Grant\n\nWerauhia viridiflora (Regel) J.R. Grant\n\nWerauhia viridis (Mez & Wercklé) J.R. Grant\n\nWerauhia vittata (Mez & Wercklé) J.R. Grant\n\nWerauhia vulcanicola (J.F. Morales) J.F. Morales\n\nWerauhia werckleana (Mez) J.R. Grant\n\nWerauhia williamsii (L.B. Smith) J.R. Grant\n\nWerauhia woodsoniana (L.B. Smith) J.R. Grant",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1306264146",
+      "revision_id": "1306264146",
+      "text_sha256": "1a384425686762f70d945872e8e39b4aaf643ed524366b3a8ddcba4e41bf554e",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:16:01.218518+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.44475793838501,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:2909442",
+      "title": "Senega",
+      "corpus": "wikipedia",
+      "text": "Senega is a genus of flowering plants in the milkwort family (Polygalaceae) native to the Americas, tropical and southern Africa, and Madagascar. It was resurrected from the genus Polygala in 2023. The North American species Senega officinalis was introduced to Europe in the 1700s and was sold widely by pharmacists into the 1800s. It is toxic in large quantities.\n\nThese species are included in the genus:\n\nSenega abietina (Chodat) J. F. B. Pastore\n\nSenega abreui (Marques & J. F. B. Pastore) J. F. B. Pastore\n\nSenega adenophora (DC.) J. F. B. Pastore\n\nSenega adenophylla (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega afra (Paiva) J. F. B. Pastore\n\nSenega africana (Chodat) J. F. B. Pastore\n\nSenega alba (Nutt.) J. F. B. Pastore & J. R. Abbott\n\nSenega altomontana (Lüdtke, Boldrini & Miotto) J. F. B. Pastore\n\nSenega ambigua (Nutt.) J. F. B. Pastore & J. R. Abbott\n\nSenega anderssonii (B. L. Rob.) J. F. B. Pastore\n\nSenega aparinoides (Hook. & Arn.) J. F. B. Pastore & J. R. Abbott\n\nSenega aphylla (A. W. Benn.) J. F. B. Pastore\n\nSenega apparicioi (Brade) J. F. B. Pastore\n\nSenega appendiculata (Vell.) J. F. B. Pastore & J. R. Abbott\n\nSenega appressa (Benth.) J. F. B. Pastore\n\nSenega aquilonia (Fernald & B. G. Schub.) J. F. B. Pastore & J. R. Abbott\n\nSenega argentinensis (Chodat) J. F. B. Pastore & Agust. Martinez\n\nSenega aspalatha (L.) J. F. B. Pastore & Agust. Martinez\n\nSenega asperuloides (Kunth) J. F. B. Pastore\n\nSenega atropurpurea (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega australis (A. W. Benn.) J. F. B. Pastore\n\nSenega balduini (Nutt.) J. F. B. Pastore & J. R. Abbott\n\nSenega berlandieri (S. Watson) J. F. B. Pastore & J. R. Abbott\n\nSenega berteroana (DC.) J. F. B. Pastore\n\nSenega bevilacquae (Marques) J. F. B. Pastore\n\nSenega blakeana (Steyerm.) J. F. B. Pastore\n\nSenega bocainensis (Brade) J. F. B. Pastore\n\nSenega boliviensis (A. W. Benn.) J. F. B. Pastore\n\nSenega bonariensis (Grondona) J. F. B. Pastore\n\nSenega boykinii (Nutt.) J. F. B. Pastore & J. R. Abbott\n\nSenega brachyptera (Griseb.) J. F. B. Pastore & J. R. Abbott\n\nSenega bracteata (A. W. Benn.) J. F. B. Pastore\n\nSenega brasiliensis (L.) J. F. B. Pastore\n\nSenega brevifolia (Nutt.) J. F. B. Pastore & J. R. Abbott\n\nSenega bryoides (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega campestris (Gardner) J. F. B. Pastore\n\nSenega capillaris (E. Mey. ex Harv.) J. F. B. Pastore\n\nSenega capitolensis (J. F. B. Pastore) J. F. B. Pastore\n\nSenega carphoides (Chodat) J. F. B. Pastore\n\nSenega ceciliana (Marques & J. F. B. Pastore) J. F. B. Pastore\n\nSenega celosioides (Mart. ex A. W. Benn.) J. F. B. Pastore\n\nSenega chamaecyparis (Chodat) J. F. B. Pastore\n\nSenega chapadensis (Chodat ex Grondona) J. F. B. Pastore\n\nSenega chapmanii (Torr. & A. Gray) J. F. B. Pastore & J. R. Abbott\n\nSenega cneorum (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega conferta (A. W. Benn.) J. F. B. Pastore & J. R. Abbott\n\nSenega coriacea (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega corifolia (Triana & Planch.) J. F. B. Pastore & Agust. Martinez\n\nSenega corralitae (Tombesi & R. Kiesling) J. F. B. Pastore & Agust. Martinez\n\nSenega crenata (C. W. James) J. F. B. Pastore & J. R. Abbott\n\nSenega crinita (Chodat) J. F. B. Pastore & J. R. Abbott\n\nSenega crucianelloides (DC.) J. F. B. Pastore & J. R. Abbott\n\nSenega cruciata (L.) J. F. B. Pastore & J. R. Abbott\n\nSenega cumbrensis (Wurdack) J. F. B. Pastore\n\nSenega curtissii (A. Gray) J. F. B. Pastore & J. R. Abbott\n\nSenega cuspidata (DC.) J. F. B. Pastore\n\nSenega cymosa (Walter) J. F. B. Pastore & J. R. Abbott\n\nSenega cyparissias (A. St.-Hil. & Moq.) J. F. B. Pastore & Agust. Martinez\n\nSenega darwiniana (A. W. Benn.) J. F. B. Pastore & Agust. Martinez\n\nSenega densifolia (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega densiracemosa (Lüdtke & Miotto) J. F. B. Pastore\n\nSenega desiderata (Speg.) J. F. B. Pastore & Agust. Martinez\n\nSenega distans (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega dolichocarpa (S. F. Blake) J. F. B. Pastore & J. R. Abbott\n\nSenega duarteana (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega equisetoides (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega exasperata (Chodat) J. F. B. Pastore\n\nSenega fendleri (Chodat) J. F. B. Pastore\n\nSenega fernandesiana (Paiva) J. F. B. Pastore\n\nSenega filicaulis (Baill.) J. F. B. Pastore\n\nSenega fontellana (Marques & A. C. A. Aguiar) J. F. B. Pastore\n\nSenega franchetii (Chodat) J. F. B. Pastore\n\nSenega galapageia (Hook. fil.) J. F. B. Pastore\n\nSenega galioides (Poir.) J. F. B. Pastore\n\nSenega glaziovii (Chodat) J. F. B. Pastore\n\nSenega glochidata (Kunth) J. F. B. Pastore\n\nSenega gnidioides (Willd.) J. F. B. Pastore & Agust. Martinez\n\nSenega gracilis (Kunth) J. F. B. Pastore\n\nSenega gracillima (S. Watson) J. F. B. Pastore & J. R. Abbott\n\nSenega graebiana (Chodat) J. F. B. Pastore\n\nSenega grazielae (Marques) J. F. B. Pastore\n\nSenega guaranitica (Chodat) J. F. B. Pastore\n\nSenega harleyi (Marques) J. F. B. Pastore\n\nSenega hecatantha (Urb.) J. F. B. Pastore & J. R. Abbott\n\nSenega hemipterocarpa (A. Gray) J. F. B. Pastore & J. R. Abbott\n\nSenega herbiola (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega hieronymi (Chodat) J. F. B. Pastore & Agust. Martinez\n\nSenega hintonii (S. F. Blake) J. F. B. Pastore & J. R. Abbott\n\nSenega hookeri (Torr. & A. Gray) J. F. B. Pastore & J. R. Abbott\n\nSenega hygrophila (Kunth) J. F. B. Pastore\n\nSenega incarnata (L.) J. F. B. Pastore & J. R. Abbott\n\nSenega intermedia (Marques) J. F. B. Pastore\n\nSenega irwinii (Wurdack) J. F. B. Pastore\n\nSenega jardimii (J. F. B. Pastore) J. F. B. Pastore\n\nSenega jefensis (W. H. Lewis) J. F. B. Pastore & J. R. Abbott\n\nSenega judithea (J. F. B. Pastore) J. F. B. Pastore\n\nSenega jujuyensis (Grondona) J. F. B. Pastore & Agust. Martinez\n\nSenega juncea (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega kalunga (J. F. B. Pastore) J. F. B. Pastore\n\nSenega kurtzii Agust. Martinez & J. F. B. Pastore\n\nSenega lancifolia (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega laxiflora (Grondona) J. F. B. Pastore\n\nSenega lecardi (Chodat) J. F. B. Pastore\n\nSenega leptostachys (Shuttlew. ex A. Gray) J. F. B. Pastore & J. R. Abbott\n\nSenega leucantha (A. W. Benn.) J. F. B. Pastore\n\nSenega lewtonii (Small) J. F. B. Pastore & J. R. Abbott\n\nSenega linoides (Poir.) J. F. B. Pastore\n\nSenega longicaulis (Kunth) J. F. B. Pastore\n\nSenega lutea (L.) J. F. B. Pastore & J. R. Abbott\n\nSenega lycopodioides (Chodat) J. F. B. Pastore\n\nSenega malmeana (Chodat) J. F. B. Pastore\n\nSenega mandonii (Chodat) J. F. B. Pastore\n\nSenega mariana (Mill.) J. F. B. Pastore & J. R. Abbott\n\nSenega matogrossensis (J. F. B. Pastore) J. F. B. Pastore\n\nSenega mcvaughii (T. Wendt) J. F. B. Pastore & J. R. Abbott\n\nSenega mendocina (Phil.) J. F. B. Pastore & Agust. Martinez\n\nSenega mexicana (Moc. ex Cav.) J. F. B. Pastore & J. R. Abbott\n\nSenega michelleana (J. F. B. Pastore) J. F. B. Pastore\n\nSenega millspaughiana (Paiva) J. F. B. Pastore & J. R. Abbott\n\nSenega minarum (J. F. B. Pastore) J. F. B. Pastore\n\nSenega minima (Pohl ex A. W. Benn.) J. F. B. Pastore\n\nSenega minuta (Paiva) J. F. B. Pastore\n\nSenega molluginifolia (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega monosperma (A. W. Benn.) J. F. B. Pastore\n\nSenega moquiniana (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega multiceps (Mart. ex A. W. Benn.) J. F. B. Pastore\n\nSenega nana (Michx.) J. F. B. Pastore & J. R. Abbott\n\nSenega nemoralis (A. W. Benn.) J. F. B. Pastore\n\nSenega nevadensis (Agust. Martinez & J. F. B. Pastore) J. F. B. Pastore & Agust. Martinez\n\nSenega nikeliophila (Marques & J. F. B. Pastore) J. F. B. Pastore\n\nSenega northorpiana (R. N. Banerjee) J. F. B. Pastore\n\nSenega nudicaulis (A. W. Benn.) J. F. B. Pastore\n\nSenega nuttallii (Torr. & A. Gray) J. F. B. Pastore & J. R. Abbott\n\nSenega obovata (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega oedophylla (S. F. Blake) J. F. B. Pastore & J. R. Abbott\n\nSenega officinalis Spach\n\nSenega omissa (Bal.-Tul. & P. Herrera) J. F. B. Pastore & J. R. Abbott\n\nSenega paganuccii (J. F. B. Pastore) J. F. B. Pastore\n\nSenega paniculata (L.) J. F. B. Pastore & J. R. Abbott\n\nSenega patagonica (Phil.) J. F. B. Pastore & Agust. Martinez\n\nSenega patens (J. F. B. Pastore & Marques) J. F. B. Pastore\n\nSenega payuniensis (Agust. Martinez & J. F. B. Pastore) J. F. B. Pastore & Agust. Martinez\n\nSenega persistens (A. W. Benn.) J. F. B. Pastore & Agust. Martinez\n\nSenega peruviana (A. W. Benn.) J. F. B. Pastore\n\nSenega philippiana (Chodat) J. F. B. Pastore & Agust. Martinez\n\nSenega poaya (Mart.) J. F. B. Pastore\n\nSenega polygama (Walter) J. F. B. Pastore & J. R. Abbott\n\nSenega pseudocoriacea (Chodat) J. F. B. Pastore\n\nSenega pseudoerica (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega pseudosericea (Chodat) J. F. B. Pastore\n\nSenega pseudovariabilis (Chodat) J. F. B. Pastore\n\nSenega pulchella (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega pumila (Norlind) J. F. B. Pastore\n\nSenega punctata (A. W. Benn.) J. F. B. Pastore\n\nSenega pygmaea (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega quitensis (Turcz.) J. F. B. Pastore\n\nSenega raddiana (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega ramosa (Elliott) J. F. B. Pastore & J. R. Abbott\n\nSenega regnellii (Chodat) J. F. B. Pastore\n\nSenega remota (A. W. Benn.) J. F. B. Pastore\n\nSenega resedoides (A. St.-Hil.) J. F. B. Pastore\n\nSenega revoluta (Gardner) J. F. B. Pastore\n\nSenega rhynchosperma (S. F. Blake) J. F. B. Pastore & J. R. Abbott\n\nSenega rhysocarpa (S. F. Blake) J. F. B. Pastore & J. R. Abbott\n\nSenega rigida (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega riograndensis (Lüdtke & Miotto) J. F. B. Pastore\n\nSenega robusta (Grondona) J. F. B. Pastore\n\nSenega rosei (Hicken) J. F. B. Pastore & Agust. Martinez\n\nSenega rostrata (Chodat) J. F. B. Pastore\n\nSenega roubienna (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega rugelii (Shuttlew. ex Chapm.) J. F. B. Pastore & J. R. Abbott\n\nSenega sabuletorum (Skottsb.) J. F. B. Pastore & Agust. Martinez\n\nSenega saginoides (Griseb.) J. F. B. Pastore & J. R. Abbott\n\nSenega salasiana (Gay) J. F. B. Pastore & Agust. Martinez\n\nSenega salviniana (A. W. Benn.) J. F. B. Pastore & J. R. Abbott\n\nSenega sanariapoana (Steyerm.) J. F. B. Pastore\n\nSenega sancti-georgii (L. Riley) J. F. B. Pastore\n\nSenega sanguinea (L.) J. F. B. Pastore & J. R. Abbott\n\nSenega sansibarensis (Gürke) J. F. B. Pastore\n\nSenega santacruzensis (Grondona) J. F. B. Pastore & Agust. Martinez\n\nSenega saprophytica (Chodat ex Grondona) J. F. B. Pastore\n\nSenega savannarum (Chodat) J. F. B. Pastore\n\nSenega scoparioides (Chodat) J. F. B. Pastore & J. R. Abbott\n\nSenega sedoides (A. W. Benn.) J. F. B. Pastore\n\nSenega selaginoides (A. W. Benn.) J. F. B. Pastore\n\nSenega sellowiana (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega semialata (S. Watson) J. F. B. Pastore & J. R. Abbott\n\nSenega sericea (A. W. Benn.) J. F. B. Pastore\n\nSenega setacea (Michx.) J. F. B. Pastore & J. R. Abbott\n\nSenega shinnersii (W. H. Lewis) J. F. B. Pastore & J. R. Abbott\n\nSenega sinaloae (S. F. Blake) J. F. B. Pastore & J. R. Abbott\n\nSenega sincorensis (Chodat) J. F. B. Pastore\n\nSenega sipapoana (Wurdack) J. F. B. Pastore\n\nSenega smallii (R. R. Sm. & D. B. Ward) J. F. B. Pastore & J. R. Abbott\n\nSenega solieri (Gay) J. F. B. Pastore & Agust. Martinez\n\nSenega spathulata (Griseb.) J. F. B. Pastore & J. R. Abbott\n\nSenega spicata (Chodat) J. F. B. Pastore\n\nSenega spinescens (Gillies) J. F. B. Pastore & Agust. Martinez\n\nSenega squamifolia (C. Wright ex Griseb.) J. F. B. Pastore & J. R. Abbott\n\nSenega stenophylla (A. Gray) J. F. B. Pastore & Agust. Martinez\n\nSenega stephaniana (Marques) J. F. B. Pastore\n\nSenega stricta (A. St.-Hil. & Moq.) J. F. B. Pastore\n\nSenega subalata (S. Watson) J. F. B. Pastore & J. R. Abbott\n\nSenega subandina (Phil.) J. F. B. Pastore & Agust. Martinez\n\nSenega subtilis (Kunth) J. F. B. Pastore\n\nSenega subverticillata (Chodat) J. F. B. Pastore\n\nSenega suganumae (J. F. B. Pastore & Marques) J. F. B. Pastore\n\nSenega sulphurea (A. W. Benn.) J. F. B. Pastore\n\nSenega tacianae (J. F. B. Pastore & Harley) J. F. B. Pastore\n\nSenega tamariscea (Mart. ex A. W. Benn.) J. F. B. Pastore\n\nSenega telephium (Chodat) J. F. B. Pastore\n\nSenega tellezii (T. Wendt) J. F. B. Pastore & J. R. Abbott\n\nSenega tenuis (DC.) J. F. B. Pastore\n\nSenega tenuissima (Chodat) J. F. B. Pastore\n\nSenega timoutoides (Chodat) J. F. B. Pastore\n\nSenega timoutou (Aubl.) J. F. B. Pastore\n\nSenega trichosperma (Jacq.) J. F. B. Pastore\n\nSenega trifurcata (Chodat) J. F. B. Pastore\n\nSenega tuberculata (Chodat) J. F. B. Pastore\n\nSenega veadeiroensis (J. F. B. Pastore) J. F. B. Pastore\n\nSenega ventanensis (Grondona) J. F. B. Pastore & Agust. Martinez\n\nSenega vergrandis (W. H. Lewis) J. F. B. Pastore & J. R. Abbott\n\nSenega verticillata (L.) J. F. B. Pastore & J. R. Abbott\n\nSenega viridis (S. Watson) J. F. B. Pastore & J. R. Abbott\n\nSenega vollii (Brade) J. F. B. Pastore\n\nSenega watsonii (Chodat) J. F. B. Pastore & J. R. Abbott\n\nSenega weddelliana (Chodat) J. F. B. Pastore\n\nSenega wettsteinii (Chodat) J. F. B. Pastore\n\nSenega wilsonii (Small) J. F. B. Pastore & J. R. Abbott\n\nSenega wurdackiana (W. H. Lewis) J. F. B. Pastore & J. R. Abbott",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1322199562",
+      "revision_id": "1322199562",
+      "text_sha256": "0d3d8ac3719fcd16c4955c07a8242d31699f5370394f3fca3d5cf1e68c3aaa6d",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:15:55.926847+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.45501184463501,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2108",
+    "title": "Britannica page 2108",
+    "corpus": "britannica",
+    "text": "<x_0.0><y_0.0>B R I  [ 645 J B R F<x_0.7168><y_0.0516><class_Page-header>\n\n<x_0.4355><y_0.05>eleapce or advance, he was compelled to figu a capitu- lation by which the whole army laid down their arms, and were different into different quarters of cantone. By this remarkable capitalism, which was called the _capitalization of Clofler Screw_, Hanover was obliged to identify quickly to the French, who were now determined to turn their arms against the king of Pruffia.<x_0.8242><y_0.1547><class_Text>\n\n<x_0.4365><y_0.157>Snow after this capitulation, both fides began in The Horror complain that the treaty was not firmly oblivered. The version has Hanoverians explained again the capacity of the up arms. French general, and the mortality of his dollars. The French trusted the change against them, accused them sif violence and infortions, and, being fina- flide of their own footeroriy, refiled to bind them fairly to their terms of agreement. The Hanoveriians only withinled for a presence to take arms, and age- as to heal them. Neither were longrunning. The oppressed of the tax-gatherers whom the French had appointed, were ordered at its fewer, that the army is violated the freedom of their country, while Ferdinand, price of Brunfivick, put himself at their head. A box an this was known in Britain large supplies were granted that for the review of the king of Pruffia, and to enable the Hanoverian army to act vigorously in conjunction with him. A final body of British forces was first over to join people Ferdinand under the dule of Marthborough. After home inconferder to Cevrely, the dude of Marthongdy-ying, the command of the British forces developed on Lord George Skaville. A mindunderfunding arole be-French de- the banin pral Prince Ferdinand, which appeared at least as the battle of Muthish that was fought shortly after Vladimir. Lond forcege pretended that he did not undermined the letters but they the prizes and of consequences did not obey them. The alien gained the victory, which would have been more decline had the British com- mander-doed his outlaw. He was from about are recalled, tried by a court-martial, found guilty of dilobedience, and declined incapable of living in any military com- sent for the future.<x_0.8232><y_0.5938><class_Text>\n\n<x_0.4375><y_0.5945>After this victory it was imagined, that one rein-German forment name of Britli troops would terminate these wonti- ing in favor of the duties, said that enforcement was good with quickly fent. The British army in Germany was sug- claims forced to upwards of $2000 men, and financial hopes of consult were generally entrusted. Their hopes, however, even foul found be bell founded. The allies were defeated at Cortach; i but reterved their honour at Erdorf. A victory at Warburgh followed shortly after, and another at Zienberg: but then they fat- fund a defeat at Compen; after which, both fides re- tired into winter-quarters.<x_0.8252><y_0.7516><class_Text>\n\n<x_0.4346><y_0.7508>On the 31th of October 1760s happened the death Death of King George II. He had rules at his infant born, May 25, and offered to his attendants, that as the weather was fine, he would take a walk into the greatest of Kerry, who?he her than relief. In a few minutes af- ter his return, being left alone, he was heard to fall down upon the floor. The route of the bringing his attendants into the room, they filled him into bed ; where he defined with a faint voice, that the pricesfa Arnels might be far for; but before the could reach the apartment, be co-pied, in the 17th year of his age, and 33d of his reign. An attempt was made to bleed him,<x_0.8262><y_0.9234><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "2a03288f9ee4f3341c3f0ce34e3c33bcb383d7be7326b17e3628b368e7983bc0",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:57:41.591706+00:00",
+    "parser_receipt_sha256": "e2133dce96606f6b4817e397e1feed0d0a74f0157e7290a644818483993ffe4d",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 375,
+      "occurred_at": "2026-10-18T18:15:52.982648+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1603,
+      "occurred_at": "2026-10-18T18:15:54.585673+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1318,
+      "occurred_at": "2026-10-18T18:15:55.926884+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2206,
+      "occurred_at": "2026-10-18T18:15:58.158527+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2145,
+      "occurred_at": "2026-10-18T18:16:00.332329+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 860,
+      "occurred_at": "2026-10-18T18:16:01.218563+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 777,
+      "occurred_at": "2026-10-18T18:16:02.022350+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1029,
+      "occurred_at": "2026-10-18T18:16:03.073739+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1025,
+      "occurred_at": "2026-10-18T18:16:04.119534+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 69,
+      "occurred_at": "2026-10-18T18:16:04.208562+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 796,
+      "occurred_at": "2026-10-18T18:16:05.004223+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 712,
+      "occurred_at": "2026-10-18T18:16:05.724501+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 10,
+      "occurred_at": "2026-10-18T18:16:05.734188+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 566,
+      "occurred_at": "2026-10-18T18:16:06.300187+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 592,
+    "modern_words": 415,
+    "vocabulary_jaccard": 0.03349282296650718,
+    "jensen_shannon_divergence": 0.8726186656926967,
+    "historical_top_words": [
+      [
+        "the",
+        48
+      ],
+      [
+        "of",
+        30
+      ],
+      [
+        "to",
+        16
+      ],
+      [
+        "was",
+        14
+      ],
+      [
+        "and",
+        12
+      ],
+      [
+        "a",
+        11
+      ],
+      [
+        "that",
+        9
+      ],
+      [
+        "at",
+        9
+      ],
+      [
+        "he",
+        8
+      ],
+      [
+        "their",
+        8
+      ],
+      [
+        "in",
+        8
+      ],
+      [
+        "his",
+        8
+      ],
+      [
+        "were",
+        7
+      ],
+      [
+        "after",
+        6
+      ],
+      [
+        "which",
+        5
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "j",
+        64
+      ],
+      [
+        "asemeia",
+        37
+      ],
+      [
+        "f",
+        37
+      ],
+      [
+        "b",
+        37
+      ],
+      [
+        "pastore",
+        36
+      ],
+      [
+        "r",
+        28
+      ],
+      [
+        "abbott",
+        28
+      ],
+      [
+        "chodat",
+        10
+      ],
+      [
+        "m",
+        7
+      ],
+      [
+        "mota",
+        7
+      ],
+      [
+        "a",
+        6
+      ],
+      [
+        "the",
+        6
+      ],
+      [
+        "of",
+        3
+      ],
+      [
+        "to",
+        3
+      ],
+      [
+        "w",
+        3
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "b r i j f",
+  "semantic_input": {
+    "query": "b r i j f\nB R I  [ 645 J B R F\n\neleapce or advance, he was compelled to figu a capitu- lation by which the whole army laid down their arms, and were different into different quarters of cantone. By this remarkable capitalism, which was called the _capitalization of Clofler Screw_, Hanover was obliged to identify quickly to the French, who were now determined to turn their arms against the king of Pruffia.\n\nSnow after this capitulation, both fides began in The Horror complain that the treaty was not firmly oblivered. The version has Hanoverians explained again the capacity of the up arms. French general, and the mortality of his dollars. The French trusted the change against them, accused them sif violence and infortions, and, being fina- flide of their own footeroriy, refiled to bind them fairly to their terms of agreement. The Hanoveriians only withinled for a presence to take arms, and age- as to heal them. Neither were longrunning. The oppressed of the tax-gatherers whom the French had appoin",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.059931278228759766,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

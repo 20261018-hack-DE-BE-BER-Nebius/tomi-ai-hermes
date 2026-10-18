@@ -1,0 +1,18 @@
+{
+  "reviewed_at": "2026-10-18T17:52:17.055181+00:00",
+  "row_index": 374,
+  "source_image": "data/images/page-0374-2b13c7e2a0e0.jpg",
+  "image_sha256": "2b13c7e2a0e0431e45b77999eb1745e0fe718efc79eb85c6af22a599f7c18382",
+  "method": "actual image visually inspected with local view_image; rawParse normalized text checked empty",
+  "observation": "Blank leaf with paper texture; no visible printed prose",
+  "original_parse_state": "Accepted nontruncated response containing only layout controls; raw receipt preserved",
+  "corrected_semantic_classification": "nontext_blank_leaf",
+  "sample_accounting": {
+    "full_text_pages": 97,
+    "partial_plate_pages": 1,
+    "blank_leaf_pages": 1,
+    "nontext_cover_pages": 1,
+    "total_original_pages": 100
+  },
+  "not_claimed": "This is not OCR-accuracy certification for other97pages."
+}

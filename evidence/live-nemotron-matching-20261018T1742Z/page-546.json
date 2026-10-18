@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "This means that the number of users are available to the same as they do not have a few times. The number of users can be used in the case where the number of users are able to use the number of users. However, the number of users are also used to generate",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:26497231",
+      "title": "IO Group, Inc. v. Veoh Networks, Inc.",
+      "corpus": "wikipedia",
+      "text": "IO Group, Inc. v. Veoh Networks, Inc., 586 F. Supp. 2d 1132 (N.D. Cal. 2008), is an American legal case involving an internet television network named Veoh that allowed users of its site to view streaming media of various adult entertainment producer IO Group's films. The United States District Court for the Northern District of California ruled that Veoh qualified for the safe harbors provided by the Digital Millennium Copyright Act (DMCA), 17 U.S.C. § 512 (2006). According to commentators, this case could foreshadow the resolution of Viacom v. YouTube.\n\nVeoh is a self-described Internet Television Network that allows users to share video content over the internet at its site, www.veoh.com Archived January 10, 2008, at the Wayback Machine. Users have uploaded hundreds of thousands of videos to the site since it first launched in February 2006. Users of the site have the choice to either download or stream the movie file. In addition to the user-generated content, such as family gatherings, films by aspiring filmmakers, and job interviews, Veoh also hosts a number of videos that have been uploaded by users other than the copyright owner. Some of these videos belong to Veoh's content partners, such as CBS. In these instances, Veoh has permission to display the works. However, Veoh has also received a number of takedown notices related to allegedly copyrighted material posted to the company's site. Veoh asserts that it has received notice for roughly seven percent of the videos that have been uploaded.\n\nBefore users are allowed to upload videos to veoh.com, they are required to register with the website. As part of this process, they are required to submit a username, password, and email address. When the user selects a video to upload, Veoh also prompts them to add: a title and description; keywords or tags; applicable content categories; and content rating. Once Veoh receives the file, its systems confirm that it is a video file with a compatible codec. It also extracts any metadata associated with the file and stores all the information related to the file in its database.\n\nSince users are permitted to submit the video files in a variety of formats, Veoh uses third-party software to automatically convert each of the videos into the Flash format. In addition to the Flash conversion, Veoh also automatically extracts thirty-two \" screencaps \" of the video. Sixteen of these screencaps contain the same resolution as the video itself. These screencaps are not available for users to view or access. The other sixteen screencaps are of a lower-resolution. One of these will be displayed in the user's search results while the entire set will be displayed to the end user to assist them in deciding if they would like to download or watch the movie file.\n\nWhen a user registers with veoh.com, and before they are allowed to upload any content, they must agree to abide by the Veoh's Terms of Use such that:\n\nany User Material that you make available to the Veoh Service may be made freely available by Veoh through the Veoh Service, including without limitation for download by other users, and that this permission is made and granted in consideration of your use of the Veoh Service and is nonexclusive, perpetual, royalty-free, irrevocable and transferable....\n\nVeoh shall have no obligation to monitor any User Material. However, Veoh and its agents shall have and do reserve the right to monitor any User Material from time to time for any lawful purpose. Veoh may, without notice to you, remove or block content of any User Material from the Veoh Service, including disabling access to such User material that you have downloaded through the Veoh Service. Veoh reserves the right to terminate your use of the Veoh Service if we determine that you have violated these Terms or the Acceptable Use Policy.\n\nVeoh requires all users of the Veoh Service to comply with copyright and other intellectual property laws. Accordingly, you may not publish or make available any User Material that constitutes an infringement of third party intellectual property rights, including rights granted by U.S. copyright law, or that otherwise violates the Acceptable Use Policy. You represent and warrant that you have all rights necessary to publish and distribute any User Material made available by you through the Veoh Service and that such User Material conforms to the Acceptable Use Policy. You agree to indemnify and hold Veoh harmless from and against any liability, claims, losses, demands or damages arising out of or relating to your violation of these Terms or the Acceptable Use Policy.\n\nAs explained above, Veoh does not permit copyright infringing activities on the Veoh Service and reserves the right to terminate access to the Veoh Service, and remove all User Materials posted, by any persons who are found to be repeat infringers (i.e., persons found to have uploaded copyright infringing User Material on more than two occasions).\n\nVeoh also had an Acceptable Use policy that stated:\n\nVeoh respects the rights of copyright owners to control commercial uses of their material, and expects our users to do the same. You are responsible for complying with all federal and state laws applicable to the content available through the Veoh Services, including copyright laws.\n\nAccordingly, Veoh reserves the right to terminate the service account of anyone who it learns is using the Veoh Services in violation of copyright law.\n\nVeoh has since updated its Terms of Use policy and created a separate Copyright policy.\n\nUsers were reminded of its terms during the upload process. Upon the first notice Veoh receives that a user has uploaded infringing content, Veoh terminates that user's account, disables all content uploaded by that user, and blocks that user's email address to prevent them from creating a new account. Additionally, Veoh creates a digital fingerprint of the infringing file to detect other copies of it on Veoh's servers and to prevent the same file from being uploaded at a later date.\n\nVeoh's employees will also perform spot checks of newly uploaded videos on occasion to check for compliance with its policies. During these checks, employees check to make sure the proper rating has been assigned to movies containing sexually explicit material or reveals obvious copyright infringement. If a movie is found to be in violation of its policies, Veoh disables access to it.\n\nIO Group is one of the copyright holders that had their copyrighted films uploaded to Veoh without their permission. IO Group noticed that ten of its films were available on veoh.com in varying lengths from six seconds to around forty minutes. Instead of notifying Veoh with a takedown notice after IO Group had initially discovered the clips, IO Group filed a lawsuit on June 23, 2006. IO alleged Copyright Infringement, Contributory Copyright Infringement, and Vicarious Copyright Infringement. Around this same point in time, Veoh had independently determined that it would no longer allow adult content on its site.\n\nThe issue was before the court on a cross motion for summary judgment. Ordinarily, a court would evaluate whether the defendant was guilty of infringement before evaluating whether the DMCA Safe Harbor provisions apply. However, the Court decided it was \"appropriate and more efficient\" to begin by addressing whether Veoh was eligible for protection under § 512(c).\n\nIn order for Veoh to be eligible for one of the Safe Harbors, it needs to satisfy the following thresholds:\n\nIt must be a service provider.\n\nIt must adopt, inform, and reasonably implement a policy that terminates the account of repeat infringers on the service provider's system\n\nIt must accommodate, and not interfere with, standard technical measures utilized by copyright owners to identify their works.\n\nIn this case, IO did not dispute that Veoh was a service provider. Nor did IO dispute that Veoh adopted and informed its end users of a policy regarding repeat infringers. Finally, IO did not assert that Veoh tried to interfere with any of IO's standard technical measures. IO did dispute that Veoh's application of its infringer policy was reasonable and asserted that it was a triable issue vitiating Veoh's motion for summary judgement.\n\nWhile the DMCA does not explicitly define what reasonably implemented means, the Court was able to look to the binding precedent set by the Ninth Circuit in Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th 2007). In that case, the Ninth Circuit defined Reasonable to mean \"if, under 'appropriate circumstances,' the service provider terminates users who repeatedly or blatantly infringe copyright.\"\n\nThe Court found that Veoh had put forth evidence of a working notification system that adequately addressed infringement notices because Veoh had identified a designated Copyright Agent to receive notifications of claimed infringement; Veoh had generated and utilized digital fingerprints; Veoh terminated user accounts after a single warning; Veoh disabled all content uploaded by the infringing user; Veoh blocked the infringing user's email address from opening a different account; Veoh had terminated 1,096 users under its repeat infringer provision; and Veoh had often responded to takedown notices on either the day it was received or shortly thereafter.\n\nIO wasn't convinced. They believed that Veoh's policy came up short because it did not prevent terminated users from re-registering with a different e-mail address. IO argued that Veoh should be held to a standard where they track users by their actual names or their IP Address. The Court did not agree and also noted that IO did not present any evidence that indicated that blocking users through the use of actual names or IP addresses would be any more reasonable than using the user's e-mail address. (The opinion mentions Wikipedia in FN8 as the source for information pertaining to the operation of IP addresses.) Nor was IO able to present any evidence that an actual repeat infringer had created a new account.\n\nInstead, the Court pointed out that the DMCA provisions only require that the service provider terminate the account of a repeat infringer when appropriate. The crutch to this provision centers on the service provider's requirement that it knows of the infringement. Were courts to extend that duty beyond the text, it would hinder the policies of Congress. Indeed, another United States District Court had previously found that \"the DMCA requires reasonable, not perfect, policies....\" As such, Veoh's policy of tracking infringing content was enough to satisfy the initial threshold requirement.\n\nAfter passing the threshold requirements, the Court turned to § 512(c)'s provision that prevents service provider liability where copyright infringement occurs as a result of the storage of the infringing material residing on the service providers system or network at the direction of a user. IO argued that because Veoh was creating a Flash version of the content, along with screencaps, when it was uploaded, this infringing copy was not placed on Veoh's server \"at the direction of a user.\" IO believed that the DMCA policies were not best served by protecting the creation of infringing copies for the purposes of distribution when the only protected activity should have been storage.\n\nThe Court pointed out that the language of the DMCA does not ever limit the activities to mere storage. Instead, the DMCA splits service provider into two definitions. The narrower definition is used by § 512(a) and expressly notes that the service provider may not modify the content it receives or transmits. The broader definition, and the one that applies to Veoh, does not contain this narrowing characteristic. The Court also noted that another court had also noted that \"gateway\" functions, like the one present in this case, should not act as a bar to the Safe Harbor. Thus, the Court concluded that Veoh was not disqualified from § 512(c)'s Safe Harbor due to its automated process in response to user-submitted material.\n\nUnder the Red Flag test, a service provider may lose their Safe Harbor eligibility if the Court finds that it failed to take action when the infringing activity is apparent due to the service provider's awareness of certain facts or circumstances. While IO argued that its copyright registrations in the works provided constructive criticism, the Court found that none of the videos in question contained copyright notices in them. While one of them contained IO's trademark several minutes into the clip, it didn't rise to a level of awareness to impute knowledge of infringement.\n\nA service provider that has otherwise met the criteria of § 512(c) can still lose its protections where it meets the common law elements of vicarious liability:\n\nreceives a financial benefit directly attributable to the infringing activity A ND\n\nhas the right and ability to control the infringing activity\n\nAs to the control element, the defendant would need \"both a legal right to stop or limit the directly infringing conduct, as well as the practical ability to do so.\" While Veoh had created policies governing its systems, the pertinent question focuses on control of the infringing activity. Additionally, in the context of the internet, the control elements extends beyond the ability of merely deleting the content from the service provider's server because it would be inconsistent to require an act that would also eliminate the Safe Harbor at the same time. Instead, something more is required beyond the ability to remove or block access.\n\nFor Veoh to be charged with the duty to exercise the requisite control, they would need to prescreen every file before publishing it. And even assuming for the sake of argument that Veoh had the capacity to review the hundreds of thousands of videos, there is no guarantee that they would be able to distinguish infringing material from non-infringing. Even IO had difficulties identifying the videos it owned rights to as it dropped one title and added three more to its list of infringing works during the course of discovery.\n\nThe Court also touched on the below issues, but felt they were not directly related to the issue before it.\n\nFlag It Feature\n\nThe Court did not believe that Veoh's removal of the option to report possible copyright infringement from its flagging function was convincing because it contained a link where Veoh provided users with instructions to submit a takedown notice.\n\nSexually Explicit Nature of the Works\n\nThe Court did not find IO's argument credible whereby they argued that the video clip lacked the requisite labeling requirements of 18 U.S.C. § 2257, and thus, Veoh should have known that no legitimate producer would have omitted the warning. However, the question of whether the federal labeling law has been violated is irrelevant to the question of whether the service provider had knowledge of the copyright infringement.\n\nReliance on Wikipedia\n\nAside from the Court's main holding, the case is also noteworthy for the Court's reliance on Wikipedia in the decision. In two separate instances, the Court took judicial notice of the Wikipedia definitions of internet-related terminology -- \" Flash Files \" and \" IP Address \". The Court's use of Wikipedia is part of a growing trend in Courts throughout the country.\n\nThe Court granted Veoh's motion for summary judgment. As such, it was unnecessary for the Court to decide IO's summary judgment motion.\n\nThis case and its progeny has already garnered the interests of a number of authors, which will most likely increase as technology advances. For instance, one author has suggested that the Court may have come to a different conclusion if the practical limitations of identifying infringing content through the use of simple text searches. Thus, once technology evolves to the point where it becomes feasible to search the video content itself, the IO Court may come to a different conclusion. Other authors look more favorable upon the decision, like Professor Edward Lee who praised the Court's IO decision noting that it did a great job in attempting to \"interpret the DMCA safe harbors in a way that makes the Internet workable.\"\n\nThere is even disagreement as to the Court's approach to analyzing both the statute and the case as some felt the Court did not properly apply the DMCA. For instance, one author felt the Court overlapped the elements of vicarious liability and contributory liability in its analysis. However, Professor Eric Goldman calls it \"a clean and thorough opinion... makes a significant contribution to the precedent and teaches us a lot.\"\n\nLooking to the future, this case represents a preview of the stage set for the much larger battle in Viacom v. YouTube. Indeed, Viacom actually intervened in the Veoh litigation and asked the court's permission to file an amicus curiae brief. However, that motion was denied.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1345174543",
+      "revision_id": "1345174543",
+      "text_sha256": "034d41d44e48aa2321835d61dcc99ec5e2af1cd79e93fb124f978a3ed2a5eaca",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:47:28.549234+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.0114288330078125,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:5285100",
+      "title": "Comparison of mobile phone standards",
+      "corpus": "wikipedia",
+      "text": "This is a comparison of standards of wireless networking technologies for devices such as mobile phones. A new generation of cellular standards has appeared approximately every tenth year since 1G systems were introduced in 1979 and the early to mid-1980s.\n\nGlobal System for Mobile Communications (GSM, around 80–85% market share) and IS-95 (around 10–15% market share) were the two most prevalent 2G mobile communication technologies in 2007. In 3G, the most prevalent technology was UMTS with CDMA-2000 in close contention.\n\nAll radio access technologies have to solve the same problems: to divide the finite RF spectrum among multiple users as efficiently as possible. GSM uses TDMA and FDMA for user and cell separation. UMTS, IS-95 and CDMA-2000 use CDMA. WiMAX and LTE use OFDM.\n\nTime-division multiple access (TDMA) provides multiuser access by chopping up the channel into sequential time slices. Each user of the channel takes turns to transmit and receive signals. In reality, only one person is actually using the channel at a specific moment. This is analogous to time-sharing on a large computer server.\n\nFrequency-division multiple access (FDMA) provides multiuser access by separating the used frequencies. This is used in GSM to separate cells, which then use TDMA to separate users within the cell.\n\nCode-division multiple access (CDMA) This uses a digital modulation called spread spectrum which spreads the voice data over a very wide channel in pseudorandom fashion using a user or cell specific pseudorandom code. The receiver undoes the randomization to collect the bits together and produce the original data. As the codes are pseudorandom and selected in such a way as to cause minimal interference to one another, multiple users can talk at the same time and multiple cells can share the same frequency. This causes an added signal noise forcing all users to use more power, which in exchange decreases cell range and battery life.\n\nOrthogonal frequency-division multiple access (OFDMA) uses bundling of multiple small frequency bands that are orthogonal to one another to provide for separation of users. The users are multiplexed in the frequency domain by allocating specific sub-bands to individual users. This is often enhanced by also performing TDMA and changing the allocation periodically so that different users get different sub-bands at different times.\n\nIn theory, CDMA, TDMA and FDMA have exactly the same spectral efficiency but practically, each has its own challenges – power control in the case of CDMA, timing in the case of TDMA, and frequency generation/filtering in the case of FDMA.\n\nFor a classic example for understanding the fundamental difference of TDMA and CDMA, imagine a cocktail party where couples are talking to each other in a single room. The room represents the available bandwidth:\n\nTDMA: A speaker takes turns talking to a listener. The speaker talks for a short time and then stops to let another couple talk. There is never more than one speaker talking in the room, no one has to worry about two conversations mixing. The drawback is that it limits the practical number of discussions in the room (bandwidth wise).\n\nCDMA: any speaker can talk at any time; however each uses a different language. Each listener can only understand the language of their partner. As more and more couples talk, the background noise (representing the noise floor) gets louder, but because of the difference in languages, conversations do not mix. The drawback is that at some point, one cannot talk any louder. After this if the noise still rises (more people join the party/cell) the listener cannot make out what the talker is talking about without coming closer to the talker. In effect, CDMA cell coverage decreases as the number of active users increases. This is called cell breathing.\n\nSource:\n\nLess signal deterioration inside buildings.\n\nAbility to use repeaters.\n\nTalktime is generally higher in GSM phones due to the pulse nature of transmission.\n\nThe availability of Subscriber Identity Modules allows users to switch networks and handsets at will, aside from a subsidy lock.\n\nGSM covers virtually all parts of the world so international roaming is not a problem.\n\nThe much bigger number of subscribers globally creates a better network effect for GSM handset makers, carriers and end users.\n\nInterferes with some electronics, especially certain audio amplifiers.\n\nIntellectual property is concentrated among a few industry participants, creating barriers to entry for new entrants and limiting competition among phone manufacturers. Situation is however worse in CDMA-based systems like IS-95, where Qualcomm is the major IP holder.\n\nGSM has a fixed maximum cell site range of 120 km, which is imposed by technical limitations. This is expanded from the old limit of 35 km.\n\nCapacity is IS-95's biggest asset; it can accommodate more users per MHz of bandwidth than any other technology.\n\nHas no built-in limit to the number of concurrent users.\n\nUses precise clocks that do not limit the distance a tower can cover.\n\nConsumes less power and covers large areas so cell size in IS-95 is larger.\n\nAble to produce a reasonable call with lower signal (cell phone reception) levels.\n\nUses soft handoff, reducing the likelihood of dropped calls.\n\nIS-95's variable rate voice coders reduce the rate being transmitted when speaker is not talking, which allows the channel to be packed more efficiently.\n\nHas a well-defined path to higher data rates.\n\nMost technologies are patented and must be licensed from Qualcomm.\n\nBreathing of base stations, where coverage area shrinks under load. As the number of subscribers using a particular site goes up, the range of that site goes down.\n\nBecause IS-95 towers interfere with each other, they are normally installed on much shorter towers. Because of this, IS-95 may not perform well in hilly terrain.\n\nUSSD, PTT, concatenated/E-sms are not supported by IS-95/CDMA\n\nIS-95 covers a smaller portion of the world, and IS-95 phones are generally unable to roam internationally.\n\nManufacturers are often hesitant to release IS-95 devices due to the smaller market, so features are sometimes late in coming to IS-95 devices.\n\nEven barring subsidy locks, CDMA phones are linked by ESN to a specific network, thus phones are typically not portable across providers.\n\nThis graphic compares the market shares of the different mobile standards.\n\nIn a fast-growing market, GSM/3GSM (red) grows faster than the market and is gaining market share, the CDMA family (blue) grows at about the same rate as the market, while other technologies (grey) are being phased out\n\nAs a reference, a comparison of mobile and non-mobile wireless Internet standards follows.\n\nNotes: All speeds are theoretical maximums and will vary by a number of factors, including the use of external antennas, distance from the tower and the ground speed (e.g. communications on a train may be poorer than when standing still). Usually the bandwidth is shared between several terminals. The performance of each technology is determined by a number of constraints, including the spectral efficiency of the technology, the cell sizes used, and the amount of spectrum available.\n\nFor more comparison tables, see bit rate progress trends, comparison of mobile phone standards, spectral efficiency comparison table and OFDM system comparison table.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1338331450",
+      "revision_id": "1338331450",
+      "text_sha256": "a59293a610a4f02fc197ae4503bd1d5beb53ed05df55e43b8b153fa39824e50f",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:47:32.177984+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.19789981842041,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:9246679",
+      "title": "JWPce",
+      "corpus": "wikipedia",
+      "text": "JWPce is a simple Japanese-language text editor that runs on the Windows 95, ME, 2000, XP, NT, and CE platforms. It is designed for non-native speakers of Japanese who want to produce Japanese-language documents. Distributed under the terms of the GNU General Public License, JWPce is free software.\n\nThe default installation has English-language menus. Language packs for other languages are available and JWPce is designed to make adding further language packs straightforward.\n\nJWPce offers many facilities that are useful to students of Japanese such as detailed kanji information (using KANJIDIC), a built-in Japanese dictionary (using EDICT and similar dictionary files) and various kanji lookup methods. It allows users to translate both to and from Japanese, using either kanji or kana. JWPce can look up kanji by stroke number and by identifying any number of radicals contained within the kanji. Therefore, if you can recognize two or more radicals within the kanji, you can search for all kanji containing all of these radicals. It also contains nine kanji lookup systems.\n\nJWPce supports multiple file encodings and also supports Unicode both in files and on the clipboard. It does not provide facilities for vertical text, nor does it provide facilities to specify different fonts within a document. However, JWPce does allow the user to customize the fonts used to display text in the various parts of the editor. JWPce can also display kanji in a list you generate in a different color so that it colors either the kanji that the user does not know or that the user does know.\n\nWhen importing from the clipboard, JWPce can detect the clipboard format automatically. That makes reading Japanese web pages much easier. JWPce also has the ability to provide a large amount of information on any kanji character, including meanings, on-yomi, kun-yomi, etc.\n\nA key feature of JWPce is that it runs smoothly on Windows CE and Pocket PC platforms. This allows learners of Japanese to use a PDA as an electronic Japanese dictionary. The version for MS Windows on standard PCs also runs well under Wine in Unix -like environments. In case of problems with the compiled jwpce.exe, a special download for Wine is also available.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1243952872",
+      "revision_id": "1243952872",
+      "text_sha256": "09262ab7b9f164d16a3a6ef33b6cbf9277b939f88d161423801ae4b19502f7c8",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:47:30.339269+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.5219807624816895,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:546",
+    "title": "Britannica page 546",
+    "corpus": "britannica",
+    "text": "<x_0.0><y_0.0>This means that the number of users are available to the same as they do not have a few times. The number of users can be used in the case where the number of users are able to use the number of users. However, the number of users are also used to generate the number of users and the number of users are able to use the number of users. For example, the number of users are used to compute the number of users and the number of users are able to use the number of users. As mentioned, the number of users are used to compute the number of users and the number of users are able to use the number of users. In addition, the number of users are used to compute the number of users and the number of users are able to use the number of users.<x_0.999><y_0.9984><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "e15ca5c21a58b39e9ba4e00470fd6e555989b8048675817dee4d6925080b80f7",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:54:23.426577+00:00",
+    "parser_receipt_sha256": "fbf61a50c83e54186842c3e779a6ce912d2a5654f1b1313b53c6f947b205144b",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 365,
+      "occurred_at": "2026-10-18T17:47:25.861003+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 627,
+      "occurred_at": "2026-10-18T17:47:26.488283+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 551,
+      "occurred_at": "2026-10-18T17:47:27.056328+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 664,
+      "occurred_at": "2026-10-18T17:47:27.741910+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 786,
+      "occurred_at": "2026-10-18T17:47:28.549293+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1204,
+      "occurred_at": "2026-10-18T17:47:29.770380+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 545,
+      "occurred_at": "2026-10-18T17:47:30.339340+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1228,
+      "occurred_at": "2026-10-18T17:47:31.593078+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 558,
+      "occurred_at": "2026-10-18T17:47:32.178062+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 32,
+      "occurred_at": "2026-10-18T17:47:32.230784+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 487,
+      "occurred_at": "2026-10-18T17:47:32.717404+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 93,
+      "occurred_at": "2026-10-18T17:47:32.815402+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 3,
+      "occurred_at": "2026-10-18T17:47:32.818864+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 310,
+      "occurred_at": "2026-10-18T17:47:33.128897+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 151,
+    "modern_words": 2780,
+    "vocabulary_jaccard": 0.03690036900369004,
+    "jensen_shannon_divergence": 0.6080012558891912,
+    "historical_top_words": [
+      [
+        "the",
+        22
+      ],
+      [
+        "number",
+        20
+      ],
+      [
+        "of",
+        20
+      ],
+      [
+        "users",
+        20
+      ],
+      [
+        "are",
+        10
+      ],
+      [
+        "to",
+        10
+      ],
+      [
+        "used",
+        5
+      ],
+      [
+        "able",
+        5
+      ],
+      [
+        "use",
+        5
+      ],
+      [
+        "and",
+        4
+      ],
+      [
+        "compute",
+        3
+      ],
+      [
+        "as",
+        2
+      ],
+      [
+        "in",
+        2
+      ],
+      [
+        "this",
+        1
+      ],
+      [
+        "means",
+        1
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "the",
+        212
+      ],
+      [
+        "to",
+        111
+      ],
+      [
+        "of",
+        93
+      ],
+      [
+        "veoh",
+        81
+      ],
+      [
+        "that",
+        67
+      ],
+      [
+        "a",
+        58
+      ],
+      [
+        "and",
+        47
+      ],
+      [
+        "s",
+        37
+      ],
+      [
+        "it",
+        34
+      ],
+      [
+        "court",
+        32
+      ],
+      [
+        "in",
+        32
+      ],
+      [
+        "user",
+        26
+      ],
+      [
+        "service",
+        26
+      ],
+      [
+        "io",
+        25
+      ],
+      [
+        "for",
+        23
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "this means that number users available same as they not have few times can be used case where able use however also generate",
+  "semantic_input": {
+    "query": "this means that number users available same as they not have few times can be used case where able use however also generate\nThis means that the number of users are available to the same as they do not have a few times. The number of users can be used in the case where the number of users are able to use the number of users. However, the number of users are also used to generate the number of users and the number of users are able to use the number of users. For example, the number of users are used to compute the number of users and the number of users are able to use the number of users. As mentioned, the number of users are used to compute the number of users and the number of users are able to use the number of users. In addition, the number of users are used to compute the number of users and the number of users are able to use the number of users.",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.18647098541259766,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

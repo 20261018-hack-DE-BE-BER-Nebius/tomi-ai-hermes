@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "B U X ( 697 ) B Y Z",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:245660",
+      "title": "Beta function",
+      "corpus": "wikipedia",
+      "text": "In mathematics, the beta function, also called the Euler integral of the first kind, is a special function that is closely related to the gamma function and to binomial coefficients. It is defined by the integral\n\nB (z 1, z 2) = ∫ 0 1 t z 1 − 1 (1 − t) z 2 − 1 d t {\\displaystyle \\mathrm {B} (z_{1},z_{2})=\\int _{0}^{1}t^{z_{1}-1}(1-t)^{z_{2}-1}\\,dt} for complex number inputs z 1, z 2 {\\displaystyle z_{1},z_{2}} such that Re (z 1), Re (z 2) > 0 {\\displaystyle \\operatorname {Re} (z_{1}),\\operatorname {Re} (z_{2})>0}.\n\nThe beta function was studied by Leonhard Euler and Adrien-Marie Legendre and was given its name by Jacques Binet; its symbol Β is a Greek capital beta.\n\nThe beta function is symmetric, meaning that B (z 1, z 2) = B (z 2, z 1) {\\displaystyle \\mathrm {B} (z_{1},z_{2})=\\mathrm {B} (z_{2},z_{1})} for all inputs z 1 {\\displaystyle z_{1}} and z 2 {\\displaystyle z_{2}}.\n\nA key property of the beta function is its close relationship to the gamma function:\n\nB (z 1, z 2) = Γ (z 1) Γ (z 2) Γ (z 1 + z 2) {\\displaystyle \\mathrm {B} (z_{1},z_{2})={\\frac {\\Gamma (z_{1})\\,\\Gamma (z_{2})}{\\Gamma (z_{1}+z_{2})}}}\n\nA proof is given below in § Relationship to the gamma function.\n\nThe beta function is also closely related to binomial coefficients. When m (or n, by symmetry) is a positive integer, it follows from the definition of the gamma function Γ that\n\nB (m, n) = (m − 1) ! (n − 1) ! (m + n − 1) ! = m + n m n / (m + n m) {\\displaystyle \\mathrm {B} (m,n)={\\frac {(m-1)!\\,(n-1)!}{(m+n-1)!}}={\\frac {m+n}{mn}}{\\Bigg /}{\\binom {m+n}{m}}}\n\nTo derive this relation, write the product of two factorials as integrals. Since they are integrals in two separate variables, we can combine them into an iterated integral:\n\nΓ (z 1) Γ (z 2) = ∫ u = 0 ∞ e − u u z 1 − 1 d u ⋅ ∫ v = 0 ∞ e − v v z 2 − 1 d v = ∫ v = 0 ∞ ∫ u = 0 ∞ e − u − v u z 1 − 1 v z 2 − 1 d u d v. {\\displaystyle {\\begin{aligned}\\Gamma (z_{1})\\Gamma (z_{2})&=\\int _{u=0}^{\\infty }\\ e^{-u}u^{z_{1}-1}\\,du\\cdot \\int _{v=0}^{\\infty }\\ e^{-v}v^{z_{2}-1}\\,dv\\\\&=\\int _{v=0}^{\\infty }\\int _{u=0}^{\\infty }\\ e^{-u-v}u^{z_{1}-1}v^{z_{2}-1}\\,du\\,dv.\\end{aligned}}}\n\nChanging variables by u = st and v = s (1 − t), because u + v = s and u / (u + v) = t, we have that the limits of integrations for s are 0 to ∞ and the limits of integration for t are 0 to 1. Thus produces\n\nΓ (z 1) Γ (z 2) = ∫ s = 0 ∞ ∫ t = 0 1 e − s (s t) z 1 − 1 (s (1 − t)) z 2 − 1 s d t d s = ∫ s = 0 ∞ e − s s z 1 + z 2 − 1 d s ⋅ ∫ t = 0 1 t z 1 − 1 (1 − t) z 2 − 1 d t = Γ (z 1 + z 2) ⋅ B (z 1, z 2). {\\displaystyle {\\begin{aligned}\\Gamma (z_{1})\\Gamma (z_{2})&=\\int _{s=0}^{\\infty }\\int _{t=0}^{1}e^{-s}(st)^{z_{1}-1}(s(1-t))^{z_{2}-1}s\\,dt\\,ds\\\\&=\\int _{s=0}^{\\infty }e^{-s}s^{z_{1}+z_{2}-1}\\,ds\\cdot \\int _{t=0}^{1}t^{z_{1}-1}(1-t)^{z_{2}-1}\\,dt\\\\&=\\Gamma (z_{1}+z_{2})\\cdot \\mathrm {B} (z_{1},z_{2}).\\end{aligned}}}\n\nDividing both sides by Γ (z 1 + z 2) {\\displaystyle \\Gamma (z_{1}+z_{2})} gives the desired result.\n\nThe stated identity may be seen as a particular case of the identity for the integral of a convolution. Taking\n\nf (u):= e − u u z 1 − 1 1 R + g (u):= e − u u z 2 − 1 1 R +, {\\displaystyle {\\begin{aligned}f(u)&:=e^{-u}u^{z_{1}-1}1_{\\mathbb {R} _{+}}\\\\g(u)&:=e^{-u}u^{z_{2}-1}1_{\\mathbb {R} _{+}},\\end{aligned}}}\n\none has:\n\nΓ (z 1) Γ (z 2) = ∫ R f (u) d u ⋅ ∫ R g (u) d u = ∫ R (f ∗ g) (u) d u = B (z 1, z 2) Γ (z 1 + z 2). {\\displaystyle \\Gamma (z_{1})\\Gamma (z_{2})=\\int _{\\mathbb {R} }f(u)\\,du\\cdot \\int _{\\mathbb {R} }g(u)\\,du=\\int _{\\mathbb {R} }(f*g)(u)\\,du=\\mathrm {B} (z_{1},z_{2})\\,\\Gamma (z_{1}+z_{2}).}\n\nSee The Gamma Function, page 18–19 for a derivation of this relation.\n\nWe have\n\n∂ ∂ z 1 B (z 1, z 2) = B (z 1, z 2) (Γ ′ (z 1) Γ (z 1) − Γ ′ (z 1 + z 2) Γ (z 1 + z 2)) = B (z 1, z 2) (ψ (z 1) − ψ (z 1 + z 2)), {\\displaystyle {\\frac {\\partial }{\\partial z_{1}}}\\mathrm {B} (z_{1},z_{2})=\\mathrm {B} (z_{1},z_{2})\\left({\\frac {\\Gamma '(z_{1})}{\\Gamma (z_{1})}}-{\\frac {\\Gamma '(z_{1}+z_{2})}{\\Gamma (z_{1}+z_{2})}}\\right)=\\mathrm {B} (z_{1},z_{2}){\\big (}\\psi (z_{1})-\\psi (z_{1}+z_{2}){\\big)},}\n\n∂ ∂ z m B (z 1, z 2, …, z n) = B (z 1, z 2, …, z n) (ψ (z m) − ψ (∑ k = 1 n z k)), 1 ≤ m ≤ n, {\\displaystyle {\\frac {\\partial }{\\partial z_{m}}}\\mathrm {B} (z_{1},z_{2},\\dots,z_{n})=\\mathrm {B} (z_{1},z_{2},\\dots,z_{n})\\left(\\psi (z_{m})-\\psi {\\left(\\sum _{k=1}^{n}z_{k}\\right)}\\right),\\quad 1\\leq m\\leq n,}\n\nwhere ψ (z) {\\displaystyle \\psi (z)} denotes the digamma function.\n\nStirling's approximation gives the asymptotic formula\n\nB (x, y) ∼ 2 π x x − 1 / 2 y y − 1 / 2 (x + y) x + y − 1 / 2 {\\displaystyle \\mathrm {B} (x,y)\\sim {\\sqrt {2\\pi }}{\\frac {x^{x-1/2}y^{y-1/2}}{({x+y})^{x+y-1/2}}}}\n\nfor large x and large y.\n\nIf on the other hand x is large and y is fixed, then\n\nB (x, y) ∼ Γ (y) x − y. {\\displaystyle \\mathrm {B} (x,y)\\sim \\Gamma (y)\\,x^{-y}.}\n\nThe integral defining the beta function may be rewritten in a variety of ways, including the following: B (z 1, z 2) = 2 ∫ 0 π / 2 (sin θ) 2 z 1 − 1 (cos θ) 2 z 2 − 1 d θ, = ∫ 0 ∞ t z 1 − 1 (1 + t) z 1 + z 2 d t, = n ∫ 0 1 t n z 1 − 1 (1 − t n) z 2 − 1 d t, = (1 − a) z 2 ∫ 0 1 (1 − t) z 1 − 1 t z 2 − 1 (1 − a t) z 1 + z 2 d t for any a ∈ R ≤ 1, {\\displaystyle {\\begin{aligned}\\mathrm {B} (z_{1},z_{2})&=2\\int _{0}^{\\pi /2}(\\sin \\theta)^{2z_{1}-1}(\\cos \\theta)^{2z_{2}-1}\\,d\\theta,\\\\&=\\int _{0}^{\\infty }{\\frac {t^{z_{1}-1}}{(1+t)^{z_{1}+z_{2}}}}\\,dt,\\\\&=n\\int _{0}^{1}t^{nz_{1}-1}(1-t^{n})^{z_{2}-1}\\,dt,\\\\&=(1-a)^{z_{2}}\\int _{0}^{1}{\\frac {(1-t)^{z_{1}-1}t^{z_{2}-1}}{(1-at)^{z_{1}+z_{2}}}}dt\\qquad {\\text{for any }}a\\in \\mathbb {R} _{\\leq 1},\\end{aligned}}}\n\nwhere in the second-to-last identity n is any positive real number. One may move from the first integral to the second one by substituting t = tan 2 (θ) {\\displaystyle t=\\tan ^{2}(\\theta)}.\n\nFor values z = z 1 = z 2 ≠ 1 {\\displaystyle z=z_{1}=z_{2}\\neq 1} we have:\n\nB (z, z) = 1 z ∫ 0 π / 2 1 (sin θ z + cos θ z) 2 z d θ {\\displaystyle \\mathrm {B} (z,z)={\\frac {1}{z}}\\int _{0}^{\\pi /2}{\\frac {1}{\\left({\\sqrt{\\sin \\theta }}+{\\sqrt{\\cos \\theta }}\\right)^{2z}}}\\,d\\theta }\n\nThe beta function can be written as an infinite sum B (x, y) = ∑ n = 0 ∞ (1 − x) n (y + n) n ! {\\displaystyle \\mathrm {B} (x,y)=\\sum _{n=0}^{\\infty }{\\frac {(1-x)_{n}}{(y+n)\\,n!}}} If x {\\displaystyle x} and y {\\displaystyle y} are equal to a number z {\\displaystyle z} we get: B (z, z) = 2 ∑ n = 0 ∞ (2 z + n − 1) n (− 1) n (z + n) n ! = lim x → 1 − 2 ∑ n = 0 ∞ (− 2 z) n x n (z + n) n ! {\\displaystyle \\mathrm {B} (z,z)=2\\sum _{n=0}^{\\infty }{\\frac {(2z+n-1)_{n}(-1)^{n}}{(z+n)n!}}=\\lim _{x\\to 1^{-}}2\\sum _{n=0}^{\\infty }{\\frac {(-2z)_{n}x^{n}}{(z+n)n!}}} where (x) n {\\displaystyle (x)_{n}} is the rising factorial,and as an infinite product B (x, y) = x + y x y ∏ n = 1 ∞ (1 + x y n (x + y + n)) − 1. {\\displaystyle \\mathrm {B} (x,y)={\\frac {x+y}{xy}}\\prod _{n=1}^{\\infty }\\left(1+{\\dfrac {xy}{n(x+y+n)}}\\right)^{-1}.}\n\nThe beta function satisfies several identities analogous to corresponding identities for binomial coefficients, including a version of Pascal's identity\n\nB (x, y) = B (x, y + 1) + B (x + 1, y), {\\displaystyle \\mathrm {B} (x,y)=\\mathrm {B} (x,y+1)+\\mathrm {B} (x+1,y),}\n\nwhich can be proved as follows:\n\nB (x, y + 1) + B (x + 1, y) = Γ (x) Γ (y + 1) Γ (x + y + 1) + Γ (x + 1) Γ (y) Γ (x + y + 1) = y Γ (x) Γ (y) + x Γ (x) Γ (y) (x + y) Γ (x + y) = Γ (x) Γ (y) Γ (x + y) = B (x, y). {\\displaystyle {\\begin{aligned}\\mathrm {B} (x,y+1)+\\mathrm {B} (x+1,y)&={\\frac {\\Gamma (x)\\Gamma (y+1)}{\\Gamma (x+y+1)}}+{\\frac {\\Gamma (x+1)\\Gamma (y)}{\\Gamma (x+y+1)}}\\\\&={\\frac {y\\Gamma (x)\\Gamma (y)+x\\Gamma (x)\\Gamma (y)}{(x+y)\\Gamma (x+y)}}\\\\&={\\frac {\\Gamma (x)\\Gamma (y)}{\\Gamma (x+y)}}\\\\&=\\mathrm {B} (x,y).\\end{aligned}}}\n\nThe above proof also shows the simple recurrence on one coordinate\n\nB (x + 1, y) = B (x, y) ⋅ x x + y, B (x, y + 1) = B (x, y) ⋅ y x + y. {\\displaystyle \\mathrm {B} (x+1,y)=\\mathrm {B} (x,y)\\cdot {\\dfrac {x}{x+y}},\\quad \\mathrm {B} (x,y+1)=\\mathrm {B} (x,y)\\cdot {\\dfrac {y}{x+y}}.}\n\nThe positive integer values of the beta function are also the partial derivatives of a 2D function: for all nonnegative integers m {\\displaystyle m} and n {\\displaystyle n}, B (m + 1, n + 1) = ∂ m + n h ∂ a m ∂ b n (0, 0), {\\displaystyle \\mathrm {B} (m+1,n+1)={\\frac {\\partial ^{m+n}h}{\\partial a^{m}\\,\\partial b^{n}}}(0,0),} where h (a, b) = e a − e b a − b. {\\displaystyle h(a,b)={\\frac {e^{a}-e^{b}}{a-b}}.} The Pascal-like identity above implies that this function is a solution to the first-order partial differential equation h = h a + h b. {\\displaystyle h=h_{a}+h_{b}.}\n\nFor x, y ≥ 1 {\\displaystyle x,y\\geq 1}, the beta function may be written in terms of a convolution involving the truncated power function t ↦ t + x {\\displaystyle t\\mapsto t_{+}^{x}}: B (x, y) ⋅ (t ↦ t + x + y − 1) = (t ↦ t + x − 1) ∗ (t ↦ t + y − 1) {\\displaystyle \\mathrm {B} (x,y)\\cdot \\left(t\\mapsto t_{+}^{x+y-1}\\right)={\\Big (}t\\mapsto t_{+}^{x-1}{\\Big)}*{\\Big (}t\\mapsto t_{+}^{y-1}{\\Big)}}\n\nEvaluations at particular points may simplify significantly; for example, B (1, x) = 1 x {\\displaystyle \\mathrm {B} (1,x)={\\dfrac {1}{x}}} and B (x, 1 − x) = π sin (π x), x ∉ Z {\\displaystyle \\mathrm {B} (x,1-x)={\\dfrac {\\pi }{\\sin(\\pi x)}},\\qquad x\\not \\in \\mathbb {Z} }\n\nBy taking x = 1 2 {\\displaystyle x={\\frac {1}{2}}} in this last formula, it follows that Γ (1 / 2) = π {\\displaystyle \\Gamma (1/2)={\\sqrt {\\pi }}}.Generalizing this into a bivariate identity for a product of beta functions leads to: B (x, y) ⋅ B (x + y, 1 − y) = π x sin (π y). {\\displaystyle \\mathrm {B} (x,y)\\cdot \\mathrm {B} (x+y,1-y)={\\frac {\\pi }{x\\sin(\\pi y)}}.}\n\nAlso, using Legendre duplication formula, we get 2 z − 1 B (z / 2, z / 2) = B (1 / 2, z / 2). {\\displaystyle 2^{z-1}\\mathrm {B} (z/2,z/2)=\\mathrm {B} (1/2,z/2).}\n\nEuler's integral for the beta function may be converted into an integral over the Pochhammer contour C as\n\n(1 − e 2 π i α) (1 − e 2 π i β) B (α, β) = ∫ C t α − 1 (1 − t) β − 1 d t. {\\displaystyle \\left(1-e^{2\\pi i\\alpha }\\right)\\left(1-e^{2\\pi i\\beta }\\right)\\mathrm {B} (\\alpha,\\beta)=\\int _{C}t^{\\alpha -1}(1-t)^{\\beta -1}\\,dt.}\n\nThis Pochhammer contour integral converges for all values of α and β and so gives the analytic continuation of the beta function.\n\nJust as the gamma function for integers describes factorials, the beta function can define a binomial coefficient after adjusting indices: (n k) = 1 (n + 1) B (n − k + 1, k + 1). {\\displaystyle {\\binom {n}{k}}={\\frac {1}{(n+1)\\,\\mathrm {B} (n-k+1,\\,k+1)}}.}\n\nMoreover, for integer n, Β can be factored to give a closed form interpolation function for continuous values of k: (n k) = (− 1) n n ! ⋅ sin (π k) π ∏ i = 0 n (k − i). {\\displaystyle {\\binom {n}{k}}=(-1)^{n}\\,n!\\cdot {\\frac {\\sin(\\pi k)}{\\pi \\displaystyle \\prod _{i=0}^{n}(k-i)}}.}\n\nThe reciprocal beta function is the function about the form\n\nf (x, y) = 1 B (x, y) {\\displaystyle f(x,y)={\\frac {1}{\\mathrm {B} (x,y)}}}\n\nInterestingly, their integral representations closely relate as the definite integral of trigonometric functions with product of its power and multiple-angle:\n\n∫ 0 π sin x − 1 θ sin y θ d θ = π sin y π 2 2 x − 1 x B (x + y + 1 2, x − y + 1 2) ∫ 0 π sin x − 1 θ cos y θ d θ = π cos y π 2 2 x − 1 x B (x + y + 1 2, x − y + 1 2) ∫ 0 π cos x − 1 θ sin y θ d θ = π cos y π 2 2 x − 1 x B (x + y + 1 2, x − y + 1 2) ∫ 0 π 2 cos x − 1 θ cos y θ d θ = π 2 x x B (x + y + 1 2, x − y + 1 2) {\\displaystyle {\\begin{aligned}\\int _{0}^{\\pi }\\sin ^{x-1}\\theta \\sin y\\theta ~d\\theta &={\\frac {\\pi \\sin {\\frac {y\\pi }{2}}}{2^{x-1}x\\mathrm {B} {\\left({\\frac {x+y+1}{2}},{\\frac {x-y+1}{2}}\\right)}}}\\\\\\int _{0}^{\\pi }\\sin ^{x-1}\\theta \\cos y\\theta ~d\\theta &={\\frac {\\pi \\cos {\\frac {y\\pi }{2}}}{2^{x-1}x\\mathrm {B} {\\left({\\frac {x+y+1}{2}},{\\frac {x-y+1}{2}}\\right)}}}\\\\\\int _{0}^{\\pi }\\cos ^{x-1}\\theta \\sin y\\theta ~d\\theta &={\\frac {\\pi \\cos {\\frac {y\\pi }{2}}}{2^{x-1}x\\mathrm {B} {\\left({\\frac {x+y+1}{2}},{\\frac {x-y+1}{2}}\\right)}}}\\\\\\int _{0}^{\\frac {\\pi }{2}}\\cos ^{x-1}\\theta \\cos y\\theta ~d\\theta &={\\frac {\\pi }{2^{x}x\\mathrm {B} {\\left({\\frac {x+y+1}{2}},{\\frac {x-y+1}{2}}\\right)}}}\\end{aligned}}}\n\nThe incomplete beta function, a generalization of the beta function, is defined as\n\nB (x; a, b) = ∫ 0 x t a − 1 (1 − t) b − 1 d t. {\\displaystyle \\mathrm {B} (x;\\,a,b)=\\int _{0}^{x}t^{a-1}\\,(1-t)^{b-1}\\,dt.}\n\nFor x = 1, the incomplete beta function coincides with the complete beta function. For positive integers a and b, the incomplete beta function will be a polynomial of degree a + b − 1 with rational coefficients.\n\nBy the substitution t = sin 2 θ {\\displaystyle t=\\sin ^{2}\\theta } and t = 1 1 + s {\\displaystyle t={\\frac {1}{1+s}}}, we can show that B (x; a, b) = 2 ∫ 0 arcsin x sin 2 a − 1 θ cos 2 b − 1 θ d θ = ∫ 1 − x x ∞ s b − 1 (1 + s) a + b d s {\\displaystyle {\\begin{aligned}\\mathrm {B} (x;\\,a,b)&=2\\int _{0}^{\\arcsin {\\sqrt {x}}}\\sin ^{2a-1\\!}\\theta \\cos ^{2b-1\\!}\\theta \\,d\\theta \\\\&=\\int _{\\frac {1-x}{x}}^{\\infty }{\\frac {s^{b-1}}{(1+s)^{a+b}}}\\,ds\\end{aligned}}}\n\nThe regularized incomplete beta function (or regularized beta function for short) is defined in terms of the incomplete beta function and the complete beta function:\n\nI x (a, b) = B (x; a, b) B (a, b). {\\displaystyle I_{x}(a,b)={\\frac {\\mathrm {B} (x;\\,a,b)}{\\mathrm {B} (a,b)}}.}\n\nThe regularized incomplete beta function is the cumulative distribution function of the beta distribution, and is related to the cumulative distribution function F (k; n, p) {\\displaystyle F(k;\\,n,p)} of a random variable X following a binomial distribution with probability of single success p and number of Bernoulli trials n:\n\nF (k; n, p) = Pr (X ≤ k) = I 1 − p (n − k, k + 1) = 1 − I p (k + 1, n − k). {\\displaystyle {\\begin{aligned}F(k;\\,n,p)&=\\Pr \\left(X\\leq k\\right)\\\\&=I_{1-p}(n-k,k+1)\\\\&=1-I_{p}(k+1,n-k).\\end{aligned}}}\n\nI 0 (a, b) = 0, I 1 (a, b) = 1, I x (a, 1) = x a, I x (1, b) = 1 − (1 − x) b, I x (a, b) = 1 − I 1 − x (b, a), I x (a + 1, b) = I x (a, b) − x a (1 − x) b a B (a, b), I x (a, b + 1) = I x (a, b) + x a (1 − x) b b B (a, b), ∫ B (x; a, b) d x = x B (x; a, b) − B (x; a + 1, b), B (x; a, b) = (− 1) a B (x x − 1; a, 1 − a − b). {\\displaystyle {\\begin{aligned}I_{0}(a,b)&=0,\\\\I_{1}(a,b)&=1,\\\\I_{x}(a,1)&=x^{a},\\\\I_{x}(1,b)&=1-(1-x)^{b},\\\\I_{x}(a,b)&=1-I_{1-x}(b,a),\\\\I_{x}(a+1,b)&=I_{x}(a,b)-{\\frac {x^{a}(1-x)^{b}}{a\\mathrm {B} (a,b)}},\\\\I_{x}(a,b+1)&=I_{x}(a,b)+{\\frac {x^{a}(1-x)^{b}}{b\\mathrm {B} (a,b)}},\\\\\\int \\mathrm {B} (x;a,b)\\,dx&=x\\mathrm {B} (x;a,b)-\\mathrm {B} (x;a+1,b),\\\\\\mathrm {B} (x;a,b)&=(-1)^{a}\\mathrm {B} \\left({\\frac {x}{x-1}};a,1-a-b\\right).\\end{aligned}}}\n\nThe continued fraction expansion is\n\nB (x; a, b) = x a (1 − x) b a (1 + d 1 1 + d 2 1 + d 3 1 + ⋯), {\\displaystyle \\mathrm {B} (x;\\,a,b)={\\frac {x^{a}(1-x)^{b}}{a\\left(1+{\\frac {{d}_{1}}{1+{\\frac {{d}_{2}}{1+{\\frac {{d}_{3}}{1+\\cdots }}}}}}\\right)}},}\n\nwith odd and even coefficients given by\n\nd 2 m + 1 = − (a + m) (a + b + m) x (a + 2 m) (a + 2 m + 1), d 2 m = m (b − m) x (a + 2 m − 1) (a + 2 m). {\\displaystyle {\\begin{aligned}{d}_{2m+1}&=-{\\frac {(a+m)(a+b+m)x}{(a+2m)(a+2m+1)}},\\\\{d}_{2m}&={\\frac {m(b-m)x}{(a+2m-1)(a+2m)}}.\\end{aligned}}}\n\nThe 4 m {\\displaystyle 4m} and 4 m + 1 {\\displaystyle 4m+1} convergents are less than B (x; a, b) {\\displaystyle \\mathrm {B} (x;\\,a,b)}, while the 4 m + 2 {\\displaystyle 4m+2} and 4 m + 3 {\\displaystyle 4m+3} convergents are greater than B (x; a, b) {\\displaystyle \\mathrm {B} (x;\\,a,b)}.\n\nIt converges rapidly for x < (a + 1) / (a + b + 2) {\\displaystyle x<(a+1)/(a+b+2)}. For x > (a + 1) / (a + b + 2) {\\displaystyle x>(a+1)/(a+b+2)} or 1 − x < (b + 1) / (a + b + 2) {\\displaystyle 1-x<(b+1)/(a+b+2)}, the function may be evaluated more efficiently through the relation B (x; a, b) = B (a, b) − B (1 − x; b, a) {\\displaystyle \\mathrm {B} (x;\\,a,b)=\\mathrm {B} (a,b)-\\mathrm {B} (1-x;\\,b,a)}.\n\nThe beta function can be extended to a function with more than two arguments:\n\nB (α 1, α 2, … α n) = Γ (α 1) Γ (α 2) ⋯ Γ (α n) Γ (α 1 + α 2 + ⋯ + α n). {\\displaystyle \\mathrm {B} (\\alpha _{1},\\alpha _{2},\\ldots \\alpha _{n})={\\frac {\\Gamma (\\alpha _{1})\\,\\Gamma (\\alpha _{2})\\cdots \\Gamma (\\alpha _{n})}{\\Gamma (\\alpha _{1}+\\alpha _{2}+\\cdots +\\alpha _{n})}}.}\n\nThis multivariate beta function is used in the definition of the Dirichlet distribution. Its relationship to the beta function is analogous to the relationship between multinomial coefficients and binomial coefficients. For example, it satisfies a similar version of Pascal's identity:\n\nB (α 1, α 2, … α n) = B (α 1 + 1, α 2, … α n) + B (α 1, α 2 + 1, … α n) + ⋯ + B (α 1, α 2, … α n + 1). {\\displaystyle \\mathrm {B} (\\alpha _{1},\\alpha _{2},\\ldots \\alpha _{n})=\\mathrm {B} (\\alpha _{1}+1,\\alpha _{2},\\ldots \\alpha _{n})+\\mathrm {B} (\\alpha _{1},\\alpha _{2}+1,\\ldots \\alpha _{n})+\\cdots +\\mathrm {B} (\\alpha _{1},\\alpha _{2},\\ldots \\alpha _{n}+1).}\n\nThe beta function is useful in computing and representing the scattering amplitude for Regge trajectories. Furthermore, it was the first known scattering amplitude in string theory, first conjectured by Gabriele Veneziano. It also occurs in the theory of the preferential attachment process, a type of stochastic urn process. The beta function is also important in statistics, e.g. for the beta distribution and beta prime distribution. As briefly alluded to previously, the beta function is closely tied with the gamma function and plays an important role in calculus.\n\nEven if unavailable directly, the complete and incomplete beta function values can be calculated using functions commonly included in spreadsheet or computer algebra systems.\n\nIn Microsoft Excel, for example, the complete beta function can be computed with the GammaLn function (or special.gammaln in Python's SciPy package):\n\nValue = Exp(GammaLn(a) + GammaLn(b) − GammaLn(a + b))\n\nThis result follows from the properties listed above.\n\nThe incomplete beta function cannot be directly computed using such relations and other methods must be used. In GNU Octave, it is computed using a continued fraction expansion.\n\nThe incomplete beta function has existing implementation in common languages. For instance, betainc (incomplete beta function) in MATLAB and GNU Octave, pbeta (probability of beta distribution) in R and betainc in SymPy. In SciPy, special.betainc computes the regularized incomplete beta function —which is, in fact, the cumulative beta distribution. To get the actual incomplete beta function, one can multiply the result of special.betainc by the result returned by the corresponding beta function. In Mathematica, Beta and BetaRegularized give B (x; a, b) {\\displaystyle \\mathrm {B} (x;\\,a,b)} and I x (a, b) {\\displaystyle I_{x}(a,b)}, respectively.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348414269",
+      "revision_id": "1348414269",
+      "text_sha256": "86bb7b386ad6ac9bd108aaf257d20a1350182b5c5729e40a3da21727b6075cde",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:17:00.596634+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.216197967529297,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:4722013",
+      "title": "First-order partial differential equation",
+      "corpus": "wikipedia",
+      "text": "In mathematics, a first-order partial differential equation is a partial differential equation that involves the first derivatives of an unknown function u {\\displaystyle u} of n ≥ 2 {\\displaystyle n\\geq 2} variables. The equation takes the form F (x 1, …, x n, u, u x 1, … u x n) = 0, {\\displaystyle F(x_{1},\\ldots,x_{n},u,u_{x_{1}},\\ldots u_{x_{n}})=0,} using subscript notation to denote the partial derivatives of u {\\displaystyle u}.\n\nSuch equations arise in the construction of characteristic surfaces for hyperbolic partial differential equations, in the calculus of variations, in some geometrical problems, and in simple models for gas dynamics whose solution involves the method of characteristics, e.g., the advection equation. If a family of solutionsof a single first-order partial differential equation can be found, then additional solutions may be obtained by forming envelopes of solutions in that family. In a related procedure, general solutions may be obtained by integrating families of ordinary differential equations.\n\nThe general solution to the first order partial differential equation is a solution which contains an arbitrary function. But, the solution to the first order partial differential equations with as many arbitrary constants as the number of independent variables is called the complete integral. The following n-parameter family of solutions\n\nϕ (x 1, x 2, …, x n, u, a 1, a 2, …, a n) {\\displaystyle \\phi (x_{1},x_{2},\\dots,x_{n},u,a_{1},a_{2},\\dots,a_{n})}\n\nis a complete integral if det | ϕ x i a j | ≠ 0 {\\displaystyle {\\text{det}}|\\phi _{x_{i}a_{j}}|\\neq 0}. The below discussions on the type of integrals are based on the textbook A Treatise on Differential Equations (Chaper IX, 6th edition, 1928) by Andrew Forsyth.\n\nThe solutions are described in relatively simple manner in two or three dimensions with which the key concepts are trivially extended to higher dimensions. A general first-order partial differential equation in three dimensions has the form\n\nF (x, y, z, u, p, q, r) = 0, {\\displaystyle F(x,y,z,u,p,q,r)=0,\\,}\n\nwhere p = u x, q = u y, r = u z. {\\displaystyle p=u_{x},\\,q=u_{y},\\,r=u_{z}.} Suppose ϕ (x, y, z, u, a, b, c) = 0 {\\displaystyle \\phi (x,y,z,u,a,b,c)=0} be the complete integral that contains three arbitrary constants (a, b, c) {\\displaystyle (a,b,c)}. From this we can obtain three relations by differentiation\n\nϕ x + p ϕ u = 0 {\\displaystyle \\phi _{x}+p\\phi _{u}=0}\n\nϕ y + q ϕ u = 0 {\\displaystyle \\phi _{y}+q\\phi _{u}=0}\n\nϕ z + r ϕ u = 0 {\\displaystyle \\phi _{z}+r\\phi _{u}=0}\n\nAlong with the complete integral ϕ = 0 {\\displaystyle \\phi =0}, the above three relations can be used to eliminate three constants and obtain an equation (original partial differential equation) relating (x, y, z, u, p, q, r) {\\displaystyle (x,y,z,u,p,q,r)}. Note that the elimination of constants leading to the partial differential equation need not be unique, i.e., two different equations can result in the same complete integral, for example, elimination of constants from the relation u = (x − a) 2 + (y − b) 2 + z − c {\\displaystyle u={\\sqrt {(x-a)^{2}+(y-b)^{2}}}+z-c} leads to p 2 + q 2 = 1 {\\displaystyle p^{2}+q^{2}=1} and r = 1 {\\displaystyle r=1}.\n\nOnce a complete integral is found, a general solution can be constructed from it. The general integral is obtained by making the constants functions of the coordinates, i.e., a = a (x, y, z), b = b (x, y, z), c = c (x, y, z) {\\displaystyle a=a(x,y,z),\\,b=b(x,y,z),\\,c=c(x,y,z)}. These functions are chosen such that the forms of (p, q, r) {\\displaystyle (p,q,r)} are unaltered so that the elimination process from complete integral can be utilized. Differentiation of the complete integral now provides\n\nϕ x + p ϕ u = − (a x ϕ a + b x ϕ b + c x ϕ c) {\\displaystyle \\phi _{x}+p\\phi _{u}=-(a_{x}\\phi _{a}+b_{x}\\phi _{b}+c_{x}\\phi _{c})}\n\nϕ y + q ϕ u = − (a y ϕ a + b y ϕ b + c y ϕ c) {\\displaystyle \\phi _{y}+q\\phi _{u}=-(a_{y}\\phi _{a}+b_{y}\\phi _{b}+c_{y}\\phi _{c})}\n\nϕ z + r ϕ u = − (a z ϕ a + b z ϕ b + c z ϕ c) {\\displaystyle \\phi _{z}+r\\phi _{u}=-(a_{z}\\phi _{a}+b_{z}\\phi _{b}+c_{z}\\phi _{c})}\n\nin which we require the right-hand side terms of all the three equations to vanish identically so that elimination of (a, b, c) {\\displaystyle (a,b,c)} from ϕ {\\displaystyle \\phi } results in the partial differential equation. This requirement can be written more compactly by writing it as\n\nJ ϕ a = 0, J ϕ b = 0, J ϕ c = 0 {\\displaystyle J\\phi _{a}=0,\\quad J\\phi _{b}=0,\\quad J\\phi _{c}=0}\n\nwhere\n\nJ = ∂ (a, b, c) ∂ (x, y, z) = | a x a y a z b x b y b z c x c y c z | {\\displaystyle J={\\frac {\\partial (a,b,c)}{\\partial (x,y,z)}}={\\begin{aligned}{\\begin{vmatrix}a_{x}&a_{y}&a_{z}\\\\b_{x}&b_{y}&b_{z}\\\\c_{x}&c_{y}&c_{z}\\end{vmatrix}}\\end{aligned}}}\n\nis the Jacobian determinant. The condition J = 0 {\\displaystyle J=0} leads to the general solution. Whenever J = 0 {\\displaystyle J=0}, then there exists a functional relation between (a, b, c) {\\displaystyle (a,b,c)} because whenever a determinant is zero, the columns (or rows) are not linearly independent. Take this functional relation to be\n\nc = ψ (a, b). {\\displaystyle c=\\psi (a,b).}\n\nOnce (a, b) {\\displaystyle (a,b)} is found, the problem is solved. From the above relation, we have d c = ψ a d a + ψ b d b {\\displaystyle dc=\\psi _{a}da+\\psi _{b}db}. By summing the original equations (a x ϕ a + b x ϕ b + c x ϕ c) = 0 {\\displaystyle (a_{x}\\phi _{a}+b_{x}\\phi _{b}+c_{x}\\phi _{c})=0}, (a y ϕ a + b y ϕ b + c y ϕ c) = 0 {\\displaystyle (a_{y}\\phi _{a}+b_{y}\\phi _{b}+c_{y}\\phi _{c})=0} and (a z ϕ a + b z ϕ b + c z ϕ c) = 0 {\\displaystyle (a_{z}\\phi _{a}+b_{z}\\phi _{b}+c_{z}\\phi _{c})=0} we find ϕ a d a + ϕ b d b + ϕ c d c = 0 {\\displaystyle \\phi _{a}da+\\phi _{b}db+\\phi _{c}dc=0}. Now eliminating d c {\\displaystyle dc} from the two equations derived, we obtain\n\n(ϕ a + ϕ c ψ a) d a + (ϕ b + ϕ c ψ b) d b = 0 {\\displaystyle (\\phi _{a}+\\phi _{c}\\psi _{a})da+(\\phi _{b}+\\phi _{c}\\psi _{b})db=0}\n\nSince a {\\displaystyle a} and b {\\displaystyle b} are independent, we require\n\n(ϕ a + ϕ c ψ a) = 0 {\\displaystyle (\\phi _{a}+\\phi _{c}\\psi _{a})=0}\n\n(ϕ b + ϕ c ψ b) = 0. {\\displaystyle (\\phi _{b}+\\phi _{c}\\psi _{b})=0.}\n\nThe above two equations can be used to solve a {\\displaystyle a} and b {\\displaystyle b}. Substituting (a, b, c) {\\displaystyle (a,b,c)} in ϕ = 0 {\\displaystyle \\phi =0}, we obtain the general integral. Thus a general integral describes a relation between (x, y, z, u) {\\displaystyle (x,y,z,u)}, two known independent functions (a, b) {\\displaystyle (a,b)} and an arbitrary function ψ (a, b) {\\displaystyle \\psi (a,b)}. Note that we have assumed c = ψ (a, b) {\\displaystyle c=\\psi (a,b)} to make the determinant J {\\displaystyle J} zero, but this is not always needed. The relations c = ψ (a) {\\displaystyle c=\\psi (a)} or, c = ψ (b) {\\displaystyle c=\\psi (b)} suffice to make the determinant zero.\n\nSingular integral is obtained when J ≠ 0 {\\displaystyle J\\neq 0}. In this case, elimination of (a, b, c) {\\displaystyle (a,b,c)} from ϕ = 0 {\\displaystyle \\phi =0} works if\n\nϕ a = 0, ϕ b = 0, ϕ c = 0. {\\displaystyle \\phi _{a}=0,\\quad \\phi _{b}=0,\\quad \\phi _{c}=0.}\n\nThe three equations can be used to solve the three unknowns (a, b, c) {\\displaystyle (a,b,c)}. Solution obtained by elimination of (a, b, c) {\\displaystyle (a,b,c)} this way leads to what are called singular integrals.\n\nUsually, most integrals fall into three categories defined above, but it may happen that a solution does not fit into any of three types of integrals mentioned above. These solutions are called special integrals. A relation χ (x, y, z, u) = 0 {\\displaystyle \\chi (x,y,z,u)=0} that satisfies the partial differential equation is said to a special integral if we are unable to determine (a, b, c) {\\displaystyle (a,b,c)} from the following equations\n\nϕ x χ u − χ x ϕ u = 0 {\\displaystyle \\phi _{x}\\chi _{u}-\\chi _{x}\\phi _{u}=0}\n\nϕ y χ u − χ y ϕ u = 0 {\\displaystyle \\phi _{y}\\chi _{u}-\\chi _{y}\\phi _{u}=0}\n\nϕ z χ u − χ z ϕ u = 0. {\\displaystyle \\phi _{z}\\chi _{u}-\\chi _{z}\\phi _{u}=0.}\n\nIf we able to determine (a, b, c) {\\displaystyle (a,b,c)} from the above set of equations, then χ = 0 {\\displaystyle \\chi =0} will turn out to be one of the three integrals described before.\n\nThe complete integral in two-dimensional space can be written as ϕ (x, y, u, a, b) = 0 {\\displaystyle \\phi (x,y,u,a,b)=0}. The general integral is obtained by eliminating a {\\displaystyle a} from the following equations\n\nϕ (x, y, z, a, ψ (a)) = 0, ϕ a + ψ a ϕ b = 0. {\\displaystyle \\phi (x,y,z,a,\\psi (a))=0,\\quad \\phi _{a}+\\psi _{a}\\phi _{b}=0.}\n\nThe singular integral if it exists can be obtained by eliminating (a, b) {\\displaystyle (a,b)} from the following equations\n\nϕ (x, y, z, a, b) = 0, ϕ a = 0, ϕ b = 0. {\\displaystyle \\phi (x,y,z,a,b)=0,\\quad \\phi _{a}=0,\\quad \\phi _{b}=0.}\n\nIf a complete integral is not available, solutions may still be obtained by solving a system of ordinary equations. To obtain this system, first note that the PDE determines a cone (analogous to the light cone) at each point: if the PDE is linear in the derivatives of u (it is quasi-linear), then the cone degenerates into a line. In the general case, the pairs (p, q) that satisfy the equation determine a family of planes at a given point:\n\nu − u 0 = p (x − x 0) + q (y − y 0), {\\displaystyle u-u_{0}=p(x-x_{0})+q(y-y_{0}),\\,}\n\nwhere\n\nF (x 0, y 0, u 0, p, q) = 0. {\\displaystyle F(x_{0},y_{0},u_{0},p,q)=0.\\,}\n\nThe envelope of these planes is a cone, or a line if the PDE is quasi-linear. The condition for an envelope is\n\nF p d p + F q d q = 0, {\\displaystyle F_{p}\\,dp+F_{q}\\,dq=0,\\,}\n\nwhere F is evaluated at (x 0, y 0, u 0, p, q) {\\displaystyle (x_{0},y_{0},u_{0},p,q)}, and dp and dq are increments of p and q that satisfy F =0. Hence the generator of the cone is a line with direction\n\nd x: d y: d u = F p: F q: (p F p + q F q). {\\displaystyle dx:dy:du=F_{p}:F_{q}:(pF_{p}+qF_{q}).\\,}\n\nThis direction corresponds to the light rays for the wave equation.To integrate differential equations along these directions, we require increments for p and q along the ray. This can be obtained by differentiating the PDE:\n\nF x + F u p + F p p x + F q p y = 0, {\\displaystyle F_{x}+F_{u}p+F_{p}p_{x}+F_{q}p_{y}=0,\\,}\n\nF y + F u q + F p q x + F q q y = 0, {\\displaystyle F_{y}+F_{u}q+F_{p}q_{x}+F_{q}q_{y}=0,\\,}\n\nTherefore the ray direction in (x, y, u, p, q) {\\displaystyle (x,y,u,p,q)} space is\n\nd x: d y: d u: d p: d q = F p: F q: (p F p + q F q): (− F x − F u p): (− F y − F u q). {\\displaystyle dx:dy:du:dp:dq=F_{p}:F_{q}:(pF_{p}+qF_{q}):(-F_{x}-F_{u}p):(-F_{y}-F_{u}q).\\,}\n\nThe integration of these equations leads to a ray conoid at each point (x 0, y 0, u 0) {\\displaystyle (x_{0},y_{0},u_{0})}. General solutions of the PDE can then be obtained from envelopes of such conoids.\n\nThis part can be referred to § 1.2.3 {\\displaystyle \\S 1.2.3} of Courant's book.\n\nWe assume that these h {\\displaystyle h} equations are independent, i.e., that none of them can be deducedfrom the other by differentiation and elimination.\n\n— Courant, R. & Hilbert, D. (1962), Methods of Mathematical Physics: Partial Differential Equations, II, p.15-18\n\nAn equivalent description is given. Two definitions of linear dependence are given for first-order linear partial differential equations.\n\n(∗) { ∑ i j a i j (1) ∂ y j ∂ x i + f 1 = 0 ⋮ ∑ i j a i j (n) ∂ y j ∂ x i + f n = 0 {\\displaystyle (*)\\left\\{{\\begin{array}{*{20}{c}}\\sum \\limits _{ij}^{}{a_{ij}^{(1)}{\\dfrac {\\partial {y_{j}}}{\\partial {x_{i}}}}}+{f_{1}}=0\\\\\\vdots \\\\\\sum \\limits _{ij}^{}{a_{ij}^{(n)}{\\dfrac {\\partial {y_{j}}}{\\partial {x_{i}}}}}+{f_{n}}=0\\end{array}}\\right.}\n\nWhere x i {\\displaystyle x_{i}} are independent variables; y j {\\displaystyle y_{j}} are dependent unknowns; a i j (k) {\\displaystyle a_{ij}^{(k)}} are linear coefficients; and f k {\\displaystyle f_{k}} are non-homogeneous items. Let Z k ≡ ∑ i j a i j (k) ∂ y j ∂ x i + f k {\\textstyle {Z_{k}}\\equiv \\sum _{ij}^{}{a_{ij}^{(k)}{\\frac {\\partial {y_{j}}}{\\partial {x_{i}}}}}+{f_{k}}}.\n\nDefinition I: Given a number field P {\\displaystyle P}, when there are coefficients (c k ∈ P {\\displaystyle c_{k}\\in P}), not all zero, such that ∑ k c k Z k = 0 {\\textstyle \\sum _{k}{{c_{k}}{Z_{k}}=0}}; the Eqs.(*) are linear dependent.\n\nDefinition II (differential linear dependence): Given a number field P {\\displaystyle P}, when there are coefficients (c k, d k l ∈ P {\\displaystyle {c_{k}},d_{kl}\\in P}), not all zero, such that ∑ k c k Z k + ∑ k l d k l ∂ ∂ x l Z k = 0 {\\textstyle \\sum _{k}{{c_{k}}{Z_{k}}}+\\sum _{kl}{{d_{kl}}{\\frac {\\partial }{\\partial {x_{l}}}}{Z_{k}}=0}},the Eqs.(*) are thought as differential linear dependent. If d k l ≡ 0 {\\displaystyle {d_{kl}}\\equiv 0}, this definition degenerates into the definition I.\n\nThe div-curl systems, Maxwell's equations, Einstein's equations (with four harmonic coordinates) and Yang-Mills equations (with gauge conditions) are well-determined in definition II, whereas are over-determined in definition I.\n\nCharacteristic surfaces for the wave equation are level surfaces for solutions of the equation\n\nu t 2 = c 2 (u x 2 + u y 2 + u z 2). {\\displaystyle u_{t}^{2}=c^{2}\\left(u_{x}^{2}+u_{y}^{2}+u_{z}^{2}\\right).\\,}\n\nThere is little loss of generality if we set u t = 1 {\\displaystyle u_{t}=1}: in that case u satisfies\n\nu x 2 + u y 2 + u z 2 = 1 c 2. {\\displaystyle u_{x}^{2}+u_{y}^{2}+u_{z}^{2}={\\frac {1}{c^{2}}}.\\,}\n\nIn vector notation, let\n\nx → = (x, y, z) and p → = (u x, u y, u z). {\\displaystyle {\\vec {x}}=(x,y,z)\\quad {\\hbox{and}}\\quad {\\vec {p}}=(u_{x},u_{y},u_{z}).\\,}\n\nA family of solutions with planes as level surfaces is given by\n\nu (x →) = p → ⋅ (x → − x 0 →), {\\displaystyle u({\\vec {x}})={\\vec {p}}\\cdot ({\\vec {x}}-{\\vec {x_{0}}}),\\,}\n\nwhere\n\n| p → | = 1 c, and x 0 → is arbitrary. {\\displaystyle |{\\vec {p}}\\,|={\\frac {1}{c}},\\quad {\\text{and}}\\quad {\\vec {x_{0}}}\\quad {\\text{is arbitrary}}.\\,}\n\nIf x and x are held fixed, the envelope of these solutions is obtained by finding a point on the sphere of radius 1/ c where the value of u is stationary. This is true if p → {\\displaystyle {\\vec {p}}} is parallel to x → − x 0 → {\\displaystyle {\\vec {x}}-{\\vec {x_{0}}}}. Hence the envelope has equation\n\nu (x →) = ± 1 c | x → − x 0 → |. {\\displaystyle u({\\vec {x}})=\\pm {\\frac {1}{c}}|{\\vec {x}}-{\\vec {x_{0}}}\\,|.}\n\nThese solutions correspond to spheres whose radius grows or shrinks with velocity c. These are light cones in space-time.\n\nThe initial value problem for this equation consists in specifying a level surface S where u =0 for t =0. The solution is obtained by taking the envelope of all the spheres with centers on S, whose radii grow with velocity c. This envelope is obtained by requiring that\n\n1 c | x → − x 0 → | is stationary for x 0 → ∈ S. {\\displaystyle {\\frac {1}{c}}|{\\vec {x}}-{\\vec {x_{0}}}\\,|\\quad {\\hbox{is stationary for}}\\quad {\\vec {x_{0}}}\\in S.\\,}\n\nThis condition will be satisfied if | x → − x 0 → | {\\displaystyle |{\\vec {x}}-{\\vec {x_{0}}}\\,|} is normal to S. Thus the envelope corresponds to motion with velocity c along each normal to S. This is the Huygens' construction of wave fronts: each point on S emits a spherical wave at time t =0, and the wave front at a later time t is the envelope of these spherical waves. The normals to S are the light rays.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1306421271",
+      "revision_id": "1306421271",
+      "text_sha256": "9d3a6ddf7e1c50e69589a933f0ae0edbe5eda79a32e2ec5a8dbc82831aa5d308",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:16:59.992321+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.401905536651611,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:3303198",
+      "title": "Fokker periodicity block",
+      "corpus": "wikipedia",
+      "text": "Fokker periodicity blocks are a concept in tuning theory used to mathematically relate musical intervals in just intonation to those in equal tuning. They are named after Adriaan Daniël Fokker. These are included as the primary subset of what Erv Wilson refers to as constant structures, where \"each interval occurs always subtended by the same number of steps\".\n\nThe basic idea of Fokker's periodicity blocks is to represent just ratios as points on a lattice, and to find vectors in the lattice which represent very small intervals, known as commas. Treating pitches separated by a comma as equivalent \"folds\" the lattice, effectively reducing its dimension by one; mathematically, this corresponds to finding the quotient group of the original lattice by the sublattice generated by the commas.For an n -dimensional lattice, identifying n linearly independent commas reduces the dimension of the lattice to zero, meaning that the number of pitches in the lattice is finite; mathematically, its quotient is a finite abelian group. This zero-dimensional set of pitches is a periodicity block. Frequently, it forms a cyclic group, in which case identifying the m pitches of the periodicity block with m -equal tuning gives equal tuning approximations of the just ratios that defined the original lattice.\n\nNote that octaves are usually ignored in constructing periodicity blocks (as they are in scale theory generally) because it is assumed that for any pitch in the tuning system, all pitches differing from it by some number of octaves are also available in principle. In other words, all pitches and intervals can be considered as residues modulo octave. This simplification is commonly known as octave equivalence.\n\nLet an n -dimensional lattice (i.e. integer grid) embedded in n -dimensional space have a numerical value assigned to each of its nodes, such that moving within the lattice in one of the cardinal directions corresponds to a shift in pitch by a particular interval. Typically, n ranges from one to three. Simultaneously the two-dimensional case, the lattice is a square lattice. In the 3-D case, the lattice is cubic.\n\nExamples of such lattices are the following (x, y, z and w are integers):\n\nIn the one-dimensional case, the interval corresponding to a single step is generally taken to be a perfect fifth, with ratio 3/2, defining 3- limit just tuning. The lattice points correspond to the integers, with the point at position x being labeled with the pitch value 3 x /2 y for a number y chosen to make the resulting value lie in the range from 1 to 2. Thus, A (0) = 1, and surrounding it are the values\n\n... 128/81, 32/27, 16/9, 4/3, 1, 3/2, 9/8, 27/16, 81/64,...\n\nIn the two-dimensional case, corresponding to 5-limit just tuning, the intervals defining the lattice are a perfect fifth and a major third, with ratio 5/4. This gives a square lattice in which the point at position (x, y) is labeled with the value 3 x 5 y 2 z. Again, z is chosen to be the unique integer that makes the resulting value lie in the interval [1,2).\n\nThe three-dimensional case is similar, but adds the harmonic seventh to the set of defining intervals, leading to a cubic lattice in which the point at position (x, y, z) is labeled with a value 3 x 5 y 7 z 2 w with w chosen to make this value lie in the interval [1,2).\n\nOnce the lattice and its labeling is fixed, one chooses n nodes of the lattice other than the origin whose values are close to either 1 or 2.The vectors from the origin to each one of these special nodes are called unison vectors. These vectors define a sublattice of the original lattice, which has a fundamental domain that in the two-dimensional case is a parallelogram bounded by unison vectors and their shifted copies, and in the three-dimensional case is a parallelepiped. These domains form the tiles in a tessellation of the original lattice.\n\nThe tile has an area or volume given by the absolute value of the determinant of the matrix of unison vectors: i.e. in the 2-D case if the unison vectors are u and v, such that u = (u x, u y) {\\displaystyle \\mathbf {u} =(u_{x},u_{y})} and v = (v x, v y) {\\displaystyle \\mathbf {v} =(v_{x},v_{y})} then the area of a 2-D tile is\n\n| u x u y v x v y | = u x v y − u y v x. {\\displaystyle \\left|{\\begin{matrix}u_{x}&u_{y}\\\\v_{x}&v_{y}\\end{matrix}}\\right|=u_{x}v_{y}-u_{y}v_{x}.}\n\nEach tile is called a Fokker periodicity block. The area of each block is always a natural number equal to the number of nodes falling within each block.\n\nExample 1: Take the 2-dimensional lattice of perfect fifths (ratio 3/2) and just major thirds (ratio 5/4). Choose the commas 128/125 (the diesis, the distance by which three just major thirds fall short of an octave, about 41 cents) and 81/80 (the syntonic comma, the difference between four perfect fifths and a just major third, about 21.5 cents). The result is a block of twelve, showing how twelve-tone equal temperament approximates the ratios of the 5- limit.\n\nExample 2: However, if we were to reject the diesis as a unison vector and instead choose the difference between five major thirds (minus an octave) and a fourth, 3125/3072 (about 30 cents), the result is a block of 19, showing how 19-TET approximates ratios of the 5-limit.\n\nExample 3: In the 3-dimensional lattice of perfect fifths, just major thirds and just harmonic sevenths, the identification of the syntonic comma, the septimal kleisma (225/224, about 8 cents) and the ratio 1029/1024 (the difference between three septimal whole tones and a perfect fifth, about 8.4 cents) results in a block of 31, showing how 31-TET approximates ratios of the 7-limit.\n\nThe periodicity blocks form a secondary, oblique lattice, superimposed on the first one. This lattice may be given by a function φ:\n\nϕ B (x, y):= (x 0, y 0) + (x, y) (u x u y v x v y) {\\displaystyle \\phi _{B}(x,y):=(x_{0},y_{0})+(x,y){\\begin{pmatrix}u_{x}&u_{y}\\\\v_{x}&v_{y}\\end{pmatrix}}}\n\nwhich is really a linear combination:\n\nϕ B (x, y):= (x 0, y 0) + x u + y v {\\displaystyle \\phi _{B}(x,y):=(x_{0},y_{0})+x\\mathbf {u} +y\\mathbf {v} }\n\nwhere point (x, y) can be any point, preferably not a node of the primary lattice, and preferably so that points φ(0,1), φ(1,0) and φ(1,1) are not any nodes either.\n\nThen membership of primary nodes within periodicity blocks may be tested analytically through the inverse φ function:\n\nϕ B − 1 (x, y):= ((x, y) − (x 0, y 0)) (u x u y v x v y) − 1 {\\displaystyle \\phi _{B}^{-1}(x,y):=\\left((x,y)-(x_{0},y_{0})\\right){\\begin{pmatrix}u_{x}&u_{y}\\\\v_{x}&v_{y}\\end{pmatrix}}^{-1}}\n\n= ((x, y) − (x 0, y 0)) u x v y − u y v x (v y − u y − v x u x) {\\displaystyle ={\\left((x,y)-(x_{0},y_{0})\\right) \\over u_{x}v_{y}-u_{y}v_{x}}{\\begin{pmatrix}v_{y}&-u_{y}\\\\-v_{x}&u_{x}\\end{pmatrix}}}\n\nLet\n\nν B (x, y):= (⌊ x ⌋, ⌊ y ⌋), {\\displaystyle \\nu _{B}(x,y):=(\\lfloor x\\rfloor,\\lfloor y\\rfloor),}\n\nμ B (x, y):= ν B (ϕ B − 1 (x, y)), {\\displaystyle \\mu _{B}(x,y):=\\nu _{B}(\\phi _{B}^{-1}(x,y)),}\n\nthen let the pitch B (x, y) belong to the scale M iff μ B (x, y) = μ B (0, 0), {\\displaystyle \\mu _{B}(x,y)=\\mu _{B}(0,0),} i.e.\n\nM B = { B (x, y): μ B (x, y) = μ B (0, 0) }. {\\displaystyle M_{B}=\\{B(x,y):\\mu _{B}(x,y)=\\mu _{B}(0,0)\\}.}\n\nFor the one-dimensional case:\n\nϕ A (x):= x 0 + L x {\\displaystyle \\phi _{A}(x):=x_{0}+Lx}\n\nwhere L is the length of the unison vector,\n\nϕ A − 1 (x) = x − x 0 L {\\displaystyle \\phi _{A}^{-1}(x)={x-x_{0} \\over L}}\n\nμ A (x):= ⌊ x − x 0 L ⌋, {\\displaystyle \\mu _{A}(x):=\\left\\lfloor {x-x_{0} \\over L}\\right\\rfloor,}\n\nM A = { A (x): μ A (x) = μ A (0) }. {\\displaystyle M_{A}=\\{A(x):\\mu _{A}(x)=\\mu _{A}(0)\\}.}\n\nFor the three-dimensional case,\n\nϕ C (x, y, z):= (x 0, y 0, z 0) + (x, y, z) (u x u y u z v x v y v z w x w y w z) {\\displaystyle \\phi _{C}(x,y,z):=(x_{0},y_{0},z_{0})+(x,y,z){\\begin{pmatrix}u_{x}&u_{y}&u_{z}\\\\v_{x}&v_{y}&v_{z}\\\\w_{x}&w_{y}&w_{z}\\end{pmatrix}}}\n\nϕ C − 1 (x, y, z) = ((x, y, z) − (x 0, y 0, z 0)) Δ (v y w z − v z w y u z w y − u y w z u y v z − u z v y v z w x − v x w z u x w z − u z w x u z v x − u x v z v x w y − v y w x u y w x − u x w y u x v y − u y v x) {\\displaystyle \\phi _{C}^{-1}(x,y,z)={((x,y,z)-(x_{0},y_{0},z_{0})) \\over \\Delta }{\\begin{pmatrix}v_{y}w_{z}-v_{z}w_{y}&u_{z}w_{y}-u_{y}w_{z}&u_{y}v_{z}-u_{z}v_{y}\\\\v_{z}w_{x}-v_{x}w_{z}&u_{x}w_{z}-u_{z}w_{x}&u_{z}v_{x}-u_{x}v_{z}\\\\v_{x}w_{y}-v_{y}w_{x}&u_{y}w_{x}-u_{x}w_{y}&u_{x}v_{y}-u_{y}v_{x}\\end{pmatrix}}}\n\nwhere Δ = u x v y w z + u y v z w x + u z v x w y − u x v z w y − u y v x w z − u z v y w x {\\displaystyle \\Delta =u_{x}v_{y}w_{z}+u_{y}v_{z}w_{x}+u_{z}v_{x}w_{y}-u_{x}v_{z}w_{y}-u_{y}v_{x}w_{z}-u_{z}v_{y}w_{x}} is the determinant of the matrix of unison vectors.\n\nν C (x, y, z):= (⌊ x ⌋, ⌊ y ⌋, ⌊ z ⌋) {\\displaystyle \\nu _{C}(x,y,z):=(\\lfloor x\\rfloor,\\lfloor y\\rfloor,\\lfloor z\\rfloor)}\n\nμ C (x, y, z):= ν C (ϕ C − 1 (x, y, z)) {\\displaystyle \\mu _{C}(x,y,z):=\\nu _{C}(\\phi _{C}^{-1}(x,y,z))}\n\nM C = { C (x, y, z): μ C (x, y, z) = μ C (0, 0, 0) }. {\\displaystyle M_{C}=\\{C(x,y,z):\\mu _{C}(x,y,z)=\\mu _{C}(0,0,0)\\}.}",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1317418715",
+      "revision_id": "1317418715",
+      "text_sha256": "6602eebd2a724fdc939094ca73fe8ab6b79e1e6dc680c39c532e8448e614fbb9",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:16:59.357199+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.562056541442871,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2250",
+    "title": "Britannica page 2250",
+    "corpus": "britannica",
+    "text": "<x_0.1924><y_0.0516>B U X ( 697 ) B Y Z<x_0.7637><y_0.0742><class_Section-header>\n\n<x_0.0625><y_0.0766>Button attempted to find out a north-well pallage to the Call Indies. It lies between 80° and 100° W, long, and between 60° and 60° N. lat.<x_0.4766><y_0.1211><class_Text>\n\n<x_0.0479><y_0.1187>BUTTRESS, a kind of batment built archwife, or a mals of flouse or birds, ferving to prop of flapper the fides of a building, wall, 6e, on the outside, where it is either very high, or has any considerable load to fultain on the other fide, as a bank of earth, eC<x_0.4736><y_0.1859><class_Text>\n\n<x_0.0488><y_0.1852>Butteflies are used against the angles of fleeples and other buildings of flone, 6e, on the confiile, and along the walls of fuch buildings at have great and heavy roofs, which would be subject to shrull the walls once, unless very thick, if no butteffes were placed againft them. They are also placed for a lupport and bammer against the feet of fine arches, that are turned around great halls in old palaces, abbys, cz.<x_0.4746><y_0.2969><class_Text>\n\n<x_0.0498><y_0.2953>BUTZAW, a town of Lower Saxony, in Germany; it floods upon the river Varnow, on the road from Sehaven to Rolloek.<x_0.4756><y_0.3367><class_Text>\n\n<x_0.0508><y_0.3375>BUXTON, a place in the peak of Derbyhires; celebrated for medicinal waters; the bottelt in England, next to Bath.<x_0.4775><y_0.3797><class_Text>\n\n<x_0.0518><y_0.3805>Buxcoow-will. The frats of earth and minerals, in the parts adjacent to Buxton, are peat-mols, blue clay, iron, and coal, mixed with filpular and brazzl. The warm waters there, as preferers are the ban, which takes in federal water-franges; St Am’s well, a hot and cold spring riding up into the fame receptele, and Ilgham-well.<x_0.4727><y_0.475><class_Text>\n\n<x_0.0527><y_0.4742>Thefe waters greatly promote digestion, unief they are drunk too long; in which cell they relax the flo- made, and reared digestion; they are well adapted to obstructions of every kind, whence they produce fur- grilling effects in gouy, rheumatic, athrire, and feor- butic pains. As this water as warn, highly impregnated with a mineral foam, vapoon, or finite, it is figally beneficial to crampt, convilions, dry affthmas, the biluso colis, liftedly, cz.<x_0.4717><y_0.5969><class_Text>\n\n<x_0.0537><y_0.5977>They advirle both drinking and bathing in the ule of thute waters is only the left is of bad consequence in the gout, inward inflammations, fevers, dyfentery, large inward tumours, or in an outward preflure of the body.<x_0.4746><y_0.6625><class_Text>\n\n<x_0.0547><y_0.6633>BUXUS, in botany, a genus of the monocina terrandia elids. The calix of the male coaffins of three leaves; and the crotilla has two petals: The calix of the fo- male has four leaves; the petals are three; it has three flyily, and the copfila has three cells containing two feeds. There is but one species, viz, the fampevi-rens, or box-tree, a native of Britain. A decdition<x_0.4707><y_0.7586><class_Text>\n\n<x_0.0869><y_0.757>Vol. 1. No 29.<x_0.4697><y_0.7719><class_Footnote>\n\n<x_0.4951><y_0.0758>of the leaves and wood has been recommended as a powerful fiducifie; but is not now used by prestitioners. The wood is of a hard clole texture, and is greatly used by mechanics for toßls of various kinds.<x_0.9082><y_0.132><class_Text>\n\n<x_0.4971><y_0.1328>BUS', a town of Daughane, in France, situated on the confined Florence; E. long, 3° 20, and N. lat. 44° 25°.<x_0.9072><y_0.1727><class_Text>\n\n<x_0.4961><y_0.1719>BUZZARD, in anthology, the English name of fever-ral species of the hawk kind. See Paxo.<x_0.9062><y_0.1992><class_Text>\n\n<x_0.4912><y_0.1984>BYGHOF, or BYGow, a city of Lithuania in Poland, firstured on the river Niper; E. long, 30°, and N. lat. 32°.<x_0.9092><y_0.2406><class_Text>\n\n<x_0.4902><y_0.2398>BYLAWS, or ByrŁLAWS, private and peculiar laws for the good government of a city, court, or other community, made by the general content of the mem-bers.<x_0.9102><y_0.2938><class_Text>\n\n<x_0.4883><y_0.293>All by-laws are to be reafonable, and for the com-mon benefit, not private advantage of any particular prefers, and mult be agreeable to the public laws in bang.<x_0.9111><y_0.3492><class_Text>\n\n<x_0.4873><y_0.35>BYRLAW, or ŁyrŁLAW laws, in Scotland, are made and determined by neighbours, elected by common conferin byterw courts. The man chaden in judges are called byrlaw or burlaw men, and take cognizance of complaints between neighbors and neighbors.<x_0.9092><y_0.4203><class_Text>\n\n<x_0.4893><y_0.4211>BYRHUS, in zodogy, an order of infects belonging to the order of coloroptera. The feelers are clavated, pretty folkl, and a little compelled. These are five species, all of which are to be found on particular plants and principally disfiguplified from each other by the colour and figure of the clytra or cruttaccous wing cases.<x_0.9121><y_0.5156><class_Text>\n\n<x_0.4863><y_0.5148>BYSUS, in botany, a genus of molltes belonging to the cryptogania alge. The character is taken from this reconnillacs, that they are covered with a female capillary filament or down, refonishing fat duft. The feeices are 15; all natives of Britain.<x_0.9102><y_0.5836><class_Text>\n\n<x_0.4854><y_0.5828>BYSSSUS, in antiquity, that fine Egyptian then whirco- of the tunes of the jewith prints we make.<x_0.8965><y_0.6102><class_Text>\n\n<x_0.4844><y_0.6094>Pulio Rey, that the byllas is the clearelt and moft beautiful, the whistel, froongel, and molt glolly fore of linesy that it is not made of any thing mortal, that is softy, of wool, or the skin of way animal, but that it comes out of the earth, and becomes always white, and more thinning, when it is waffed as it fluid he.<x_0.9082><y_0.7031><class_Text>\n\n<x_0.4834><y_0.7023>BYZANT. See BEZANT.<x_0.6953><y_0.718><class_Text>\n\n<x_0.4824><y_0.7188>BYZANTIUM, the ancient name of Confiantinople. See COMPENTINORY.<x_0.9043><y_0.7453><class_Text>\n\n<x_0.4814><y_0.7445>BZO, a town of Africa, in the kingdom of Morocco.<x_0.8857><y_0.7602><class_Text>\n\n<x_0.2236><y_0.8461>END OF THE FIRST VOLUME.<x_0.7402><y_0.8688><class_Page-footer>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "d7f32a50b401cf742fe05376f4590d1392e3ba4252b0e1c6f8b652877c9f5b79",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:58:02.887775+00:00",
+    "parser_receipt_sha256": "037dc3a213218db4eda121bec46596946b75b7b26cefafdb1d3dc4e0919f6de9",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 1321,
+      "occurred_at": "2026-10-18T18:16:57.730741+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1626,
+      "occurred_at": "2026-10-18T18:16:59.357227+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 615,
+      "occurred_at": "2026-10-18T18:16:59.992352+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 585,
+      "occurred_at": "2026-10-18T18:17:00.596669+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 594,
+      "occurred_at": "2026-10-18T18:17:01.245146+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 609,
+      "occurred_at": "2026-10-18T18:17:01.874814+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 613,
+      "occurred_at": "2026-10-18T18:17:02.507490+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 567,
+      "occurred_at": "2026-10-18T18:17:03.103718+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 595,
+      "occurred_at": "2026-10-18T18:17:03.727268+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 69,
+      "occurred_at": "2026-10-18T18:17:03.815796+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 664,
+      "occurred_at": "2026-10-18T18:17:04.479438+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 127,
+      "occurred_at": "2026-10-18T18:17:04.615824+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 11,
+      "occurred_at": "2026-10-18T18:17:04.626633+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 469,
+      "occurred_at": "2026-10-18T18:17:05.095571+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 825,
+    "modern_words": 3205,
+    "vocabulary_jaccard": 0.08080808080808081,
+    "jensen_shannon_divergence": 0.7138234940783184,
+    "historical_top_words": [
+      [
+        "the",
+        62
+      ],
+      [
+        "of",
+        49
+      ],
+      [
+        "and",
+        34
+      ],
+      [
+        "a",
+        22
+      ],
+      [
+        "in",
+        22
+      ],
+      [
+        "are",
+        16
+      ],
+      [
+        "to",
+        15
+      ],
+      [
+        "or",
+        14
+      ],
+      [
+        "is",
+        13
+      ],
+      [
+        "it",
+        9
+      ],
+      [
+        "on",
+        7
+      ],
+      [
+        "they",
+        7
+      ],
+      [
+        "that",
+        7
+      ],
+      [
+        "by",
+        7
+      ],
+      [
+        "has",
+        6
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "x",
+        249
+      ],
+      [
+        "b",
+        236
+      ],
+      [
+        "z",
+        215
+      ],
+      [
+        "a",
+        147
+      ],
+      [
+        "y",
+        130
+      ],
+      [
+        "n",
+        110
+      ],
+      [
+        "the",
+        96
+      ],
+      [
+        "displaystyle",
+        76
+      ],
+      [
+        "t",
+        69
+      ],
+      [
+        "mathrm",
+        67
+      ],
+      [
+        "function",
+        57
+      ],
+      [
+        "frac",
+        57
+      ],
+      [
+        "m",
+        56
+      ],
+      [
+        "beta",
+        49
+      ],
+      [
+        "d",
+        44
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "b u x z",
+  "semantic_input": {
+    "query": "b u x z\nB U X ( 697 ) B Y Z\n\nButton attempted to find out a north-well pallage to the Call Indies. It lies between 80° and 100° W, long, and between 60° and 60° N. lat.\n\nBUTTRESS, a kind of batment built archwife, or a mals of flouse or birds, ferving to prop of flapper the fides of a building, wall, 6e, on the outside, where it is either very high, or has any considerable load to fultain on the other fide, as a bank of earth, eC\n\nButteflies are used against the angles of fleeples and other buildings of flone, 6e, on the confiile, and along the walls of fuch buildings at have great and heavy roofs, which would be subject to shrull the walls once, unless very thick, if no butteffes were placed againft them. They are also placed for a lupport and bammer against the feet of fine arches, that are turned around great halls in old palaces, abbys, cz.\n\nBUTZAW, a town of Lower Saxony, in Germany; it floods upon the river Varnow, on the road from Sehaven to Rolloek.\n\nBUXTON, a place in the peak of Derb",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.18570756912231445,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "heart blood physiology",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:4156844",
+      "title": "Cardiovascular physiology",
+      "corpus": "wikipedia",
+      "text": "Cardiovascular physiology is the study of the cardiovascular system, specifically addressing the physiology of the heart (\"cardio\") and blood vessels (\"vascular\").\n\nThese subjects are sometimes addressed separately, under the names cardiac physiology and circulatory physiology.\n\nAlthough the different aspects of cardiovascular physiology are closely interrelated, the subject is still usually divided into several subtopics.\n\nCardiac output (= heart rate * stroke volume. Can also be calculated with Fick principle, palpating method.)\n\nStroke volume (= end-diastolic volume − end-systolic volume)\n\nEjection fraction (= stroke volume / end-diastolic volume)\n\nCardiac output is mathematically ` to systole\n\nInotropic, chronotropic, and dromotropic states\n\nCardiac input (= heart rate * suction volume Can be calculated by inverting terms in Fick principle)\n\nSuction volume (= end-systolic volume + end-diastolic volume)\n\nInjection fraction (=suction volume / end-systolic volume)\n\nCardiac input is mathematically ` to diastole\n\nElectrical conduction system of the heart\n\nElectrocardiogram\n\nCardiac marker\n\nCardiac action potential\n\nFrank–Starling law of the heart\n\nWiggers diagram\n\nPressure volume diagram\n\nBaroreceptor\n\nBaroreflex\n\nRenin–angiotensin system\n\nRenin\n\nAngiotensin\n\nJuxtaglomerular apparatus\n\nAortic body and carotid body\n\nAutoregulation\n\nCerebral Autoregulation\n\nUnder most circumstances, the body attempts to maintain a steady mean arterial pressure.\n\nWhen there is a major and immediate decrease (such as that due to hemorrhage or standing up), the body can increase the following:\n\nHeart rate\n\nTotal peripheral resistance (primarily due to vasoconstriction of arteries)\n\nInotropic state\n\nIn turn, this can have a significant impact upon several other variables:\n\nStroke volume\n\nCardiac output\n\nPressure\n\nPulse pressure (systolic pressure - diastolic pressure)\n\nMean arterial pressure (usually approximated with diastolic pressure + 1/3 pulse pressure)\n\nCentral venous pressure",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1280648887",
+      "revision_id": "1280648887",
+      "text_sha256": "aacd292a48f9d0963ce8f773f00fe8edf966febe98f2680faca93addea020ad4",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:14:48.445726+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.306503772735596,
+      "vector_distance": 0.762502908706665,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:71776328",
+      "title": "Léon Fredericq",
+      "corpus": "wikipedia",
+      "text": "Léon Fredericq (24 August 1851 – 2 September 1935) was a Belgian physiologist. He conducted pioneering experiments on blood physiology, and discovered the copper-based hemocyanin of octopuses. He also examined gas-exchange, the working of the heart, and the transport of carbon dioxide and oxygen by blood. He served as a professor at the University of Liège from 1879.\n\nFredericq was born in Ghent where his father César Fredericq was a physician and his mother Mathilde Huet headed a boarding school for girls. He was educated in Ghent before joining the University of Ghent in 1868 to study science. He received a doctorate in 1871 and became a preparator in physiology at the faculty of medicine. He received an MD in 1875 and went to France studying under Louis-Antoine Ranvier, Georges Pouchet, Wilhelm Waldeyer, Ernst Tiegel, Felix Hoppe-Seyler and others. He also spent some time studying the nerve physiology of sea urchins at Roscoff under Henri de Lacaze-Duthiers. He examined blood coagulation in 1876 and then studied blood-gas analysis techniques under Paul Bert in Paris. He received a doctorate in physiology in 1878 for his work on blood coagulation and gases. He discovered hemocyanin in octopuses in 1878. In 1879 he studied nerve impulse transmission in lobsters and in the same year he succeeded Theodor Schwann as professor of physiology at the University of Liège. Fredericq conducted a number of studies, some tangential to his main field, driven by accidental discoveries. He tasted the blood of marine invertebrates and found them to be salty while bony fishes seemed to maintain a lower salt level which made him examine osmoregulation from 1901. He also examined thermoregulation and the relation to oxygen consumption. He introduced cross-circulation experiments with blood from the artery of one dog feeding into the arterial system of another. The air supply to one dog could then be altered to examine the effects of lung gas exchange in the other dog. Another area of research was on the mechanism of the heart.\n\nApart from work in physiology, he took an interest in art, travel, and natural history. He coined the term autotomy in 1883 based on his observations of invertebrates.\n\nFredericq married Bertha Spring, sister of the chemist Walthère Spring, in 1881. Their son Henri Fredericq (1887–1980) also became a physiologist who worked on nerve and muscle action. In 1929, the organizing committee of the 13th International Congress of Physiologists, held in Boston, invited him, along with Nobel Prize winner Ivan Pavlov, to participate in the sessions as guests of honor at the Congress, and in 1931 he was created baron by King Albert I. He received two nominations for the Nobel Prize in Physiology or Medicine in 1930.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1322095318",
+      "revision_id": "1322095318",
+      "text_sha256": "69cc2fcf419b16f364afc82ca76028d2bea1c1c4a9824a3c7c143cfbac1c8d42",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:14:45.140652+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.733771324157715,
+      "vector_distance": 0.7717947363853455,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:523886",
+      "title": "Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus",
+      "corpus": "wikipedia",
+      "text": "Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus (Latin, 'An Anatomical Exercise on the Motion of the Heart and Blood in Living Beings'), commonly called De Motu Cordis, is the best-known work of the physician William Harvey, which was first published in 1628 and established the circulation of blood throughout the body. It is a landmark in the history of physiology, with Harvey combining observations, experiments, measurements, and hypotheses in an extraordinary fashion to arrive at his doctrine. His work is a model of its kind and had an immediate and far-reaching influence on Harvey's contemporaries; Thomas Hobbes said that Harvey was the only modern author whose doctrines were taught in his lifetime.\n\nIn De Motu Cordis, Harvey investigated the effect of ligatures on blood flow. The book also argued that blood was pumped around the body in a \"double circulation\", where after being returned to the heart, it is recirculated in a closed system to the lungs and back to the heart, where it is returned to the main circulation.\n\nThis work is a substantial contribution to cardiac physiology, for it introduces into biology the doctrine of circulation of the blood in the seventeenth century.\n\nPapers both opposed and supporting Harvey's discovery and description can be found to the thirteenth century, when the pulmonary circulation and gas exchange was proposed by Ibn Al-Nafis. Both long since proven theories are incomplete when studied separately but together form core knowledge of present-day cardiology. In 1553, Michael Servetus said that blood flows from the heart to the lungs, and that it there mixes with air to form the arterial blood which flows back to the heart. Between 1570 and 1590, Cesalpino suggested, in a controversy with Galenists, that the movement of blood was more like a circulation than an oscillation; but this view lacks clarity. In 1603, Hieronymus Fabricius ab Acquapendente published a work clearly describing the valves in the veins and showing that they hinder the flow of blood away from the heart.\n\nFrom 1597 to 1602, Harvey studied arts and medicine at Padua, and made a careful study of the heart and the movement of blood. By 1616, he was presenting in lectures his case for the circulation of the blood, but it was not until 1628 that he published it in his classic work, De Motu Cordis. This book is important both for the discovery of the complete circulation and for the experimental, quantitative and mechanistic methodology which Harvey introduced. He looked upon the heart, not as a mystical seat of the spirit and faculties, but as a pump analyzable along mechanical lines. He also measured the amount of blood which it sent out to the body. He observed that with each beat two ounces of blood leave the heart, so that with 72 beats per minute, the heart throws into the system 540 pounds of blood every hour. Where could all this blood come from? The answer seems to be that it is the same blood that is always returning. Moreover, the one-way valves in the heart, like those in the veins, indicate that, following the pulmonary circulation, the blood goes out to all parts of the body through the arteries and returns by way of the veins. The blood thus makes a complete closed circuit. As Harvey expressed it, \"There must be a motion, as it were, in a circle.\"\n\nThere was, however, one stage in the circulation which Harvey was not able to see — that in which the veins and arteries lose themselves by subdivision into the tiny capillary vessels. It was in 1660, three years after Harvey's death, that Marcello Malpighi saw the blood moving in the capillaries of a frog 's lung, and thus supplied the missing link in Harvey's proof of the circulation of the blood.\n\nDe Motu Cordis is mentioned by Viktor Frankenstein in Guillermo del Toro's 2025 film, Frankenstein.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1344781576",
+      "revision_id": "1344781576",
+      "text_sha256": "21c3d54ab6babceb7ae658f1aac9e366cde8c82fe17e6c6a81106a25ea7ab6d0",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:14:50.115006+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.7604780197143555,
+      "vector_distance": 0.6824933290481567,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1032",
+    "title": "Britannica page 1032",
+    "corpus": "britannica",
+    "text": "<x_0.2539><y_0.0406>HE A ( 776 )<x_0.7939><y_0.0602><class_Page-header>\n\n<x_0.127><y_0.0633>tery of a man, and that the inward area of the left ventricle of his heart is equal to fifteen figures under; their multiplied inn =+1 for, give 13 to cubicinches of blood, which prefix on that ventricle, when it drift begins to control, a weight equal to 15 y.g pounds.<x_0.5176><y_0.1313><class_Text>\n\n<x_0.1279><y_0.132>What the doctor thus calculates, from deposition, with regard to mandind, he actually experimented op-on horfes, dogs, fallow-does, cz, by fixing tubes, in<y_0.1734><class_Text>\n\n<x_0.5459><y_0.0625>cerifices opened in their veins and arteries ; by obfer-ving into federal heights, or which the blood rode in these tubes, as they lay on the ground, y and by mea- firing the capacities of the ventricles of the heart, and orifice of the arteries. And, that the reader may the more readily compare the faid eliminates together, he has given a table of them, ranged in the following order.<x_0.9404><y_0.1727><class_Text>\n\n<x_0.1221><y_0.1867>\\begin{tabular}{ccccccccccc}\n**The feeral animals.** & **Weight of each.** & **Height of the blood in the tube from the gui- urine.** & **Capacity of the left ventricle of the heart.** & **Area of the orifice of the aorta.** & **Velocity of the blood in the sorta.** & **Welocity of the blood in the sorta.** & **Flows.** & **How much in a minute** & **Weight of the blood fur- flined by the left ventricle contracting.** & **Area of transferfe fiction of defending aorta.** & **Area of the transferfe fiction of defending aorta.**\\\\\n & Pounds, Ounces. & Inches. & Retelaches. & Cubicinches & Square inches. & Pete andiae circa in minute. & Minutes. & Pounds. & Pounds. & No of pullies in a minute. & Square inches.\\\\\nMan & 160 & On drain- ing. & 7 6 & 1.659 & 3.318 & 0.4187 & 56.55 & 34.18 & 34.38 & 51.5 & \\\\\nHorfe 1th. 2d. 3d. & 12 5 & 9 8 & 8 9 & 10 2.5 & 1.036 & 86.85 & 60 88 & 13.75 & 113.22 & 86 38 & 0.369\\\\\nOx & 835 1600 & 12 5 & 9 6 & 10 1.539 & 86.95 & 76.95 & 18.14 & 113.22 & 86 38 & 0.677 0.912 & 0.84\\\\\nSheep Doe & 91 & 5† & 9 6 & 1.85 & 0.172 0.476 & 174.5 & 20 & 4.593 & 36.56 & 50 0.984 & 0.07 0.012\\\\\nDogs ift. & 52 24 & 5 6 & 6 8 8 & 1.172 & 0.196 & 144.77 & 11.9 & 4.34 & 33.61 & 97 & 0.106 0.034\\\\\n2d. 3d. 3d. & 18 5 & 5 7 & 8 8 & 0.185 & 0.118 & 130 & 7.8 & 2.3 & 19.8 & 11.1 & 0.07 0.022 0.009\\\\\n4th. & 12 8 & 4 & 8 3 & 0.633 & 0.101 & 120 & 6.7 & 1.85 & 11.1 & 0.061 & 0.015 0.007\\\\\n\\end{tabular}<x_0.9346><y_0.6047><class_Table>\n\n<x_0.1162><y_0.6164>HEAT, in phylology, one of the forecary qualities of bodies, produced by fire, and opposed to cold.<x_0.5195><y_0.6453><class_Footnote>\n\n<x_0.1309><y_0.6469>Under the article fire, we considered the fun as the principal source of heat upon the earth's surface, and the conifers of the earth and atmosphere: with out this, all the hotles open our globe would doubt- left grow right, lifelife, and feed... It is this that flies within them, as the main frying of their actions. Hence vegetation and animalizations are evidently pro- mored; and hence the ocean and the atmosphere co- timese in a fluid flare.<x_0.5205><y_0.7656><class_Footnote>\n\n<x_0.1338><y_0.7664>Heat its us is properly a fanitation, excited by the action of fire, or is it the effect of fire on our organs of feeling. Hence it follows, that what we call heat is a particular idea or modification of our own mind, and not any thing exfiling is that you in the body that occasions it. Heat, frys Mr Locke, is no more in the fire that burns the finger, than pain is in the needle that pricks it. In effect, heat in the body that<x_0.5215><y_0.8758><class_Footnote>\n\n<x_0.5508><y_0.6172>gives it, is only motion ; and in the mind, only a par- ticular idea.<x_0.9385><y_0.6445><class_Footnote>\n\n<x_0.5518><y_0.6461>Heats the hot body, according to 'S Gravefunde, is an agitation of the parts of the body, made by means of the fire contained in it: by fuch an agitation a mo- tion is produced in our bodies, which excite the idea of heat in our mind! To this heat in respect of us is nothing but that idea, and in the hot body nothing but motion. If fuch motion expel the fire in right liner, is gives us the idea of light; it in a various and irregular motion, only heat.<x_0.9395><y_0.7648><class_Footnote>\n\n<x_0.5527><y_0.7641>Heat, with respect to our conditions, or the effect produced on us by a hot body, is eliminated by ir reda- tion to the organ of feeling; no object appearing to be hot, unless it heat exceed that of our body. When the fans things to different perform or at different times to the flame perlon, full appear both hot and cold. The degree of heat is measured by the expansion of the air, or spirit in the thermometer.<x_0.9414><y_0.875><class_Footnote>\n\n<x_0.9209><y_0.8727>It<x_0.9424><y_0.8859><class_Page-footer>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "5e3e85e76c9edd5458c997d48c592bdc69ba4d13081f6aa1b33722dea5cbf283",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:08.126690+00:00",
+    "parser_receipt_sha256": "af9dd8bb8971b47c6103e94beeb1f02f812413bca655c7cac52625f2f9d734fb",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 154,
+      "occurred_at": "2026-10-18T18:14:43.870598+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 684,
+      "occurred_at": "2026-10-18T18:14:44.554821+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 566,
+      "occurred_at": "2026-10-18T18:14:45.140691+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 608,
+      "occurred_at": "2026-10-18T18:14:45.773297+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1001,
+      "occurred_at": "2026-10-18T18:14:46.799316+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 544,
+      "occurred_at": "2026-10-18T18:14:47.370625+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1050,
+      "occurred_at": "2026-10-18T18:14:48.445742+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 697,
+      "occurred_at": "2026-10-18T18:14:49.163003+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 934,
+      "occurred_at": "2026-10-18T18:14:50.115041+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 67,
+      "occurred_at": "2026-10-18T18:14:50.204784+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 1361,
+      "occurred_at": "2026-10-18T18:14:51.565904+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 606,
+      "occurred_at": "2026-10-18T18:14:52.178312+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 8,
+      "occurred_at": "2026-10-18T18:14:52.186578+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 7043,
+      "occurred_at": "2026-10-18T18:14:59.229127+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 638,
+    "modern_words": 256,
+    "vocabulary_jaccard": 0.07235142118863049,
+    "jensen_shannon_divergence": 0.7021135381083468,
+    "historical_top_words": [
+      [
+        "the",
+        63
+      ],
+      [
+        "of",
+        41
+      ],
+      [
+        "in",
+        26
+      ],
+      [
+        "and",
+        17
+      ],
+      [
+        "is",
+        15
+      ],
+      [
+        "a",
+        13
+      ],
+      [
+        "to",
+        13
+      ],
+      [
+        "that",
+        12
+      ],
+      [
+        "heat",
+        12
+      ],
+      [
+        "it",
+        11
+      ],
+      [
+        "by",
+        11
+      ],
+      [
+        "fire",
+        7
+      ],
+      [
+        "our",
+        7
+      ],
+      [
+        "body",
+        7
+      ],
+      [
+        "blood",
+        6
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "volume",
+        14
+      ],
+      [
+        "the",
+        12
+      ],
+      [
+        "pressure",
+        10
+      ],
+      [
+        "cardiac",
+        8
+      ],
+      [
+        "of",
+        6
+      ],
+      [
+        "heart",
+        6
+      ],
+      [
+        "end",
+        6
+      ],
+      [
+        "physiology",
+        5
+      ],
+      [
+        "is",
+        5
+      ],
+      [
+        "and",
+        5
+      ],
+      [
+        "diastolic",
+        5
+      ],
+      [
+        "to",
+        5
+      ],
+      [
+        "stroke",
+        4
+      ],
+      [
+        "can",
+        4
+      ],
+      [
+        "systolic",
+        4
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "heart blood physiology",
+  "semantic_input": {
+    "query": "heart blood physiology\nHE A ( 776 )\n\ntery of a man, and that the inward area of the left ventricle of his heart is equal to fifteen figures under; their multiplied inn =+1 for, give 13 to cubicinches of blood, which prefix on that ventricle, when it drift begins to control, a weight equal to 15 y.g pounds.\n\nWhat the doctor thus calculates, from deposition, with regard to mandind, he actually experimented op-on horfes, dogs, fallow-does, cz, by fixing tubes, in\n\ncerifices opened in their veins and arteries ; by obfer-ving into federal heights, or which the blood rode in these tubes, as they lay on the ground, y and by mea- firing the capacities of the ventricles of the heart, and orifice of the arteries. And, that the reader may the more readily compare the faid eliminates together, he has given a table of them, ranged in the following order.\n\n\\begin{tabular}{ccccccccccc}\n**The feeral animals.** & **Weight of each.** & **Height of the blood in the tube from the gui- urine.** & **Capacity of the left ventricle",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.42726755142211914,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

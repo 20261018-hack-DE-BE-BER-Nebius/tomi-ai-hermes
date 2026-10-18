@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "110 Nature of Wash, Sc.",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:12535980",
+      "title": "Color wash",
+      "corpus": "wikipedia",
+      "text": "A color wash is a popular technique in faux painting using paint thinned out with glaze to create a subtle wash of color over walls or other surfaces.\n\nColor washing gives a surface a translucent, watercolor appearance. It can be used to add texture or accentuate natural surfaces. It can be applied in any color of paint, generally with brushes over a solid paint color, using long sweeping strokes to meld the glaze colors together.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1234170401",
+      "revision_id": "1234170401",
+      "text_sha256": "f9c665a99a69e7fb2e17d68310e9334e969b383687c40055382ce3d9556ad525",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:46:48.481378+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.511939525604248,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:45647817",
+      "title": "Thorley Wash nature reserve",
+      "corpus": "wikipedia",
+      "text": "Thorley Wash or Thorley Flood Pound is a 17.3-hectare biological Site of Special Scientific Interest in Thorley, south of Bishop's Stortford in Hertfordshire. It was formerly a flood pound for the Stort Navigation, which was decommissioned in 2004 and converted to a more natural state. It was purchased by the Herts and Middlesex Wildlife Trust from the Environment Agency in 2011.\n\nHabitats include tall wash grassland, which is now rare, marsh and waterlogged grassland. It has a wide variety of plant species, including reed sweet-grass and meadowsweet. There are flowers such as fen bedstraw and early marsh orchid. Breeding birds include snipe and water rails. The site also has the endangered Desmoulin's whorl snail, which is in the Red Date Book, together with diverse dragonflies, damselflies, birds, bats, small mammals and reptiles.\n\nThere are five wooden sculptures by Daniel Cordell, commissioned by the Wildlife Trust in 2012.\n\nThe Stort Navigation forms the boundary between Hertfordshire and Essex, and the site is on the Hertfordshire bank, but access is by a bridge from the towpath on the eastern Essex side. Access is restricted to footpaths due to the dangerous deep silt on the site.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1284239596",
+      "revision_id": "1284239596",
+      "text_sha256": "161ffff4a41c5c42bf6a74cbcad0bf544b11eec84c326099d0c0955eabfa2f1c",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:46:45.345329+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.651643753051758,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:8921249",
+      "title": "Texize",
+      "corpus": "wikipedia",
+      "text": "Texize Chemical Company or simply Texize, is a chemical company incorporated in the 1945 which sold industrial cleaners to textile mills, hence the name \"Texize.\" It was also one of the first accounts of Henderson Advertising Agency, founded by James M. Henderson in 1946 in Greenville, South Carolina. It was Henderson who persuaded Texize's founder, W. J. \"Jack\" Greer, to market the company's products for household use. Texize's product line included Janitor In a Drum, Glass Plus, Fantastik, Spray 'N Wash, Vivid color safe bleach and many others. Its consumer line was acquired by Dow Chemical Company in 1986; Texize still markets to industrial clients. SC Johnson later bought some of these brands from Dow, and Reckitt Benckiser in turn purchased Glass Plus, and Spray 'N Wash and still produces it.\n\nGreer sold his company to Norwich Pharmacal Co. in 1967; that company \"was acquired and became Morton Norwich Products Inc.\" Morton Norwich sold the consumer products division of Texize to Dow in 1986.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348733722",
+      "revision_id": "1348733722",
+      "text_sha256": "ad993ae45908c0a2632242c67b8b4f8794158e8068a465deab19c6ec1c978699",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:46:44.721766+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.185370445251465,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:383",
+    "title": "Britannica page 383",
+    "corpus": "britannica",
+    "text": "<x_0.0488><y_0.057>110 Nature of Wash, Sc.<x_0.1104><y_0.1211><class_Page-header>\n\n<x_0.3203><y_0.0484>POLITICAL ECONOMY.<x_0.6865><y_0.0695><class_Title>\n\n<x_0.8701><y_0.0469>Chup. II.<x_0.9873><y_0.0688><class_Caption>\n\n<x_0.1162><y_0.0711>The second fort is of those which human industry can multiply in proportion to the demand. Where the commodity, a room, is flash as cannot be produced but by human industry, the price is more under than in almost any other cafe. The increasing fearty and confrequency value of land, trends indeed to make it; but this is countertled by its invention of machinery, and improved methods of labour. The opposite agency of these two causes for a soullant tendency to produce uniformity of the value of grain, though we cannot, with Smith, condlier this uniformity as likely to be fo complete, as to consider the price of grain a fure standard for the price of diver.<x_0.5029><y_0.2492><class_Text>\n\n<x_0.1172><y_0.2461>There are other commodities, however, which nature products in abundance, or which, where land is plant-ful, can be multiplied with little or no cultivation. Of thefe the principal is butche meet. Lands can be co-vered with cattle or they by the labour of the lands and sometimes without any labor at all. Hence, in trade times, butche meet is always cheaper than one. Imimproved periods the reverse is thatcafe. For a long time the price continues confiantly to rife, as we have been it do throughout Great Britain, the autumn area being alone and make concerted into arabile. At left, however, it becomes fo high as to make it an object for the farmer to think cattle, and to cultivate greater for the purpose of feeding them. After this era, the price is likely to experience a certain diminution, from the imported modes of feeding and rearing, which in confidence of the new situation, as likely to be dif-covered and adopted.<x_0.5039><y_0.4906><class_Text>\n\n<x_0.1201><y_0.4891>There are certain animals, as boys, poultry, Sec, which are fed on more offs, and in a trade state, therefore, are fill cheaper than butcher meet. In an improved that they are doctors: for hery here not as yet at least in his country, become an object of separate cultivation.?<x_0.5059><y_0.5734><class_Text>\n\n<x_0.1211><y_0.5711>The third fort conflicts of thode, in the multiplication of which the power of man is either limited or uncertain. In their the rule is various. Some commodities are not cultivated on their own account, but are appear dages to others; as wool and hides to the carre of the ox or fleece. Both their commodities are much more portable, and more easily preserved, than the field in the animals from which they are taken; the market for them is thus much more creative, and the demands more equal at all lines. Hence, in such periods, when the flesh of animals, from its abundance, is of finally vache, their appendages equal to force if it in prices. At Baena Ayrter Consequently, and importance in Spain, an oe is killed for the fake of the hide and tallow. In an improved fate of society, on the contrary, the land and forces become considerably inferior to value to the carerule.<x_0.5117><y_0.8031><class_Text>\n\n<x_0.1191><y_0.8008>7/9 is in article, the topply of which is conferably limited, as man his no power of production in respect to it, though, by the exertion of indultry, he can col- led a greater quantity. Shoals of fish are generally co- pions, but uncertain.<x_0.5127><y_0.8695><class_Text>\n\n<x_0.1289><y_0.8656>Metal and minerals are articles, the supply of which is not perfectly limited, was extremely uncertain. The different of new mines, or the continuance of fertility in the old, are equally beyond the reach of calculation.<x_0.5146><y_0.9391><class_Text>\n\n<x_0.5762><y_0.0828>CHAP.II. _Of the Source of Wealth._<x_0.8398><y_0.1023><class_Section-header>\n\n<x_0.5176><y_0.1062>ALL wealth arises from three fourores; it is either produced by the fenomenous beauty of nature, or it is the fruit of human industry, or it is generated by the judicious employment of a quantity of wealth previously accumulated. To the three heads then of _land, lao- border_, and copied, all national wealth may be covered.<x_0.9023><y_0.2031><class_Text>\n\n<x_0.5186><y_0.2023>Smith has tested of the revenue derived from thefe these figures as forming the constituent parts of the price of commodities; and with regard to labour in particular, repeated conflicts as the way factor of weakly. According to the view, however, given above a Book i the price of all commodities depend entirely on the pro-ch. v.vi.vic. persons between the domestic and the supply. Laonos, therefore, (and the famone may be fast of land and opi- tal), is only a means of furnishing or increasing a supply of their articles for which there already walks abroad, and the units it be beneficial to dooring, the most severe labours will meet with no remoneration whatever. We fulfill therefore proceed to consider the revenue which arise from the deficient causes, and the circumstances by which it is increased or diminished.<x_0.9033><y_0.4078><class_Text>\n\n<x_0.6562><y_0.4117>Sect. I. Land.<x_0.7666><y_0.4281><class_Section-header>\n\n<x_0.5195><y_0.4289>All land which is not naturally burren, and is cultivated, with any cats, afterd something more than is necefary to pay the expense of labouring it. This fur- plus goes as a rest to the husband, who, or couldartion of or rejecting it without risk or trouble, relinquilies to the former the profits of cultivation.<x_0.9043><y_0.5133><class_Text>\n\n<x_0.5205><y_0.5125>The proportion of the producers of afield which is to go far away, varies with different circumstances. The chief of thefe is the fertility of the foil, the extent of the mask, which enables the producer to be disputed de to greater advantage, the property or poverty of the country, which caules a greater or his demand for that produce, the average-field and activity of the farnes, which will enable them to turn the fertility of the ground to better account. It is almost one-click to delivery, were less for the vague language often made use of upon this subject, that the rate at which farms let, mutl, likeed other commodities, depred altogether upon the demand and the topply if it must is to be made by farming, many will bid for farms, and the rent will be ruled by their competition, and now *early. The idea that all the hundreds of an extensive country may combine to raise their rents, is altogether chimerical. Even could it take place, it could be accomplished only by a certain number of trees allowing their funds to to waste, which, diminishing the topply, would doubtfe ratio the rent of the cultivated lands. But we need not first that any landlad should leave his lands in this condition, from a culpable feheme of ag-gremdizing the refill of his body at his own expense, as well as that of the public.<x_0.9111><y_0.85><class_Text>\n\n<x_0.5293><y_0.8477>Land which produces food for men will at all three afford to the landlad, in proportion to its fertility, and the other circumstances mentioned above. Men multiply in proportion to the means of fullerenes they have even a constant tendency to multiply beyond those means; hence there is always a full demand for this species<x_0.9121><y_0.9437><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "de0ea22dade366596d957dd43057a0a477c2abadfc582ef8eb20ea259aa0f6dd",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:50:14.226522+00:00",
+    "parser_receipt_sha256": "f2f2939a7f9baa0abdcaf1856b4203750fc0b7b38a500331ba258dda7c564c55",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 376,
+      "occurred_at": "2026-10-18T17:46:43.451304+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 592,
+      "occurred_at": "2026-10-18T17:46:44.042903+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 662,
+      "occurred_at": "2026-10-18T17:46:44.721820+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 600,
+      "occurred_at": "2026-10-18T17:46:45.345388+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 940,
+      "occurred_at": "2026-10-18T17:46:46.308939+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 822,
+      "occurred_at": "2026-10-18T17:46:47.154522+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 551,
+      "occurred_at": "2026-10-18T17:46:47.732594+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 730,
+      "occurred_at": "2026-10-18T17:46:48.481468+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 641,
+      "occurred_at": "2026-10-18T17:46:49.147365+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 31,
+      "occurred_at": "2026-10-18T17:46:49.208073+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 727,
+      "occurred_at": "2026-10-18T17:46:49.935150+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 442,
+      "occurred_at": "2026-10-18T17:46:50.382687+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 4,
+      "occurred_at": "2026-10-18T17:46:50.386820+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 227,
+      "occurred_at": "2026-10-18T17:46:50.613458+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1132,
+    "modern_words": 75,
+    "vocabulary_jaccard": 0.03131115459882583,
+    "jensen_shannon_divergence": 0.7321202149265631,
+    "historical_top_words": [
+      [
+        "the",
+        96
+      ],
+      [
+        "of",
+        66
+      ],
+      [
+        "to",
+        39
+      ],
+      [
+        "is",
+        31
+      ],
+      [
+        "and",
+        28
+      ],
+      [
+        "in",
+        22
+      ],
+      [
+        "which",
+        20
+      ],
+      [
+        "a",
+        17
+      ],
+      [
+        "it",
+        17
+      ],
+      [
+        "as",
+        15
+      ],
+      [
+        "or",
+        15
+      ],
+      [
+        "for",
+        14
+      ],
+      [
+        "be",
+        12
+      ],
+      [
+        "are",
+        12
+      ],
+      [
+        "by",
+        10
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "a",
+        6
+      ],
+      [
+        "color",
+        5
+      ],
+      [
+        "paint",
+        3
+      ],
+      [
+        "to",
+        3
+      ],
+      [
+        "wash",
+        2
+      ],
+      [
+        "in",
+        2
+      ],
+      [
+        "using",
+        2
+      ],
+      [
+        "with",
+        2
+      ],
+      [
+        "glaze",
+        2
+      ],
+      [
+        "of",
+        2
+      ],
+      [
+        "over",
+        2
+      ],
+      [
+        "or",
+        2
+      ],
+      [
+        "surfaces",
+        2
+      ],
+      [
+        "it",
+        2
+      ],
+      [
+        "can",
+        2
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "nature wash sc",
+  "semantic_input": {
+    "query": "nature wash sc\n110 Nature of Wash, Sc.\n\nPOLITICAL ECONOMY.\n\nChup. II.\n\nThe second fort is of those which human industry can multiply in proportion to the demand. Where the commodity, a room, is flash as cannot be produced but by human industry, the price is more under than in almost any other cafe. The increasing fearty and confrequency value of land, trends indeed to make it; but this is countertled by its invention of machinery, and improved methods of labour. The opposite agency of these two causes for a soullant tendency to produce uniformity of the value of grain, though we cannot, with Smith, condlier this uniformity as likely to be fo complete, as to consider the price of grain a fure standard for the price of diver.\n\nThere are other commodities, however, which nature products in abundance, or which, where land is plant-ful, can be multiplied with little or no cultivation. Of thefe the principal is butche meet. Lands can be co-vered with cattle or they by the labour of the lands and sometimes ",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.13970422744750977,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

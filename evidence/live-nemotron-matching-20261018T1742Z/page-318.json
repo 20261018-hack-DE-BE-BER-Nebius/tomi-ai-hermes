@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "N I L 75 J N I L",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:14182874",
+      "title": "Schuette–Nesbitt formula",
+      "corpus": "wikipedia",
+      "text": "In mathematics, the Schuette–Nesbitt formula is a generalization of the inclusion–exclusion principle. It is named after Donald R. Schuette and Cecil J. Nesbitt.\n\nThe probabilistic version of the Schuette–Nesbitt formula has practical applications in actuarial science, where it is used to calculate the net single premium for life annuities and life insurances based on the general symmetric status.\n\nConsider a set Ω and subsets A,..., A. Let\n\ndenote the number of subsets to which ω ∈ Ω belongs, where we use the indicator functions of the sets A,..., A. Furthermore, for each k ∈ {0, 1,..., m }, let\n\ndenote the number of intersections of exactly k sets out of A,..., A, to which ω belongs, where the intersection over the empty index set is defined as Ω, hence N = 1. Let V denote a vector space over a field R such as the real or complex numbers (or more generally a module over a ring R with multiplicative identity). Then, for every choice of c,..., c ∈ V,\n\nwhere 1 denotes the indicator function of the set of all ω ∈ Ω with N (ω) = n, and (k l) {\\displaystyle \\textstyle {\\binom {k}{l}}} is a binomial coefficient. Equality (3) says that the two V -valued functions defined on Ω are the same.\n\nWe prove that (3) holds pointwise. Take ω ∈ Ω and define n = N (ω).Then the left-hand side of (3) equals c.Let I denote the set of all those indices i ∈ {1,..., m } such that ω ∈ A, hence I contains exactly n indices.Given J ⊂ {1,..., m } with k elements, then ω belongs to the intersection ∩ A if and only if J is a subset of I.By the combinatorial interpretation of the binomial coefficient, there are N = (n k) {\\displaystyle \\textstyle {\\binom {n}{k}}} such subsets (the binomial coefficient is zero for k > n).Therefore the right-hand side of (3) evaluated at ω equals\n\n∑ k = 0 m (n k) ∑ l = 0 k (− 1) k − l (k l) c l = ∑ l = 0 m ∑ k = l n (− 1) k − l (n k) (k l) ⏟ =: (∗) c l, {\\displaystyle \\sum _{k=0}^{m}{\\binom {n}{k}}\\sum _{l=0}^{k}(-1)^{k-l}{\\binom {k}{l}}c_{l}=\\sum _{l=0}^{m}\\underbrace {\\sum _{k=l}^{n}(-1)^{k-l}{\\binom {n}{k}}{\\binom {k}{l}}} _{=:\\,(*)}c_{l},}\n\nwhere we used that the first binomial coefficient is zero for k > n.Note that the sum (*) is empty and therefore defined as zero for n < l.Using the factorial formula for the binomial coefficients, it follows that\n\n(∗) = ∑ k = l n (− 1) k − l n ! k ! (n − k) ! k ! l ! (k − l) ! = n ! l ! (n − l) ! ⏟ = (n l) ∑ k = l n (− 1) k − l (n − l) ! (n − k) ! (k − l) ! ⏟ =: (∗ ∗) {\\displaystyle {\\begin{aligned}(*)&=\\sum _{k=l}^{n}(-1)^{k-l}{\\frac {n!}{k!\\,(n-k)!}}\\,{\\frac {k!}{l!\\,(k-l)!}}\\\\&=\\underbrace {\\frac {n!}{l!\\,(n-l)!}} _{={\\binom {n}{l}}}\\underbrace {\\sum _{k=l}^{n}(-1)^{k-l}{\\frac {(n-l)!}{(n-k)!\\,(k-l)!}}} _{=:\\,(**)}\\\\\\end{aligned}}}\n\nRewriting (**) with the summation index j = k − l und using the binomial formula for the third equality shows that\n\n(∗ ∗) = ∑ j = 0 n − l (− 1) j (n − l) ! (n − l − j) ! j ! = ∑ j = 0 n − l (− 1) j (n − l j) = (1 − 1) n − l = δ l n, {\\displaystyle {\\begin{aligned}(**)&=\\sum _{j=0}^{n-l}(-1)^{j}{\\frac {(n-l)!}{(n-l-j)!\\,j!}}\\\\&=\\sum _{j=0}^{n-l}(-1)^{j}{\\binom {n-l}{j}}=(1-1)^{n-l}=\\delta _{ln},\\end{aligned}}}\n\nwhich is the Kronecker delta. Substituting this result into the above formula and noting that n choose l equals 1 for l = n, it follows that the right-hand side of (3) evaluated at ω also reduces to c.\n\nAs a special case, take for V the polynomial ring R with the indeterminate x. Then (3) can be rewritten in a more compact way as\n\nThis is an identity for two polynomials whose coefficients depend on ω, which is implicit in the notation.\n\nProof of (4) using (3): Substituting c = x n for n ∈ {0,..., m } into (3) and using the binomial formula shows that\n\n∑ n = 0 m 1 { N = n } x n = ∑ k = 0 m N k ∑ l = 0 k (k l) (− 1) k − l x l ⏟ = (x − 1) k, {\\displaystyle \\sum _{n=0}^{m}1_{\\{N=n\\}}x^{n}=\\sum _{k=0}^{m}N_{k}\\underbrace {\\sum _{l=0}^{k}{\\binom {k}{l}}(-1)^{k-l}x^{l}} _{=\\,(x-1)^{k}},}\n\nwhich proves (4).\n\nConsider the linear shift operator E and the linear difference operator Δ, which we define here on the sequence space of V by\n\nE: V N 0 → V N 0, E (c 0, c 1, c 2, c 3, …) ↦ (c 1, c 2, c 3, …), {\\displaystyle {\\begin{aligned}E:V^{\\mathbb {N} _{0}}&\\to V^{\\mathbb {N} _{0}},\\\\E(c_{0},c_{1},c_{2},c_{3},\\ldots)&\\mapsto (c_{1},c_{2},c_{3},\\ldots),\\\\\\end{aligned}}}\n\nand\n\nΔ: V N 0 → V N 0, Δ (c 0, c 1, c 2, c 3 …) ↦ (c 1 − c 0, c 2 − c 1, c 3 − c 2, …). {\\displaystyle {\\begin{aligned}\\Delta:V^{\\mathbb {N} _{0}}&\\to V^{\\mathbb {N} _{0}},\\\\\\Delta (c_{0},c_{1},c_{2},c_{3}\\ldots)&\\mapsto (c_{1}-c_{0},c_{2}-c_{1},c_{3}-c_{2},\\ldots).\\\\\\end{aligned}}}\n\nSubstituting x = E in (4) shows that\n\nwhere we used that Δ = E – I with I denoting the identity operator. Note that E 0 and Δ 0 equal the identity operator I on the sequence space, E k and Δ k denote the k -fold composition.\n\nTo prove (5), we first want to verify the equation\n\ninvolving indicator functions of the sets A,..., A and their complements with respect to Ω. Suppose an ω from Ω belongs to exactly k sets out of A,..., A, where k ∈ {0,..., m }, for simplicity of notation say that ω only belongs to A,..., A. Then the left-hand side of (✳) is E k. On the right-hand side of (✳), the first k factors equal E, the remaining ones equal I, their product is also E k, hence the formula (✳) is true.\n\nNote that\n\n1 A j c I + 1 A j E = I − 1 A j I + 1 A j E = I + 1 A j (E − I) = I + 1 A j Δ, j ∈ { 0, …, m }. {\\displaystyle {\\begin{aligned}1_{A_{j}^{\\mathrm {c} }}I+1_{A_{j}}E&=I-1_{A_{j}}I+1_{A_{j}}E\\\\&=I+1_{A_{j}}(E-I)=I+1_{A_{j}}\\Delta,\\qquad j\\in \\{0,\\ldots,m\\}.\\end{aligned}}}\n\nInserting this result into equation (✳) and expanding the product gives\n\n∑ n = 0 m 1 { N = n } E n = ∑ k = 0 m ∑ J ⊂ { 1, …, m } | J | = k 1 ∩ j ∈ J A j Δ k, {\\displaystyle \\sum _{n=0}^{m}1_{\\{N=n\\}}E^{n}=\\sum _{k=0}^{m}\\sum _{\\scriptstyle J\\subset \\{1,\\ldots,m\\} \\atop \\scriptstyle |J|=k}1_{\\cap _{j\\in J}A_{j}}\\Delta ^{k},}\n\nbecause the product of indicator functions is the indicator function of the intersection. Using the definition (2), the result (5) follows.\n\nLet (Δ k c) denote the 0th component of the k -fold composition Δ k applied to c = (c, c,..., c,...), where Δ 0 denotes the identity. Then (3) can be rewritten in a more compact way as\n\nConsider arbitrary events A,..., A in a probability space (Ω, F, P {\\displaystyle \\mathbb {P} }) and let E denote the expectation operator. Then N from (1) is the random number of these events which occur simultaneously. Using N from (2), define\n\nwhere the intersection over the empty index set is again defined as Ω, hence S = 1. If the ring R is also an algebra over the real or complex numbers, then taking the expectation of the coefficients in (4) and using the notation from (7),\n\nin R. If R is the field of real numbers, then this is the probability-generating function of the probability distribution of N.\n\nSimilarly, (5) and (6) yield\n\nand, for every sequence c = (c, c, c, c,..., c,...),\n\nThe quantity on the left-hand side of (6') is the expected value of c.\n\nIn actuarial science, the name Schuette–Nesbitt formula refers to equation (6'), where V denotes the set of real numbers.\n\nThe left-hand side of equation (5') is a convex combination of the powers of the shift operator E, it can be seen as the expected value of random operator E N. Accordingly, the left-hand side of equation (6') is the expected value of random component c. Note that both have a discrete probability distribution with finite support, hence expectations are just the well-defined finite sums.\n\nThe probabilistic version of the inclusion–exclusion principle can be derived from equation (6') by choosing the sequence c = (0, 1, 1,...): the left-hand side reduces to the probability of the event { N ≥ 1}, which is the union of A,..., A, and the right-hand side is S – S + S –... – (–1) m S, because (Δ 0 c) = 0 and (Δ k c) = –(–1) k for k ∈ {1,..., m }.\n\nEquations (5), (5'), (6) and (6') are also true when the shift operator and the difference operator are considered on a subspace like the ℓ p spaces.\n\nIf desired, the formulae (5), (5'), (6) and (6') can be considered in finite dimensions, because only the first m + 1 components of the sequences matter. Hence, represent the linear shift operator E and the linear difference operator Δ as mappings of the (m + 1) -dimensional Euclidean space into itself, given by the (m + 1) × (m + 1) - matrices\n\nE = (0 1 0 ⋯ 0 0 0 1 ⋱ ⋮ ⋮ ⋱ ⋱ ⋱ 0 0 ⋯ 0 0 1 0 ⋯ 0 0 0), Δ = (− 1 1 0 ⋯ 0 0 − 1 1 ⋱ ⋮ ⋮ ⋱ ⋱ ⋱ 0 0 ⋯ 0 − 1 1 0 ⋯ 0 0 − 1), {\\displaystyle E={\\begin{pmatrix}0&1&0&\\cdots &0\\\\0&0&1&\\ddots &\\vdots \\\\\\vdots &\\ddots &\\ddots &\\ddots &0\\\\0&\\cdots &0&0&1\\\\0&\\cdots &0&0&0\\end{pmatrix}},\\qquad \\Delta ={\\begin{pmatrix}-1&1&0&\\cdots &0\\\\0&-1&1&\\ddots &\\vdots \\\\\\vdots &\\ddots &\\ddots &\\ddots &0\\\\0&\\cdots &0&-1&1\\\\0&\\cdots &0&0&-1\\end{pmatrix}},}\n\nand let I denote the (m + 1) -dimensional identity matrix. Then (6) and (6') hold for every vector c = (c, c,..., c) T in (m + 1) -dimensional Euclidean space, where the exponent T in the definition of c denotes the transpose.\n\nEquations (5) and (5') hold for an arbitrary linear operator E as long as Δ is the difference of E and the identity operator I.\n\nThe probabilistic versions (4'), (5') and (6') can be generalized to every finite measure space.\n\nFor textbook presentations of the probabilistic Schuette–Nesbitt formula (6') and their applications to actuarial science, cf. Gerber (1997). Chapter 8, or Bowers et al. (1997), Chapter 18 and the Appendix, pp. 577–578.\n\nFor independent events, the formula (6') appeared in a discussion of Robert P. White and T.N.E. Greville's paper by Donald R. Schuette and Cecil J. Nesbitt, see Schuette & Nesbitt (1959). In the two-page note Gerber (1979), Hans U. Gerber, called it Schuette–Nesbitt formula and generalized it to arbitrary events. Christian Buchta, see Buchta (1994), noticed the combinatorial nature of the formula and published the elementary combinatorial proof of (3).\n\nCecil J. Nesbitt, PhD, F.S.A., M.A.A.A., received his mathematical education at the University of Toronto and the Institute for Advanced Study in Princeton. He taught actuarial mathematics at the University of Michigan from 1938 to 1980. He served the Society of Actuaries from 1985 to 1987 as Vice-President for Research and Studies. Professor Nesbitt died in 2001. (Short CV taken from Bowers et al. (1997), page xv.)\n\nDonald Richard Schuette was a PhD student of C. Nesbitt, he later became professor at the University of Wisconsin–Madison.\n\nThe probabilistic version of the Schuette–Nesbitt formula (6') generalizes much older formulae of Waring, which express the probability of the events { N = n } and { N ≥ n } in terms of S, S,..., S. More precisely, with (k n) {\\displaystyle \\textstyle {\\binom {k}{n}}} denoting the binomial coefficient,\n\nand\n\nsee Feller (1968), Sections IV.3 and IV.5, respectively.\n\nTo see that these formulae are special cases of the probabilistic version of the Schuette–Nesbitt formula, note that by the binomial theorem\n\nΔ k = (E − I) k = ∑ j = 0 k (k j) (− 1) k − j E j, k ∈ N 0. {\\displaystyle \\Delta ^{k}=(E-I)^{k}=\\sum _{j=0}^{k}{\\binom {k}{j}}(-1)^{k-j}E^{j},\\qquad k\\in \\mathbb {N} _{0}.}\n\nApplying this operator identity to the sequence c = (0,..., 0, 1, 0, 0,...) with n leading zeros and noting that (E j c) = 1 if j = n and (E j c) = 0 otherwise, the formula (8) for { N = n } follows from (6').\n\nApplying the identity to c = (0,..., 0, 1, 1, 1,...) with n leading zeros and noting that (E j c) = 1 if j ≥ n and (E j c) = 0 otherwise, equation (6') implies that\n\nP (N ≥ n) = ∑ k = n m S k ∑ j = n k (k j) (− 1) k − j. {\\displaystyle \\mathbb {P} (N\\geq n)=\\sum _{k=n}^{m}S_{k}\\sum _{j=n}^{k}{\\binom {k}{j}}(-1)^{k-j}.}\n\nExpanding (1 – 1) k using the binomial theorem and using equation (11) of the formulas involving binomial coefficients, we obtain\n\n∑ j = n k (k j) (− 1) k − j = − ∑ j = 0 n − 1 (k j) (− 1) k − j = (− 1) k − n (k − 1 n − 1). {\\displaystyle \\sum _{j=n}^{k}{\\binom {k}{j}}(-1)^{k-j}=-\\sum _{j=0}^{n-1}{\\binom {k}{j}}(-1)^{k-j}=(-1)^{k-n}{\\binom {k-1}{n-1}}.}\n\nHence, we have the formula (9) for { N ≥ n }.\n\nProblem: Suppose there are m persons aged x,..., x with remaining random (but independent) lifetimes T,..., T. Suppose the group signs a life insurance contract which pays them after t years the amount c if exactly n persons out of m are still alive after t years. How high is the expected payout of this insurance contract in t years?\n\nSolution: Let A denote the event that person j survives t years, which means that A = { T > t }. In actuarial notation the probability of this event is denoted by p and can be taken from a life table. Use independence to calculate the probability of intersections. Calculate S,..., S and use the probabilistic version of the Schuette–Nesbitt formula (6') to calculate the expected value of c.\n\nLet σ be a random permutation of the set {1,..., m } and let A denote the event that j is a fixed point of σ, meaning that A = { σ (j) = j }. When the numbers in J, which is a subset of {1,..., m }, are fixed points, then there are (m – | J |)! ways to permute the remaining m – | J | numbers, hence\n\nP (⋂ j ∈ J A j) = (m − | J |) ! m !. {\\displaystyle \\mathbb {P} {\\biggl (}\\bigcap _{j\\in J}A_{j}{\\biggr)}={\\frac {(m-|J|)!}{m!}}.}\n\nBy the combinatorical interpretation of the binomial coefficient, there are (m k) {\\displaystyle \\textstyle {\\binom {m}{k}}} different choices of a subset J of {1,..., m } with k elements, hence (7) simplifies to\n\nS k = (m k) (m − k) ! m ! = 1 k !. {\\displaystyle S_{k}={\\binom {m}{k}}{\\frac {(m-k)!}{m!}}={\\frac {1}{k!}}.}\n\nTherefore, using (4'), the probability-generating function of the number N of fixed points is given by\n\nE = ∑ k = 0 m (x − 1) k k !, x ∈ R. {\\displaystyle \\mathbb {E} =\\sum _{k=0}^{m}{\\frac {(x-1)^{k}}{k!}},\\qquad x\\in \\mathbb {R}.}\n\nThis is the partial sum of the infinite series giving the exponential function at x – 1, which in turn is the probability-generating function of the Poisson distribution with parameter 1. Therefore, as m tends to infinity, the distribution of N converges to the Poisson distribution with parameter 1.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1299179163",
+      "revision_id": "1299179163",
+      "text_sha256": "2a9bb1e603290446b5a5c9e3ae7ade39e9b8115d09448e6d990d12c04e0a2b34",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:46:35.748622+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.797638416290283,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:62610482",
+      "title": "Kaplansky's theorem on projective modules",
+      "corpus": "wikipedia",
+      "text": "In abstract algebra, Kaplansky's theorem on projective modules, first proven by Irving Kaplansky, states that a projective module over a local ring is free; where a not-necessarily-commutative ring is called local if for each element x, either x or 1 − x is a unit element. The theorem can also be formulated so to characterize a local ring (#Characterization of a local ring).\n\nFor a finitely generated projective module over a commutative local ring, the theorem is an easy consequence of Nakayama's lemma. For the general case, the proof (both the original as well as later one) consists of the following two steps:\n\nObserve that a projective module over an arbitrary ring is a direct sum of countably generated projective modules.\n\nShow that a countably generated projective module over a local ring is free (by a \" of the proof of Nakayama's lemma\").\n\nThe idea of the proof of the theorem was also later used by Hyman Bass to show big projective modules (under some mild conditions) are free. According to (Anderson & Fuller 1992), Kaplansky's theorem \"is very likely the inspiration for a major portion of the results\" in the theory of semiperfect rings.\n\nThe proof of the theorem is based on two lemmas, both of which concern decompositions of modules and are of independent general interest.\n\nLemma 1 — Let F {\\displaystyle {\\mathfrak {F}}} denote the family of modules that are direct sums of some countably generated submodules (here modules can be those over a ring, a group or even a set of endomorphisms). If M {\\displaystyle M} is in F {\\displaystyle {\\mathfrak {F}}}, then each direct summand of M {\\displaystyle M} is also in F {\\displaystyle {\\mathfrak {F}}}.\n\nProof: Let N be a direct summand; i.e., M = N ⊕ L {\\displaystyle M=N\\oplus L}. Using the assumption, we write M = ⨁ i ∈ I M i {\\displaystyle M=\\bigoplus _{i\\in I}M_{i}} where each M i {\\displaystyle M_{i}} is a countably generated submodule. For each subset A ⊂ I {\\displaystyle A\\subset I}, we write M A = ⨁ i ∈ A M i, N A = {\\displaystyle M_{A}=\\bigoplus _{i\\in A}M_{i},N_{A}=} the image of M A {\\displaystyle M_{A}} under the projection M → N ↪ M {\\displaystyle M\\to N\\hookrightarrow M} and L A {\\displaystyle L_{A}} the same way. Now, consider the set of all triples (J {\\displaystyle J}, B {\\displaystyle B}, C {\\displaystyle C}) consisting of a subset J ⊂ I {\\displaystyle J\\subset I} and subsets B, C ⊂ F {\\displaystyle B,C\\subset {\\mathfrak {F}}} such that M J = N J ⊕ L J {\\displaystyle M_{J}=N_{J}\\oplus L_{J}} and N J, L J {\\displaystyle N_{J},L_{J}} are the direct sums of the modules in B, C {\\displaystyle B,C}. We give this set a partial ordering such that (J, B, C) ≤ (J ′, B ′, C ′) {\\displaystyle (J,B,C)\\leq (J',B',C')} if and only if J ⊂ J ′ {\\displaystyle J\\subset J'}, B ⊂ B ′, C ⊂ C ′ {\\displaystyle B\\subset B',C\\subset C'}. By Zorn's lemma, the set contains a maximal element (J, B, C) {\\displaystyle (J,B,C)}. We shall show that J = I {\\displaystyle J=I}; i.e., N = N J = ⨁ N ′ ∈ B N ′ ∈ F {\\displaystyle N=N_{J}=\\bigoplus _{N'\\in B}N'\\in {\\mathfrak {F}}}. Suppose otherwise. Then we can inductively construct a sequence of at most countable subsets I 1 ⊂ I 2 ⊂ ⋯ ⊂ I {\\displaystyle I_{1}\\subset I_{2}\\subset \\cdots \\subset I} such that I 1 ⊄ J {\\displaystyle I_{1}\\not \\subset J} and for each integer n ≥ 1 {\\displaystyle n\\geq 1},\n\nM I n ⊂ N I n + L I n ⊂ M I n + 1 {\\displaystyle M_{I_{n}}\\subset N_{I_{n}}+L_{I_{n}}\\subset M_{I_{n+1}}}.\n\nLet I ′ = ⋃ 0 ∞ I n {\\displaystyle I'=\\bigcup _{0}^{\\infty }I_{n}} and J ′ = J ∪ I ′ {\\displaystyle J'=J\\cup I'}. We claim:\n\nM J ′ = N J ′ ⊕ L J ′. {\\displaystyle M_{J'}=N_{J'}\\oplus L_{J'}.}\n\nThe inclusion ⊂ {\\displaystyle \\subset } is trivial. Conversely, N J ′ {\\displaystyle N_{J'}} is the image of N J + L J + M I ′ ⊂ N J + M I ′ {\\displaystyle N_{J}+L_{J}+M_{I'}\\subset N_{J}+M_{I'}} and so N J ′ ⊂ M J ′ {\\displaystyle N_{J'}\\subset M_{J'}}. The same is also true for L J ′ {\\displaystyle L_{J'}}. Hence, the claim is valid.\n\nNow, N J {\\displaystyle N_{J}} is a direct summand of M {\\displaystyle M} (since it is a summand of M J {\\displaystyle M_{J}}, which is a summand of M {\\displaystyle M}); i.e., N J ⊕ M ′ = M {\\displaystyle N_{J}\\oplus M'=M} for some M ′ {\\displaystyle M'}. Then, by modular law, N J ′ = N J ⊕ (M ′ ∩ N J ′) {\\displaystyle N_{J'}=N_{J}\\oplus (M'\\cap N_{J'})}. Set N J ~ = M ′ ∩ N J ′ {\\displaystyle {\\widetilde {N_{J}}}=M'\\cap N_{J'}}. Define L J ~ {\\displaystyle {\\widetilde {L_{J}}}} in the same way. Then, using the early claim, we have:\n\nM J ′ = M J ⊕ N J ~ ⊕ L J ~, {\\displaystyle M_{J'}=M_{J}\\oplus {\\widetilde {N_{J}}}\\oplus {\\widetilde {L_{J}}},}\n\nwhich implies that\n\nN J ~ ⊕ L J ~ ≃ M J ′ / M J ≃ M J ′ − J {\\displaystyle {\\widetilde {N_{J}}}\\oplus {\\widetilde {L_{J}}}\\simeq M_{J'}/M_{J}\\simeq M_{J'-J}}\n\nis countably generated as J ′ − J ⊂ I ′ {\\displaystyle J'-J\\subset I'}. This contradicts the maximality of (J, B, C) {\\displaystyle (J,B,C)}. ◻ {\\displaystyle \\square }\n\nLemma 2 — If M i, i ∈ I {\\displaystyle M_{i},i\\in I} are countably generated modules with local endomorphism rings and if N {\\displaystyle N} is a countably generated module that is a direct summand of ⨁ i ∈ I M i {\\displaystyle \\bigoplus _{i\\in I}M_{i}}, then N {\\displaystyle N} is isomorphic to ⨁ i ∈ I ′ M i {\\displaystyle \\bigoplus _{i\\in I'}M_{i}} for some at most countable subset I ′ ⊂ I {\\displaystyle I'\\subset I}.\n\nProof: Let G {\\displaystyle {\\mathcal {G}}} denote the family of modules that are isomorphic to modules of the form ⨁ i ∈ F M i {\\displaystyle \\bigoplus _{i\\in F}M_{i}} for some finite subset F ⊂ I {\\displaystyle F\\subset I}. The assertion is then implied by the following claim:\n\nGiven an element x ∈ N {\\displaystyle x\\in N}, there exists an H ∈ G {\\displaystyle H\\in {\\mathcal {G}}} that contains x and is a direct summand of N.\n\nIndeed, assume the claim is valid. Then choose a sequence x 1, x 2, … {\\displaystyle x_{1},x_{2},\\dots } in N that is a generating set. Then using the claim, write N = H 1 ⊕ N 1 {\\displaystyle N=H_{1}\\oplus N_{1}} where x 1 ∈ H 1 ∈ G {\\displaystyle x_{1}\\in H_{1}\\in {\\mathcal {G}}}. Then we write x 2 = y + z {\\displaystyle x_{2}=y+z} where y ∈ H 1, z ∈ N 1 {\\displaystyle y\\in H_{1},z\\in N_{1}}. We then decompose N 1 = H 2 ⊕ N 2 {\\displaystyle N_{1}=H_{2}\\oplus N_{2}} with z ∈ H 2 ∈ G {\\displaystyle z\\in H_{2}\\in {\\mathcal {G}}}. Note { x 1, x 2 } ⊂ H 1 ⊕ H 2 {\\displaystyle \\{x_{1},x_{2}\\}\\subset H_{1}\\oplus H_{2}}. Repeating this argument, in the end, we have: { x 1, x 2, … } ⊂ ⨁ 0 ∞ H n {\\textstyle \\{x_{1},x_{2},\\dots \\}\\subset \\bigoplus _{0}^{\\infty }H_{n}}; i.e., N = ⨁ 0 ∞ H n {\\textstyle N=\\bigoplus _{0}^{\\infty }H_{n}}. Hence, the proof reduces to proving the claim and the claim is a straightforward consequence of Azumaya's theorem (see the linked article for the argument). ◻ {\\displaystyle \\square }\n\nProof of the theorem: Let N {\\displaystyle N} be a projective module over a local ring. Then, by definition, it is a direct summand of some free module F {\\displaystyle F}. This F {\\displaystyle F} is in the family F {\\displaystyle {\\mathfrak {F}}} in Lemma 1; thus, N {\\displaystyle N} is a direct sum of countably generated submodules, each a direct summand of F and thus projective. Hence, without loss of generality, we can assume N {\\displaystyle N} is countably generated. Then Lemma 2 gives the theorem. ◻ {\\displaystyle \\square }\n\nKaplansky's theorem can be stated in such a way to give a characterization of a local ring. A direct summand is said to be maximal if it has an indecomposable complement.\n\nTheorem — Let R be a ring. Then the following are equivalent.\n\nR is a local ring.\n\nEvery projective module over R is free and has an indecomposable decomposition M = ⨁ i ∈ I M i {\\displaystyle M=\\bigoplus _{i\\in I}M_{i}} such that for each maximal direct summand L of M, there is a decomposition M = (⨁ j ∈ J M j) ⨁ L {\\displaystyle M={\\Big (}\\bigoplus _{j\\in J}M_{j}{\\Big)}\\bigoplus L} for some subset J ⊂ I {\\displaystyle J\\subset I}.\n\nThe implication 1. ⇒ 2. {\\displaystyle 1.\\Rightarrow 2.} is exactly (usual) Kaplansky's theorem and Azumaya's theorem. The converse 2. ⇒ 1. {\\displaystyle 2.\\Rightarrow 1.} follows from the following general fact, which is interesting itself:\n\nA ring R is local ⇔ {\\displaystyle \\Leftrightarrow } for each nonzero proper direct summand M of R 2 = R × R {\\displaystyle R^{2}=R\\times R}, either R 2 = (0 × R) ⊕ M {\\displaystyle R^{2}=(0\\times R)\\oplus M} or R 2 = (R × 0) ⊕ M {\\displaystyle R^{2}=(R\\times 0)\\oplus M}.\n\n(⇒) {\\displaystyle (\\Rightarrow)} is by Azumaya's theorem as in the proof of 1. ⇒ 2. {\\displaystyle 1.\\Rightarrow 2.}. Conversely, suppose R 2 {\\displaystyle R^{2}} has the above property and that an element x in R is given. Consider the linear map σ: R 2 → R, σ (a, b) = a − b {\\displaystyle \\sigma:R^{2}\\to R,\\,\\sigma (a,b)=a-b}. Set y = x − 1 {\\displaystyle y=x-1}. Then σ (x, y) = 1 {\\displaystyle \\sigma (x,y)=1}, which is to say η: R → R 2, a ↦ (a x, a y) {\\displaystyle \\eta:R\\to R^{2},a\\mapsto (ax,ay)} splits and the image M {\\displaystyle M} is a direct summand of R 2 {\\displaystyle R^{2}}. It follows easily from that the assumption that either x or - y is a unit element. ◻ {\\displaystyle \\square }",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1350453214",
+      "revision_id": "1350453214",
+      "text_sha256": "ec59ad3b0fc8d418e0e3637d69a01aa5e689b872b34259fd972f7e57c8c033c7",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:46:37.168625+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.962270736694336,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:23280931",
+      "title": "Ladder operator",
+      "corpus": "wikipedia",
+      "text": "In linear algebra (and its application to quantum mechanics), a raising or lowering operator (collectively known as ladder operators) is an operator that increases or decreases the eigenvalue of another operator. In quantum mechanics, the raising and lowering operators are commonly known as the creation and annihilation operators, respectively. Well-known applications of ladder operators in quantum mechanics are in the formalisms of the quantum harmonic oscillator and angular momentum.\n\nThere is a relationship between the raising and lowering ladder operators and the creation and annihilation operators commonly used in quantum field theory which lies in representation theory. The creation operator a † increments the number of particles in state i, while the corresponding annihilation operator a decrements the number of particles in state i. This clearly satisfies the requirements of the above definition of a ladder operator: the incrementing or decrementing of the eigenvalue of another operator (in this case the particle number operator).\n\nConfusion arises because the term ladder operator is typically used to describe an operator that acts to increment or decrement a quantum number describing the state of a system. To change the state of a particle with the creation/annihilation operators of QFT requires the use of both annihilation and creation operators. An annihilation operator is used to remove a particle from the initial state and a creation operator is used to add a particle to the final state.\n\nThe term \"ladder operator\" or \"raising and lowering operators\" is also sometimes used in mathematics, in the context of the theory of Lie algebras and in particular the affine Lie algebras. For example, to describe the su(2) subalgebras, the root system and the highest weight modules can be constructed by means of the ladder operators. In particular, the highest weight is annihilated by the raising operators; the rest of the positive root space is obtained by repeatedly applying the lowering operators (one set of ladder operators per subalgebra).\n\nFrom a representation theory standpoint a linear representation of a semi-simple Lie group in continuous real parameters induces a set of generators for the Lie algebra. A complex linear combination of those are the ladder operators. For each parameter there is a set of ladder operators; these are then a standardized way to navigate one dimension of the root system and root lattice. The ladder operators of the quantum harmonic oscillator or the \"number representation\" of second quantization are just special cases of this fact. Ladder operators then become ubiquitous in quantum mechanics from the angular momentum operator, to coherent states and to discrete magnetic translation operators.\n\nSuppose that two operators X and N have the commutation relation = c X {\\displaystyle =cX} for some scalar c. If | n ⟩ {\\displaystyle {|n\\rangle }} is an eigenstate of N with eigenvalue equation N | n ⟩ = n | n ⟩, {\\displaystyle N|n\\rangle =n|n\\rangle,} then the operator X acts on | n ⟩ {\\displaystyle |n\\rangle } in such a way as to shift the eigenvalue by c: N X | n ⟩ = (X N +) | n ⟩ = X N | n ⟩ + | n ⟩ = X n | n ⟩ + c X | n ⟩ = (n + c) X | n ⟩. {\\displaystyle {\\begin{aligned}NX|n\\rangle &=(XN+)|n\\rangle \\\\&=XN|n\\rangle +|n\\rangle \\\\&=Xn|n\\rangle +cX|n\\rangle \\\\&=(n+c)X|n\\rangle.\\end{aligned}}}\n\nIn other words, if | n ⟩ {\\displaystyle |n\\rangle } is an eigenstate of N with eigenvalue n, then X | n ⟩ {\\displaystyle X|n\\rangle } is an eigenstate of N with eigenvalue n + c or is zero. The operator X is a raising operator for N if c is real and positive, and a lowering operator for N if c is real and negative.\n\nIf N is a Hermitian operator, then c must be real, and the Hermitian adjoint of X obeys the commutation relation = − c X †. {\\displaystyle =-cX^{\\dagger }.}\n\nIn particular, if X is a lowering operator for N, then X † is a raising operator for N and conversely.\n\nA particular application of the ladder operator concept is found in the quantum-mechanical treatment of angular momentum. For a general angular momentum vector J with components J, J and J one defines the two ladder operators J + = J x + i J y, J − = J x − i J y, {\\displaystyle {\\begin{aligned}J_{+}&=J_{x}+iJ_{y},\\\\J_{-}&=J_{x}-iJ_{y},\\end{aligned}}} where i is the imaginary unit.\n\nThe commutation relation between the cartesian components of any angular momentum operator is given by = i ℏ ϵ i j k J k, {\\displaystyle =i\\hbar \\epsilon _{ijk}J_{k},} where ε is the Levi-Civita symbol, and each of i, j and k can take any of the values x, y and z.\n\nFrom this, the commutation relations among the ladder operators and J are obtained: = ± ℏ J ±, = 2 ℏ J z {\\displaystyle {\\begin{aligned}{}&=\\pm \\hbar J_{\\pm },\\\\{}&=2\\hbar J_{z}\\end{aligned}}} (technically, this is the Lie algebra of s l (2, R) {\\displaystyle {{\\mathfrak {s}}l}(2,\\mathbb {R})}).\n\nThe properties of the ladder operators can be determined by observing how they modify the action of the J operator on a given state: J z J ± | j m ⟩ = (J ± J z +) | j m ⟩ = (J ± J z ± ℏ J ±) | j m ⟩ = ℏ (m ± 1) J ± | j m ⟩. {\\displaystyle {\\begin{aligned}J_{z}J_{\\pm }|j\\,m\\rangle &={\\big (}J_{\\pm }J_{z}+{\\big)}|j\\,m\\rangle \\\\&=(J_{\\pm }J_{z}\\pm \\hbar J_{\\pm })|j\\,m\\rangle \\\\&=\\hbar (m\\pm 1)J_{\\pm }|j\\,m\\rangle.\\end{aligned}}}\n\nCompare this result with J z | j (m ± 1) ⟩ = ℏ (m ± 1) | j (m ± 1) ⟩. {\\displaystyle J_{z}|j\\,(m\\pm 1)\\rangle =\\hbar (m\\pm 1)|j\\,(m\\pm 1)\\rangle.}\n\nThus, one concludes that J ± | j m ⟩ {\\displaystyle {J_{\\pm }|j\\,m\\rangle }} is some scalar multiplied by | j (m ± 1) ⟩ {\\displaystyle {|j\\,(m\\pm 1)\\rangle }}: J + | j m ⟩ = α | j (m + 1) ⟩, J − | j m ⟩ = β | j (m − 1) ⟩. {\\displaystyle {\\begin{aligned}J_{+}|j\\,m\\rangle &=\\alpha |j\\,(m+1)\\rangle,\\\\J_{-}|j\\,m\\rangle &=\\beta |j\\,(m-1)\\rangle.\\end{aligned}}}\n\nThis illustrates the defining feature of ladder operators in quantum mechanics: the incrementing (or decrementing) of a quantum number, thus mapping one quantum state onto another. This is the reason that they are often known as raising and lowering operators.\n\nTo obtain the values of α and β, first take the norm of each operator, recognizing that J and J are a Hermitian conjugate pair (J ± = J ∓ † {\\displaystyle J_{\\pm }=J_{\\mp }^{\\dagger }}): ⟨ j m | J + † J + | j m ⟩ = ⟨ j m | J − J + | j m ⟩ = ⟨ j (m + 1) | α ∗ α | j (m + 1) ⟩ = | α | 2, ⟨ j m | J − † J − | j m ⟩ = ⟨ j m | J + J − | j m ⟩ = ⟨ j (m − 1) | β ∗ β | j (m − 1) ⟩ = | β | 2. {\\displaystyle {\\begin{aligned}&\\langle j\\,m|J_{+}^{\\dagger }J_{+}|j\\,m\\rangle =\\langle j\\,m|J_{-}J_{+}|j\\,m\\rangle =\\langle j\\,(m+1)|\\alpha ^{*}\\alpha |j\\,(m+1)\\rangle =|\\alpha |^{2},\\\\&\\langle j\\,m|J_{-}^{\\dagger }J_{-}|j\\,m\\rangle =\\langle j\\,m|J_{+}J_{-}|j\\,m\\rangle =\\langle j\\,(m-1)|\\beta ^{*}\\beta |j\\,(m-1)\\rangle =|\\beta |^{2}.\\end{aligned}}}\n\nThe product of the ladder operators can be expressed in terms of the commuting pair J 2 and J: J − J + = (J x − i J y) (J x + i J y) = J x 2 + J y 2 + i = J 2 − J z 2 − ℏ J z, J + J − = (J x + i J y) (J x − i J y) = J x 2 + J y 2 − i = J 2 − J z 2 + ℏ J z. {\\displaystyle {\\begin{aligned}J_{-}J_{+}&=(J_{x}-iJ_{y})(J_{x}+iJ_{y})=J_{x}^{2}+J_{y}^{2}+i=J^{2}-J_{z}^{2}-\\hbar J_{z},\\\\J_{+}J_{-}&=(J_{x}+iJ_{y})(J_{x}-iJ_{y})=J_{x}^{2}+J_{y}^{2}-i=J^{2}-J_{z}^{2}+\\hbar J_{z}.\\end{aligned}}}\n\nThus, one may express the values of | α | 2 and | β | 2 in terms of the eigenvalues of J 2 and J: | α | 2 = ℏ 2 j (j + 1) − ℏ 2 m 2 − ℏ 2 m = ℏ 2 (j − m) (j + m + 1), | β | 2 = ℏ 2 j (j + 1) − ℏ 2 m 2 + ℏ 2 m = ℏ 2 (j + m) (j − m + 1). {\\displaystyle {\\begin{aligned}|\\alpha |^{2}&=\\hbar ^{2}j(j+1)-\\hbar ^{2}m^{2}-\\hbar ^{2}m=\\hbar ^{2}(j-m)(j+m+1),\\\\|\\beta |^{2}&=\\hbar ^{2}j(j+1)-\\hbar ^{2}m^{2}+\\hbar ^{2}m=\\hbar ^{2}(j+m)(j-m+1).\\end{aligned}}}\n\nThe phases of α and β are not physically significant, thus they can be chosen to be positive and real (Condon–Shortley phase convention). We then have J + | j, m ⟩ = ℏ (j − m) (j + m + 1) | j, m + 1 ⟩ = ℏ j (j + 1) − m (m + 1) | j, m + 1 ⟩, J − | j, m ⟩ = ℏ (j + m) (j − m + 1) | j, m − 1 ⟩ = ℏ j (j + 1) − m (m − 1) | j, m − 1 ⟩. {\\displaystyle {\\begin{aligned}J_{+}|j,m\\rangle &=\\hbar {\\sqrt {(j-m)(j+m+1)}}|j,m+1\\rangle =\\hbar {\\sqrt {j(j+1)-m(m+1)}}|j,m+1\\rangle,\\\\J_{-}|j,m\\rangle &=\\hbar {\\sqrt {(j+m)(j-m+1)}}|j,m-1\\rangle =\\hbar {\\sqrt {j(j+1)-m(m-1)}}|j,m-1\\rangle.\\end{aligned}}}\n\nConfirming that m is bounded by the value of j (− j ≤ m ≤ j {\\displaystyle -j\\leq m\\leq j}), one has J + | j, + j ⟩ = 0, J − | j, − j ⟩ = 0. {\\displaystyle {\\begin{aligned}J_{+}|j,\\,+j\\rangle &=0,\\\\J_{-}|j,\\,-j\\rangle &=0.\\end{aligned}}}\n\nThe above demonstration is effectively the construction of the Clebsch–Gordan coefficients.\n\nMany terms in the Hamiltonians of atomic or molecular systems involve the scalar product of angular momentum operators. An example is the magnetic dipole term in the hyperfine Hamiltonian: H ^ D = A ^ I ⋅ J, {\\displaystyle {\\hat {H}}_{\\text{D}}={\\hat {A}}\\mathbf {I} \\cdot \\mathbf {J},} where I is the nuclear spin.\n\nThe angular momentum algebra can often be simplified by recasting it in the spherical basis. Using the notation of spherical tensor operators, the \"−1\", \"0\" and \"+1\" components of J (1) ≡ J are given by J − 1 (1) = 1 2 (J x − i J y) = J − 2, J 0 (1) = J z, J + 1 (1) = − 1 2 (J x + i J y) = − J + 2. {\\displaystyle {\\begin{aligned}J_{-1}^{(1)}&={\\dfrac {1}{\\sqrt {2}}}(J_{x}-iJ_{y})={\\dfrac {J_{-}}{\\sqrt {2}}},\\\\J_{0}^{(1)}&=J_{z},\\\\J_{+1}^{(1)}&=-{\\frac {1}{\\sqrt {2}}}(J_{x}+iJ_{y})=-{\\frac {J_{+}}{\\sqrt {2}}}.\\end{aligned}}}\n\nFrom these definitions, it can be shown that the above scalar product can be expanded as I (1) ⋅ J (1) = ∑ n = − 1 + 1 (− 1) n I n (1) J − n (1) = I 0 (1) J 0 (1) − I − 1 (1) J + 1 (1) − I + 1 (1) J − 1 (1). {\\displaystyle \\mathbf {I} ^{(1)}\\cdot \\mathbf {J} ^{(1)}=\\sum _{n=-1}^{+1}(-1)^{n}I_{n}^{(1)}J_{-n}^{(1)}=I_{0}^{(1)}J_{0}^{(1)}-I_{-1}^{(1)}J_{+1}^{(1)}-I_{+1}^{(1)}J_{-1}^{(1)}.}\n\nThe significance of this expansion is that it clearly indicates which states are coupled by this term in the Hamiltonian, that is those with quantum numbers differing by m = ±1 and m = ∓1 only.\n\nAnother application of the ladder operator concept is found in the quantum-mechanical treatment of the harmonic oscillator. We can define the lowering and raising operators as a ^ = m ω 2 ℏ (x ^ + i m ω p ^), a ^ † = m ω 2 ℏ (x ^ − i m ω p ^). {\\displaystyle {\\begin{aligned}{\\hat {a}}&={\\sqrt {m\\omega \\over 2\\hbar }}\\left({\\hat {x}}+{i \\over m\\omega }{\\hat {p}}\\right),\\\\{\\hat {a}}^{\\dagger }&={\\sqrt {m\\omega \\over 2\\hbar }}\\left({\\hat {x}}-{i \\over m\\omega }{\\hat {p}}\\right).\\end{aligned}}}\n\nThey provide a convenient means to extract energy eigenvalues without directly solving the system's differential equation.\n\nLadder operator applying to harmonic oscillator's energy levels: a ^ † | n ⟩ = n + 1 | n + 1 ⟩, a ^ | n ⟩ = n | n − 1 ⟩. {\\displaystyle {\\begin{aligned}{\\hat {a}}^{\\dagger }|n\\rangle &={\\sqrt {n+1}}|n+1\\rangle,\\\\{\\hat {a}}|n\\rangle &={\\sqrt {n}}|n-1\\rangle.\\end{aligned}}}\n\nThere are two main approaches given in the literature using ladder operators, one using the Laplace–Runge–Lenz vector, another using factorization of the Hamiltonian.\n\nAnother application of the ladder operator concept is found in the quantum mechanical treatment of the electronic energy of hydrogen-like atoms and ions. The Laplace–Runge–Lenz vector commutes with the Hamiltonian for an inverse square spherically symmetric potential and can be used to determine ladder operators for this potential. We can define the lowering and raising operators (based on the classical Laplace–Runge–Lenz vector) A → = (1 Z e 2 μ) { L → × p → − i ℏ p → } + r → r, {\\displaystyle {\\vec {A}}=\\left({\\frac {1}{Ze^{2}\\mu }}\\right)\\left\\{{\\vec {L}}\\times {\\vec {p}}-{\\boldsymbol {i}}\\hbar {\\vec {p}}\\right\\}+{\\frac {\\vec {r}}{r}},} where L → {\\displaystyle {\\vec {L}}} is the angular momentum, p → {\\displaystyle {\\vec {p}}} is the linear momentum, μ {\\displaystyle \\mu } is the reduced mass of the system, e {\\displaystyle e} is the electronic charge, and Z {\\displaystyle Z} is the atomic number of the nucleus.Analogous to the angular momentum ladder operators, one has A + = A x + i A y {\\displaystyle A_{+}=A_{x}+iA_{y}} and A − = A x − i A y {\\displaystyle A_{-}=A_{x}-iA_{y}}.\n\nThe commutators needed to proceed are = ∓ i ℏ A ∓ {\\displaystyle =\\mp {\\boldsymbol {i}}\\hbar A_{\\mp }} and = ∓ 2 ℏ 2 A ± − 2 ℏ A ± L z ± 2 ℏ A z L ±. {\\displaystyle =\\mp 2\\hbar ^{2}A_{\\pm }-2\\hbar A_{\\pm }L_{z}\\pm 2\\hbar A_{z}L_{\\pm }.} Therefore, A + | ?, ℓ, m ℓ ⟩ → | ?, ℓ, m ℓ + 1 ⟩ {\\displaystyle A_{+}|?,\\ell,m_{\\ell }\\rangle \\rightarrow |?,\\ell,m_{\\ell }+1\\rangle } and − L 2 (A + | ?, ℓ, ℓ ⟩) = − ℏ 2 (ℓ + 1) ((ℓ + 1) + 1) (A + | ?, ℓ, ℓ ⟩), {\\displaystyle -L^{2}\\left(A_{+}|?,\\ell,\\ell \\rangle \\right)=-\\hbar ^{2}(\\ell +1)((\\ell +1)+1)\\left(A_{+}|?,\\ell,\\ell \\rangle \\right),} so A + | ?, ℓ, ℓ ⟩ → | ?, ℓ + 1, ℓ + 1 ⟩, {\\displaystyle A_{+}|?,\\ell,\\ell \\rangle \\rightarrow |?,\\ell +1,\\ell +1\\rangle,} where the \"?\" indicates a nascent quantum number which emerges from the discussion.\n\nGiven the Pauli equations IV: 1 − A ⋅ A = − (2 E μ Z 2 e 4) (L 2 + ℏ 2) {\\displaystyle 1-A\\cdot A=-\\left({\\frac {2E}{\\mu Z^{2}e^{4}}}\\right)(L^{2}+\\hbar ^{2})} and III: (A × A) j = − (2 i ℏ E μ Z 2 e 4) L j, {\\displaystyle \\left(A\\times A\\right)_{j}=-\\left({\\frac {2{\\boldsymbol {i}}\\hbar E}{\\mu Z^{2}e^{4}}}\\right)L_{j},} and starting with the equation A − A + | ℓ ∗, ℓ ∗ ⟩ = 0 {\\displaystyle A_{-}A_{+}|\\ell ^{*},\\ell ^{*}\\rangle =0} and expanding, one obtains (assuming ℓ ∗ {\\displaystyle \\ell ^{*}} is the maximum value of the angular momentum quantum number consonant with all other conditions) (1 + 2 E μ Z 2 e 4 (L 2 + ℏ 2) − i 2 i ℏ E μ Z 2 e 4 L z) | ?, ℓ ∗, ℓ ∗ ⟩ = 0, {\\displaystyle \\left(1+{\\frac {2E}{\\mu Z^{2}e^{4}}}(L^{2}+\\hbar ^{2})-i{\\frac {2i\\hbar E}{\\mu Z^{2}e^{4}}}L_{z}\\right)|?,\\ell ^{*},\\ell ^{*}\\rangle =0,} which leads to the Rydberg formula E n = − μ Z 2 e 4 2 ℏ 2 (ℓ ∗ + 1) 2, {\\displaystyle E_{n}=-{\\frac {\\mu Z^{2}e^{4}}{2\\hbar ^{2}(\\ell ^{*}+1)^{2}}},} implying that ℓ ∗ + 1 = n = ? {\\displaystyle \\ell ^{*}+1=n=?}, where n {\\displaystyle n} is the traditional quantum number.\n\nThe Hamiltonian for a hydrogen-like potential can be written in spherical coordinates as H = 1 2 μ + V (r), {\\displaystyle H={\\frac {1}{2\\mu }}\\left+V(r),} where V (r) = − Z e 2 / r {\\displaystyle V(r)=-Ze^{2}/r}, and the radial momentum p r = x r p x + y r p y + z r p z, {\\displaystyle p_{r}={\\frac {x}{r}}p_{x}+{\\frac {y}{r}}p_{y}+{\\frac {z}{r}}p_{z},} which is real and self-conjugate.\n\nSuppose | n l ⟩ {\\displaystyle |nl\\rangle } is an eigenvector of the Hamiltonian, where l {\\displaystyle l} is the angular momentum, and n {\\displaystyle n} represents the energy, so L 2 | n l ⟩ = l (l + 1) ℏ 2 | n l ⟩ {\\displaystyle L^{2}|nl\\rangle =l(l+1)\\hbar ^{2}|nl\\rangle }, and we may label the Hamiltonian as H l {\\displaystyle H_{l}}: H l = 1 2 μ + V (r). {\\displaystyle H_{l}={\\frac {1}{2\\mu }}\\left+V(r).}\n\nThe factorization method was developed by Infeld and Hull for differential equations. Newmarch and Golding applied it to spherically symmetric potentials using operator notation.\n\nSuppose we can find a factorization of the Hamiltonian by operators C l {\\displaystyle C_{l}} as\n\nand C l C l ∗ = 2 μ H l + 1 + G l {\\displaystyle C_{l}C_{l}^{*}=2\\mu H_{l+1}+G_{l}} for scalars F l {\\displaystyle F_{l}} and G l {\\displaystyle G_{l}}. The vector C l C l ∗ C l | n l ⟩ {\\displaystyle C_{l}C_{l}^{*}C_{l}|nl\\rangle } may be evaluated in two different ways as C l C l ∗ C l | n l ⟩ = (2 μ E l n + F l) C l | n l ⟩ = (2 μ H l + 1 + G l) C l | n l ⟩, {\\displaystyle {\\begin{aligned}C_{l}C_{l}^{*}C_{l}|nl\\rangle &=(2\\mu E_{l}^{n}+F_{l})C_{l}|nl\\rangle \\\\&=(2\\mu H_{l+1}+G_{l})C_{l}|nl\\rangle,\\end{aligned}}} which can be re-arranged as H l + 1 (C l | n l ⟩) = (C l | n l ⟩), {\\displaystyle H_{l+1}(C_{l}|nl\\rangle)=(C_{l}|nl\\rangle),} showing that C l | n l ⟩ {\\displaystyle C_{l}|nl\\rangle } is an eigenstate of H l + 1 {\\displaystyle H_{l+1}} with eigenvalue E l + 1 n ′ = E l n + (F l − G l) / (2 μ). {\\displaystyle E_{l+1}^{n'}=E_{l}^{n}+(F_{l}-G_{l})/(2\\mu).} If F l = G l {\\displaystyle F_{l}=G_{l}}, then n ′ = n {\\displaystyle n'=n}, and the states | n l ⟩ {\\displaystyle |nl\\rangle } and C l | n l ⟩ {\\displaystyle C_{l}|nl\\rangle } have the same energy.\n\nFor the hydrogenic atom, setting V (r) = − B ℏ μ r {\\displaystyle V(r)=-{\\frac {B\\hbar }{\\mu r}}} with B = Z μ e 2 ℏ, {\\displaystyle B={\\frac {Z\\mu e^{2}}{\\hbar }},} a suitable equation for C l {\\displaystyle C_{l}} is C l = p r + i ℏ (l + 1) r − i B l + 1 {\\displaystyle C_{l}=p_{r}+{\\frac {i\\hbar (l+1)}{r}}-{\\frac {iB}{l+1}}} with F l = G l = B 2 (l + 1) 2. {\\displaystyle F_{l}=G_{l}={\\frac {B^{2}}{(l+1)^{2}}}.} There is an upper bound to the ladder operator if the energy is negative (so C l | n l max ⟩ = 0 {\\displaystyle C_{l}|nl_{\\text{max}}\\rangle =0} for some l max {\\displaystyle l_{\\text{max}}}), then if follows from equation (1) that E l n = − F l / 2 μ = − B 2 2 μ (l max + 1) 2 = − μ Z 2 e 4 2 ℏ 2 (l max + 1) 2, {\\displaystyle E_{l}^{n}=-F_{l}/{2\\mu }=-{\\frac {B^{2}}{2\\mu (l_{\\text{max}}+1)^{2}}}=-{\\frac {\\mu Z^{2}e^{4}}{2\\hbar ^{2}(l_{\\text{max}}+1)^{2}}},} and n {\\displaystyle n} can be identified with l max + 1. {\\displaystyle l_{\\text{max}}+1.}\n\nWhenever there is degeneracy in a system, there is usually a related symmetry property and group. The degeneracy of the energy levels for the same value of n {\\displaystyle n} but different angular momenta has been identified as the SO(4) symmetry of the spherically symmetric Coulomb potential.\n\nThe 3D isotropic harmonic oscillator has a potential given by V (r) = 1 2 μ ω 2 r 2. {\\displaystyle V(r)={\\tfrac {1}{2}}\\mu \\omega ^{2}r^{2}.}\n\nIt can similarly be managed using the factorization method.\n\nA suitable factorization is given by C l = p r + i ℏ (l + 1) r − i μ ω r {\\displaystyle C_{l}=p_{r}+{\\frac {i\\hbar (l+1)}{r}}-i\\mu \\omega r} with F l = − (2 l + 3) μ ω ℏ {\\displaystyle F_{l}=-(2l+3)\\mu \\omega \\hbar } and G l = − (2 l + 1) μ ω ℏ. {\\displaystyle G_{l}=-(2l+1)\\mu \\omega \\hbar.} Then E l + 1 n ′ = E l n + F l − G l 2 μ = E l n − ω ℏ, {\\displaystyle E_{l+1}^{n^{'}}=E_{l}^{n}+{\\frac {F_{l}-G_{l}}{2\\mu }}=E_{l}^{n}-\\omega \\hbar,} and continuing this, E l + 2 n ′ = E l n − 2 ω ℏ E l + 3 n ′ = E l n − 3 ω ℏ ⋮ {\\displaystyle {\\begin{aligned}E_{l+2}^{n^{'}}&=E_{l}^{n}-2\\omega \\hbar \\\\E_{l+3}^{n^{'}}&=E_{l}^{n}-3\\omega \\hbar \\\\&\\;\\;\\vdots \\end{aligned}}} Now the Hamiltonian only has positive energy levels as can be seen from ⟨ ψ | 2 μ H l | ψ ⟩ = ⟨ ψ | C l ∗ C l | ψ ⟩ + ⟨ ψ | (2 l + 3) μ ω ℏ | ψ ⟩ = ⟨ C l ψ | C l ψ ⟩ + (2 l + 3) μ ω ℏ ⟨ ψ | ψ ⟩ ≥ 0. {\\displaystyle {\\begin{aligned}\\langle \\psi |2\\mu H_{l}|\\psi \\rangle &=\\langle \\psi |C_{l}^{*}C_{l}|\\psi \\rangle +\\langle \\psi |(2l+3)\\mu \\omega \\hbar |\\psi \\rangle \\\\&=\\langle C_{l}\\psi |C_{l}\\psi \\rangle +(2l+3)\\mu \\omega \\hbar \\langle \\psi |\\psi \\rangle \\\\&\\geq 0.\\end{aligned}}} This means that for some value of l {\\displaystyle l} the series must terminate with C l max | n l max ⟩ = 0, {\\displaystyle C_{l_{\\text{max}}}|nl_{\\text{max}}\\rangle =0,} and then E l max n = − F l max 2 μ = (l max + 3 2) ω ℏ. {\\displaystyle E_{l_{\\text{max}}}^{n}=-{\\frac {F_{l_{\\text{max}}}}{2\\mu }}=\\left(l_{\\text{max}}+{\\frac {3}{2}}\\right)\\omega \\hbar.} This is decreasing in energy by ω ℏ {\\displaystyle \\omega \\hbar } unless C l | n, l ⟩ = 0 {\\displaystyle C_{l}|n,l\\rangle =0} for some value of l {\\displaystyle l}. Identifying this value as n {\\displaystyle n} gives E l n = − F l = (n + 3 2) ω ℏ. {\\displaystyle E_{l}^{n}=-F_{l}=\\left(n+{\\tfrac {3}{2}}\\right)\\omega \\hbar.}\n\nIt then follows the n ′ = n − 1 {\\displaystyle n'=n-1} so that C l | n l ⟩ = λ l n | n − 1, l + 1 ⟩, {\\displaystyle C_{l}|nl\\rangle =\\lambda _{l}^{n}|n-1,\\,l+1\\rangle,} giving a recursion relation on λ {\\displaystyle \\lambda } with solution λ l n = − μ ω ℏ 2 (n − l). {\\displaystyle \\lambda _{l}^{n}=-\\mu \\omega \\hbar {\\sqrt {2(n-l)}}.}\n\nThere is degeneracy caused from angular momentum; there is additional degeneracy caused by the oscillator potential.Consider the states | n, n ⟩, | n − 1, n − 1 ⟩, | n − 2, n − 2 ⟩, … {\\displaystyle |n,\\,n\\rangle,|n-1,\\,n-1\\rangle,|n-2,\\,n-2\\rangle,\\dots } and apply the lowering operators C ∗ {\\displaystyle C^{*}}: C n − 2 ∗ | n − 1, n − 1 ⟩, C n − 4 ∗ C n − 3 ∗ | n − 2, n − 2 ⟩, … {\\displaystyle C_{n-2}^{*}|n-1,\\,n-1\\rangle,C_{n-4}^{*}C_{n-3}^{*}|n-2,\\,n-2\\rangle,\\dots } giving the sequence | n, n ⟩, | n, n − 2 ⟩, | n, n − 4 ⟩, … {\\displaystyle |n,n\\rangle,|n,\\,n-2\\rangle,|n,\\,n-4\\rangle,\\dots } with the same energy but with l {\\displaystyle l} decreasing by 2.In addition to the angular momentum degeneracy, this gives a total degeneracy of (n + 1) (n + 2) / 2 {\\displaystyle (n+1)(n+2)/2}\n\nThe degeneracies of the 3D isotropic harmonic oscillator are related to the special unitary group SU(3)\n\nMany sources credit Paul Dirac with the invention of ladder operators. Dirac's use of the ladder operators shows that the total angular momentum quantum number j {\\displaystyle j} needs to be a non-negative half -integer multiple of ħ.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1345120027",
+      "revision_id": "1345120027",
+      "text_sha256": "883c24d63463e513d7af09adf3ea8b337e25a0a2ac09d581ce3d44fbe538fdfe",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:46:34.403261+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.966675758361816,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:318",
+    "title": "Britannica page 318",
+    "corpus": "britannica",
+    "text": "<x_0.1992><y_0.0242>N I L 75 J N I L<x_0.7461><y_0.0484><class_Page-header>\n\n<x_0.0264><y_0.0453>NRls. or White River, which, according to the accounts given by the Galla, our author fuppoles to take its rise in about 9 north latitude.<x_0.4697><y_0.0922><class_Text>\n\n<x_0.0566><y_0.0914>The rains therefore precede the fun only about 6°; but they continue and incredible after he has puffed it. In April all the rivers in the foubern parts of Ablyr finis begin to softw), and greatly augment the Nile which is now alfo farther augmented by the vaft quantity of water poured into the Nile Tazan. On the first day of May, the fun paths the village of Cerrij, which is the limit of the tropical rains, and it is very remarkable, that, though the fun still continues to cooperate with enhanced region. All his influence cannot bring the clouds further northward than this village; the restor of whole Mr Brune, with great restforu popsots to be the want of mountains to the northward. In confirmation of this opinion, he offerences, that the tropical rains flop at the latitude of 14\" infuse of 10\" in the welfare part of the continent. All this time, however, they continue violent in Abyfllina i and in the beginning of June the rivers are all full, and continue to while the fun remains Rationalny in the top pic of Cancer.<x_0.4688><y_0.3609><class_Text>\n\n<x_0.0547><y_0.3602>This sacrifice rain, which would freeze off the whole foil of Egypt into the few were it to continue with out intermition, begins to share as the fun turns fouthward, and on his arrival at the zenith of each place, on his judged towards that quarter, they cease entire ly: the reason of which is no left difficult to be dif- covered than that of their coming on when he arrives at the same in a jingling southward. Be the rea fan what it will, however, the fact is certain; and not only lo, but the time of the main catalog is each to a finglebay i fishomuch, that so the yach of September her the Nile is generally found to be at its highest at Cairo, and begins to diminish every day after. Im-mediately after the fun has pulled the line, he began the rainy regions to the forthand; the next conflictly coming on with violence as he approaches the sex ninth of each place; but the innovation is now pro- moted in different manner, according to the difference of circumcities in the frutation of the places. From short 8’3. Lat, a chain of high mountaine runs all the way along the middle of the constant towards the Cape of Good Hogs, and interfects the footbart part of the prinishia nearly in the frame means that the Nile does the northern. A froug wind from the fourth, stopping the groprefs of the condensed vapors, there them against the cold furnists of this edge of mountains, and forms many rivers, which escape on the direction either of salt or well as the level preints it felt. If this is towards the wells they fall down the files of the mountains into the Atlantic and if on the call onto the Indian ocean. -4 The clouds (fays Mr Bruce) hereby the violent action of the fun, we conducted, then broken, and fill as rain on the top of the high ridge, and feel every river; a while a wind from the one run the cell shows like a monsoon each of tiefde fernas, for a electron contrary to their current, during the whole time of the inundation; and this canules toasts alecen into the welfare parts of so Sofials, and the internet counter to the mountains, where lies the gold. The time effect, from the farm caufe, is produced on the western file towards the At- lanice; the high ridge of mountains being placed be-<x_0.4512><y_0.9336><class_Text>\n\n<x_0.4678><y_0.0477>tween the different countries west and caft, is at once the fourest of their riches, and of those rivers which consider to the treafures, which would be otherwise inaccessible, in the eastern parts of the Kingdoms of Bo- nin, Congo, and Angola.<x_0.874><y_0.1203><class_Text>\n\n<x_0.4668><y_0.1172>There were three remarkable appearances attacking the inundation of the Nile. Every morning in Abyffinia is clear, and the fun thines. About nine, a final cloud, not about four feet to break appears in the early whiting violently around as it upon an axis, but, arrived near the zenith, it frit abates its motions, then find us its form, and extends itself greatly, and forms to call up oppsons from all the specific quarters. These clouds having attained nearly the fame height, ruth again east and other with greet violences, and put me all in mind of Elilin interesting rain on month Carmel. The air impelled before the heaviest malo, or twifl moved, makes an importified of its form on the collection of cloud opposite, and the moment it has taken poffelion of the space made to receive it, the mold violett thunder profile to be conceived initially follows, with rain, a after some hours later by again clearly, with a wind as north; and it is always lifis-greedy old when the thermometer is below 63°.<x_0.8721><y_0.3781><class_Text>\n\n<x_0.4658><y_0.4703>4 The third is that remarkable flop in the extent of the rain northward, when the fun, that has concluded the vapour from the lines, and should form now more than ever to be in poffelion of them, is here over-ruiled suddenly; till, on its return to Corrir, again it returns the abloid command over the rain, and reconciledts it to the Line, to ten filn秆 de- lages to the forthand.?<x_0.8613><y_0.5813><class_Text>\n\n<x_0.4648><y_0.5766>We regled to the Nile life!I, it has been fatal that the quantity of earth brought down by it from Abyfkina is to great, that the whole land of Egypt is produced from it. This question, however, is disculted under the article [2/vary, where it is flown than this cannot potibily be the cake.--Among other authorities that quoted was that of Mr Volory, who frequentally agree against the opinion of Mr Sivory and others, who have maintained that Egypt is the gift of the Nile. nevertheless they, however, we had him atturting that the fall of Egypt has undoubtedly been augmented by the Nile in which side it is not unreadable if dropped that it has been produced by it altogether. -4 The reader ( fays by it will conclude, doubtiels, from what I have field, that writers have flatters themselves are much in fuppeling they could fit the precise limits of the enlargement and ripe of the Delta. But, thought I would reject all library circunflances, I am far from decaying the fast to be well founded, it is too plain from realism, and in examination of the country. The rifle of the ground appears not demonstrated by an odibration on which little fresh has been laid. In going near Korkies to Cairo, when the waters are low, as an the mouth of March, we may remark, as we go up the river, that the shore rifles gradually above the water; to that if it overflowed<x_0.8545><y_0.9383><class_Text>\n\n<x_0.6367><y_0.9352>2<x_0.6777><y_0.9461><class_Page-footer>\n\n<x_0.8135><y_0.9375>1<x_0.8467><y_0.9508><class_Page-footer>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "616a77fc8403cf2866e4d28e954120ff7e19a9a85cb4dd5c65d68ba77245a948",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:50:11.902499+00:00",
+    "parser_receipt_sha256": "1162654b20db476170f371d0e3493c971c02dcbbd27a5281571bcbb53e28aa5a",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 269,
+      "occurred_at": "2026-10-18T17:46:33.083296+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1320,
+      "occurred_at": "2026-10-18T17:46:34.403303+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 653,
+      "occurred_at": "2026-10-18T17:46:35.068555+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 668,
+      "occurred_at": "2026-10-18T17:46:35.748655+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 739,
+      "occurred_at": "2026-10-18T17:46:36.499236+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 658,
+      "occurred_at": "2026-10-18T17:46:37.168650+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 558,
+      "occurred_at": "2026-10-18T17:46:37.737736+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 628,
+      "occurred_at": "2026-10-18T17:46:38.383413+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 700,
+      "occurred_at": "2026-10-18T17:46:39.098676+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 27,
+      "occurred_at": "2026-10-18T17:46:39.136435+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 2070,
+      "occurred_at": "2026-10-18T17:46:41.206798+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 834,
+      "occurred_at": "2026-10-18T17:46:42.046195+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 5,
+      "occurred_at": "2026-10-18T17:46:42.051072+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 747,
+      "occurred_at": "2026-10-18T17:46:42.798236+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1163,
+    "modern_words": 2360,
+    "vocabulary_jaccard": 0.1010332950631458,
+    "jensen_shannon_divergence": 0.6076536225824182,
+    "historical_top_words": [
+      [
+        "the",
+        140
+      ],
+      [
+        "of",
+        59
+      ],
+      [
+        "to",
+        32
+      ],
+      [
+        "and",
+        30
+      ],
+      [
+        "is",
+        23
+      ],
+      [
+        "in",
+        22
+      ],
+      [
+        "it",
+        22
+      ],
+      [
+        "that",
+        18
+      ],
+      [
+        "on",
+        13
+      ],
+      [
+        "a",
+        11
+      ],
+      [
+        "from",
+        11
+      ],
+      [
+        "which",
+        10
+      ],
+      [
+        "be",
+        10
+      ],
+      [
+        "fun",
+        9
+      ],
+      [
+        "this",
+        9
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "the",
+        160
+      ],
+      [
+        "k",
+        136
+      ],
+      [
+        "n",
+        120
+      ],
+      [
+        "j",
+        92
+      ],
+      [
+        "of",
+        80
+      ],
+      [
+        "c",
+        75
+      ],
+      [
+        "l",
+        67
+      ],
+      [
+        "a",
+        65
+      ],
+      [
+        "m",
+        54
+      ],
+      [
+        "and",
+        49
+      ],
+      [
+        "e",
+        39
+      ],
+      [
+        "is",
+        34
+      ],
+      [
+        "to",
+        29
+      ],
+      [
+        "in",
+        27
+      ],
+      [
+        "that",
+        25
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "n i l j",
+  "semantic_input": {
+    "query": "n i l j\nN I L 75 J N I L\n\nNRls. or White River, which, according to the accounts given by the Galla, our author fuppoles to take its rise in about 9 north latitude.\n\nThe rains therefore precede the fun only about 6°; but they continue and incredible after he has puffed it. In April all the rivers in the foubern parts of Ablyr finis begin to softw), and greatly augment the Nile which is now alfo farther augmented by the vaft quantity of water poured into the Nile Tazan. On the first day of May, the fun paths the village of Cerrij, which is the limit of the tropical rains, and it is very remarkable, that, though the fun still continues to cooperate with enhanced region. All his influence cannot bring the clouds further northward than this village; the restor of whole Mr Brune, with great restforu popsots to be the want of mountains to the northward. In confirmation of this opinion, he offerences, that the tropical rains flop at the latitude of 14\" infuse of 10\" in the welfare part of the contine",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.16463232040405273,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

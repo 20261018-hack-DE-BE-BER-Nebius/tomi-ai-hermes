@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "6056",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:58350677",
+      "title": "NGC 6056",
+      "corpus": "wikipedia",
+      "text": "NGC 6056 is a barred lenticular galaxy located about 525 million light-years away in the constellation Hercules. It was discovered by astronomer Lewis Swift on June 8, 1886. It was then rediscovered by Swift on June 8, 1888 and was later listed as IC 1176. NGC 6056 is a member of the Hercules Cluster.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1158723784",
+      "revision_id": "1158723784",
+      "text_sha256": "5e96ec765b0cddf70710bed2dc129835462a7d96fa7ffb00a188b0573f233140",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:53:36.912997+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.94144868850708,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:2961028",
+      "title": "Midvale, Western Australia",
+      "corpus": "wikipedia",
+      "text": "Midvale is a suburb of Perth, Western Australia, which is split between the City of Swan and the Shire of Mundaring. Its postcode is 6056.\n\nDeveloped in the early 1950s, the area was named as a composite of Midland and the former Helena Vale Racecourse. The former racecourse site is now part of Midvale.\n\nIts southern boundary is the Great Eastern Highway, and eastern the Eastern Railway.\n\nA substantial amount of the housing in the suburb is known as State Housing; a significant amount of this housing was redeveloped by the Department of Housing under the \"Eastern Horizons New Living Project\".\n\n326 Midland Station to Midland Station – Circular Route, serves Great Eastern Highway, Victoria Parade, Hooley Road, Wellaton Street and Morrison Road\n\nBus routes serving Great Eastern Highway:\n\n320 Midland Station to Mundaring\n\n321 Midland Station to Glen Forrest\n\n328 Midland Station to Chidlow\n\nBus routes serving Morrison Road:\n\n313 Midland Station to Jane Brook\n\n314 and 315 Midland Station to Midland Station – Clockwise Circular Routes\n\n323 Midland Station to Swan View\n\n324 and 325 Midland Station to Midland Station – Anti-Clockwise Circular Routes\n\n327 Midland Station to Swan View Shopping Centre",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1222514432",
+      "revision_id": "1222514432",
+      "text_sha256": "6883a52b4068c07b1fd2330c3bdd761818ada44e272f1d3098fc6351dcf0bea6",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:53:45.346012+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.142056941986084,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:81570758",
+      "title": "Dimethylhomotryptamine",
+      "corpus": "wikipedia",
+      "text": "Dimethylhomotryptamine (DMHT; developmental code name U-6056), also known as N, N -dimethylhomotryptamine or as 3-indole, is a homotryptamine and homologue of the psychedelic tryptamine dimethyltryptamine (DMT) in which the alkyl side chain has been lengthened by one carbon atom. The homologue of DMT in which the alkyl side chain has been shortened by one carbon atom is gramine (3-(N, N -dimethylaminomethyl)indole).\n\nAccording to Alexander Shulgin in his book TiHKAL (Tryptamines I Have Known and Loved) and other publications, DMHT was studied by the Upjohn Company under the code name U-6056. It was assessed in a clinical study of 10 individuals at doses of up to 10 mg by intravenous injection and 70 mg by intramuscular injection, but produced no psychoactive or hallucinogenic effects besides mild agitation or anxiety and caused slight increases in heart rate and blood pressure. For comparison, DMT has been reported to produce psychedelic effects at doses as low as 20 to 50 mg by intramuscular injection. The human properties and effects of the lower homologue gramine are unknown.\n\nDMHT showed the same affinity for serotonin receptors in the rat fundus strip as DMT (A = 1,000 nM and 1,000 nM, respectively). It also shows low affinity for the serotonin 5-HT receptor (K = 730 nM). The drug's analogue homotryptamine (the N, N -didesmethyl analogue) showed abolished affinity for the serotonin 5-HT and 5-HT receptors (K = >10,000 nM). DMHT is a potent serotonin reuptake inhibitor (SRI), with an affinity (IC Tooltip half-maximal inhibitory concentration) for the serotonin transporter (SERT) of 58 nM. It produced hyperthermia in rabbits.\n\nThe chemical synthesis of DMHT has been described.\n\nDMHT's N, N -didesmethyl analogue is homotryptamine. Other DMT and DMHT homologues with further extended alkyl side chains have been studied, but were said to have no interesting activity. The highly potent selective serotonin reuptake inhibitor (SSRI) BMS-505130 (K = 0.18 nM for the SERT) was derived via structural modification of DMHT. Gramine is an analogue of DMT and DMHT with a shortened alkyl side chain.\n\nDMHT was first described in the scientific literature by William J. Turner and Sidney Merlis in 1959.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1340894178",
+      "revision_id": "1340894178",
+      "text_sha256": "4624217c380f73c5d92098b6ffb6f085910eabddaf5be55d2e4107f1a393f66a",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:53:37.978533+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.6005403995513916,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1939",
+    "title": "Britannica page 1939",
+    "corpus": "britannica",
+    "text": "<x_0.0449><y_0.0453>6056<x_0.1016><y_0.0664><class_Page-header>\n\n<x_0.3984><y_0.0375>**PHAR MACY.**<x_0.6455><y_0.0594><class_Title>\n\n<x_0.9053><y_0.0383>Part II.<x_0.9883><y_0.0578><class_Caption>\n\n<x_0.041><y_0.0672>Preparations.<x_0.082><y_0.0906><class_Text>\n\n<x_0.1074><y_0.057>flower. When in perfection, it is very light and thin; pale, and almost colorules ; of great fragrance, the’ not quite for a belemary idelf. It is recomended, in the dole of a few drops, in nervous and hyfleric complaints. Borchave holds it ing great efeem againit epilepties, and fuppreffions of the use- trie purgurations, occaulted by weakens and indelh- vity.<x_0.5146><y_0.1727><class_Text>\n\n<x_0.1748><y_0.1773>_535: Efential oil of ruse-laaves._ L. L.<x_0.4443><y_0.1914><class_Section-header>\n\n<x_0.1123><y_0.1906>The oil of rue has a very acid tafes, and a gene- trating (well, refreshing the one of the herb, but rather more unpleasant. It is fometimes made uie of in hy- fferic diforders, and as an anthelmintic ; as alfo in epilepfics proceeding from a relaxed flate of the nerves.<x_0.5137><y_0.2687><class_Text>\n\n<x_0.1113><y_0.2695>Rue yields its oil very faringly. The larger quantity is obtained from which the flowers are ready to fall off, and the feeds begin to flow them!veres : fuitable maceration, previous to the distillation, is here extremely mesclitary.<x_0.5156><y_0.3352><class_Text>\n\n<x_0.1133><y_0.3375>_536: Efential oil of fuerin leaves_ L. E.<x_0.4668><y_0.3523><class_Section-header>\n\n<x_0.1143><y_0.3516>This oil is a celebrated uterine and emmenagogue ; in cold plegnatic habits, it is undoubtedly a medi-cine of good fender, though not capable of performing what it has been usually represented to do. The dole is, two or three drops or more.<x_0.5166><y_0.4188><class_Text>\n\n<x_0.1689><y_0.4219>_537: Efential oil of fulnfras_ L. E.<x_0.4473><y_0.4375><class_Section-header>\n\n<x_0.1172><y_0.4367>This is the most pondense of all the known effen-tial oils, but ribs in distillation with efficient cafe: it appears limpid as water, has a moderately pungent taste, a very fragment (well), exactly remember that of the inflates. If hands greatly commended a a flourir, and for purifying the blood and joves: it is like- wife topped to be of review in humoural ashmas and coughs. The dole is from one chop to eight or ten , though Geoffroy goes as far as so.<x_0.5176><y_0.5578><class_Text>\n\n<x_0.1182><y_0.5602>The decoction remaining after the distillation of the oil, afford, by infiltration, an useful extract of a mold, bitterth, albalkringed tafte. Hufman fays, he has given it with great benefits, in doses of a teruple, as a corroborant in cachethe cafes, in the decline of interming fevers, and for abating hypochondriacal fpafms.<x_0.5195><y_0.6477><class_Text>\n\n<x_0.2031><y_0.6523>_538: Oil of turpentine_ L. E.<x_0.4697><y_0.6664><class_Section-header>\n\n<x_0.1201><y_0.6648>This is distilled in the time manner as the forego- ing oils, and is finally an official one, though not ufually ranked in this clafa: it is commonly, but im- properly, called _fprins of turpentine_. It is employed in large quantities for tone mechanic purpoda and hence the distillation of it is become a particular bufi-neis.<x_0.5186><y_0.757><class_Text>\n\n<x_0.1191><y_0.7578>This oil is a sexy hot, stimulating medicine. It is fometines given as a fudorlic and diuretic, in the dole of two or three drops in larger doses, it is apt to greetly heat the body, coactalion pain of the head, an effusion of the fenect and liquor of the parasite glands. It has nevertheless been of late taken in considerable dofer (along with honey or other convict wolhic) against the delicate ; and, as is field, with good facects. Some have recommended it against vertical ruminants - but here I is has produced mir- chievous consequences, influming the parts and ag-gravating the diforder. Externally it is not unfre<x_0.5254><y_0.9164><class_Text>\n\n<x_0.5215><y_0.0602>nestly employed against rheumatic pains, aches, fprains, for dicuffing cold tumours, and restraining hemors- rhages.<x_0.9873><y_0.1039><class_Text>\n\n<x_0.5225><y_0.1094>539. After the distillation of the turpentine, there re- manus in the fill a brittle refinous folblance, of a yellow colour, called _yellow refin [L.]_.<x_0.9258><y_0.1508><class_Text>\n\n<x_0.5205><y_0.1516>The only uie of this is in external applications, for giving confidence to platters, and the like purposes.<x_0.9248><y_0.1805><class_Text>\n\n<x_0.5234><y_0.182>_540. Most of the foregoing oils are drawn by our chemits, and easily procurable in a tolerable degree of perfections i thofe of cinnamon, cloves, numanges, and maces, accepted. There are usually imported from abroad ; and are for the molt part fo much adulterated, that it is difficult to meet with fuch as are at all fit for life.<x_0.9287><y_0.2734><class_Text>\n\n<x_0.5264><y_0.2742>Nor are the adulterations of thefe kinds of prepara-tions easily disconoable. The groffer abubic indeed may be readily detected, thus if the oil is mixed with fpirit of wine, it will turn milky on the addition of water ; if with spearful oils, rectificil spirit will differ the eficient, and leave the ober behind; if with oil of turpentine, no dipping a piece of paper in the mixture, and drying it with a gentle heat, the turpen- we will be betrayed by its final). But the more fubble artift have corrected other methods ofophilisation, which elude all trials of this kind.<x_0.9297><y_0.418><class_Text>\n\n<x_0.5391><y_0.4195>Some have looked upon the specific gravity of oils, as a certain criterion of their genunements. This, however, is not to be ablotely depended on ; for the genuine oils, obtained from the fabelj, often- times differ in gravity as much as those draws from different ones. Cinnamon and cloves, whole oils ufually link to water, yield, if flowly and vastly di- filled, as oil of great fragency, which is nevertheless specifically lighter than the aqueous fluid employed in the distillation of it; whillts, on the other hand, the full rumants of some of the lightest oils prove feme-times to poucious as to funk in water.<x_0.9307><y_0.575><class_Text>\n\n<x_0.54><y_0.5758>As all efential oils agree in the general properties of fishability to prints of wine, individuality in waters, mifcibility with water by the intervention of certain intermedies, volatility in the least of boiling water, &c. is la plain that they may be variously mixed with one another, or the denser highlifted with the cheapys, without any polifficiency of discovering the abuse by any trials of this kind. And indeed, it would not be of much advantages to the purchase if he had inflaible criteria of the genunements of every individual oil. It is of as much importance, then they may be _goods_, as that they may be _genuers_; for we have often seen genuine oils, from incautious dililitations, and long and careful keeping, weaker both in fuell and tafte than the common sophisticated ones.<x_0.9355><y_0.7711><class_Text>\n\n<x_0.5381><y_0.7719>The fuell and tafte form to be the only certain tells that the nature of the thing will admit of. If a bark flould have in every refined the appearance of good cinnamon, and flould be proved indispensable to be the genuine bark of the cinnamon trees yet, if it wants the cinnamon flavors, or has it but in low deer, we yriclet it and the cage is the time with the oil. It is only from uie and habit, or comparison with fpecinens of known quality, that we can judge of the goodhefs, either of the droge themfrelves, or of their oils.<x_0.9404><y_0.9148><class_Text>\n\n<x_0.8965><y_0.9156>**Molt**<x_0.9395><y_0.9289><class_Page-footer>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "a055b80947edd215e5844732cb75fbf7dad181cfef63a25e4992d434abb28af3",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:57:24.546007+00:00",
+    "parser_receipt_sha256": "62620fb0d1d0cc02af0f67cdc58f973f57219b6a5027be16e782b98f58f5b5de",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 1156,
+      "occurred_at": "2026-10-18T17:53:35.272163+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1641,
+      "occurred_at": "2026-10-18T17:53:36.913026+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1040,
+      "occurred_at": "2026-10-18T17:53:37.978672+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1309,
+      "occurred_at": "2026-10-18T17:53:39.335040+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1565,
+      "occurred_at": "2026-10-18T17:53:40.919624+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1665,
+      "occurred_at": "2026-10-18T17:53:42.608301+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1296,
+      "occurred_at": "2026-10-18T17:53:43.921731+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1398,
+      "occurred_at": "2026-10-18T17:53:45.346030+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1301,
+      "occurred_at": "2026-10-18T17:53:46.664649+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 67,
+      "occurred_at": "2026-10-18T17:53:46.754992+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 9048,
+      "occurred_at": "2026-10-18T17:53:55.802614+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 1422,
+      "occurred_at": "2026-10-18T17:53:57.232295+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 9,
+      "occurred_at": "2026-10-18T17:53:57.241784+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 1190,
+      "occurred_at": "2026-10-18T17:53:58.431558+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1082,
+    "modern_words": 47,
+    "vocabulary_jaccard": 0.022598870056497175,
+    "jensen_shannon_divergence": 0.7204933544541439,
+    "historical_top_words": [
+      [
+        "the",
+        78
+      ],
+      [
+        "of",
+        64
+      ],
+      [
+        "and",
+        36
+      ],
+      [
+        "is",
+        31
+      ],
+      [
+        "in",
+        30
+      ],
+      [
+        "it",
+        27
+      ],
+      [
+        "a",
+        24
+      ],
+      [
+        "as",
+        18
+      ],
+      [
+        "to",
+        17
+      ],
+      [
+        "oil",
+        14
+      ],
+      [
+        "with",
+        14
+      ],
+      [
+        "oils",
+        11
+      ],
+      [
+        "be",
+        11
+      ],
+      [
+        "for",
+        10
+      ],
+      [
+        "this",
+        9
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "was",
+        3
+      ],
+      [
+        "ngc",
+        2
+      ],
+      [
+        "is",
+        2
+      ],
+      [
+        "a",
+        2
+      ],
+      [
+        "the",
+        2
+      ],
+      [
+        "hercules",
+        2
+      ],
+      [
+        "it",
+        2
+      ],
+      [
+        "by",
+        2
+      ],
+      [
+        "swift",
+        2
+      ],
+      [
+        "on",
+        2
+      ],
+      [
+        "june",
+        2
+      ],
+      [
+        "barred",
+        1
+      ],
+      [
+        "lenticular",
+        1
+      ],
+      [
+        "galaxy",
+        1
+      ],
+      [
+        "located",
+        1
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "6056",
+  "semantic_input": {
+    "query": "6056\n6056\n\n**PHAR MACY.**\n\nPart II.\n\nPreparations.\n\nflower. When in perfection, it is very light and thin; pale, and almost colorules ; of great fragrance, the’ not quite for a belemary idelf. It is recomended, in the dole of a few drops, in nervous and hyfleric complaints. Borchave holds it ing great efeem againit epilepties, and fuppreffions of the use- trie purgurations, occaulted by weakens and indelh- vity.\n\n_535: Efential oil of ruse-laaves._ L. L.\n\nThe oil of rue has a very acid tafes, and a gene- trating (well, refreshing the one of the herb, but rather more unpleasant. It is fometimes made uie of in hy- fferic diforders, and as an anthelmintic ; as alfo in epilepfics proceeding from a relaxed flate of the nerves.\n\nRue yields its oil very faringly. The larger quantity is obtained from which the flowers are ready to fall off, and the feeds begin to flow them!veres : fuitable maceration, previous to the distillation, is here extremely mesclitary.\n\n_536: Efential oil of fuerin leaves_ ",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.2006082534790039,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

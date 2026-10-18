@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "KAL [ 421]",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:3210346",
+      "title": "Kal",
+      "corpus": "wikipedia",
+      "text": "Kal may refer to:\n\nKal (name)\n\nKal or KAL, Kevin Kallaugher (born 1955), editorial cartoonist\n\nKal, Fars, a village\n\nKal Rural District, in Fars Province\n\nKal, Kurdistan, a village\n\nKal, Susan, a village in Khuzestan Province\n\nKäl, a town\n\nKal, Poland, a village\n\nKal, Hrastnik, a settlement\n\nKal, Ivančna Gorica, a village\n\nKal, Pivka, a village\n\nKal, Semič, a village\n\nKal, Tolmin, a village\n\nKal, Zagorje ob Savi, a village\n\nKal, a village and part of Klatovy in the Plzeň Region\n\nKal, a village and part of Pecka in the Hradec Králové Region\n\nKal (band), a Romani band from Serbia\n\nKal (Doctor Who), the first Doctor Who villain\n\nKal: Yesterday and Tomorrow, a 2005 Hindi film\n\nKal Tire, a Canadian company\n\nKerala Automobiles Limited, an Indian automobile manufacturer\n\nKorala Associates Limited, a software company\n\nKurdish Academy of Language\n\nISO 639-2 and 639-3 codes for the Greenlandic language\n\nKalamazoo Transportation Center, station code\n\nKallang MRT station, MRT station abbreviation\n\nKaltag Airport, IATA airport code\n\nKorean Air, ICAO code\n\nKal., abbreviation of the kalends of the Roman calendar\n\nKAL, the Kadıköy Anadolu Lisesi, a high school in Istanbul, Turkey",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1319455052",
+      "revision_id": "1319455052",
+      "text_sha256": "36700c02e088fe4601089bc7b02225693d8088a3acc4a3c3061deaa34941ee95",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:51:41.870521+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.2334342002868652,
+      "vector_distance": 0.8872585296630859,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:73289023",
+      "title": "Kal, Kolovrat",
+      "corpus": "wikipedia",
+      "text": "Kal (pronounced) is a former village in central Slovenia in the Municipality of Zagorje ob Savi. It is now part of the village of Kolovrat. It is part of the traditional region of Upper Carniola and is now included in the Central Sava Statistical Region.\n\nKal stands southwest of the village center of Kolovrat, below the south slope of Kal Hill (elevation 682 metres or 2,238 feet).\n\nThe name Kal literally means 'pond', based on the common noun kal 'pond, watering hole' and referring to a local geographical feature.\n\nKal was annexed by Kolovrat in 1953, ending its existence as a separate settlement.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1241896687",
+      "revision_id": "1241896687",
+      "text_sha256": "c7763a550b11f53f37a9256e18eff051186519f16c38b31ebea6f470100dab48",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:51:46.451165+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -3.5327365398406982,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:39334525",
+      "title": "Kal (name)",
+      "corpus": "wikipedia",
+      "text": "Kal is both a given name and a surname. Notable people with the name include:\n\nGiven name:\n\nKal Daniels (born 1963), former Major League Baseball outfielder\n\nKal Mann (1917–2001), American lyricist\n\nKal Naismith (born 1992), Scottish footballer\n\nKal Penn (born 1977), American actor, producer and civil servant, best known for the TV series House and the Harold and Kumar films\n\nSurname:\n\nJan Kal (born 1946), Dutch poet\n\nMiraç Kal (born 1987), Turkish cyclist\n\nPaulus Kal, 15th-century German fencing master\n\nPaweł Kal (born 1989), Polish footballer\n\nFictional:\n\nKal-El, real identity of DC Comics superhero Superman",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1266686580",
+      "revision_id": "1266686580",
+      "text_sha256": "7757ed35b4c271743eb50e3c8bf8cdb17f204c493cb8a293dec7f1ea9bb28609",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:51:42.456321+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.1818695068359375,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1765",
+    "title": "Britannica page 1765",
+    "corpus": "britannica",
+    "text": "<x_0.1924><y_0.0422>KAL [ 421]<x_0.7588><y_0.0602><class_Page-header>\n\n<x_0.0186><y_0.0625>Kalmcs, and cholerie temperament, they live more amicably to-gether than one could expect in a people that led to independent life. They felaina come to blows even over their cups, and their quarrels are hardly ever bloody. A murder very rarely happens, though their anger has finding in it exceeding forces. It would feem that the morality of their religion, though ex-ceedingly delaltance, has been able to moderate their natural difjedition in the effect; it for in confignence of their dogmas, with regard to the transmigration of fouls, every reason murder either of men or beats is thought a deadly fin.<x_0.4717><y_0.2219><class_Text>\n\n<x_0.0752><y_0.2227>The Kalmus are exceedingly affable; and of fo-cali a algorithm, that its rare face a traveller or pe-ceive another, even at the difference of federal rules, without going to falute him, and to injure into the object of his memory. When I troup of Kulinar preserve my perform at a dilanze, it is customary for them to detach one of their number to the next emi-mones, from whence the idea a great with his cap for the perfor to the man. If this signal is not obeyed, the perfon is considered as an enemy or a robber, and is often purified as facts. They enter willingly into friendships; but these conclusions are not quite the timeted; for to give and to receive prendents are with them offential articles. A more trifle, however, istif-ficient to induce them to do you all manner of ferries; and they are never ungrateful as far as they are able. Adverify cannot deprive them to courage nor alter their good humor. A Kulinar will never beg if he were in the extreme miliers, but rather endeavor to support a faithleness by beating; and when no other way remains, he will fear himself to force rich individual of his nation, or to form Rullas, ciber as a herdifnn, a fisherman, or for any other first of la-bour. Very few of the rich value themselves much upon their wealth; but those who do, flow on con-tempt for the poor of their own nations, though the meaner fortely their court, very inforiously to the rich, who are always surrounded with a warm of idle dependents.<x_0.4707><y_0.6008><class_Text>\n\n<x_0.0742><y_0.6016>Nothing can be more prudent than that exercife of hospitality pretplied by understanding: is it so the greatest advantage to those among them who travel heroés their defers; and each individual who protatles it, may rely only keeping the bundle of it wherever he goes. A Kulinar provided with a hard, with arms and equipage, may enable from one place to anchor for three months together, without taking with him either money or problems. Wherever he comes he finds either dibant relations or friends, to whom he is attacked by the ties of holopitality, from whom he meets with the kindled receipation, and is concerned in the belt manner their circumstances afford. Perhaps he lodges in the full discovery costge he ends upon his road; and hence has be entered it, but his wants are fuppled with the molt affectionate cordiality. Every frunger, of whichever nature, never fails to be well received by a Kalmus; and he may depend upon ha-ving his effects in the greatest faculty the moment he has put himself under the protection of his holl; for to rob a quilt soundbordered by the Kalmus as the molt abonnable of all crimes.<x_0.4697><y_0.8898><class_Text>\n\n<x_0.0762><y_0.8906>When the matter of the hoofe fits down to meat in company with others of inferior rank, he begins in-<x_0.4688><y_0.9195><class_Text>\n\n<x_0.4834><y_0.0617>deed by feriving himself and his family, but whatever romans is difficult among the affiliates. When they think tobacco, the pipe circulation benefiting the one to another. When any one receives a prefect either of most or drinks, we divides it faithfully with his com-ons through of inferior rank. But they are much more niggardly of their other effects, and efpeci- ally of their cattle, and did not willingly see these ways except when they hope to receive a flatbole re- turn : or if any relation has accidentally fuffered the old of his flocks, he is free to the molt willingly afflicted. Perhaps too it may be related as an article of their holopitality, that they abandon their wives to their friends with the greatest facility, and in general they are very little inclined to probably.<x_0.874><y_0.2609><class_Text>\n\n<x_0.4824><y_0.2617>Their robberies are never committed upon their equality, and even the greater part of the engine ex-celd on other other is intended, on hand or national quarrels; neither do they willingly attempt this by open faces, but prefer the machinations of coming, which are on material to them. It must also be con-feted, that it is only those that live with princes, and its camps where their hold their courts, or the parents, that are now addicted to their preferences, while the common people, fatised with the pleafures of the paf-toral life, found their days in immense displirations, and water attacks the property of another till forced by sec-certify, or led by their fuuperiors who flown them the ex-amples.<x_0.873><y_0.4437><class_Text>\n\n<x_0.4844><y_0.4445>The Kalmus are very faithful to their lawful prines they endure every fort of opreffion, and yet are with difficulty induced to revolts, but if they belong to a prince who has not become to by right of discipline, they very easily rebel. They honour old age. When young men travel with flash a are older than them-tives take upon then the whole race of the cat- tile as well as of the leaf. They are exceedingly prudent in matters that relate to their foreign or their nation, or which are recommended to their direction by the priests, to whom they yield an unreferved obe-diesers.<x_0.8721><y_0.6><class_Text>\n\n<x_0.4854><y_0.6023>The moveable habitations of the Kalmus are thoef felt huts with a conical roof in the among all the roaming Alates. The trend ingousin attention of thefe tents was undoubtedly conceived in the eastern parts of Afis, and molt probably by the Mongol na-tions. As they can be entirely blackout to pieces and folded in a small compals, they are very useful, and perfectly served with the migratory life of their people, who are still ignorant of the use of earrings. The frame of thefe huts, and the felt they are covered with, though made as light to paddle, yet are a fluffed food for a stand or two war. But the capacity of these huts, their warmth in winter, their strength in riffing rempels and excluding rain, abundantly com-peride for this inconvenience. The wood defines many years; and though the felt begins to break into holes in the found year, the common people, who do not consider in the different to have them wonderland and patched, make them ferve a good deal longer. The huts are in general for from the prime down to the present Kalmus, differing only in fine and in the en-bellithments within. In winter, they are warm even when heated with the dried excrucments of their cats, to which they are often obliged to have recounts for<x_0.8711><y_0.9187><class_Text>\n\n<x_0.2539><y_0.9203>3<x_0.2656><y_0.932><class_Page-footer>\n\n<x_0.8242><y_0.9117>wank<x_0.8691><y_0.9273><class_Page-footer>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "7745f9b7d44330f919309387c39b98dadb047bc9fa88275ce4ab8e4f65e7a9a6",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:57:04.809877+00:00",
+    "parser_receipt_sha256": "aa6c408534e62b0e346f937bead0ed17d70e0ea897e7ea57c0c967780729ec85",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 951,
+      "occurred_at": "2026-10-18T17:51:40.974169+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 896,
+      "occurred_at": "2026-10-18T17:51:41.870574+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 562,
+      "occurred_at": "2026-10-18T17:51:42.456381+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 591,
+      "occurred_at": "2026-10-18T17:51:43.072287+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 585,
+      "occurred_at": "2026-10-18T17:51:43.678560+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 805,
+      "occurred_at": "2026-10-18T17:51:44.512404+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 629,
+      "occurred_at": "2026-10-18T17:51:45.169810+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 591,
+      "occurred_at": "2026-10-18T17:51:45.789359+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 631,
+      "occurred_at": "2026-10-18T17:51:46.451230+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 55,
+      "occurred_at": "2026-10-18T17:51:46.529222+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 793,
+      "occurred_at": "2026-10-18T17:51:47.322322+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 542,
+      "occurred_at": "2026-10-18T17:51:47.872433+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 9,
+      "occurred_at": "2026-10-18T17:51:47.881724+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 1116,
+      "occurred_at": "2026-10-18T17:51:48.997793+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1186,
+    "modern_words": 183,
+    "vocabulary_jaccard": 0.025,
+    "jensen_shannon_divergence": 0.7734344882414043,
+    "historical_top_words": [
+      [
+        "the",
+        73
+      ],
+      [
+        "to",
+        46
+      ],
+      [
+        "of",
+        46
+      ],
+      [
+        "their",
+        33
+      ],
+      [
+        "and",
+        29
+      ],
+      [
+        "a",
+        27
+      ],
+      [
+        "are",
+        26
+      ],
+      [
+        "in",
+        24
+      ],
+      [
+        "they",
+        22
+      ],
+      [
+        "with",
+        20
+      ],
+      [
+        "or",
+        15
+      ],
+      [
+        "he",
+        13
+      ],
+      [
+        "it",
+        12
+      ],
+      [
+        "for",
+        12
+      ],
+      [
+        "is",
+        12
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "kal",
+        23
+      ],
+      [
+        "a",
+        18
+      ],
+      [
+        "village",
+        11
+      ],
+      [
+        "the",
+        7
+      ],
+      [
+        "in",
+        5
+      ],
+      [
+        "of",
+        5
+      ],
+      [
+        "and",
+        4
+      ],
+      [
+        "station",
+        3
+      ],
+      [
+        "code",
+        3
+      ],
+      [
+        "fars",
+        2
+      ],
+      [
+        "province",
+        2
+      ],
+      [
+        "part",
+        2
+      ],
+      [
+        "region",
+        2
+      ],
+      [
+        "band",
+        2
+      ],
+      [
+        "doctor",
+        2
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "kal",
+  "semantic_input": {
+    "query": "kal\nKAL [ 421]\n\nKalmcs, and cholerie temperament, they live more amicably to-gether than one could expect in a people that led to independent life. They felaina come to blows even over their cups, and their quarrels are hardly ever bloody. A murder very rarely happens, though their anger has finding in it exceeding forces. It would feem that the morality of their religion, though ex-ceedingly delaltance, has been able to moderate their natural difjedition in the effect; it for in confignence of their dogmas, with regard to the transmigration of fouls, every reason murder either of men or beats is thought a deadly fin.\n\nThe Kalmus are exceedingly affable; and of fo-cali a algorithm, that its rare face a traveller or pe-ceive another, even at the difference of federal rules, without going to falute him, and to injure into the object of his memory. When I troup of Kulinar preserve my perform at a dilanze, it is customary for them to detach one of their number to the next emi-mones, from whenc",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.299302339553833,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

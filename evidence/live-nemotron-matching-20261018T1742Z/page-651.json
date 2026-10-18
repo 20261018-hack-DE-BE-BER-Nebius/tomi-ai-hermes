@@ -1,0 +1,287 @@
+{
+  "status": "candidate",
+  "question": "HELMINTHOLOGY. Plate CCLI",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:2203555",
+      "title": "Helminthology",
+      "corpus": "wikipedia",
+      "text": "Helminthology, from Ancient Greek ἕλμινς (hélmins), meaning \"parasitic worm\", and λόγος (lógos), meaning \"study\", is the study of parasitic worms (helminths). The field studies the taxonomy of helminths and their effects on their hosts.\n\nIn the 18th and early 19th century there was wave of publications on helminthology; this period has been described as the science's \"Golden Era\". During that period the authors Félix Dujardin, William Blaxland Benham, Peter Simon Pallas, Marcus Elieser Bloch, Otto Friedrich Müller, Johann Goeze, Friedrich Zenker, Charles Wardell Stiles, Carl Asmund Rudolphi, Otto Friedrich Bernhard von Linstow and Johann Gottfried Bremser started systematic scientific studies of the subject.\n\nThe Japanese parasitologist Satyu Yamaguti was one of the most active helminthologists of the 20th century; he wrote the six-volume Systema Helminthum.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1324313982",
+      "revision_id": "1324313982",
+      "text_sha256": "6bc91a39661ab3429beb220bf900eeaea155740b5c5e5c3cb20298644135a728",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:05.782083+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -4.491147041320801,
+      "vector_distance": 0.7250422239303589,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:49030783",
+      "title": "Journal of Helminthology",
+      "corpus": "wikipedia",
+      "text": "The Journal of Helminthology is a bimonthly peer-reviewed scientific journal established in 1923. It covers all aspects of pure and applied helminthology, particularly those helminth parasites of environmental health, medical, or veterinary importance. According to the Journal Citation Reports, the journal has a 2014 impact factor of 1.421.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1328785211",
+      "revision_id": "1328785211",
+      "text_sha256": "4f28e2b7e1cfb13341a458c0a114c407b6e31f70a6f06e78bfb146f6aace86da",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:05.173217+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.380772113800049,
+      "vector_distance": 0.7645549774169922,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:34802434",
+      "title": "Edwin Linton",
+      "corpus": "wikipedia",
+      "text": "Edwin Linton (March 14, 1855, in East Bethlehem, Pennsylvania – 1939) was an American biologist noted for his research in the field of helminthology, the study of worms, especially parasitic worms in fishes. Linton was Research Fellow in Biology at University of Pennsylvania and professor emeritus at Washington and Jefferson College. The New York Times called Linton \"one of the world's leading authorities on helminthology\". Linton received his doctorate from Yale University. He was awarded the 1937 Leidy Award from the Academy of Natural Sciences of Philadelphia.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1167710681",
+      "revision_id": "1167710681",
+      "text_sha256": "c90399c4b6482b54deea593341c85d387ce61e3520df10982fa2d8b6ff4e6e43",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:08.649402+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.751197814941406,
+      "vector_distance": 0.8566890358924866,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:651",
+    "title": "Britannica page 651",
+    "corpus": "britannica",
+    "text": "<x_0.3906><y_0.0836>HELMINTHOLOGY. Plate CCLI<x_0.9102><y_0.0945><class_Page-header>\n\n<x_0.4502><y_0.1078>Fig 1<x_0.5215><y_0.1391><class_Caption>\n\n<x_0.4492><y_0.2094>Fig.2.<x_0.542><y_0.2437><class_Caption>\n\n<x_0.0977><y_0.0773>Fig.2.<x_0.9004><y_0.3125><class_Picture>\n\n<x_0.4453><y_0.3359>Fig.1.<x_0.543><y_0.3695><class_Caption>\n\n<x_0.0879><y_0.4797>O<x_0.2939><y_0.643><class_Picture>\n\n<x_0.5928><y_0.4133>Fig.3. Fig.3.<x_0.9053><y_0.5406><class_Picture>\n\n<x_0.6094><y_0.5461>Fig.8.<x_0.8896><y_0.6523><class_Picture>\n\n<x_0.4336><y_0.6766>Fig.7.<x_0.5322><y_0.7141><class_Caption>\n\n<x_0.1045><y_0.7094>Fig.9.<x_0.9111><y_0.7781><class_Picture>\n\n<x_0.4375><y_0.7891>Fig.9.<x_0.5342><y_0.8273><class_Caption>\n\n<x_0.6602><y_0.9172>Sthold Owner Walls Instagram from<x_0.8838><y_0.9375><class_Page-footer>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "47dc66c3afca929c3e340c9a8823a774ec5af5a98fbfce40c50366f703df91b2",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:54:34.598495+00:00",
+    "parser_receipt_sha256": "a5f4ddc9c706ba642a18a26b4a0a0632a12d2d7d30921c3427a096556e010c48",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 120,
+      "occurred_at": "2026-10-18T17:48:04.050006+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 544,
+      "occurred_at": "2026-10-18T17:48:04.593621+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 565,
+      "occurred_at": "2026-10-18T17:48:05.173234+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 590,
+      "occurred_at": "2026-10-18T17:48:05.782112+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 545,
+      "occurred_at": "2026-10-18T17:48:06.344011+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 563,
+      "occurred_at": "2026-10-18T17:48:06.928825+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 554,
+      "occurred_at": "2026-10-18T17:48:07.502294+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 556,
+      "occurred_at": "2026-10-18T17:48:08.072677+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 564,
+      "occurred_at": "2026-10-18T17:48:08.649419+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 39,
+      "occurred_at": "2026-10-18T17:48:08.700499+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 623,
+      "occurred_at": "2026-10-18T17:48:09.323518+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 78,
+      "occurred_at": "2026-10-18T17:48:09.407308+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 3,
+      "occurred_at": "2026-10-18T17:48:09.410806+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 173,
+      "occurred_at": "2026-10-18T17:48:09.584206+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 19,
+    "modern_words": 127,
+    "vocabulary_jaccard": 0.02,
+    "jensen_shannon_divergence": 0.9565064707333967,
+    "historical_top_words": [
+      [
+        "fig",
+        10
+      ],
+      [
+        "helminthology",
+        1
+      ],
+      [
+        "plate",
+        1
+      ],
+      [
+        "ccli",
+        1
+      ],
+      [
+        "o",
+        1
+      ],
+      [
+        "sthold",
+        1
+      ],
+      [
+        "owner",
+        1
+      ],
+      [
+        "walls",
+        1
+      ],
+      [
+        "instagram",
+        1
+      ],
+      [
+        "from",
+        1
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "the",
+        11
+      ],
+      [
+        "of",
+        6
+      ],
+      [
+        "and",
+        4
+      ],
+      [
+        "th",
+        3
+      ],
+      [
+        "friedrich",
+        3
+      ],
+      [
+        "helminthology",
+        2
+      ],
+      [
+        "meaning",
+        2
+      ],
+      [
+        "parasitic",
+        2
+      ],
+      [
+        "study",
+        2
+      ],
+      [
+        "helminths",
+        2
+      ],
+      [
+        "studies",
+        2
+      ],
+      [
+        "their",
+        2
+      ],
+      [
+        "on",
+        2
+      ],
+      [
+        "century",
+        2
+      ],
+      [
+        "was",
+        2
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending."
+  ],
+  "candidate_query": "helminthology plate ccli",
+  "semantic_input": {
+    "query": "helminthology plate ccli\nHELMINTHOLOGY. Plate CCLI\n\nFig 1\n\nFig.2.\n\nFig.2.\n\nFig.1.\n\nO\n\nFig.3. Fig.3.\n\nFig.8.\n\nFig.7.\n\nFig.9.\n\nFig.9.\n\nSthold Owner Walls Instagram from",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.889625072479248,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "**ED U** **[ 353 1 E D U**",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:1371357",
+      "title": "Ed Iacobucci",
+      "corpus": "wikipedia",
+      "text": "Edward E. Iacobucci (September 26, 1953 – June 21, 2013) was an Argentine-American businessman who founded VirtualWorks and co–founded Citrix Systems. He is also known for his work as the architectural designer of the OS/2 and IBM DOS systems and as a virtualization pioneer.\n\nEdward \"Ed\" E. Iacobucci was born September 26, 1953, in Buenos Aires, Argentina to Dr. Guillermo and Costantina Iacobucci. His father, a biochemist, moved his family to the U.S. in 1960 to work first for E.R. Squibb & Sons (a predecessor to pharmaceutical giant Bristol-Myers Squibb), and then Coca-Cola. Roberto Goizueta, then Chairman of Coca-Cola, became a close friend of the Iacobucci family and, subsequently, Ed's godfather.\n\nIacobucci graduated from Georgia Tech with a BSc in systems engineering in 1975.\n\nIacobucci began his career at IBM in 1979 where he worked on the commercial software and personal computer business. While at IBM, Iacobucci held architecture and design leadership responsibilities for IBM DOS and OS/2, and led the joint IBM-Microsoft design for multi-tasking personal computer operating systems.\n\nIn 1989, Iacobucci left IBM to co-found Citrix Systems. He led the company as chairman and chief technology officer through its market and product development phases. Citrix grew and was named to both the Nasdaq 100 and S&P 500 indexes. In 1997, Iacobucci forged a five-year joint development agreement with Microsoft to include Citrix's multi-user capabilities within Microsoft Windows NT Server. He served as chairman of Citrix through 2000, when he retired.\n\nIn 2002, Iacobucci co-founded and served as president and CEO of DayJet Corporation, an on-demand airline service that sold individual seats via a time sensitive pricing scale and utilized the Eclipse 500 very light jet. Dayjet built a computer system for solving highly complex optimization problems, and announced a five-year strategic agreement with the U.S. Federal Aviation Administration (FAA). After starting operations in 2007, DayJet ceased operations in 2008 when it was no longer able to secure its planned growth capital.\n\nBetween 2002 and 2007 he was a member of the SCO Group 's board of directors.\n\nIn 2011, Iacobucci founded VirtualWorks (later renamed to Ayfie), an enterprise search engine company. for which Iacobucci served as president and CEO until May 20, 2013, when he stepped down for personal health reasons.\n\nIn 1998, Iacobucci received the Ernst & Young \"International Entrepreneur of the Year\" award.\n\nIacobucci sat on the engineering advisory board for Georgia Tech, his alma mater. He served as a technology judge at the state and national level for the Ernst & Young \"Entrepreneur of the Year Awards\", and he was active in the Junior Achievement organization.\n\nHe died of pancreatic cancer on June 21, 2013, at his home in Boca Raton, Florida, U.S.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1324513627",
+      "revision_id": "1324513627",
+      "text_sha256": "e83fffe3c837b0d8148a1d332d40055009bae81c995dbacff23669f5fecffbe5",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:25.970321+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.697178363800049,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:5540485",
+      "title": "ISO 639:u",
+      "corpus": "wikipedia",
+      "text": "This is a list of ISO 639-3 language codes starting with U.\n\nIndex | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z\n\nAbbreviations are used in the table as follows:\n\nScope: I = individual language, M = macrolanguage, S = special code\n\nType: C = constructed, E = extinct (in recent times), H = historical (distinct from its modern form), L = living, S = special code\n\nDeprecated codes are enclosed in (parentheses).\n\nThe column Family contains the generic English name of the language's family or macrolanguage.\n\n\"ISO 639-2 Registration Authority\". Library of Congress.\n\n\"ISO 639-3 Registration Authority\". SIL International.\n\nLewis, M. Paul; Simons, Gary F.; Fennig, Charles D., eds. (2016). \"Ethnologue: Languages of the World\" (19th ed.). Dallas, Texas: SIL International.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1329051049",
+      "revision_id": "1329051049",
+      "text_sha256": "7bf289c2be85e5c79e2f0d7a8b1396a636c78f06652fb5711979de7767e00a96",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:21.750079+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.860966205596924,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:65133209",
+      "title": "Searchable symmetric encryption",
+      "corpus": "wikipedia",
+      "text": "Searchable symmetric encryption (SSE) is a form of encryption that allows efficient searching over a collection of encrypted documents or files without requiring decryption. SSE can be used to outsource files to an untrusted cloud storage server without revealing the files in plaintext, while preserving the server's ability to perform searches over them.\n\nA searchable symmetric encryption scheme is a symmetric-key encryption scheme that encrypts a collection of documents D = (D 1, …, D n) {\\displaystyle \\mathbf {D} =(\\mathrm {D_{1}},\\dots,\\mathrm {D_{n}})}, where each document D i ⊆ W {\\displaystyle \\mathrm {D_{i}} \\subseteq \\mathbb {W} } is viewed as a set of keywords from a keyword space W {\\displaystyle \\mathbb {W} }. Given the encryption key K {\\displaystyle K} and a keyword w ∈ W {\\displaystyle w\\in \\mathbb {W} }, one can generate a search token t k {\\displaystyle tk} with which the encrypted data collection can be searched for w {\\displaystyle w}. The result of the search is the subset of encrypted documents that contain the keyword w {\\displaystyle w}.\n\nA static SSE scheme consists of three algorithms S S E = (S e t u p, T o k e n, S e a r c h) {\\displaystyle {\\mathsf {SSE=(Setup,Token,Search)}}} that work as follows:\n\nS e t u p {\\displaystyle {\\mathsf {Setup}}} takes as input a security parameter k {\\displaystyle k} and a document collection D {\\displaystyle \\mathbf {D} } and outputs a symmetric key K {\\displaystyle K}, an encrypted index I {\\displaystyle \\mathbf {I} }, and an encrypted document collection E D {\\displaystyle \\mathbf {ED} }\n\nT o k e n {\\displaystyle {\\mathsf {Token}}} takes as input the secret key K {\\displaystyle K} and a keyword w {\\displaystyle w} and outputs a search token t k {\\displaystyle tk}\n\nS e a r c h {\\displaystyle {\\mathsf {Search}}} takes as input the encrypted index I {\\displaystyle \\mathbf {I} }, the encrypted document collection E D {\\displaystyle \\mathbf {ED} } and a search token t k {\\displaystyle tk} and outputs a set of encrypted documents R ⊆ E D {\\displaystyle \\mathbf {R} \\subseteq \\mathbf {ED} }\n\nA static SSE scheme is used by a client and an untrusted server as follows: the client encrypts its data collection using the S e t u p {\\displaystyle {\\mathsf {Setup}}} algorithm which returns a secret key K {\\displaystyle K}, an encrypted index I {\\displaystyle \\mathbf {I} }, and an encrypted document collection E D {\\displaystyle \\mathbf {ED} }. The client keeps K {\\displaystyle K} secret and sends E D {\\displaystyle \\mathbf {ED} } and I {\\displaystyle \\mathbf {I} } to the untrusted server. To search for a keyword w {\\displaystyle w}, the client runs the T o k e n {\\displaystyle {\\mathsf {Token}}} algorithm on K {\\displaystyle K} and w {\\displaystyle w} to generate a search token t k {\\displaystyle tk} which it sends to the server. The server runs Search with E D {\\displaystyle \\mathbf {ED} }, I {\\displaystyle \\mathbf {I} }, and t k {\\displaystyle tk} and returns the resulting encrypted documents back to the client.\n\nA dynamic SSE scheme supports, in addition to search, the insertion and deletion of documents. A dynamic SSE scheme consists of seven algorithms S S E = (S e t u p, T o k e n, S e a r c h, I n s e r t T o k e n, I n s e r t, D e l e t e T o k e n, D e l e t e) {\\displaystyle {\\mathsf {SSE=(Setup,Token,Search,InsertToken,Insert,DeleteToken,Delete)}}} where S e t u p {\\displaystyle {\\mathsf {Setup}}}, T o k e n {\\displaystyle {\\mathsf {Token}}}, and S e a r c h {\\displaystyle {\\mathsf {Search}}} are as in the static case and the remaining algorithms work as follows:\n\nI n s e r t T o k e n {\\displaystyle {\\mathsf {InsertToken}}} takes as input the secret key K {\\displaystyle K} and a new document D n + 1 {\\displaystyle \\mathrm {D_{n+1}} } and outputs an insert token i t k {\\displaystyle itk}\n\nI n s e r t {\\displaystyle {\\mathsf {Insert}}} takes as input the encrypted document collection E D {\\displaystyle \\mathbf {ED} } and an insert token i t k {\\displaystyle itk} and outputs an updated encrypted document collection E D ′ {\\displaystyle \\mathbf {ED'} }\n\nD e l e t e T o k e n {\\displaystyle {\\mathsf {DeleteToken}}} takes as input the secret key K {\\displaystyle K} and a document identifier i d {\\displaystyle id} and outputs a delete token d t k {\\displaystyle dtk}\n\nD e l e t e {\\displaystyle {\\mathsf {Delete}}} takes as input the encrypted data collection E D {\\displaystyle \\mathbf {ED} } and a delete token d t k {\\displaystyle dtk} and outputs an updated encrypted data collection E D ′ {\\displaystyle \\mathbf {ED'} }\n\nTo add a new document D n + 1 {\\displaystyle \\mathrm {D_{n+1}} } the client runs I n s e r t T o k e n {\\displaystyle {\\mathsf {InsertToken}}} on K {\\displaystyle K} and D n + 1 {\\displaystyle \\mathrm {D_{n+1}} } to generate an insert token i t k {\\displaystyle itk} which it sends to the server. The server runs I n s e r t {\\displaystyle {\\mathsf {Insert}}} with E D {\\displaystyle \\mathbf {ED} } and i t k {\\displaystyle itk} and stores the updated encrypted document collection. To delete a document with identifier i d {\\displaystyle id}, the client runs the D e l e t e T o k e n {\\displaystyle {\\mathsf {DeleteToken}}} algorithm with K {\\displaystyle K} and i d {\\displaystyle id} to generate a delete token d t k {\\displaystyle dtk} which it sends to the server. The server runs D e l e t e {\\displaystyle {\\mathsf {Delete}}} with E D {\\displaystyle \\mathbf {ED} } and d t k {\\displaystyle dtk} and stores the updated encrypted document collection.\n\nAn SSE scheme that does not support D e l e t e T o k e n {\\displaystyle {\\mathsf {DeleteToken}}} and D e l e t e {\\displaystyle {\\mathsf {Delete}}} is called semi-dynamic.\n\nThe problem of searching on encrypted data was considered by Song, Wagner and Perrig, although earlier work on Oblivious RAM by Goldreich and Ostrovsky could, in theory, be used to address the problem. This work proposed an SSE scheme with a search algorithm that runs in time O (s) {\\displaystyle O(s)}, where s = | D | {\\displaystyle s=|\\mathbf {D} |}. Goh and Chang and Mitzenmacher proposed new SSE constructions with search algorithms that run in time O (n) {\\displaystyle O(n)}, where n {\\displaystyle n} is the number of documents. Curtmola, Garay, Kamara and Ostrovsky later proposed two static constructions with O (o p t) {\\displaystyle O(\\mathrm {opt})} search time, where o p t {\\displaystyle \\mathrm {opt} } is the number of documents that contain w {\\displaystyle w}, which is optimal. This work also proposed a semi-dynamic construction with O (o p t ⋅ log (u)) {\\displaystyle O(\\mathrm {opt} \\cdot \\log(u))} search time, where u {\\displaystyle u} is the number of updates. An optimal dynamic SSE construction was later proposed by Kamara, Papamanthou and Roeder.\n\nGoh and Chang and Mitzenmacher proposed security definitions for SSE. These were later strengthened and extended by Curtmola, Garay, Kamara and Ostrovsky, who introduced the notion of adaptive security for SSE. This work was also the first to observe leakage in SSE and to formally capture it as part of the security definition. Leakage was further formalized and generalized by Chase and Kamara. Islam, Kuzu and Kantarcioglu described the first leakage attack.\n\nAll the previously mentioned constructions support single-keyword search. Cash, Jarecki, Jutla, Krawczyk, Roşu and Steiner proposed an SSE scheme that supports conjunctive search in sub-linear time in n {\\displaystyle n}. The construction can also be extended to support disjunctive and Boolean searches that can be expressed in searchable normal form (SNF) in sub-linear time. At the same time, Pappas, Krell, Vo, Kolesnikov, Malkin, Choi, George, Keromytis and Bellovin described a construction that supports conjunctive and all disjunctive and Boolean searches in sub-linear time.\n\nSSE schemes are designed to ensure that an untrusted server cannot learn any partial information about the documents or search queries beyond a well-defined and reasonable leakage. The leakage of a scheme is formally described using a leakage profile, which itself can consist of several leakage patterns. SSE constructions attempt to minimize leakage while achieving the best possible search efficiency.\n\nSSE security can be analyzed in several adversarial models, but the most common are:\n\nthe persistent model, in which an adversary is given the encrypted data collection and a transcript of all operations executed on the collection;\n\nthe snapshot model, in which an adversary is given only the encrypted data collection (possibly after each operation).\n\nIn the persistent model, there are SSE schemes that achieve a wide variety of leakage profiles. The most common leakage profile for static schemes that achieve single keyword search in optimal time is Λ o p t {\\displaystyle \\Lambda _{\\mathrm {opt} }} which reveals the number of documents in the collection, the size of each document in the collection, if and when a query was repeated and which encrypted documents match the search query. It is also possibly to construct schemes that leak considerably less, at the cost of increased search time and storage.\n\nFor dynamic SSE schemes, state-of-the-art constructions with optimal-time search have leakage profiles that guarantee forward privacy, meaning that inserts cannot be correlated with past search queries.\n\nIn the snapshot model, efficient dynamic SSE schemes can be constructed with no leakage beyond the number of documents and the size of the collection. When using an SSE construction that is secure in the snapshot model, careful consideration must be given to deployment, as some systems might cache previous search queries.\n\nA leakage profile describes only the leakage of an SSE scheme and does not indicate whether that leakage can be exploited. Cryptanalysis is therefore used to better understand the real-world security implications of a leakage profile. A wide range of attacks exist, operating under different adversarial models, based on a variety of assumptions, and targeting different leakage profiles.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1349076273",
+      "revision_id": "1349076273",
+      "text_sha256": "863e4e49038e3d6c0b23d4d67b103ee2918d14e380174d8308008491751da681",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:50:20.766895+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.1706318855285645,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1422",
+    "title": "Britannica page 1422",
+    "corpus": "britannica",
+    "text": "<x_0.1807><y_0.0328>**ED U** **[ 353 1 E D U**<x_0.7422><y_0.0531><class_Page-header>\n\n<x_0.0059><y_0.0563>highly worthy of engaging the attention of the young gentleman. Dancing, fencing, running, horteman- flip, the management of the mofics, and the motions of military glimphes, are more at them worthy of occupying his time, at proper feafons. It is unenceffary to point out the advantages which he may be view from claiming it their own in to be pretty generally understood. Perhaps our men of forture would be afhamed to make use of their legs for running; but occasions may occur, on which even this humble do compliment may be useful. Though we with not to fee the young man of fortune become a jockey yet to be able to make a greatful appearance on both back, and to manage his boric with dexterity, will not be between of his flation and character. If true of public danger though arise, and the fate founds call for the fervies of her objects against any hostile attack; they whole rank and fortune place them in the most eminent fiations will be felt expected to hand forth; but if unacquated with thofe exercises which are connected with the military art, what a pitiful figure mult they make in the camp, or on the field of battle?<x_0.4609><y_0.368><class_Text>\n\n<x_0.0166><y_0.3617>Lav.<x_0.0527><y_0.3883><class_Section-header>\n\n<x_0.0156><y_0.6734>7. Milbury and morals<x_0.0723><y_0.707><class_Section-header>\n\n<x_0.0146><y_0.4719>Philophy.<x_0.0693><y_0.4922><class_Section-header>\n\n<x_0.0137><y_0.4031>Natural philosophy, as being both highly ufeful and entertaining, as well worthy of the attention of all who can talked to appropriate anayment of their time to fictific purifuits; to the man of fortune, a taille for mutual philopholy might often procure the mind de-lightful environment. To trace the wonder of a planetary tytions, to mark the proceeds of vegetation, to examine all the properties of that the elements which we bearbe, to trace the laws by which all the different elements are confined to their proper funcions, and above all to apply the principles of natural philopholy in the cultivated of the ground, and amendments which might agreeably and innocently occupy many of the hitline hours of the man who enjoys a friend and independent fortune.<x_0.4619><y_0.6742><class_Text>\n\n<x_0.0176><y_0.682>Neither do we fuppole civil history and the pria-ciples of animals to be overlooked. Without being anaquished with theftsy, how could not yunk or accurate knowledge of the laws and political contributions of his country be acquired by the young generation! Hilory expects to war observation the fortune and the echo of other human beings, and thus fuppies in force mea: fine the place of experience; it teacher graduate, and affords exercise to the moraliente. When history condelends to take notice of individuals, they see all making always flesh a have been embent for virtue, for abilities, or for the rank which, they held in life; to the rich and great it ought to freak with peculiar effficiency, and they ought to be carefully invited to listen to its voice.<x_0.4629><y_0.8789><class_Text>\n\n<x_0.083><y_0.8797>Such then is the manner in which we with the education of young men of mind, and forture to be con-ducts; in order that they may be prepared for en-joying their opulence and honours with becoming dig- integrity. Let them be early inured to habit of vigorous<x_0.4639><y_0.9469><class_Text>\n\n<x_0.4688><y_0.0523>indufry and perfevering firmness, by pulling through a Education. regular course of claffical learning in a free (chool; let them play and converser with their equals, and not be permitted to form high ideas of their own importance, nor to dominate over ferrets or infortors; Let them be carefully instructed to the principles of monality and religion. Let now be taught the mainly exercices: Let them be carefully informed of the nature of the political constitution of their country, and of the ex-tent of their spirit and politick rights which is focuses to them and their fellow-officers; Let them be called to trace the annals of mandat through the records of history; to mark the appearances and operations of nature, and to amute themselves by purifying thefe to their general earlier. We lay nothing of causing the young man of fortune to learn some mechanical art; We think fell in a mechanical arm might now and then afford him an innovacant and plading amefiens; but we do one consider it is absolutely necessary, and therefore do soe infinit on his acquiring it. With those accomplishments we hope he might become an useful member of Society, might adorn the rank and fortune to which he is born, and might find wealth than high flation a building, not a curic. It is peculiarly unfair toame for our age and country, that people of rank and forture are not to illudious that their children ac-quire there as the more superficial accomplillments.<x_0.8525><y_0.4219><class_Text>\n\n<x_0.4678><y_0.4281>## VII. In the Education of People Affordford for a Mercan- tile deployments and join the number Occupations in Life is particularly controlled with Literatures.<x_0.8467><y_0.4688><class_Section-header>\n\n<x_0.4668><y_0.4734>Wars modern literature in a lefs flourishing flare; were the English and French language along with fewer tenents social, albidental, and philosophical compositions; we might perhaps infinit on it as ne-efficacy to give the boy, who is designed for a mercun-tile emplements, a classification function. At present this does not appear absolutely necellary; yet we do not perform to forbid it as improperly. Even the Elegantile members will never lead reason to repon, his he cannot, vying been introduced to the acquaintance of Plato and Cicero. But fall, of the circumnation of the parents, or any other part radios, should render it inconvenient to fend the young man who is intand- ed to trade in a few feebed to fluly the ancient languages, means may be really adopted to make up for his lofa. Confine him not to writing and accounts alone. Thief, though, appropriately useful to the mer-clans, have no great power to refrain the force of evil pallions, or to injure the mind with generous and written feminements. Though you burger him not with Latin and Greek, yet drive to injure him with a tale for deaf knowledge and for elegant literature. Some of the pureft and molt elegant of our posts, the excellent periodicals works which have appeared in new languages, facts as the Spectator, the Adventures, the Mirror, and the composition of our fresh blibrarians, together with tone of the belt translations of the claf-fas which are profits, that’s you may with great pro- pristry put into go-b hands. They will teach him how to think and realon jolly, and to express himself in conversation or in writing with coretherla and elegance, they shall online and publish his mind, and raife him above low and greats pleafures.” And as soon, who has any occasion to freak or write, ought to be entirely ignorant of the principles of grammar, you will<x_0.8545><y_0.9484><class_Text>\n\n<x_0.0986><y_0.9461>You. VI. Part. I.<x_0.2402><y_0.9617><class_Page-footer>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "e309958612e1d90a073f4633c0cc30b2a9c47c759d5b64eb8bc194a456558ca7",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:39.062953+00:00",
+    "parser_receipt_sha256": "8388b7b4ccac225753600883fac2aa032f31857480a8bfd6817ced3be63cfdaf",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 195,
+      "occurred_at": "2026-10-18T17:50:18.961608+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 576,
+      "occurred_at": "2026-10-18T17:50:19.537762+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 548,
+      "occurred_at": "2026-10-18T17:50:20.106270+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 636,
+      "occurred_at": "2026-10-18T17:50:20.766924+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 965,
+      "occurred_at": "2026-10-18T17:50:21.750096+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1684,
+      "occurred_at": "2026-10-18T17:50:23.449247+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 609,
+      "occurred_at": "2026-10-18T17:50:24.084211+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 726,
+      "occurred_at": "2026-10-18T17:50:24.837517+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1107,
+      "occurred_at": "2026-10-18T17:50:25.970350+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 51,
+      "occurred_at": "2026-10-18T17:50:26.041534+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 676,
+      "occurred_at": "2026-10-18T17:50:26.717581+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 124,
+      "occurred_at": "2026-10-18T17:50:26.851392+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 7,
+      "occurred_at": "2026-10-18T17:50:26.858207+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 331,
+      "occurred_at": "2026-10-18T17:50:27.189666+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1121,
+    "modern_words": 438,
+    "vocabulary_jaccard": 0.05678670360110803,
+    "jensen_shannon_divergence": 0.6644435818489685,
+    "historical_top_words": [
+      [
+        "the",
+        71
+      ],
+      [
+        "of",
+        59
+      ],
+      [
+        "to",
+        56
+      ],
+      [
+        "and",
+        53
+      ],
+      [
+        "be",
+        20
+      ],
+      [
+        "with",
+        18
+      ],
+      [
+        "a",
+        18
+      ],
+      [
+        "in",
+        17
+      ],
+      [
+        "for",
+        13
+      ],
+      [
+        "which",
+        12
+      ],
+      [
+        "their",
+        12
+      ],
+      [
+        "it",
+        10
+      ],
+      [
+        "we",
+        10
+      ],
+      [
+        "not",
+        10
+      ],
+      [
+        "is",
+        9
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "and",
+        22
+      ],
+      [
+        "the",
+        18
+      ],
+      [
+        "iacobucci",
+        14
+      ],
+      [
+        "in",
+        14
+      ],
+      [
+        "a",
+        11
+      ],
+      [
+        "he",
+        10
+      ],
+      [
+        "of",
+        10
+      ],
+      [
+        "for",
+        9
+      ],
+      [
+        "to",
+        9
+      ],
+      [
+        "as",
+        7
+      ],
+      [
+        "s",
+        7
+      ],
+      [
+        "was",
+        6
+      ],
+      [
+        "his",
+        6
+      ],
+      [
+        "ibm",
+        6
+      ],
+      [
+        "citrix",
+        5
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "ed u e d",
+  "semantic_input": {
+    "query": "ed u e d\n**ED U** **[ 353 1 E D U**\n\nhighly worthy of engaging the attention of the young gentleman. Dancing, fencing, running, horteman- flip, the management of the mofics, and the motions of military glimphes, are more at them worthy of occupying his time, at proper feafons. It is unenceffary to point out the advantages which he may be view from claiming it their own in to be pretty generally understood. Perhaps our men of forture would be afhamed to make use of their legs for running; but occasions may occur, on which even this humble do compliment may be useful. Though we with not to fee the young man of fortune become a jockey yet to be able to make a greatful appearance on both back, and to manage his boric with dexterity, will not be between of his flation and character. If true of public danger though arise, and the fate founds call for the fervies of her objects against any hostile attack; they whole rank and fortune place them in the most eminent fiations will be felt expected to hand",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.163787841796875,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

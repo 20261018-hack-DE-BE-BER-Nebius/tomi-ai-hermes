@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "S I L [ 355 ]",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:23988460",
+      "title": "Libnotes",
+      "corpus": "wikipedia",
+      "text": "Libnotes is a genus of crane fly in the family Limoniidae.\n\nThe genus is primaraily found in Africa, and Asia.\n\nSubgenus Afrolimonia Alexander, 1965\n\nL. angustilamina (Alexander, 1956)\n\nL. basilewskyi (Alexander, 1962)\n\nL. buxtoniana (Alexander, 1956)\n\nL. comoreana (Alexander, 1959)\n\nL. crassibasis (Alexander, 1975)\n\nL. discobolina (Edwards, 1923)\n\nL. discobolodes (Alexander, 1974)\n\nL. dispar (Lindner, 1958)\n\nL. ditior (Alexander, 1946)\n\nL. familiaris (Speiser, 1923)\n\nL. igalensis (Alexander, 1937)\n\nL. illiterata (Alexander, 1937)\n\nL. imperspicua (Alexander, 1929)\n\nL. indra (Alexander, 1968)\n\nL. irrorata (Enderlein, 1912)\n\nL. joanae (Alexander, 1975)\n\nL. ladogensis (Lackschewitz, 1940)\n\nL. lophema (Alexander, 1958)\n\nL. loveridgei (Alexander, 1937)\n\nL. lucrativa (Alexander, 1956)\n\nL. nigricaulis (Alexander, 1956)\n\nL. nyasaensis (Alexander, 1920)\n\nL. obuduensis (Alexander, 1976)\n\nL. oligacantha (Alexander, 1956)\n\nL. oligospilota (Alexander, 1937)\n\nL. omnifulva (Alexander, 1957)\n\nL. oresitropha (Speiser, 1909)\n\nL. plutonis (Alexander, 1924)\n\nL. poecila (Alexander, 1920)\n\nL. praetor (Alexander, 1945)\n\nL. rhanteria (Alexander, 1920)\n\nL. rhizosema (Speiser, 1909)\n\nL. shawi (Alexander, 1921)\n\nL. sokotrana (Alexander, 1920)\n\nL. subapicalis (Alexander, 1930)\n\nL. trunculata (Alexander, 1976)\n\nL. uniflava (Riedel, 1914)\n\nL. vilhelmi (Alexander, 1924)\n\nSubgenus Goniodineura van der Wulp, 1895\n\nL. acrophaea (Alexander, 1930)\n\nL. apicifusca (Alexander, 1978)\n\nL. apsellia (Alexander, 1978)\n\nL. banahaoensis (Alexander, 1929)\n\nL. bellula (Alexander, 1931)\n\nL. cerinella (Alexander, 1978)\n\nL. circumscripta (Alexander, 1934)\n\nL. clauda (Alexander, 1937)\n\nL. clitelligera (Alexander, 1929)\n\nL. delicatior (Alexander, 1940)\n\nL. ephippiata (Alexander, 1936)\n\nL. erythromera (Alexander, 1935)\n\nL. familiaris Osten Sacken, 1882\n\nL. forcipata de Meijere, 1911\n\nL. hassenana (Alexander, 1930)\n\nL. hopkinsi Edwards, 1928\n\nL. imbellis (Alexander, 1924)\n\nL. immetata (Alexander, 1935)\n\nL. indica (Brunetti, 1912)\n\nL. kraussiana (Alexander, 1972)\n\nL. lacrimula (Alexander, 1956)\n\nL. lantauensis (Alexander, 1938)\n\nL. luteithorax (Alexander, 1937)\n\nL. magnisiva (Alexander, 1968)\n\nL. malaitae (Alexander, 1978)\n\nL. melancholica (Alexander, 1931)\n\nL. montivagans Alexander, 1915\n\nL. neofamiliaris (Alexander, 1931)\n\nL. nepalica (Alexander, 1958)\n\nL. nesopicta (Alexander, 1940)\n\nL. nigriceps (van der Wulp, 1895)\n\nL. nigricornis Alexander, 1915\n\nL. novaebrittanicae (Alexander, 1924)\n\nL. parvistigma Alexander, 1920\n\nL. perluteola (Alexander, 1972)\n\nL. perparvula (Alexander, 1931)\n\nL. perparvuloides (Alexander, 1935)\n\nL. phaeonota (Alexander, 1940)\n\nL. phaeozoma (Alexander, 1972)\n\nL. pictoides (Alexander, 1972)\n\nL. rarissima (Alexander, 1934)\n\nL. signaticollis (van der Wulp, 1895)\n\nL. siva (Alexander, 1971)\n\nL. subfamiliaris (Alexander, 1931)\n\nL. unistriolata (Alexander, 1931)\n\nL. veitchi (Alexander, 1924)\n\nL. viridula (Alexander, 1922)\n\nSubgenus Gressittomyia Alexander, 1936\n\nL. xenoptera (Alexander, 1936)\n\nSubgenus Laosa Edwards, 1926\n\nL. bipartita (Alexander, 1936)\n\nL. charmosyne (Alexander, 1958)\n\nL. diphragma (Alexander, 1934)\n\nL. dolonigra (Alexander, 1956)\n\nL. falcata (Alexander, 1935)\n\nL. fuscinervis Brunetti, 1912\n\nL. impensa (Alexander, 1967)\n\nL. innuba (Alexander, 1941)\n\nL. iris (Alexander, 1950)\n\nL. joculator (Alexander, 1959)\n\nL. kariyana (Alexander, 1947)\n\nL. manobo (Alexander, 1931)\n\nL. noctipes (Alexander, 1967)\n\nL. pavo (Alexander, 1964)\n\nL. regalis Edwards, 1916\n\nL. riedelella (Alexander, 1934)\n\nL. rotundifolialeos (Young, 1990)\n\nL. suffalcata (Alexander, 1964)\n\nL. taficola (Alexander, 1948)\n\nL. transversalis de Meijere, 1916\n\nSubgenus Libnotes Westwood, 1876\n\nL. adicia (Alexander, 1948)\n\nL. alexanderi Edwards, 1925\n\nL. alternimacula (Alexander, 1962)\n\nL. amatrix (Alexander, 1922)\n\nL. aptata (Alexander, 1949)\n\nL. archboldeana (Alexander, 1959)\n\nL. astuta (Alexander, 1932)\n\nL. atroguttata (Edwards, 1932)\n\nL. augustana (Alexander, 1978)\n\nL. aurantiaca (Doleschall, 1859)\n\nL. basistrigata (Alexander, 1934)\n\nL. buruicola (Alexander, 1942)\n\nL. carbonipes (Alexander, 1930)\n\nL. chrysophaea (Alexander, 1934)\n\nL. citrivena (Alexander, 1938)\n\nL. clintoni (Alexander, 1936)\n\nL. colossus (Alexander, 1971)\n\nL. comissabunda (Alexander, 1935)\n\nL. consona (Alexander, 1936)\n\nL. crocea (Edwards, 1916)\n\nL. depicta (Alexander, 1942)\n\nL. diaphana (Alexander, 1942)\n\nL. divaricata (Alexander, 1924)\n\nL. djampangensis (Alexander, 1934)\n\nL. duyagi (Alexander, 1929)\n\nL. eboracensis (Alexander, 1935)\n\nL. elachista (Alexander, 1971)\n\nL. elata (Alexander, 1931)\n\nL. elissa (Alexander, 1947)\n\nL. falsa (Alexander, 1935)\n\nL. fastosa (Alexander, 1959)\n\nL. ferruginata Edwards, 1926\n\nL. flavipalpis Edwards, 1926\n\nL. fuscicoxata (Edwards, 1932)\n\nL. garoensis (Alexander, 1921)\n\nL. grammoneura (Alexander, 1962)\n\nL. greeni Edwards, 1928\n\nL. greenwoodi Alexander, 1924\n\nL. griseola (Alexander, 1934)\n\nL. henrici (Alexander, 1932)\n\nL. hollandi (Alexander, 1936)\n\nL. howensis Alexander, 1922\n\nL. igorata (Alexander, 1929)\n\nL. illecebrosa (Alexander, 1930)\n\nL. imponens (Walker, 1859)\n\nL. impressa (Walker, 1856)\n\nL. inattenta (Alexander, 1967)\n\nL. infumosa Savchenko, 1983\n\nL. innotabilis (Walker, 1864)\n\nL. inusitata Edwards, 1927\n\nL. invicta (Alexander, 1964)\n\nL. ishana (Alexander, 1967)\n\nL. kaulbackiana (Alexander, 1963)\n\nL. kinabaluana (Edwards, 1933)\n\nL. klossi Alexander, 1927\n\nL. kusaiensis (Alexander, 1940)\n\nL. laetinota (Alexander, 1963)\n\nL. laterospinosa (Alexander, 1972)\n\nL. libnotina (Alexander, 1934)\n\nL. limpida Edwards, 1916\n\nL. longinervis (Brunetti, 1912)\n\nL. longistigma Alexander, 1921\n\nL. luteiventris Edwards, 1926\n\nL. majorina (Alexander, 1972)\n\nL. marginalis Bezzi, 1916\n\nL. megalops Edwards, 1926\n\nL. minyneura (Alexander, 1978)\n\nL. muscicola (Alexander, 1942)\n\nL. neopleuralis (Alexander, 1964)\n\nL. neosolicita (Alexander & Alexander, 1973)\n\nL. nerissa (Alexander, 1959)\n\nL. nigerrima (Alexander, 1934)\n\nL. nohirai Alexander, 1918\n\nL. notata van der Wulp, 1878\n\nL. notatinervis Brunetti, 1912\n\nL. onobana (Alexander, 1936)\n\nL. opaca Bezzi, 1916\n\nL. oralis Edwards, 1928\n\nL. palaeta (Alexander, 1942)\n\nL. perkinsi (Grimshaw, 1901)\n\nL. perplexa (Alexander, 1951)\n\nL. perrara (Alexander, 1931)\n\nL. philemon (Alexander, 1962)\n\nL. pilulifera (Edwards, 1933)\n\nL. plomleyi (Alexander, 1937)\n\nL. poeciloptera Osten Sacken, 1881\n\nL. praeculta (Alexander, 1959)\n\nL. pramatha (Alexander, 1965)\n\nL. puella Alexander, 1925\n\nL. punctatinervis Edwards, 1928\n\nL. punctatissima de Meijere, 1915\n\nL. punctithorax (Brunetti, 1918)\n\nL. quadrifurca (Walker, 1861)\n\nL. quadriplagiata Alexander, 1932\n\nL. quinquecostata (Alexander, 1936)\n\nL. quinquegeminata (Alexander, 1950)\n\nL. recta (Edwards, 1928)\n\nL. rectangula (Riedel, 1921)\n\nL. recurvinervis (Alexander, 1930)\n\nL. regina Alexander, 1920\n\nL. restricta Alexander, 1924\n\nL. riverai (Alexander, 1929)\n\nL. rufata (Edwards, 1931)\n\nL. rufula (Alexander, 1962)\n\nL. sabroskyi (Alexander, 1972)\n\nL. sackenina (Alexander, 1929)\n\nL. sappho (Alexander, 1943)\n\nL. scoliacantha (Alexander, 1972)\n\nL. scutellata Edwards, 1916\n\nL. semperi Osten Sacken, 1882\n\nL. sharva (Alexander, 1965)\n\nL. simplicicercus (Alexander, 1967)\n\nL. soembana (Edwards, 1932)\n\nL. stantoni Edwards, 1916\n\nL. strigivena (Walker, 1861)\n\nL. subamatrix (Alexander, 1960)\n\nL. subfasciatula (Oosterbroek, 1986)\n\nL. subocellata (Alexander, 1959)\n\nL. subopaca Alexander, 1923\n\nL. sumatrana Edwards, 1919\n\nL. suttoni (Alexander, 1935)\n\nL. tartarus (Alexander, 1965)\n\nL. termitina Osten Sacken, 1882\n\nL. terraereginae Alexander, 1922\n\nL. thwaitesiana Westwood, 1876\n\nL. thyestes (Alexander, 1950)\n\nL. tibiocincta (Alexander, 1964)\n\nL. trifasciata Edwards, 1928\n\nL. trisignata (Walker, 1865)\n\nL. tritincta (Brunetti, 1918)\n\nL. trukensis (Alexander, 1972)\n\nL. tszi (Alexander, 1949)\n\nL. undulata Matsumura, 1916\n\nL. univibrissa (Alexander, 1967)\n\nL. viridicolor (Alexander, 1962)\n\nL. vitiana (Alexander, 1956)\n\nL. willowsi (Alexander, 1936)\n\nL. xanthoneura (Alexander, 1953)\n\nL. zelota (Alexander, 1933)\n\nSubgenus Metalibnotes Alexander, 1972\n\nL. beardsleyi (Alexander, 1972)\n\nL. caledoniana (Alexander, 1978)\n\nL. delandi (Alexander, 1934)\n\nL. edgari (Alexander, 1972)\n\nL. fijiensis (Alexander, 1914)\n\nL. hebridensis Edwards, 1927\n\nL. jocularis (Alexander, 1940)\n\nL. knighti (Alexander, 1978)\n\nL. orofenaae (Alexander, 1947)\n\nL. perhyalina (Alexander, 1973)\n\nL. persetosa (Alexander, 1956)\n\nL. semiermis (Alexander, 1921)\n\nL. sentifera (Alexander, 1972)\n\nL. tongana (Alexander, 1978)\n\nL. toxopei (Edwards, 1926)\n\nL. veitchiana Edwards, 1924\n\nL. watti (Alexander, 1973)\n\nSubgenus Paralibnotes Alexander, 1972\n\nL. biprotensa (Alexander, 1972)\n\nL. immaculipennis Senior-White, 1922\n\nL. manni Alexander, 1924\n\nL. obliqua Alexander, 1922\n\nL. samoensis Alexander, 1921\n\nL. subaequalis Alexander, 1921\n\nSubgenus Paralibnotes Alexander, 1972\n\nL. bidentata (Skuse, 1890)\n\nL. bidentoides (Alexander, 1972)\n\nL. brunettii (Alexander, 1921)\n\nL. centralis (Brunetti, 1912)\n\nL. mopsa (Alexander, 1934)",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1343273528",
+      "revision_id": "1343273528",
+      "text_sha256": "7c1c27ce30f59f18b3cb72a18b46b87b08255ce748d73b659e76f14bdb2a5328",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:54:34.475673+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.44962215423584,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:10032514",
+      "title": "List of United States Navy Landing Craft Infantry",
+      "corpus": "wikipedia",
+      "text": "This is a list of Landing Craft Infantry (LCIs) built by the United States Navy.Twenty-eight LCIs would be transferred in 1945 to the Soviet Union (USSR) under Project Hula.\n\nUSS LCI(L)-1\n\nUSS LCI(L)-2\n\nUSS LCI(L)-3\n\nUSS LCI(L)-4\n\nUSS LCI(L)-5\n\nUSS LCI(L)-8\n\nUSS LCI(L)-9\n\nUSS LCI(L)-10\n\nUSS LCI(L)-11\n\nUSS LCI(L)-12\n\nUSS LCI(L)-13\n\nUSS LCI(L)-14\n\nUSS LCI(L)-15\n\nUSS LCI(L)-16\n\nUSS LCI(L)-17\n\nUSS LCI(L)-18\n\nUSS LCI(L)-19\n\nUSS LCI(L)-20\n\nUSS LCI(L)-21\n\nUSS LCI(L)-22\n\nUSS LCI(L)-23\n\nUSS LCI(L)-24\n\nUSS LCI(L)-25\n\nUSS LCI(L)-26\n\nUSS LCI(L)-27\n\nUSS LCI(L)-28\n\nUSS LCI(L)-29\n\nUSS LCI(L)-30\n\nUSS LCI(L)-31\n\nUSS LCI(L)-32\n\nUSS LCI(L)-33\n\nUSS LCI(L)-34\n\nUSS LCI(L)-35\n\nUSS LCI(L)-36\n\nUSS LCI(L)-37\n\nUSS LCI(L)-38\n\nUSS LCI(L)-39\n\nUSS LCI(L)-40\n\nUSS LCI(L)-41\n\nUSS LCI(L)-42\n\nUSS LCI(L)-43\n\nUSS LCI(L)-44\n\nUSS LCI(L)-45\n\nUSS LCI(L)-46\n\nUSS LCI(L)-47\n\nUSS LCI(L)-48\n\nLCI(L)-49 to LCI(L)-60 - cancelled 6 November 1942\n\nUSS LCI(L)-61\n\nUSS LCI(L)-62\n\nUSS LCI(L)-63\n\nUSS LCI(L)-64\n\nUSS LCI(L)-65\n\nUSS LCI(L)-66\n\nUSS LCI(L)-67\n\nUSS LCI(L)-68\n\nUSS LCI(L)-69\n\nUSS LCI(L)-70\n\nUSS LCI(L)-71\n\nUSS LCI(L)-72\n\nUSS LCI(L)-73\n\nUSS LCI(L)-74\n\nUSS LCI(L)-75\n\nUSS LCI(L)-76\n\nUSS LCI(L)-77\n\nUSS LCI(L)-78\n\nUSS LCI(L)-79\n\nUSS LCI(L)-80\n\nUSS LCI(L)-81\n\nUSS LCI(L)-82\n\nUSS LCI(L)-83\n\nUSS LCI(L)-84\n\nUSS LCI(L)-85\n\nUSS LCI(L)-86\n\nUSS LCI(L)-87\n\nUSS LCI(L)-88\n\nUSS LCI(L)-89\n\nUSS LCI(L)-90\n\nUSS LCI(L)-91\n\nUSS LCI(L)-92\n\nUSS LCI(L)-93\n\nUSS LCI(L)-94\n\nUSS LCI(L)-95\n\nUSS LCI(L)-96\n\nLCI(L)-137 to LCI(L)-160 cancelled 31 October 1942\n\nUSS LCI(L)-188\n\nUSS LCI(L)-189\n\nUSS LCI(L)-190\n\nUSS LCI(L)-191\n\nUSS LCI(L)-192\n\nUSS LCI(L)-193\n\nUSS LCI(L)-194\n\nUSS LCI(L)-195\n\nUSS LCI(L)-196\n\nLCI(L)-197 to LCI(L)-208 cancelled 5 November 1942\n\nUSS LCI(L)-209\n\nUSS LCI(L)-210\n\nUSS LCI(L)-211\n\nUSS LCI(L)-212\n\nUSS LCI(L)-213\n\nUSS LCI(L)-214\n\nUSS LCI(L)-215\n\nUSS LCI(L)-216\n\nUSS LCI(L)-217\n\nUSS LCI(L)-218\n\nUSS LCI(L)-219\n\nUSS LCI(L)-220\n\nUSS LCI(L)-221\n\nUSS LCI(L)-222\n\nUSS LCI(L)-223\n\nUSS LCI(L)-224\n\nUSS LCI(L)-225\n\nUSS LCI(L)-226\n\nUSS LCI(L)-227\n\nUSS LCI(L)-228\n\nUSS LCI(L)-229\n\nUSS LCI(L)-230\n\nUSS LCI(L)-231\n\nUSS LCI(L)-232\n\nUSS LCI(L)-233\n\nUSS LCI(L)-234\n\nUSS LCI(L)-235\n\nUSS LCI(L)-236\n\nUSS LCI(L)-237\n\nUSS LCI(L)-238\n\nUSS LCI(L)-243\n\nUSS LCI(L)-269\n\nUSS LCI(L)-274\n\nUSS LCI(L)-275\n\nUSS LCI(L)-317\n\nUSS LCI(L)-319\n\nUSS LCI(L)-320\n\nUSS LCI(L)-321\n\nUSS LCI(L)-322\n\nUSS LCI(L)-323\n\nUSS LCI(L)-324\n\nUSS LCI(L)-325\n\nUSS LCI(L)-326\n\nUSS LCI(L)-327\n\nUSS LCI(L)-328\n\nUSS LCI(L)-329\n\nUSS LCI(L)-330\n\nUSS LCI(L)-331\n\nUSS LCI(L)-332\n\nUSS LCI(L)-333\n\nUSS LCI(L)-334\n\nUSS LCI(L)-335\n\nUSS LCI(L)-336\n\nUSS LCI(L)-337\n\nUSS LCI(L)-338\n\nUSS LCI(L)-339\n\nUSS LCI(L)-340\n\nUSS LCI(L)-341\n\nUSS LCI(L)-342\n\nUSS LCI(L)-343\n\nUSS LCI(L)-344\n\nUSS LCI(L)-345\n\nUSS LCI(L)-346\n\nUSS LCI(L)-347\n\nUSS LCI(L)-348\n\nUSS LCI(L)-349\n\nUSS LCI(L)-350\n\nUSS LCI(L)-351\n\nUSS LCI(L)-352\n\nUSS LCI(L)-353\n\nUSS LCI(L)-354\n\nUSS LCI(L)-355\n\nUSS LCI(L)-356\n\nUSS LCI(L)-357\n\nUSS LCI(L)-358\n\nUSS LCI(L)-359\n\nUSS LCI(L)-360\n\nUSS LCI(L)-361\n\nUSS LCI(L)-362\n\nUSS LCI(L)-363\n\nUSS LCI(L)-364\n\nUSS LCI(L)-365\n\nUSS LCI(L)-366\n\nUSS LCI(L)-367\n\nUSS LCI(L)-368\n\nUSS LCI(L)-369\n\nUSS LCI(L)-370\n\nUSS LCI(L)-371\n\nUSS LCI(L)-372\n\nUSS LCI(L)-373\n\nUSS LCI(L)-392\n\nUSS LCI(L)-393\n\nUSS LCI(L)-394\n\nUSS LCI(L)-395\n\nUSS LCI(L)-396\n\nUSS LCI(L)-397\n\nUSS LCI(L)-398\n\nUSS LCI(L)-399\n\nUSS LCI(L)-400\n\nUSS LCI(L)-401\n\nUSS LCI(L)-402\n\nUSS LCI(L)-403\n\nUSS LCI(L)-404\n\nUSS LCI(L)-405\n\nUSS LCI(L)-406\n\nUSS LCI(L)-407\n\nUSS LCI(L)-408\n\nUSS LCI(L)-409\n\nUSS LCI(L)-410\n\nUSS LCI(L)-411\n\nUSS LCI(L)-412\n\nUSS LCI(L)-413\n\nUSS LCI(L)-414\n\nUSS LCI(L)-415\n\nUSS LCI(L)-416\n\nUSS LCI(L)-417\n\nUSS LCI(L)-418\n\nUSS LCI(L)-419\n\nUSS LCI(L)-420\n\nUSS LCI(L)-421\n\nUSS LCI(L)-422\n\nUSS LCI(L)-423\n\nUSS LCI(L)-424\n\nUSS LCI(L)-425\n\nUSS LCI(L)-426\n\nUSS LCI(L)-427\n\nUSS LCI(L)-428\n\nUSS LCI(L)-429\n\nUSS LCI(L)-430\n\nUSS LCI(L)-431\n\nUSS LCI(L)-432\n\nUSS LCI(L)-433\n\nUSS LCI(L)-434\n\nUSS LCI(L)-435\n\nUSS LCI(L)-436\n\nUSS LCI(L)-437\n\nUSS LCI(L)-438\n\nUSS LCI(L)-439\n\nUSS LCI(L)-440\n\nUSS LCI(L)-441\n\nUSS LCI(L)-442\n\nUSS LCI(L)-443\n\nUSS LCI(L)-444\n\nUSS LCI(L)-445\n\nUSS LCI(L)-446\n\nUSS LCI(L)-447\n\nUSS LCI(L)-448\n\nUSS LCI(L)-449\n\nUSS LCI(L)-450\n\nUSS LCI(L)-451\n\nUSS LCI(L)-452\n\nUSS LCI(L)-453\n\nUSS LCI(L)-454\n\nUSS LCI(L)-455\n\nUSS LCI(L)-456\n\nUSS LCI(L)-457\n\nUSS LCI(L)-458\n\nUSS LCI(L)-459\n\nUSS LCI(L)-460\n\nUSS LCI(L)-461\n\nUSS LCI(L)-462\n\nUSS LCI(L)-463\n\nUSS LCI(L)-464\n\nUSS LCI(L)-465\n\nUSS LCI(L)-466\n\nUSS LCI(L)-467\n\nUSS LCI(L)-468\n\nUSS LCI(L)-469\n\nUSS LCI(L)-470\n\nUSS LCI(L)-471\n\nUSS LCI(L)-472\n\nUSS LCI(L)-473\n\nUSS LCI(L)-474\n\nUSS LCI(L)-475\n\nUSS LCI(L)-476\n\nUSS LCI(L)-477\n\nUSS LCI(L)-478\n\nUSS LCI(L)-479\n\nUSS LCI(L)-480\n\nUSS LCI(L)-481\n\nUSS LCI(L)-482\n\nUSS LCI(L)-483\n\nUSS LCI(L)-484\n\nUSS LCI(L)-485\n\nUSS LCI(L)-486\n\nUSS LCI(L)-487\n\nUSS LCI(L)-488\n\nUSS LCI(L)-489\n\nUSS LCI(L)-490\n\nUSS LCI(L)-491\n\nUSS LCI(L)-492\n\nUSS LCI(L)-493\n\nUSS LCI(L)-494\n\nUSS LCI(L)-495\n\nUSS LCI(L)-496\n\nUSS LCI(L)-497\n\nUSS LCI(L)-498\n\nUSS LCI(L)-499\n\nUSS LCI(L)-500\n\nUSS LCI(L)-501\n\nUSS LCI(L)-502\n\nUSS LCI(L)-503\n\nUSS LCI(L)-504\n\nUSS LCI(L)-505\n\nUSS LCI(L)-506\n\nUSS LCI(L)-507\n\nUSS LCI(L)-508\n\nUSS LCI(L)-509\n\nUSS LCI(L)-510\n\nUSS LCI(L)-511\n\nUSS LCI(L)-512\n\nUSS LCI(L)-513\n\nUSS LCI(L)-514\n\nUSS LCI(L)-515\n\nUSS LCI(L)-516\n\nUSS LCI(L)-517\n\nUSS LCI(L)-518\n\nUSS LCI(L)-519\n\nUSS LCI(L)-520\n\nUSS LCI(L)-521, to USSR 29 July 1945\n\nUSS LCI(L)-522, to USSR 29 July 1945\n\nUSS LCI(L)-523, to USSR 29 July 1945\n\nUSS LCI(L)-524, to USSR 29 July 1945\n\nUSS LCI(L)-525, to USSR 29 July 1945\n\nUSS LCI(L)-526, to USSR 29 July 1945\n\nUSS LCI(L)-527, to USSR 29 July 1945\n\nUSS LCI(L)-528\n\nUSS LCI(L)-529\n\nUSS LCI(L)-530\n\nUSS LCI(L)-531\n\nUSS LCI(L)-532\n\nUSS LCI(L)-533\n\nUSS LCI(L)-534\n\nUSS LCI(L)-535\n\nUSS LCI(L)-536\n\nUSS LCI(L)-537\n\nUSS LCI(L)-538\n\nUSS LCI(L)-539\n\nUSS LCI(L)-540\n\nUSS LCI(L)-541\n\nUSS LCI(L)-542\n\nUSS LCI(L)-543\n\nUSS LCI(L)-544\n\nUSS LCI(L)-545\n\nUSS LCI(L)-546\n\nUSS LCI(L)-547\n\nUSS LCI(L)-548\n\nUSS LCI(L)-549, Operation Crossroads nuclear test participant\n\nUSS LCI(L)-550\n\nUSS LCI(L)-551, to USSR 29 July 1945\n\nUSS LCI(L)-552\n\nUSS LCI(L)-553\n\nUSS LCI(L)-554, to USSR 29 July 1945\n\nUSS LCI(L)-555\n\nUSS LCI(L)-556\n\nUSS LCI(L)-557, to USSR 29 July 1945\n\nUSS LCI(L)-558\n\nUSS LCI(L)-559\n\nUSS LCI(L)-560\n\nUSS LCI(L)-561\n\nUSS LCI(L)-562\n\nUSS LCI(L)-563\n\nUSS LCI(L)-564\n\nUSS LCI(L)-565\n\nUSS LCI(L)-566\n\nUSS LCI(L)-567\n\nUSS LCI(L)-568\n\nUSS LCI(L)-569\n\nUSS LCI(L)-570\n\nUSS LCI(L)-571\n\nUSS LCI(L)-572\n\nUSS LCI(L)-573\n\nUSS LCI(L)-574\n\nUSS LCI(L)-575\n\nUSS LCI(L)-576\n\nUSS LCI(L)-577\n\nUSS LCI(L)-578\n\nUSS LCI(L)-579\n\nUSS LCI(L)-580\n\nUSS LCI(L)-581\n\nUSS LCI(L)-582\n\nUSS LCI(L)-583\n\nUSS LCI(L)-584, to USSR 10 June 1945\n\nUSS LCI(L)-585, to USSR 10 June 1945\n\nUSS LCI(L)-586, to USSR 14 June 1945\n\nUSS LCI(L)-587, to USSR 14 June 1945\n\nUSS LCI(L)-588\n\nUSS LCI(L)-589\n\nUSS LCI(L)-590, to USSR 10 June 1945\n\nUSS LCI(L)-591, to USSR 10 June 1945\n\nUSS LCI(L)-592, to USSR 10 June 1945\n\nUSS LCI(L)-593\n\nUSS LCI(L)-594\n\nUSS LCI(L)-595\n\nUSS LCI(L)-596\n\nUSS LCI(L)-597\n\nUSS LCI(L)-598\n\nUSS LCI(L)-599\n\nUSS LCI(L)-600\n\nUSS LCI(L)-601\n\nUSS LCI(L)-602\n\nUSS LCI(L)-603\n\nUSS LCI(L)-604\n\nUSS LCI(L)-605\n\nUSS LCI(L)-606\n\nUSS LCI(L)-607\n\nUSS LCI(L)-608\n\nUSS LCI(L)-609\n\nUSS LCI(L)-610\n\nUSS LCI(L)-611\n\nUSS LCI(L)-612\n\nUSS LCI(L)-613\n\nUSS LCI(L)-614\n\nUSS LCI(L)-615\n\nUSS LCI(L)-616\n\nUSS LCI(L)-617\n\nUSS LCI(L)-618\n\nUSS LCI(L)-619\n\nUSS LCI(L)-620\n\nUSS LCI(L)-621\n\nUSS LCI(L)-622\n\nUSS LCI(L)-623\n\nUSS LCI(L)-624\n\nUSS LCI(L)-625\n\nUSS LCI(L)-626\n\nUSS LCI(L)-627\n\nUSS LCI(L)-628\n\nUSS LCI(L)-629\n\nUSS LCI(L)-630\n\nUSS LCI(L)-631\n\nUSS LCI(L)-632\n\nUSS LCI(L)-633\n\nUSS LCI(L)-634\n\nUSS LCI(L)-635\n\nUSS LCI(L)-636\n\nUSS LCI(L)-637\n\nUSS LCI(L)-638\n\nUSS LCI(L)-639\n\nUSS LCI(L)-640\n\nUSS LCI(L)-641\n\nUSS LCI(L)-642\n\nUSS LCI(L)-643\n\nUSS LCI(L)-644\n\nUSS LCI(L)-645\n\nUSS LCI(L)-646\n\nUSS LCI(L)-647\n\nUSS LCI(L)-648\n\nUSS LCI(L)-649\n\nUSS LCI(L)-650\n\nUSS LCI(L)-651\n\nUSS LCI(L)-652\n\nUSS LCI(L)-653\n\nUSS LCI(L)-654\n\nUSS LCI(L)-655\n\nUSS LCI(L)-656\n\nUSS LCI(L)-657\n\nUSS LCI(L)-658\n\nUSS LCI(L)-659\n\nUSS LCI(L)-660\n\nUSS LCI(L)-661\n\nUSS LCI(L)-662\n\nUSS LCI(L)-663\n\nUSS LCI(L)-664\n\nUSS LCI(L)-665, to USSR 10 June 1945\n\nUSS LCI(L)-666, to USSR 29 July 1945\n\nUSS LCI(L)-667, to USSR 10 June 1945\n\nUSS LCI(L)-668, to USSR 10 June 1945\n\nUSS LCI(L)-669\n\nUSS LCI(L)-670\n\nUSS LCI(L)-671, to USSR 29 July 1945\n\nUSS LCI(L)-672, to USSR 29 July 1945\n\nUSS LCI(L)-673\n\nUSS LCI(L)-674\n\nUSS LCI(L)-675, to USSR 10 June 1945\n\nUSS LCI(L)-676\n\nUSS LCI(L)-677\n\nUSS LCI(L)-678\n\nUSS LCI(L)-679\n\nUSS LCI(L)-680\n\nUSS LCI(L)-681\n\nUSS LCI(L)-682\n\nUSS LCI(L)-683\n\nUSS LCI(L)-684\n\nUSS LCI(L)-685\n\nUSS LCI(L)-686\n\nUSS LCI(L)-687\n\nUSS LCI(L)-688\n\nUSS LCI(L)-689\n\nUSS LCI(L)-690\n\nUSS LCI(L)-691\n\nUSS LCI(L)-692\n\nUSS LCI(L)-693\n\nUSS LCI(L)-694\n\nUSS LCI(L)-695\n\nUSS LCI(L)-696\n\nUSS LCI(L)-697\n\nUSS LCI(L)-698\n\nUSS LCI(L)-699\n\nUSS LCI(L)-700\n\nUSS LCI(L)-701\n\nUSS LCI(L)-702\n\nUSS LCI(L)-703\n\nUSS LCI(L)-704\n\nUSS LCI(L)-705\n\nUSS LCI(L)-706\n\nUSS LCI(L)-707\n\nUSS LCI(L)-708\n\nUSS LCI(L)-709\n\nUSS LCI(L)-710\n\nUSS LCI(L)-711\n\nUSS LCI(L)-712\n\nUSS LCI(L)-713\n\nUSS LCI(L)-714\n\nUSS LCI(L)-715\n\nUSS LCI(L)-716\n\nLCI(L)-717 to LCI(L)-724 cancelled 19 August 1944\n\nUSS LCI(L)-725\n\nUSS LCI(L)-726\n\nUSS LCI(L)-727\n\nUSS LCI(L)-728\n\nUSS LCI(L)-729\n\nUSS LCI(L)-730\n\nUSS LCI(L)-731\n\nUSS LCI(L)-732\n\nUSS LCI(L)-733\n\nUSS LCI(L)-734\n\nUSS LCI(L)-735\n\nUSS LCI(L)-736\n\nUSS LCI(L)-737\n\nUSS LCI(L)-738\n\nUSS LCI(L)-739\n\nUSS LCI(L)-740\n\nUSS LCI(L)-741\n\nUSS LCI(L)-742\n\nUSS LCI(L)-743\n\nUSS LCI(L)-744\n\nUSS LCI(L)-745\n\nUSS LCI(L)-746\n\nUSS LCI(L)-747\n\nUSS LCI(L)-748\n\nUSS LCI(L)-749\n\nUSS LCI(L)-750\n\nUSS LCI(L)-751\n\nUSS LCI(L)-752\n\nUSS LCI(L)-753\n\nUSS LCI(L)-754\n\nUSS LCI(L)-755\n\nUSS LCI(L)-756\n\nUSS LCI(L)-757\n\nUSS LCI(L)-758\n\nUSS LCI(L)-759\n\nUSS LCI(L)-760\n\nUSS LCI(L)-761\n\nUSS LCI(L)-762\n\nUSS LCI(L)-763\n\nUSS LCI(L)-764\n\nUSS LCI(L)-765\n\nUSS LCI(L)-766\n\nUSS LCI(L)-767\n\nUSS LCI(L)-768\n\nUSS LCI(L)-769\n\nUSS LCI(L)-770\n\nUSS LCI(L)-771\n\nUSS LCI(L)-772\n\nUSS LCI(L)-773\n\nUSS LCI(L)-774\n\nUSS LCI(L)-775\n\nUSS LCI(L)-776\n\nUSS LCI(L)-777\n\nUSS LCI(L)-778\n\nUSS LCI(L)-779\n\nUSS LCI(L)-780\n\nLCI(L)-781 cancelled 23 June 1944\n\nUSS LCI(L)-782\n\nUSS LCI(L)-783\n\nUSS LCI(L)-784\n\nUSS LCI(L)-785\n\nUSS LCI(L)-786\n\nUSS LCI(L)-787\n\nUSS LCI(L)-788\n\nUSS LCI(L)-789\n\nUSS LCI(L)-790\n\nUSS LCI(L)-791\n\nUSS LCI(L)-792\n\nUSS LCI(L)-793\n\nUSS LCI(L)-794\n\nUSS LCI(L)-795\n\nUSS LCI(L)-796\n\nUSS LCI(L)-797\n\nUSS LCI(L)-798\n\nUSS LCI(L)-799\n\nUSS LCI(L)-800\n\nUSS LCI(L)-801\n\nUSS LCI(L)-802\n\nUSS LCI(L)-803\n\nUSS LCI(L)-804\n\nUSS LCI(L)-805\n\nUSS LCI(L)-806\n\nUSS LCI(L)-807\n\nUSS LCI(L)-808\n\nUSS LCI(L)-809\n\nUSS LCI(L)-810\n\nUSS LCI(L)-811\n\nUSS LCI(L)-812\n\nUSS LCI(L)-813\n\nUSS LCI(L)-814\n\nUSS LCI(L)-815\n\nUSS LCI(L)-816\n\nUSS LCI(L)-817\n\nUSS LCI(L)-818\n\nUSS LCI(L)-819\n\nUSS LCI(L)-820\n\nUSS LCI(L)-821\n\nLCI(L)-822 to LCI(L)-837 cancelled 19 August 1944\n\nLCI(L)-838 to LCI(L)-844 cancelled 5 June 1944\n\nLCI(L)-845 to LCI(L)-859 cancelled 23 June 1944\n\nLCI(L)-860 to LCI(L)-865 cancelled 5 June 1944\n\nUSS LCI(L)-866\n\nUSS LCI(L)-867\n\nUSS LCI(L)-868\n\nUSS LCI(L)-869\n\nUSS LCI(L)-870\n\nUSS LCI(L)-871\n\nUSS LCI(L)-872\n\nUSS LCI(L)-873\n\nUSS LCI(L)-874\n\nUSS LCI(L)-875\n\nUSS LCI(L)-876\n\nUSS LCI(L)-877\n\nUSS LCI(L)-878\n\nUSS LCI(L)-879\n\nUSS LCI(L)-880\n\nUSS LCI(L)-881\n\nUSS LCI(L)-882\n\nUSS LCI(L)-883\n\nUSS LCI(L)-884\n\nLCI(L)-885 to LCI(L)-901 cancelled 19 August 1944\n\nLCI(L)-902 to LCI(L)-928 cancelled 5 June 1944\n\nLCI(L)-929 to LCI(L)-942 cancelled 23 June 1944\n\nUSS LCI(L)-943, to USSR 10 June 1945\n\nUSS LCI(L)-944\n\nUSS LCI(L)-945, to USSR 29 July 1945\n\nUSS LCI(L)-946, to USSR 29 July 1945\n\nUSS LCI(L)-947\n\nUSS LCI(L)-948\n\nUSS LCI(L)-949, to USSR 10 June 1945\n\nUSS LCI(L)-950, to USSR 10 June 1945\n\nUSS LCI(L)-951\n\nUSS LCI(L)-952\n\nUSS LCI(L)-953\n\nUSS LCI(L)-954\n\nUSS LCI(L)-955\n\nUSS LCI(L)-956\n\nUSS LCI(L)-957\n\nUSS LCI(L)-958\n\nUSS LCI(L)-959\n\nUSS LCI(L)-960\n\nUSS LCI(L)-961\n\nUSS LCI(L)-962\n\nUSS LCI(L)-963\n\nUSS LCI(L)-964\n\nUSS LCI(L)-965\n\nUSS LCI(L)-966\n\nUSS LCI(L)-967\n\nUSS LCI(L)-968\n\nUSS LCI(L)-969\n\nUSS LCI(L)-970\n\nUSS LCI(L)-971\n\nUSS LCI(L)-972\n\nUSS LCI(L)-973\n\nUSS LCI(L)-974\n\nUSS LCI(L)-975\n\nUSS LCI(L)-976\n\nUSS LCI(L)-977, Operation Crossroads participant\n\nUSS LCI(L)-978\n\nUSS LCI(L)-979\n\nUSS LCI(L)-980\n\nUSS LCI(L)-981\n\nUSS LCI(L)-982\n\nUSS LCI(L)-983\n\nUSS LCI(L)-984\n\nUSS LCI(L)-985\n\nUSS LCI(L)-986\n\nUSS LCI(L)-987\n\nUSS LCI(L)-988\n\nUSS LCI(L)-989\n\nUSS LCI(L)-990\n\nUSS LCI(L)-991\n\nUSS LCI(L)-992\n\nUSS LCI(L)-993\n\nUSS LCI(L)-994\n\nUSS LCI(L)-995\n\nUSS LCI(L)-996\n\nUSS LCI(L)-997\n\nUSS LCI(L)-998\n\nUSS LCI(L)-999\n\nUSS LCI(L)-1000\n\nUSS LCI(L)-1001\n\nUSS LCI(L)-1002\n\nUSS LCI(L)-1003\n\nUSS LCI(L)-1004\n\nUSS LCI(L)-1005\n\nUSS LCI(L)-1006\n\nUSS LCI(L)-1007\n\nUSS LCI(L)-1008\n\nUSS LCI(L)-1009\n\nUSS LCI(L)-1010\n\nUSS LCI(L)-1011\n\nUSS LCI(L)-1012\n\nUSS LCI(L)-1013\n\nUSS LCI(L)-1014\n\nUSS LCI(L)-1015\n\nUSS LCI(L)-1016\n\nUSS LCI(L)-1017\n\nUSS LCI(L)-1018\n\nUSS LCI(L)-1019\n\nUSS LCI(L)-1020\n\nUSS LCI(L)-1021\n\nUSS LCI(L)-1022\n\nUSS LCI(L)-1023\n\nUSS LCI(L)-1024\n\nUSS LCI(L)-1025\n\nUSS LCI(L)-1026\n\nUSS LCI(L)-1027\n\nUSS LCI(L)-1028\n\nUSS LCI(L)-1029\n\nUSS LCI(L)-1030\n\nUSS LCI(L)-1031\n\nUSS LCI(L)-1032\n\nUSS LCI(L)-1033\n\nLCI(L)-1034 to LCI(L)-1051 cancelled 19 June 1944\n\nUSS LCI(L)-1052\n\nUSS LCI(L)-1053\n\nUSS LCI(L)-1054\n\nUSS LCI(L)-1055\n\nUSS LCI(L)-1056\n\nUSS LCI(L)-1057\n\nUSS LCI(L)-1058\n\nUSS LCI(L)-1059\n\nUSS LCI(L)-1060\n\nUSS LCI(L)-1061\n\nUSS LCI(L)-1062, Operation Crossroads participant\n\nUSS LCI(L)-1063\n\nUSS LCI(L)-1064\n\nUSS LCI(L)-1065\n\nUSS LCI(L)-1066\n\nUSS LCI(L)-1067\n\nUSS LCI(L)-1068\n\nUSS LCI(L)-1069\n\nUSS LCI(L)-1070\n\nUSS LCI(L)-1071\n\nUSS LCI(L)-1072\n\nUSS LCI(L)-1073\n\nUSS LCI(L)-1074\n\nUSS LCI(L)-1075\n\nUSS LCI(L)-1076\n\nUSS LCI(L)-1077\n\nUSS LCI(L)-1078\n\nUSS LCI(L)-1079\n\nUSS LCI(L)-1080\n\nUSS LCI(L)-1081\n\nUSS LCI(L)-1082\n\nUSS LCI(L)-1083\n\nUSS LCI(L)-1084\n\nUSS LCI(L)-1085\n\nUSS LCI(L)-1086\n\nUSS LCI(L)-1087\n\nUSS LCI(L)-1088\n\nUSS LCI(L)-1089\n\nUSS LCI(L)-1090\n\nUSS LCI(L)-1091\n\nUSS LCI(L)-1092\n\nUSS LCI(L)-1093\n\nUSS LCI(L)-1094\n\nUSS LCI(L)-1095\n\nUSS LCI(L)-1096\n\nUSS LCI(L)-1097\n\nUSS LCI(L)-1098\n\nLCI(L)-1099 to LCI-(L)-1139 cancelled 19 August 1944",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1335776378",
+      "revision_id": "1335776378",
+      "text_sha256": "b7408a9b0e5bdd60e2b8bd8fea1523232e7162a9cf3fccbb151cf128174ffb70",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:54:33.848050+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.508918285369873,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:27156020",
+      "title": "Lingulella",
+      "corpus": "wikipedia",
+      "text": "Lingulella is a genus of phosphatic-shelled brachiopod. It is known from the Middle Cambrian Burgess Shale (Canada) to the Upper Ordovician Bromide Formation (United States) in North America. 346 specimens of Lingulella are known from the Greater Phyllopod bed, where they comprise 0.66% of the community.\n\nSome specimens of the brachiopod preserve the pedicle intact, which was long and thin. The brachiopod is thought to have been a generalist, as it appears consistently throughout the strata of the Greater Phyllopod bed.\n\nThe following species have been identified:\n\nL. agaue Mergl & Kordule, 2008\n\nL. alabamensis\n\nL. alata Holmer, 1989\n\nL. alia\n\nL. allani Walcott, 1912\n\nL. amabilis Reed, 1917\n\nL. angustata\n\nL. angustior Reed, 1917\n\nL. antiquissima Jeremejew, 1856\n\nL. arachne Barrande, 1879\n\nL. arctica Walcott, 1924\n\nL. arguta\n\nL. augusta\n\nL. afga\n\nL. bella\n\nL. bellisculpta Clark, 1935\n\nL. bohemica Koliha, 1921\n\nL. borealis\n\nL. brainerdi\n\nL. brevis Portlock, 1843\n\nL. bridgei\n\nL. bukovensis Koliha, 1924\n\nL. burnetensis\n\nL. buttsi\n\nL. bynguanoensis Roberts in Roberts & Jell, 1990\n\nL. caelata\n\nL. carrickensis Reed, 1917\n\nL. chapa\n\nL. chengjiangensis Jin, Hou & Wang, 1993\n\nL. chinchiaensis Kobayashi, 1933\n\nL. chinensis\n\nL. chuarensis\n\nL. circa Xu & Liu, 1984\n\nL. clarkei\n\nL. clivosa Pelman, 1983\n\nL. clochensis ?\n\nL. columba\n\nL. concinna\n\nL. corralensis Rusconi, 1950 ?\n\nL. damesi\n\nL. davisii (McCoy, 1851)\n\nL. decorticata\n\nL. delgadoi\n\nL. derwentii Postlethwaite, 1897\n\nL. desiderata\n\nL. dimorpha\n\nL. displosa Williams 1974\n\nL. dotensis Kobayashi, 1934\n\nL. dusaaulti Patte, 1929\n\nL. dzhavodiensis Sobolev, 1975\n\nL. elata Pelman, 1986\n\nL. ellsi\n\nL. endopunctata\n\nL. eucharis Resser, 1939\n\nL. euglypha\n\nL. exilis\n\nL. exortiva\n\nL. expulsa Barrande, 1879\n\nL. fenxiangensis Wang, 1978\n\nL. ferox\n\nL. ferruginea Salter in Salter & Hicks, 1867\n\nL. fostermontensis\n\nL. franklinensis\n\nL. galba\n\nL. genei\n\nL. glypta\n\nL. grandis\n\nL. granvillensis\n\nL. haimantensis\n\nL. halei\n\nL. hatai\n\nL. havliceki Mergl & Slehoferova, 1990\n\nL. hayaeri\n\nL. hayesi\n\nL. hesperia Williams & Curry, 1985\n\nL. hilli\n\nL. hinganensis Su, 1980\n\nL. hitka\n\nL. howardi Postlethwaite, 1897\n\nL. hsiensis\n\nL. humaensis Su, 1980\n\nL. huronensis\n\nL. ibicus\n\nL. idahoensis Resser, 1938\n\nL. iddingsi\n\nL. ino\n\nL. insons Barr.\n\nL. intermedia Liu, Zhu & Xue, 1985\n\nL. irene\n\nL. iris\n\nL. jakutensis\n\nL. jerseyensis\n\nL. kalpinensis Zhang, 1981\n\nL. kanabensis Resser, 1945\n\nL. kanlingensis Zhang, 1981\n\nL. kayseri Sun, 1923\n\nL. kiddoi\n\nL. kingstonensis\n\nL. kitatiensis Aksarina, 1978\n\nL. lasherensis Rusconi, 1951\n\nL. lata Koliha, 1924\n\nL. lepis Salter, 1866\n\nL. libecovensis Koliha, 1918\n\nL. lineolata\n\nL. linguata Pelman, 1977\n\nL. lirata\n\nL. lithuanica Korkutis, 1971\n\nL. liui\n\nL. lochmanae\n\nL. longa\n\nL. longula\n\nL. major Teixeira, Ribeiro & Silva, 1964\n\nL. manchuriensis\n\nL. mania\n\nL. manticula\n\nL. marcia Walcott, 1911\n\nL. martillensis Rusconi, 1952\n\nL. matthewi Koliha, 1921\n\nL. mcconnelli Walcott, 1889\n\nL. mechos/nechos\n\nL. mehaeigueni Legrand, 1974\n\nL. miltoni\n\nL. minus\n\nL. minuscula Sobolev, 1975\n\nL. modesta Lochman, 1940\n\nL. montana Fenton & Fenton, 1936\n\nL. monticola\n\nL. moosensis<\n\nL. morsei\n\nL. mosia\n\nL. murcia var. templetonensis Chapman, 1929\n\nL. narrawayi\n\nL. nepos\n\nL. nerva\n\nL. nicholsoni Callaway, 1877\n\nL. nina\n\nL. nicholsoni Callaway, 1877\n\nL. paliformis\n\nL. parvula\n\nL. pela densis Rusconi, 1951\n\nL. pennsylvanica\n\nL. perattenuata\n\nL. petalon Davidson, 1868\n\nL. pingchouensis\n\nL. pingchouensis\n\nL. proveedorensis Cooper, 1952/1954\n\nL. putilla\n\nL. quadrilateralis\n\nL. quaestor Reed, 1917\n\nL. raymondi Clark, 1924\n\nL. remius/remus\n\nL. reticulata\n\nL. rideauensis\n\nL. rotunda Pelman, 1977\n\nL. rugosilinea\n\nL. sanfangensis\n\nL. sculptilis\n\nL. sequens\n\nL. shansiensis\n\nL. siliqua\n\nL. silurica Yadrenkina, 1986\n\nL. solitariensis Rusconi, 1950\n\nL. spicata\n\nL. spitiensis\n\nL. stonei\n\nL. ubdivisa Rusconi, 1950\n\nL. subfusula Su, 1980\n\nL. subparallela\n\nL. sufi Mergl & Slehoferova, 1990\n\nL. sulcata Barrande, 1879\n\nL. taijiangensis Huang, Wang, Zhao & Dai, 1994\n\nL. takayamai\n\nL. tangshihensias\n\nL. tarpa\n\nL. tenuitesta\n\nL. terranovica Howell, 1943\n\nL. texana\n\nL. texana\n\nL. thems mckeei Resser, 1945\n\nL. tomkolensis Kobayashi, 1934\n\nL. tsuchidai\n\nL. turneri\n\nL. variabilis Pelman, 1977\n\nL. variolata\n\nL. vermontensis\n\nL. virginiensis\n\nL. viridis Cobbold, 1921\n\nL. wanniecki\n\nL. waptaensis\n\nL. welleri\n\nL. wirthi\n\nL. wongi\n\nL. yabei\n\nL. yingtzuensie Kobayashi, 1931\n\nL. yongchengensis Zeng, 1977\n\nL. yuechiensis Xu, 1978\n\nL. zejszneri Bednarczyk, 1960\n\nL. zetus\n\nL. zeus\n\nL. zulupeana Rusconi, 1954\n\nL. acuminata Walcott, 1908 (current name Lingulepis acuminata Conrad)\n\nL. acuta Pelman, 1977\n\nL. acutangula (current name Lingulepis acutangulus Roemer, 1849)\n\nL. africana Legrand, 1974\n\nFossils of Lingulella have been found in:\n\nCambrian\n\nAustralia, Canada (British Columbia, New Brunswick), China, the Czech Republic, Denmark, Greenland, India, Italy, Kazakhstan, Mexico, New Zealand, Norway, Pakistan, Poland, the Russian Federation, Sweden, the United Kingdom, and the United States (Arizona, California, Idaho, Montana, New York, Pennsylvania, South Dakota, Utah, Wisconsin, Wyoming).\n\nOrdovician\n\nArgentina, Australia, Canada (Newfoundland and Labrador, Quebec), China, Colombia (Serranía de la Macarena, Meta), the Czech Republic, France, Ireland, Mexico, Peru, Poland, the Russian Federation, Spain, Sweden, the United Kingdom, and the United States (Alabama, Kentucky, Montana, Nevada, New York, North Dakota, Oklahoma, Tennessee, Utah, Vermont, Virginia).\n\nDevonian\n\nVietnam.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1326405321",
+      "revision_id": "1326405321",
+      "text_sha256": "827efa5ab952612919df940d7195ad7be997a9ade4458206f31ae9e3ea974df5",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:54:33.239899+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -7.5884294509887695,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2001",
+    "title": "Britannica page 2001",
+    "corpus": "britannica",
+    "text": "<x_0.1973><y_0.0453>S I L [ 355 ]<x_0.7373><y_0.0688><class_Page-header>\n\n<x_0.0596><y_0.0695>bers of black cattle and herbs are brought bitter from Poland and Hungary for fale, thofe bred in the country not being sufficient; but of theory, goats, arms, and vention, they have great plenty. As in wild deaths, here are lyxes, foxes, weafels, otters, and beravers. The river, lakes, and ponds, yield dish of several flots, part celuity ifgureo fevers all its length, and almond. Besides a number of smaller fireams to water this country, there is the Oder, which travels is almost from one end to the other; and the Yitha, which after a sweetly long coffe through it enters Poland. The number of the cities and market towns is fall to be about 202, that county of Ghats included, and the of the villages 2020. The inhabitants whoare computed to be about 1,821,665 are a mixture of German, Poles, and Moravians. The language generally fascism is Germany, but in Rome goes the volgar tongue is a dialect of the Schavonic. The flatts could of the prices are dukes, and then called _plus-shot_ with the mobility, who are immediately flat yet to the foreignet, and the reportivatives of the chief critics, but these the country fell under the domination on the king of Praffin, no does have been held. The king, however, when he took poffition of the country, contained all the other privileges of the inhabitants. With respect to religious, not only Parachants, but Pa- pits, Jews, and Greeks, enjoy full liberty of confidence. The general part of Sfislio lies in the direction of Belawy, but from part of it in the Polish number of Poen and Crewow. The bilthop of Brelaw funds immediately under the pops with regard to fighting, but at ecfetifical benehse, not accepting the fee of Breslaw, is in the king’s gift. Beddes Latin Schools, colleges, and denimarsa, at Bedford is an university, and at Liguria as readers by our martial exercise. The principal manufactures here are woollen, linens, and cotone of feverf lists, with habe, girls wereang, gourponder, and ilov manufacture. Of these here is a considerable exportation. Accounts are generally kept in six dollars, five großcies, and dead. With effect to its own littions and protect government, it has easy part of the kingdom of Poland; afterwards it had several dukes and petty prices for its foregoing vably obey degrees became falsely to the Kings of Bohemia, until its left King Charles IV, incorporated the whole duchy with Bolsonia, and thus it continued in the payoffline of the house of Austria, until bloody of Praffin in 742, taking advantage of the troubles that refined upon the death of the emperor Charlie VI, and precluding a kind of chains, worked is great part of it, together with the country of Glatz, from his daughter and heirrels Maria Thereda, the late emped, doways; it do now only a final part of it is poefficby the hour of Aufträ, and con-nected with the empire, the refit being governed by the king of Praffin, without acknowledging any fact of dependence on the crown of Bohemian or the entire. For the administration of justice, all civil, criminal, and fecal cies, and each as relate to the revue, the king of Praffin has ethibilhed three lipeme juiciatories, to which an appeal lies from all the infine case, and few which, when the fam exceeds 200 ricdollars, outles may moved to Berlin. The Lutheran churches and schools are under the inferiorities of the upper confliters, and chloef of the Pa- pills under that of the kidney's court to Breldw; but from both an appeal lies to the tribunal at Berlin.<x_0.4512><y_0.9258><class_Text>\n\n<x_0.4668><y_0.0672>As to the revenue, the excife here in levied only in the walled towns, being on the fame footing as in the mmunific of Brandenburg; but in the rest of the coun-try the contributions are fixed, and the time both in peace and var. The several branches of the revenues are under the management of the war and domain offices of Berlher and Clugas. The whole revenue arling to the king of Praffia from Sfislio and the country of Glatz amounts to about four millions of rix-dollars per season.<x_0.8633><y_0.2023><class_Text>\n\n<x_0.4678><y_0.2031>Sliela is divided into Upper and Lower, and each of their again into principalities and localities; of some of which both the property and justifiable belong, purity diately to the foreigners, but of others to his subjects and walks. In regard to the character of the employ the bears are accurate very dull and lupid; but of thofo of a higher rank, many have dilinguished themselves by their virtual learning, as well as by their military and political talents.<x_0.8623><y_0.3187><class_Text>\n\n<x_0.4658><y_0.3203>SILLESIAN EARTH, in the _Materia Medice_, a fine affungent bole. It is very heavy, of a firm compel tantras, and in colors of the brownie yellow. It breaks early between the fingers, and does not flash the hands; is naturally a smooth before, is readily available in water, and multis freely into a butterflies, lightable in the mouth. It leaves no grittiness between the teeth, and does not ferment with acids. It is found in the perpendicular letters of rocks across the gold mines in Hungary.<x_0.8613><y_0.45><class_Text>\n\n<x_0.4688><y_0.4508>SILICERNIUM, among the Romanus was a fault of a private nature, provided for the Great line time after the funeral. It confited of beans, lettues, bread, eggs, &co. Their eyes laid upon the tomb, and they possibly believed that the died would come out of the repair. What was left was generally burnt on the floor. The word _Alternate_ as derived from _Place and_ crear, i. e. of figure upon a fleece . Eating what had thus been provided for the dead, was effecemed amark of the small minerible powder. A similar entertainment was made by the Greek sit in the tender of the seaside; but it was ufalal among them to treat the globils with the fragments from the feat of the living. See FUNFAL AND INTERLE.<x_0.8604><y_0.6336><class_Text>\n\n<x_0.498><y_0.6344>SILEX. See FlANT.<x_0.6504><y_0.6469><class_Text>\n\n<x_0.4697><y_0.6477>SILICEOUS EARTHIS. See SILICA, CHEMITRY _Index._<x_0.8564><y_0.6727><class_Text>\n\n<x_0.4707><y_0.6734>SILLIUS TALIOLOS, CAUS, an ancient Roman poet, and author of an epic poem in 17 books, which con-tains an hilloy of the second Ponte was, to famous for having decided the empire of the world in favour of the Romanes. He was born in the reign of Thierius, and is fogoped to have derived the name of _Italica_ from the place of his birth; but whether he was born at Italica in Spain, or at Cerdinam in Italy, which, according to Scheba, had the name of _Italica_ given it during the Social war, is a point which cannot be known: though, it is his first had happened at either of those places, the grammarina would tell us, that he found have been called _Italicaeta_, and wol _Italica_. When he came to Rome, he applied himself to the bay; and, by a choi institution of Greece, succeeded fo well, like he became a celebrated advocate and molt accomplished senior. His sacred, and charader recommended him to the high- ethnics in the republic, even to the confidity, of which he was poffied when Nono died. He is field to<x_0.8545><y_0.9234><class_Text>\n\n<x_0.6426><y_0.9195>Yγ2<x_0.6963><y_0.932><class_Picture>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "4077eea4176c84367ec7d0e6a46bcc0112e023636a15ac13b8504e03cc96af91",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:57:32.525685+00:00",
+    "parser_receipt_sha256": "3d831fe901ea9f1e798cb235148641f025730d94194a7296726f9e280b932101",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 97,
+      "occurred_at": "2026-10-18T17:54:27.788837+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 559,
+      "occurred_at": "2026-10-18T17:54:28.347909+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 575,
+      "occurred_at": "2026-10-18T17:54:28.943054+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 556,
+      "occurred_at": "2026-10-18T17:54:29.524208+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 551,
+      "occurred_at": "2026-10-18T17:54:30.093032+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2512,
+      "occurred_at": "2026-10-18T17:54:32.627366+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 594,
+      "occurred_at": "2026-10-18T17:54:33.239924+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 590,
+      "occurred_at": "2026-10-18T17:54:33.848075+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 610,
+      "occurred_at": "2026-10-18T17:54:34.475716+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 56,
+      "occurred_at": "2026-10-18T17:54:34.554955+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 802,
+      "occurred_at": "2026-10-18T17:54:35.357093+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 164,
+      "occurred_at": "2026-10-18T17:54:35.528560+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 6,
+      "occurred_at": "2026-10-18T17:54:35.534132+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 296,
+      "occurred_at": "2026-10-18T17:54:35.829828+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1183,
+    "modern_words": 880,
+    "vocabulary_jaccard": 0.01002227171492205,
+    "jensen_shannon_divergence": 0.9639604069858159,
+    "historical_top_words": [
+      [
+        "the",
+        121
+      ],
+      [
+        "of",
+        80
+      ],
+      [
+        "and",
+        55
+      ],
+      [
+        "to",
+        29
+      ],
+      [
+        "in",
+        28
+      ],
+      [
+        "a",
+        19
+      ],
+      [
+        "is",
+        19
+      ],
+      [
+        "it",
+        16
+      ],
+      [
+        "but",
+        12
+      ],
+      [
+        "are",
+        11
+      ],
+      [
+        "from",
+        10
+      ],
+      [
+        "with",
+        10
+      ],
+      [
+        "was",
+        10
+      ],
+      [
+        "which",
+        9
+      ],
+      [
+        "he",
+        9
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "l",
+        273
+      ],
+      [
+        "alexander",
+        209
+      ],
+      [
+        "edwards",
+        29
+      ],
+      [
+        "subgenus",
+        8
+      ],
+      [
+        "brunetti",
+        7
+      ],
+      [
+        "walker",
+        6
+      ],
+      [
+        "van",
+        4
+      ],
+      [
+        "der",
+        4
+      ],
+      [
+        "wulp",
+        4
+      ],
+      [
+        "osten",
+        4
+      ],
+      [
+        "sacken",
+        4
+      ],
+      [
+        "speiser",
+        3
+      ],
+      [
+        "de",
+        3
+      ],
+      [
+        "meijere",
+        3
+      ],
+      [
+        "libnotes",
+        2
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "s i l",
+  "semantic_input": {
+    "query": "s i l\nS I L [ 355 ]\n\nbers of black cattle and herbs are brought bitter from Poland and Hungary for fale, thofe bred in the country not being sufficient; but of theory, goats, arms, and vention, they have great plenty. As in wild deaths, here are lyxes, foxes, weafels, otters, and beravers. The river, lakes, and ponds, yield dish of several flots, part celuity ifgureo fevers all its length, and almond. Besides a number of smaller fireams to water this country, there is the Oder, which travels is almost from one end to the other; and the Yitha, which after a sweetly long coffe through it enters Poland. The number of the cities and market towns is fall to be about 202, that county of Ghats included, and the of the villages 2020. The inhabitants whoare computed to be about 1,821,665 are a mixture of German, Poles, and Moravians. The language generally fascism is Germany, but in Rome goes the volgar tongue is a dialect of the Schavonic. The flatts could of the prices are dukes, and then called _p",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.0592961311340332,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

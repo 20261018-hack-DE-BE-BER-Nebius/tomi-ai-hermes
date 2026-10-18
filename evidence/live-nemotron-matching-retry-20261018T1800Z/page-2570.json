@@ -1,0 +1,307 @@
+{
+  "status": "candidate",
+  "question": "88 ABYSSINIA.",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:2123",
+      "title": "Abyssinia (disambiguation)",
+      "corpus": "wikipedia",
+      "text": "Abyssinia is a historical name for the Ethiopian Empire.\n\nAbyssinia may also refer to:\n\nAbyssinia, a theatrical show by Bert Williams\n\nAbyssinia (1987 musical), a show first staged in 1987\n\nAbyssinia (1906 musical), 1906 Broadway musical by Will Marion Cook, Bert Williams, Jesse A. Shipp, and Alex Rogers\n\n\"Abyssinia\", a song by the Patti Smith Group on Radio Ethiopia\n\nAbyssinia, a 2003 novel by Ursula Dubosarsky\n\n\" Abyssinia, Henry \", an episode of the television series M*A*S*H\n\nAbyssinia Lines, a neighbourhood of Jamshed Town in Karachi, Sindh, Pakistan\n\nApostolic Vicariate of Abyssinia, the former Eastern Catholic missionary\n\nHMS Abyssinia (1870), a British armoured ship\n\nSS Abyssinia, an 1870 Canadian Pacific steamship\n\nAbyssinian languages, family of languages spoken in Ethiopia, Eritrea, and Sudan\n\nAbyssinian peoples, ethnic or pan-ethnic identifier used to refer to Ethiopians and Eritreans\n\nAbyssinia (battle honour)\n\nAbyssinia Creek, The Pilbara, Western Australia",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1267280027",
+      "revision_id": "1267280027",
+      "text_sha256": "f0211db414dd49538e3b93a4fcc63ccc87ee89499b6937664e7134f6b2cc1232",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:21:31.545091+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -1.1330277919769287,
+      "vector_distance": 0.8026841282844543,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:12173260",
+      "title": "Abyssinia (1987 musical)",
+      "corpus": "wikipedia",
+      "text": "Abyssinia is a musical with music by Ted Kociolek, lyrics by James Racheff, and a book by both Racheff and Kociolek, based on the novel Marked by Fire, by Joyce Carol Thomas.\n\nAbyssinia was first produced in 1987 by Musical Theater Works at the CSC Repertory Theater. It was directed by Tazewell Thompson. The scenery consultant was Evelyn Sakash, the lighting consultant was Clarke W. Thornton, the costume consultant was Amanda Klein, musical supervision and choral arrangements were by Daryl Waters, and the choreography consultant was Julie Arenal. The same year, the musical was produced by CSC Repertory Theater in New York, directed by Tazewell Thompson.\n\nThe North Shore Music Theatre produced Abyssinia twice, once in 1995 and once in 2005. It also sponsored a reading in 1994 at the National Alliance for Musical Theatre's New Works Festival. The 2005 production ran at the Shubert Theater in Boston, Massachusetts. It was directed by Stafford Arima and choreographed by Todd L. Underwood, with music direction by Michael O’Flaherty, lighting design by Kirk Bookman, and costumes by Pamela Scofield.\n\nAbyssinia has also been presented three times by Goodspeed Musicals, Connecticut, in 1987 and 1988 at the Norma Terris Theater and in 2005 at the Goodspeed Opera House, directed by Stafford Arima and choreographed by Todd L. Underwood. The Cleveland Play House produced Abyssinia in the spring of 1991.\n\nMother Vera - Abby's godmother, a folk healer\n\nAbyssinia \"Abby\" Jackson - A sixteen-year-old girl, a praise singer\n\nPatience Jackson - Abby's mother, a seamstress\n\nLucas Jackson - Abby's father, a farmer\n\nTrembling Sally - Abby's nemesis, lives in the woods like a wild thing\n\nLily Noreen Lewis - Abby's best friend\n\nMinister - Pastor of the Stillwater Solid Rock Baptist Church\n\nCorine - Elder of the church, laundress\n\nMavis - Elder of the church, Corine's sister, laundress\n\nSelma - Elder of the church, their cousin, a spinster\n\nMother Samuels - A frail, elderly woman\n\nBrother Samuels - Deacon of the church, field foreman\n\nMarcus, Jesse and Leon - Ponca City Boys\n\n(Marcus, Jesse and Leon double as members of the congregation.)\n\n(Lily Noreen Lewis doubles as Mother Samuels.)\n\nAbyssinia Jackson is born during a tornado in Stillwater, Oklahoma at the turn of the 20th century. Blessed with a gift of song and a voice that thrills and delights the entire community, Abby is brought up in the bosom of the church and under the watchful eye of Mother Vera, a folk-healer. Trembling Sally, whose children were destroyed by the same storm in which Abyssinia was born, hears Abby sing and begins to torment the young girl by challenging her beliefs.\n\nLike Job, Abby is fated to undergo a series of trials. Consequently, Abby's faith in both man and God is destroyed and she vows never to sing again.\n\nAbyssinia's withdrawal affects the devastated community like a long drought while Trembling Sally continues to tempt her with dark thoughts. Finally, Mother Vera takes the girl under her wing to teach her the ways of a healer. In learning to relieve pain in others, Abyssinia begins to heal herself. At the play's conclusion, Abyssinia finds her voice again, overcomes Trembling Sally and rejoins the community.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1286396933",
+      "revision_id": "1286396933",
+      "text_sha256": "e7ec7fbea48cd6c39310f5564ab5a96ecb397dd815b1142f64f38c5d75fb73b0",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:21:36.152782+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -1.7772960662841797,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:74544097",
+      "title": "Abyssinia (1906 musical)",
+      "corpus": "wikipedia",
+      "text": "Abyssinia is a musical in one act with music by Will Marion Cook and Bert Williams, and both book and lyrics by Jesse A. Shipp and Alex Rogers. Created by African Americans and featuring African-American entertainers, the work is set in Abyssinia (now referred to as the Ethiopian Empire) and was inspired by the events of the First Italo-Ethiopian War in 1896-1897 and the sustained sovereignty Ethiopia maintained through the leadership of Menelik II at that point in history. The plot of the musical follows two African-American from Kansas who win the lottery and then use their winnings to travel to Europe and Abyssinia. Misadventures ensue when one of them falsely accused of being a thief, and they are brought before King Menelik.\n\nAbyssinia is considered an important historical black musical. It is an early work that consciously departed from the racial stereotypes typically found in other musicals of that period, and emphasized themes of social justice, \"black self determination\" and \"African resistance\" while still at its core being a tremendously funny comedy.\n\nWhile referred to in most reference works as a musical, some of the reviewers Abyssinia at the time of the production labeled the work as a \"Negro comic opera\". Indeed, the score, predominantly orchestrated by Cook, was operatic in significant proportions and utilized conventions of that genre. However, the work also incorporated African-American music like ragtime and cakewalk, and elements of burlesque and popular song; ultimately creating a work of high art that blended genres.\n\nCritical reaction from African-American critics was enthusiastic, particularly in response to the social commentary of the plot, the impressive score by Cook, and the dignity provided to the characters in the absence of the typical racial stereotypes that predominated on the American stage at the time. White critics, however, lamented the absence of these same stereotypes and were highly critical of the work, with many citing that the work was \"too white\" or relied too much upon the conventions of white comic opera. Ultimately, the reaction from white critics negatively impacted audience attendance at the production had a relatively short run on Broadway.\n\nAbyssinia premiered on Broadway at the Majestic Theatre on February 20, 1906. The production transferred twice during its initial Broadway run, first to the West End Theatre in April 1906 and then the Grand Opera House where it closed in August 1906 after 48 performances. Further performances were given in Washington D.C., Philadelphia, Boston, and Atlantic City. Lavishly produced, the ornate sets were designed by the painter Ernest Albert. In reflecting on the failure of Abyssinia to find a larger audience, critic Sylvester Russell, the first major black arts critic in the United States, stated, \"I always contended that 'Abyssinia' was a play of the Negro race and should have succeeded on its progressive merits.\"\n\nThe original cast of Abyssinia included Bert Williams as Jasmine Jenkins, George Walker as Rastus Johnson, Hattie McIntosh as Aunt Callie Parker, Lottie Williams as Miss Primly, and Craig Williams as James.",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1310145890",
+      "revision_id": "1310145890",
+      "text_sha256": "1effcfe0d3e87bddd350fb2da74eee6a3846451d6249873443412f6abb94a74e",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T18:21:41.709985+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -2.169802665710449,
+      "vector_distance": 0.8054806590080261,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2570",
+    "title": "Britannica page 2570",
+    "corpus": "britannica",
+    "text": "<x_0.0713><y_0.0414>88 ABYSSINIA.<x_0.6494><y_0.0578><class_Page-header>\n\n<x_0.0732><y_0.0641>Abysinia.<x_0.1484><y_0.0883><class_Caption>\n\n<x_0.0742><y_0.1367>The new amperor in- texts to revenge la death.<x_0.1338><y_0.1961><class_Text>\n\n<x_0.0752><y_0.4562>Executive of the queen and other regt- side.<x_0.1445><y_0.5172><class_Text>\n\n<x_0.0762><y_0.5375>Tigi re- whis, but is defecate, taken, and put to death.<x_0.1455><y_0.6078><class_Text>\n\n<x_0.0771><y_0.7508>Lice of So- lonon set aside.<x_0.1426><y_0.7852><class_Text>\n\n<x_0.0781><y_0.7867>After the death of Theophilus, the line of Solomon by the queen of Sheba was superseded a second time, and a stranger of the name of _Outsay seated on the Abyusina theme._ The extreme severity of Theophilus in punishing the murderers of both Yasuous and Techa Hanamout gave occasion to this, for all the prime had been assassination in consequence of compatriots formed by the principal people of the nation, the number of congriators was as great, that the parties con-cerned had interns sufficient to influence the election of the new monarch, even in this most capital respect, of his not being a descendant of Solomon. Excepting this single defect, he was in every respect worthy of<x_0.5293><y_0.9258><class_Text>\n\n<x_0.5371><y_0.057>the kingdom, and was already the highest subject in it. Abysinia.<x_0.9863><y_0.0758><class_Text>\n\n<x_0.5381><y_0.0773>Source: was he seated on the throne, however, when a dangerous conspiracy was formed against him by the very person by whom, he had been given upon it. Oostas halloff over designs, by starting the principal conspirator before they had time to bring their schemes to a learning; and several people of the life tank were condemned to bear their money, or to be put to death. After this the emperor undertook an expedition at ganas in Shangulla, according to the behaviour cust- om of the Abysanian romarhets, who hunt these poor people merely for the sake of making always s singhtering the men without mercy, as well as many of the women, and carrying off only the boys and girls into captivity. It has the met with perfect success; and was about to attempt the complex of the death coun- try, when he was called back by the news that his prime minister Paid Division was dead. While the one emperor remained in his canal at Gather, her was the premia ken suddenly ill, which he imputed at first to witch- sick, until, the evidence used some additions, among which the null and therefore used Some addides, among which staffers are unclear. But this was done so carelessly by the servants, that the whole building was consumed in accident look- of upon by the people of general as a very bad mean, especially as the king's complaint increased every day. At last the principal officers came to pay him a visit of condolence, or they proceeded but its reality to ol- serve the nature of his distancy, and to consider whee ther or we did it was likely to continue, if they could fall upon means to deprive him of the government. Ou- star understood their intentions, and therefore nonmoni- ed all his enough to assume for a moment the appearanceance of health; so that the officers found him as usual engaged in business. Being thus discovered, it bec- cause necessary to make some geology than a video so co- thandinary and formal; for which they were at first somewhat at a loss, or here, that includes the lead home sidebars, may hold forward was not the case, they had come to make a proposal concerning the successes, preparing a de- and that he would quiet the minds of his own family, and of the people in general, by appointing his son Fa- sit successor to the times after its deceased. Oostas outra de gave them an equivocal answer; but the discourse can-pool, and cerning Pasil happening to be overvalued by the ski through on dary, a violent worthy spread, and all the officers who <sup>called</sup> had come to visit Oustas were killed. Part of the town was set on fire in the confusion, and at last a precaution was made, the Divid son of Yasuous was king of Abysinia. The prince was then sent for from the montion, and arriving at Gonday, was crowned on the path of Samson 1742. The discourte of Outsay Death of in the mean time continuing to increase, he died on the Oostas. rol February the same year.<x_0.9873><y_0.7898><class_Text>\n\n<x_0.5391><y_0.7891>The new supreme is a rigid Alexandrian in pin-legging of ciple; but Ostas had been so far favourable to the David. Catholics as to entertain some of their priest, though in a private manner. At it was the custom, however, to call a conviction of the clergy on the recession of every new company, the masks and others insisted up- on one being pulled on the present occasion; the more especially that a new Albuna was come from Egypt, and the leuty shawn to the Catholics by Oustas had excited the jalousy of the Abysinian clergy in the highest<x_0.9883><y_0.9414><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "c0b5b889df8c057cf05ebb082e3902dd082a4b1a54a53facf4fb229adb78b5a6",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:58:38.070877+00:00",
+    "parser_receipt_sha256": "8e5ea9b5cb83f6a0433a339ddcae9b3472a82a0a91678b61ae22fc51b00d51ae",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 3482,
+      "occurred_at": "2026-10-18T18:21:30.025572+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1520,
+      "occurred_at": "2026-10-18T18:21:31.545110+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1025,
+      "occurred_at": "2026-10-18T18:21:32.592893+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1133,
+      "occurred_at": "2026-10-18T18:21:33.748097+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2383,
+      "occurred_at": "2026-10-18T18:21:36.152832+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1346,
+      "occurred_at": "2026-10-18T18:21:37.529323+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 827,
+      "occurred_at": "2026-10-18T18:21:38.381025+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1358,
+      "occurred_at": "2026-10-18T18:21:39.767178+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1911,
+      "occurred_at": "2026-10-18T18:21:41.710027+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 82,
+      "occurred_at": "2026-10-18T18:21:41.822220+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 1692,
+      "occurred_at": "2026-10-18T18:21:43.514415+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 308,
+      "occurred_at": "2026-10-18T18:21:43.831242+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 6,
+      "occurred_at": "2026-10-18T18:21:43.837121+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 526,
+      "occurred_at": "2026-10-18T18:21:44.362685+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 793,
+    "modern_words": 139,
+    "vocabulary_jaccard": 0.042826552462526764,
+    "jensen_shannon_divergence": 0.7207624194991149,
+    "historical_top_words": [
+      [
+        "the",
+        78
+      ],
+      [
+        "of",
+        40
+      ],
+      [
+        "to",
+        28
+      ],
+      [
+        "and",
+        21
+      ],
+      [
+        "was",
+        21
+      ],
+      [
+        "a",
+        18
+      ],
+      [
+        "in",
+        16
+      ],
+      [
+        "by",
+        11
+      ],
+      [
+        "on",
+        9
+      ],
+      [
+        "at",
+        9
+      ],
+      [
+        "had",
+        8
+      ],
+      [
+        "as",
+        7
+      ],
+      [
+        "that",
+        7
+      ],
+      [
+        "his",
+        7
+      ],
+      [
+        "he",
+        7
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "abyssinia",
+        14
+      ],
+      [
+        "a",
+        9
+      ],
+      [
+        "the",
+        5
+      ],
+      [
+        "by",
+        4
+      ],
+      [
+        "of",
+        4
+      ],
+      [
+        "to",
+        3
+      ],
+      [
+        "musical",
+        3
+      ],
+      [
+        "in",
+        3
+      ],
+      [
+        "and",
+        3
+      ],
+      [
+        "refer",
+        2
+      ],
+      [
+        "show",
+        2
+      ],
+      [
+        "bert",
+        2
+      ],
+      [
+        "williams",
+        2
+      ],
+      [
+        "ethiopia",
+        2
+      ],
+      [
+        "an",
+        2
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending."
+  ],
+  "candidate_query": "abyssinia",
+  "semantic_input": {
+    "query": "abyssinia\n88 ABYSSINIA.\n\nAbysinia.\n\nThe new amperor in- texts to revenge la death.\n\nExecutive of the queen and other regt- side.\n\nTigi re- whis, but is defecate, taken, and put to death.\n\nLice of So- lonon set aside.\n\nAfter the death of Theophilus, the line of Solomon by the queen of Sheba was superseded a second time, and a stranger of the name of _Outsay seated on the Abyusina theme._ The extreme severity of Theophilus in punishing the murderers of both Yasuous and Techa Hanamout gave occasion to this, for all the prime had been assassination in consequence of compatriots formed by the principal people of the nation, the number of congriators was as great, that the parties con-cerned had interns sufficient to influence the election of the new monarch, even in this most capital respect, of his not being a descendant of Solomon. Excepting this single defect, he was in every respect worthy of\n\nthe kingdom, and was already the highest subject in it. Abysinia.\n\nSource: was he seated on the throne, ",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.644268274307251,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}

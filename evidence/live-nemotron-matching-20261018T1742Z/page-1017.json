@@ -1,0 +1,308 @@
+{
+  "status": "ambiguous",
+  "question": "H E L",
+  "locale": "en",
+  "candidates": [
+    {
+      "document_id": "wikipedia:28540222",
+      "title": "Nick Fury, Agent of S.H.I.E.L.D. (disambiguation)",
+      "corpus": "wikipedia",
+      "text": "Nick Fury, Agent of S.H.I.E.L.D. is a Marvel Comics title featuring Nick Fury.\n\nNick Fury, Agent of S.H.I.E.L.D. may also refer to:\n\nNick Fury: Agent of S.H.I.E.L.D. (film), a television film based on the comic and starring David Hasselhoff\n\nNick Fury, Agent of S.H.I.E.L.D. (comics), other comics bearing the title\n\nNick Fury, Agent of S.H.I.E.L.D. (feature), the original Strange Tales feature for the title\n\nNick Fury, Agent of S.H.I.E.L.D. (1968 series), the first ongoing series for the character\n\nNick Fury, Agent of S.H.I.E.L.D. (1989 series), the second ongoing series for the character\n\nNick Fury, Agent of S.H.I.E.L.D. (comic strip), a Marvel Comics strip featuring the character",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1210697536",
+      "revision_id": "1210697536",
+      "text_sha256": "bfe5bd62e01154c460e890f453bbc0cf07d15d092c8ecbeca3b23f17eea4dec7",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:56.721592+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.578307628631592,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:56057078",
+      "title": "S.H.I.E.L.D. (disambiguation)",
+      "corpus": "wikipedia",
+      "text": "S.H.I.E.L.D. is a fictional spy agency featured in Marvel comics.\n\nS.H.I.E.L.D. may also refer to:\n\nS.H.I.E.L.D. (comic book), a comic book title by Marvel Comics\n\nS.H.I.E.L.D. (2010 series), first series of the title\n\nS.H.I.E.L.D. (2014 series), second series of the title\n\nS.H.I.E.L.D. (Marvel Cinematic Universe), the Marvel Cinematic Universe organization based on the Marvel Comics counterpart\n\nJoe Higgins, a version of the Shield (Archie Comics), uses the initials S.H.I.E.L.D. as his secret identity",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1178180449",
+      "revision_id": "1178180449",
+      "text_sha256": "9c62fcb19c5b59ec28467de2710de0152c57f8cfaf88e881130db7e3d8843845",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:48:56.142873+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -5.757538795471191,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    },
+    {
+      "document_id": "wikipedia:59594801",
+      "title": "List of Erica species",
+      "corpus": "wikipedia",
+      "text": "Erica (heaths or heathers) is a large genus of flowering trees, shrubs, and subshrubs most diverse in southern Africa but found throughout the continent and in Europe. They have been introduced to Australia and North America. Erica is the type genus of the heath family, Ericaceae. As of January 2019, there are over 850 accepted species in Kew 's Plants of the World Online.\n\nErica abbottii (E.G.H.Oliv.)\n\nErica abelii (E.G.H.Oliv.)\n\nErica abietina (L.)\n\nErica accommodata (Klotzsch ex Benth.)\n\nErica acuta (Andrews)\n\nErica adaequata (Tausch)\n\nErica adnata (L.Bolus)\n\nErica adunca (Benth.)\n\nErica aemula (Guthrie & Bolus)\n\nErica aestiva (Markötter)\n\nErica affinis (Benth.)\n\nErica afra (L.)\n\nErica afrorum (Bolus)\n\nErica agglutinans (E.G.H.Oliv.)\n\nErica aggregata (J.C.Wendl.)\n\nErica aghillana (Guthrie & Bolus)\n\nErica albens (L.)\n\nErica albertyniae (E.G.H.Oliv.)\n\nErica albescens (Klotzsch ex Benth.)\n\nErica albospicata (Hilliard & B.L.Burtt)\n\nErica alexandri (Guthrie & Bolus)\n\nErica alfredii (Guthrie & Bolus)\n\nErica algida (Bolus)\n\nErica alnea (E.G.H.Oliv.)\n\nErica alopecurus (Harv.)\n\nErica altevirens (H.A.Baker)\n\nErica alticola (Guthrie & Bolus)\n\nErica altiphila (E.G.H.Oliv.)\n\nErica amalophylla (E.G.H.Oliv. & I.M.Oliv.)\n\nErica amatolensis (E.G.H.Oliv.)\n\nErica amicorum (E.G.H.Oliv.)\n\nErica amidae (E.G.H.Oliv.)\n\nErica amoena (J.C.Wendl.)\n\nErica amphigena (Guthrie & Bolus)\n\nErica ampullacea (Curtis)\n\nErica andevalensis (Cabezudo & J.Rivera)\n\nErica andreaei (Compton)\n\nErica andringitrensis ((H.Perrier) Dorr & E.G.H.Oliv.)\n\nErica aneimena (Dulfer)\n\nErica anemodes (E.G.H.Oliv.)\n\nErica anguliger ((N.E.Br.) E.G.H.Oliv.)\n\nErica angulosa (E.G.H.Oliv.)\n\nErica annalis (E.G.H.Oliv. & I.M.Oliv.)\n\nErica annectens (Guthrie & Bolus)\n\nErica anomala (Hilliard & B.L.Burtt)\n\nErica arachnocalyx (E.G.H.Oliv.)\n\nErica arborea (L.)\n\nErica arborescens ((Willd.) E.G.H.Oliv.)\n\nErica arcuata (Compton)\n\nErica ardens (Andrews)\n\nErica arenaria (L.Bolus)\n\nErica areolata ((N.E.Br.) E.G.H.Oliv.)\n\nErica argentea (Klotzsch ex Benth.)\n\nErica argyraea (Guthrie & Bolus)\n\nErica aristata (Andrews)\n\nErica armandiana (Dorr & E.G.H.Oliv.)\n\nErica armata (Klotzsch ex Benth.)\n\nErica artemisioides ((Klotzsch) E.G.H.Oliv.)\n\nErica articularis (L.)\n\nErica aspalathifolia (Bolus)\n\nErica aspalathoides (Guthrie & Bolus ex Schltr.)\n\nErica astroites (Guthrie & Bolus)\n\nErica atherstonei (Diels ex L.Guthrie & Bolus)\n\nErica atricha (Dulfer)\n\nErica atromontana (E.G.H.Oliv.)\n\nErica atropurpurea (Dulfer)\n\nErica atrovinosa (E.G.H.Oliv.)\n\nErica auriculata (Guthrie & Bolus)\n\nErica australis (L.)\n\nErica austronyassana (Alm & T.C.E.Fr.)\n\nErica austroverna (Hilliard)\n\nErica autumnalis (L.Bolus)\n\nErica axillaris (Thunb.)\n\nErica axilliflora (Bartl.)\n\nErica azaleifolia (Salisb.)\n\nErica azorica (Hochst. ex Seub.)\n\nErica baccans (L.)\n\nErica bakeri (T.M.Salter)\n\nErica banksia (Andrews)\n\nErica barbigeroides (E.G.H.Oliv.)\n\nErica barnettiana (Dorr & E.G.H.Oliv.)\n\nErica baroniana (Dorr & E.G.H.Oliv.)\n\nErica barrydalensis (L.Bolus)\n\nErica bauera (Andrews)\n\nErica baurii (Bolus)\n\nErica beatricis (Compton)\n\nErica benguelensis ((Welw. ex Engl.) E.G.H.Oliv.)\n\nErica bergiana (L.)\n\nErica berzelioides (Guthrie & Bolus)\n\nErica betsileana ((H.Perrier) Dorr & E.G.H.Oliv.)\n\nErica bibax (Salisb.)\n\nErica bicolor (Thunb.)\n\nErica binaria (E.G.H.Oliv.)\n\nErica blaerioides (E.G.H.Oliv.)\n\nErica blancheana (L.Bolus)\n\nErica blandfordia (Andrews)\n\nErica blenna (Salisb.)\n\nErica blesbergensis (H.A.Baker)\n\nErica bodkinii (Guthrie & Bolus)\n\nErica bojeri (Dorr & E.G.H.Oliv.)\n\nErica bokkeveldia (E.G.H.Oliv.)\n\nErica bolusanthus (E.G.H.Oliv.)\n\nErica bolusiae (T.M.Salter)\n\nErica borboniifolia (Salisb.)\n\nErica bosseri (Dorr)\n\nErica botryoides (Dulfer)\n\nErica boucheri (E.G.H.Oliv.)\n\nErica boutonii (Dorr & E.G.H.Oliv.)\n\nErica brachialis (Salisb.)\n\nErica brachycentra (Benth.)\n\nErica brachyphylla ((Benth.) E.G.H.Oliv.)\n\nErica brachysepala (Guthrie & Bolus)\n\nErica bracteolaris (Lam.)\n\nErica bredasiana (E.G.H.Oliv.)\n\nErica brevicaulis (Guthrie & Bolus)\n\nErica brevifolia (Sol. ex Salisb.)\n\nErica broadleyana (Andrews)\n\nErica brownii (E.G.H.Oliv.)\n\nErica brownleeae (Bolus)\n\nErica bruniades (L.)\n\nErica bruniifolia (Salisb.)\n\nErica burchelliana (E.G.H.Oliv.)\n\nErica cabernetea (E.G.H.Oliv.)\n\nErica caespitosa (Hilliard & B.L.Burtt)\n\nErica calcareophila (E.G.H.Oliv.)\n\nErica calcicola ((E.G.H.Oliv.) E.G.H.Oliv.)\n\nErica caledonica (A.Spreng.)\n\nErica calycina (L.)\n\nErica cameronii (L.Bolus)\n\nErica campanularis (Salisb.)\n\nErica canaliculata (Andrews)\n\nErica canariensis (Rivas-Mart., MM. Osorio & Wildpret)\n\nErica canescens (J.C.Wendl.)\n\nErica capensis (T.M.Salter)\n\nErica capillaris (Bartl.)\n\nErica capitata (L.)\n\nErica caprina (E.G.H.Oliv.)\n\nErica carduifolia (Salisb.)\n\nErica carnea (L.)\n\nErica caterviflora (Salisb.)\n\nErica cavartica (E.G.H.Oliv. & I.M.Oliv.)\n\nErica cederbergensis (Compton)\n\nErica cedromontana (E.G.H.Oliv.)\n\nErica ceraria (E.G.H.Oliv. & I.M.Oliv.)\n\nErica cereris ((Compton) E.G.H.Oliv.)\n\nErica cerinthoides (L.)\n\nErica cernua (Montin)\n\nErica cerviciflora (Salisb.)\n\nErica cetrata (E.G.H.Oliv.)\n\nErica chamissonis (Klotzsch ex Benth.)\n\nErica chartacea (Guthrie & Bolus)\n\nErica chionodes (E.G.H.Oliv.)\n\nErica chionophila (Guthrie & Bolus)\n\nErica chiroptera (E.G.H.Oliv.)\n\nErica chlamydiflora (Salisb.)\n\nErica chloroloma (Lindl.)\n\nErica chlorosepala (Benth.)\n\nErica chonantha (Dulfer)\n\nErica chrysocodon (Guthrie & Bolus)\n\nErica ciliaris (L.)\n\nErica cincta (L.Bolus)\n\nErica cinerea (L.)\n\nErica clavisepala (Guthrie & Bolus)\n\nErica coacervata (H.A.Baker)\n\nErica coarctata (J.C.Wendl.)\n\nErica coccinea (L.)\n\nErica collina (Guthrie & Bolus)\n\nErica colorans (Andrews)\n\nErica columnaris (E.G.H.Oliv.)\n\nErica comata (Guthrie & Bolus)\n\nErica comorensis ((Engl.) Dorr & E.G.H.Oliv.)\n\nErica condensata (Benth.)\n\nErica conferta (Andrews)\n\nErica consobrina (Guthrie & Bolus)\n\nErica conspicua (Aiton)\n\nErica constantia (Nois. ex Benth.)\n\nErica cooperi (Bolus)\n\nErica copiosa (J.C.Wendl.)\n\nErica cordata (Andrews)\n\nErica corifolia (L.)\n\nErica coronanthera (Compton)\n\nErica corydalis (Salisb.)\n\nErica costatisepala (H.A.Baker)\n\nErica crassifolia (Andrews)\n\nErica crassisepala (Benth.)\n\nErica crateriformis (Guthrie & Bolus)\n\nErica cremea (Dulfer)\n\nErica cristata (Dulfer)\n\nErica cristiflora (Salisb.)\n\nErica croceovirens (E.G.H.Oliv. & I.M.Oliv.)\n\nErica crucistigmatica (Dulfer)\n\nErica cruenta (Aiton)\n\nErica cryptanthera (Guthrie & Bolus)\n\nErica cryptoclada ((Baker) Dorr & E.G.H.Oliv.)\n\nErica cubica (L.)\n\nErica cubitans (E.G.H.Oliv.)\n\nErica cumuliflora (Salisb.)\n\nErica cunoniensis (E.G.H.Oliv.)\n\nErica curtophylla (Guthrie & Bolus)\n\nErica curviflora (L.)\n\nErica curvifolia (Salisb.)\n\nErica curvirostris (Salisb.)\n\nErica curvistyla ((N.E.Br.) E.G.H.Oliv.)\n\nErica cuscutiformis (Dulfer)\n\nErica cyathiformis (Salisb.)\n\nErica cygnea (T.M.Salter)\n\nErica cylindrica (Thunb.)\n\nErica cymosa (E.Mey. ex Benth.)\n\nErica cyrilliflora (Salisb.)\n\nErica danguyana ((H.Perrier) Dorr & E.G.H.Oliv.)\n\nErica daphniflora (Salisb.)\n\nErica debilis (Guthrie & Bolus)\n\nErica deflexa (Sinclair)\n\nErica deliciosa (H.L.Wendl. ex Benth.)\n\nErica demissa (Klotzsch ex Benth.)\n\nErica densata (Dorr & E.G.H.Oliv.)\n\nErica densifolia (Willd.)\n\nErica denticulata (L.)\n\nErica depressa (L.)\n\nErica desmantha (Benth.)\n\nErica dianthifolia (Salisb.)\n\nErica diaphana (Spreng.)\n\nErica dilatata (H.L.Wendl. ex Benth.)\n\nErica diosmifolia (Salisb.)\n\nErica diotiflora (Salisb.)\n\nErica discolor (Andrews)\n\nErica dispar ((N.E.Br.) E.G.H.Oliv.)\n\nErica dissimulans (Hilliard & B.L.Burtt)\n\nErica distorta (Bartl.)\n\nErica dodii (Guthrie & Bolus)\n\nErica dolfiana (E.G.H.Oliv.)\n\nErica doliiformis (Salisb.)\n\nErica dominans (Killick)\n\nErica dracomontana (E.G.H.Oliv.)\n\nErica drakensbergensis (Guthrie & Bolus)\n\nErica dregei (E.G.H.Oliv.)\n\nErica dulcis (L.Bolus)\n\nErica dysantha (Benth.)\n\nErica ebracteata (Bolus)\n\nErica eburnea (T.M.Salter)\n\nErica ecklonii (E.G.H.Oliv.)\n\nErica eglandulosa ((Klotzsch) E.G.H.Oliv.)\n\nErica elimensis (L.Bolus)\n\nErica ellipticiflora (Dulfer)\n\nErica elsieana ((E.G.H.Oliv.) E.G.H.Oliv.)\n\nErica embothriifolia (Salisb.)\n\nErica empetrina (L.)\n\nErica equisetifolia (Salisb.)\n\nErica erasmia (Dulfer)\n\nErica eremioides ((MacOwan) E.G.H.Oliv.)\n\nErica ericoides ((L.) E.G.H.Oliv.)\n\nErica erigena (R.Ross)\n\nErica erinus ((Klotzsch ex Benth.) E.G.H.Oliv.)\n\nErica eriocephala (Lam.)\n\nErica eriocodon (Bolus)\n\nErica eriophoros (Guthrie & Bolus)\n\nErica esterhuyseniae (Compton)\n\nErica esteriana (E.G.H.Oliv.)\n\nErica ethelae (L.Bolus)\n\nErica eugenea (Dulfer)\n\nErica euryphylla (R.C.Turner)\n\nErica eustacei (L.Bolus)\n\nErica evansii ((N.E.Br.) E.G.H.Oliv.)\n\nErica excavata (L.Bolus)\n\nErica exleeana (E.G.H.Oliv.)\n\nErica extrusa (Compton)\n\nErica fairii (Bolus)\n\nErica fascicularis (L.f.)\n\nErica fastigiata (L.)\n\nErica fausta (Salisb.)\n\nErica feminarum (E.G.H.Oliv.)\n\nErica ferrea (P.J.Bergius)\n\nErica filago ((Alm & T.C.E.Fr.) Beentje)\n\nErica filamentosa (Andrews)\n\nErica filialis (E.G.H.Oliv.)\n\nErica filiformis (Salisb.)\n\nErica filipendula (Benth.)\n\nErica fimbriata (Andrews)\n\nErica flacca (E.Mey. ex Benth.)\n\nErica flanaganii (Bolus)\n\nErica flavicoma (Bartl.)\n\nErica flexicaulis (Dryand.)\n\nErica flexistyla (E.G.H.Oliv.)\n\nErica floccifera (Zahlbr.)\n\nErica flocciflora (Benth.)\n\nErica florifera ((Compton) E.G.H.Oliv.)\n\nErica foliacea (Andrews)\n\nErica fontana (L.Bolus)\n\nErica formosa (Thunb.)\n\nErica forsteri (Dulfer)\n\nErica frigida (Bolus)\n\nErica fuscescens ((Klotzsch) E.G.H.Oliv.)\n\nErica galgebergensis (H.A.Baker)\n\nErica galioides (Lam.)\n\nErica galpinii (T.M.Salter)\n\nErica garciae (E.G.H.Oliv.)\n\nErica genistifolia (Salisb.)\n\nErica georgica (Guthrie & Bolus)\n\nErica gerhardii (E.G.H.Oliv. & I.M.Oliv.)\n\nErica gibbosa (Klotzsch ex Benth.)\n\nErica gigantea (Klotzsch ex Benth.)\n\nErica gillii (Benth.)\n\nErica glabella (Thunb.)\n\nErica glabripes (L.Bolus)\n\nErica glandulifera (Klotzsch)\n\nErica glandulipila (Compton)\n\nErica glandulosa (Thunb.)\n\nErica glaphyra (Killick)\n\nErica glauca (Andrews)\n\nErica globiceps ((N.E.Br.) E.G.H.Oliv.)\n\nErica globulifera (Dulfer)\n\nErica glomiflora (Salisb.)\n\nErica glumiflora (Klotzsch ex Benth.)\n\nErica glutinosa (P.J.Bergius)\n\nErica gnaphaloides (L.)\n\nErica goatcheriana (L.Bolus)\n\nErica gossypioides (E.G.H.Oliv.)\n\nErica goudotiana ((Klotzsch) Dorr & E.G.H.Oliv.)\n\nErica gracilipes (Guthrie & Bolus)\n\nErica gracilis (J.C.Wendl.)\n\nErica grandiflora (L.f.)\n\nErica granulatifolia (H.A.Baker)\n\nErica granulosa (H.A.Baker)\n\nErica grata (Guthrie & Bolus)\n\nErica greyii (Guthrie & Bolus)\n\nErica grisbrookii (Guthrie & Bolus)\n\nErica guthriei (Bolus)\n\nErica gysbertii (Guthrie & Bolus)\n\nErica haemastoma (J.C.Wendl.)\n\nErica haematocodon (T.M.Salter)\n\nErica haematosiphon (Guthrie & Bolus)\n\nErica halicacaba (L.)\n\nErica hameriana (L.Bolus)\n\nErica hanekomii (E.G.H.Oliv.)\n\nErica hansfordii (E.G.H.Oliv.)\n\nErica harveiana (Guthrie & Bolus)\n\nErica hebdomadalis (E.G.H.Oliv. & I.M.Oliv.)\n\nErica hebecalyx (Benth.)\n\nErica hebeclada (Dorr & E.G.H.Oliv.)\n\nErica heleogena (T.M.Salter)\n\nErica heliophila (Guthrie & Bolus)\n\nErica hendricksei (H.A.Baker)\n\nErica hermani (E.G.H.Oliv.)\n\nErica heterophylla (Guthrie & Bolus)\n\nErica hexandra ((S.Moore) E.G.H.Oliv.)\n\nErica hexensis (E.G.H.Oliv.)\n\nErica hibbertia (Andrews)\n\nErica hillburttii ((E.G.H.Oliv.) E.G.H.Oliv.)\n\nErica hippurus (Compton)\n\nErica hirta (Thunb.)\n\nErica hirtiflora (Curtis)\n\nErica hispidula (L.)\n\nErica hispiduloides (E.G.H.Oliv.)\n\nErica holosericea (Salisb.)\n\nErica holtii (Schweick.)\n\nErica hottentotica (E.G.H.Oliv.)\n\nErica humansdorpensis (Compton)\n\nErica humbertii ((H.Perrier) Dorr & E.G.H.Oliv.)\n\nErica humidicola (E.G.H.Oliv.)\n\nErica humifusa (Hibberd ex Salisb.)\n\nErica ibityensis ((H.Perrier) Dorr & E.G.H.Oliv.)\n\nErica ignita (E.G.H.Oliv.)\n\nErica imbricata (L.)\n\nErica imerinensis ((H.Perrier) Dorr & E.G.H.Oliv.)\n\nErica inaequalis ((Klotzsch) E.G.H.Oliv.)\n\nErica inamoena ()\n\nErica incarnata (Thunb.)\n\nErica inclusa (H.L.Wendl. ex Benth.)\n\nErica inconstans (Zahlbr.)\n\nErica inflata (Thunb.)\n\nErica inflaticalyx (E.G.H.Oliv.)\n\nErica infundibuliformis (Andrews)\n\nErica ingeana (E.G.H.Oliv.)\n\nErica innovans (E.G.H.Oliv.)\n\nErica inops (Bolus)\n\nErica inordinata (H.A.Baker)\n\nErica insignis (E.G.H.Oliv.)\n\nErica insolitanthera (H.A.Baker)\n\nErica intermedia (Klotzsch ex Benth.)\n\nErica interrupta ((N.E.Br.) E.G.H.Oliv.)\n\nErica intervallaris (Salisb.)\n\nErica intonsa (L.Bolus)\n\nErica intricata (H.A.Baker)\n\nErica involucrata (Klotzsch ex Benth.)\n\nErica involvens (Benth.)\n\nErica ioniana (E.G.H.Oliv.)\n\nErica irbyana (Andrews)\n\nErica irregularis (Benth.)\n\nErica irrorata (Guthrie & Bolus)\n\nErica isaloensis ((H.Perrier) Dorr & E.G.H.Oliv.)\n\nErica ixanthera (Benth.)\n\nErica jacksoniana (H.A.Baker)\n\nErica jananthus (E.G.H.Oliv. & I.M.Oliv.)\n\nErica jasminiflora (Salisb.)\n\nErica jeppei (L.Bolus)\n\nErica johnstoniana (Britten)\n\nErica jonasiana (E.G.H.Oliv.)\n\nErica jugicola (E.G.H.Oliv. & I.M.Oliv.)\n\nErica jumellei ((H.Perrier) Dorr & E.G.H.Oliv.)\n\nErica juniperina (E.G.H.Oliv.)\n\nErica junonia (Bolus)\n\nErica kammanassieae (E.G.H.Oliv.)\n\nErica karooica (E.G.H.Oliv.)\n\nErica karwyderi (E.G.H.Oliv.)\n\nErica keeromsbergensis (H.A.Baker)\n\nErica keetii (L.Bolus)\n\nErica kingaensis (Engl.)\n\nErica kirstenii (E.G.H.Oliv.)\n\nErica klotzschii ((Alm & T.C.E.Fr.) E.G.H.Oliv.)\n\nErica kogelbergensis (E.G.H.Oliv.)\n\nErica kougabergensis (H.A.Baker)\n\nErica kraussiana (Klotzsch ex Walp.)\n\nErica krugeri (E.G.H.Oliv.)\n\nErica labialis (Salisb.)\n\nErica lachnaeoides (G.Don)\n\nErica lachneifolia (Salisb.)\n\nErica laeta (Bartl.)\n\nErica laevigata (Bartl.)\n\nErica lageniformis (Salisb.)\n\nErica lananthera (L.Bolus)\n\nErica lanata (Andrews)\n\nErica lanceolifera (S.Moore)\n\nErica langebergensis (H.A.Baker)\n\nErica lanipes (Guthrie & Bolus)\n\nErica lanuginosa (Andrews)\n\nErica lasciva (Salisb.)\n\nErica lasiocarpa (Guthrie & Bolus)\n\nErica lateralis (Willd.)\n\nErica lateriflora (E.G.H.Oliv.)\n\nErica latiflora (L.Bolus)\n\nErica latifolia (Andrews)\n\nErica latituba (L.Bolus)\n\nErica lavandulifolia (Salisb.)\n\nErica lawsonia (Andrews)\n\nErica lecomtei ((H.Perrier) Dorr & E.G.H.Oliv.)\n\nErica lehmannii (Klotzsch ex Benth.)\n\nErica lepidota (Rach)\n\nErica leptantha (Dulfer)\n\nErica leptoclada (Van Heurck & Müll.Arg.)\n\nErica leptopus (Benth.)\n\nErica lerouxiae (Bolus)\n\nErica leucantha (Link)\n\nErica leucanthera (L.f.)\n\nErica leucoclada ((Baker) Dorr & E.G.H.Oliv.)\n\nErica leucodesmia (Benth.)\n\nErica leucopelta (Tausch)\n\nErica leucosiphon (L.Bolus)\n\nErica leucotrachela (H.A.Baker)\n\nErica lignosa (H.A.Baker)\n\nErica limnophila (E.G.H.Oliv.)\n\nErica limosa (L.Bolus)\n\nErica lithophila (E.G.H.Oliv. & I.M.Oliv.)\n\nErica loganii (Compton)\n\nErica longiaristata (Benth.)\n\nErica longimontana (E.G.H.Oliv.)\n\nErica longipedunculata (G.Lodd.)\n\nErica longistyla (L.Bolus)\n\nErica lowryensis (Bolus)\n\nErica lucida (Salisb.)\n\nErica lusitanica (Rudolph)\n\nErica lutea (P.J.Bergius)\n\nErica lyallii (Dorr & E.G.H.Oliv.)\n\nErica lycopodiastrum (Lam.)\n\nErica macilenta (Guthrie & Bolus)\n\nErica mackayana (Bab.)\n\nErica macowanii (Cufino)\n\nErica macrocalyx ((Baker) Dorr & E.G.H.Oliv.)\n\nErica macroloma (Benth.)\n\nErica macrophylla (Klotzsch ex Benth.)\n\nErica macrotrema (Guthrie & Bolus)\n\nErica madagascariensis ((H.Perrier) Dorr & E.G.H.Oliv.)\n\nErica maderensis ((Benth.) Bornm.)\n\nErica maderi (Guthrie & Bolus)\n\nErica madida (E.G.H.Oliv.)\n\nErica maesta (Bolus)\n\nErica mafiensis ((Engl.) Dorr)\n\nErica magistrati (E.G.H.Oliv.)\n\nErica magnisylvae (E.G.H.Oliv.)\n\nErica malmesburiensis (E.G.H.Oliv.)\n\nErica mammosa (L.)\n\nErica manifesta (Compton)\n\nErica manipuliflora (Salisb.)\n\nErica mannii ((Hook.f.) Beentje)\n\nErica margaritacea (Aiton)\n\nErica marifolia (Aiton)\n\nErica maritima (Guthrie & Bolus)\n\nErica marlothii (Bolus)\n\nErica marojejyensis (Dorr)\n\nErica massonii (L.f.)\n\nErica mauritanica (L.)\n\nErica mauritiensis (E.G.H.Oliv.)\n\nErica maximiliani (Guthrie & Bolus ex Schltr.)\n\nErica media (Klotzsch ex Benth.)\n\nErica melanacme (Guthrie & Bolus)\n\nErica melanomontana (E.G.H.Oliv.)\n\nErica melanthera (L.)\n\nErica melastoma (Andrews)\n\nErica merxmuelleri (Dulfer)\n\nErica micrandra (Guthrie & Bolus)\n\nErica microcodon (Guthrie & Bolus)\n\nErica microdonta ((C.H.Wright) E.G.H.Oliv.)\n\nErica milanjiana (Bolus)\n\nErica miniscula (E.G.H.Oliv.)\n\nErica minutifolia ((Baker) Dorr & E.G.H.Oliv.)\n\nErica minutissima (Klotzsch ex Benth.)\n\nErica mira (Klotzsch ex Benth.)\n\nErica mitchelliensis (Dulfer)\n\nErica modesta (Salisb.)\n\nErica mollis (Andrews)\n\nErica monadelphia (Andrews)\n\nErica monantha (Compton)\n\nErica monsoniana (L.f.)\n\nErica montis-hominis (E.G.H.Oliv.)\n\nErica mucronata (Andrews)\n\nErica muirii (L.Bolus)\n\nErica multiflexuosa (E.G.H.Oliv.)\n\nErica multiflora (L.)\n\nErica multumbellifera (P.J.Bergius)\n\nErica mundii (Guthrie & Bolus)\n\nErica muscari (Andrews)\n\nErica muscosa ((Aiton) E.G.H.Oliv.)\n\nErica myriadenia ((Baker) Dorr & E.G.H.Oliv.)\n\nErica myriocodon (Guthrie & Bolus)\n\nErica nabea (Guthrie & Bolus)\n\nErica nana (Salisb.)\n\nErica natalensis (Dulfer)\n\nErica natalitia (Bolus)\n\nErica navigatoris (E.G.H.Oliv.)\n\nErica nematophylla (Guthrie & Bolus)\n\nErica nemorosa (Klotzsch ex Benth.)\n\nErica nervata (Guthrie & Bolus)\n\nErica nevillei (L.Bolus)\n\nErica newdigatei (Dulfer)\n\nErica nidularia (G.Lodd.)\n\nErica nigrimontana (Guthrie & Bolus)\n\nErica nivalis (Andrews)\n\nErica nivea (Sinclair)\n\nErica niveniana (E.G.H.Oliv.)\n\nErica notholeeana ((E.G.H.Oliv.) E.G.H.Oliv.)\n\nErica nubigena (Bolus)\n\nErica nudiflora (L.)\n\nErica numidica ((Maire) Romo & Borat.)\n\nErica nutans (J.C.Wendl.)\n\nErica nyassana ((Alm & T.C.E.Fr.) E.G.H.Oliv.)\n\nErica oakesiorum (E.G.H.Oliv.)\n\nErica oatesii (Rolfe)\n\nErica obconica (H.A.Baker)\n\nErica obliqua (Aiton)\n\nErica oblongiflora (Benth.)\n\nErica obtusata (Klotzsch ex Benth.)\n\nErica occulta (E.G.H.Oliv.)\n\nErica ocellata (Guthrie & Bolus)\n\nErica octonaria (L.Bolus)\n\nErica odorata (Andrews)\n\nErica oligantha (Guthrie & Bolus)\n\nErica oliveri (H.A.Baker)\n\nErica omninoglabra (H.A.Baker)\n\nErica onusta (Guthrie & Bolus)\n\nErica oophylla (Benth.)\n\nErica opulenta ((J.C.Wendl. ex Klotzsch) Benth.)\n\nErica orculiflora (Dulfer)\n\nErica oreina (Dulfer)\n\nErica oreophila (Guthrie & Bolus)\n\nErica oreotragus (E.G.H.Oliv.)\n\nErica oresigena (Bolus)\n\nErica orientalis (R.A.Dyer)\n\nErica orthiocola (E.G.H.Oliv.)\n\nErica ostiaria (Compton)\n\nErica outeniquae ((Compton) E.G.H.Oliv.)\n\nErica ovina (Klotzsch ex Benth.)\n\nErica oxyandra (Guthrie & Bolus)\n\nErica oxycoccifolia (Salisb.)\n\nErica oxysepala (Guthrie & Bolus)\n\nErica pageana (L.Bolus)\n\nErica palliiflora (Salisb.)\n\nErica paludicola (L.Bolus)\n\nErica paniculata (L.)\n\nErica pannosa (Salisb.)\n\nErica papyracea (Guthrie & Bolus)\n\nErica parilis (Salisb.)\n\nErica parkeri ((Baker) Dorr & E.G.H.Oliv.)\n\nErica parviflora (L.)\n\nErica parviporandra (E.G.H.Oliv.)\n\nErica passerina (Montin)\n\nErica passerinoides ((Bolus) E.G.H.Oliv.)\n\nErica patens (Andrews)\n\nErica patersonia (Andrews)\n\nErica paucifolia ((J.C.Wendl.) E.G.H.Oliv.)\n\nErica pauciovulata (H.A.Baker)\n\nErica pearsoniana (L.Bolus)\n\nErica pectinifolia (Salisb.)\n\nErica pellucida (Sol. ex Salisb.)\n\nErica peltata (Andrews)\n\nErica penduliflora (E.G.H.Oliv.)\n\nErica penicilliformis (Salisb.)\n\nErica perhispida (Dorr & E.G.H.Oliv.)\n\nErica perlata (Sinclair)\n\nErica permutata (Dulfer)\n\nErica perplexa (E.G.H.Oliv.)\n\nErica perrieri (Dorr & E.G.H.Oliv.)\n\nErica perspicua (J.C.Wendl.)\n\nErica petiolaris (Lam.)\n\nErica petraea (Benth.)\n\nErica petricola (E.G.H.Oliv.)\n\nErica petrophila (L.Bolus)\n\nErica petrusiana (E.G.H.Oliv. & I.M.Oliv.)\n\nErica phacelanthera (E.G.H.Oliv.)\n\nErica phaeocarpa (E.G.H.Oliv.)\n\nErica philippioides (Compton)\n\nErica phillipsii (L.Bolus)\n\nErica physantha (Benth.)\n\nErica physodes (L.)\n\nErica physophylla (Benth.)\n\nErica pilaarkopensis (H.A.Baker)\n\nErica pillansii (Bolus)\n\nErica pilosiflora (E.G.H.Oliv.)\n\nErica pilulifera (L.)\n\nErica pinea (Thunb.)\n\nErica piquetbergensis ((N.E.Br.) E.G.H.Oliv.)\n\nErica placentiflora (Salisb.)\n\nErica planifolia (L.)\n\nErica platycalyx (E.G.H.Oliv.)\n\nErica platycodon ((Webb & Berthel.) Rivas Mart. & al.)\n\nErica pleiotricha (S.Moore)\n\nErica plena (L.Bolus)\n\nErica plukenetii (L.)\n\nErica plumigera (Bartl.)\n\nErica plumosa (Thunb.)\n\nErica podophylla (Benth.)\n\nErica pogonanthera (Bartl.)\n\nErica polifolia (Salisb. ex Benth.)\n\nErica polycoma (Benth.)\n\nErica portenschlagiana (Dulfer)\n\nErica praenitens (Tausch)\n\nErica priori (Guthrie & Bolus)\n\nErica procaviana ((E.G.H.Oliv.) E.G.H.Oliv.)\n\nErica prolata (E.G.H.Oliv. & I.M.Oliv.)\n\nErica propendens (Andrews)\n\nErica propinqua (Guthrie & Bolus)\n\nErica pseudocalycina (Compton)\n\nErica psittacina (E.G.H.Oliv. & I.M.Oliv.)\n\nErica puberuliflora (E.G.H.Oliv.)\n\nErica pubescens (L.)\n\nErica pubigera (Salisb.)\n\nErica pudens (H.A.Baker)\n\nErica pulchella (Houtt.)\n\nErica pulchelliflora (E.G.H.Oliv.)\n\nErica pulvinata (Guthrie & Bolus)\n\nErica pumila (Andrews)\n\nErica purgatoriensis (H.A.Baker)\n\nErica pycnantha (Benth.)\n\nErica pyramidalis (Aiton)\n\nErica pyxidiflora (Salisb.)\n\nErica quadrangularis (Salisb.)\n\nErica quadratiflora ((H.Perrier) Dorr & E.G.H.Oliv.)\n\nErica quadrifida ((Benth.) E.G.H.Oliv.)\n\nErica quadrisulcata (L.Bolus)\n\nErica racemosa (Thunb.)\n\nErica radicans ((L.Guthrie) E.G.H.Oliv.)\n\nErica rakotozafyana (Dorr & E.G.H.Oliv.)\n\nErica recta (Bolus)\n\nErica recurvata (Andrews)\n\nErica recurvifolia (E.G.H.Oliv.)\n\nErica reenensis (Zahlbr.)\n\nErica regerminans (L.)\n\nErica regia (Bartl.)\n\nErica rehmii (Dulfer)\n\nErica remota ((N.E.Br.) E.G.H.Oliv.)\n\nErica retorta (L.f.)\n\nErica reunionensis (E.G.H.Oliv.)\n\nErica revoluta ((Bolus) L.E.Davidson)\n\nErica rhodantha (Guthrie & Bolus)\n\nErica rhodopis ((Bolus) Bolus)\n\nErica rhopalantha (Dulfer)\n\nErica ribisaria (Guthrie & Bolus)\n\nErica richardii (E.G.H.Oliv.)\n\nErica rigidula ((N.E.Br.) E.G.H.Oliv.)\n\nErica rimarum (E.G.H.Oliv.)\n\nErica riparia (H.A.Baker)\n\nErica rivularis (L.E.Davidson)\n\nErica robynsiana (Spirlet)\n\nErica rosacea ((L.Guthrie) E.G.H.Oliv.)\n\nErica roseoloba (E.G.H.Oliv.)\n\nErica rubens (Thunb.)\n\nErica rubiginosa (Dulfer)\n\nErica rudolfii (Bolus)\n\nErica rufescens (Klotzsch)\n\nErica rugata (E.G.H.Oliv.)\n\nErica rupicola (Klotzsch)\n\nErica russakiana (E.G.H.Oliv.)\n\nErica rusticula (E.G.H.Oliv.)\n\nErica sacciflora (Salisb.)\n\nErica sagittata (Klotzsch ex Benth.)\n\nErica salax (Salisb.)\n\nErica salicina (E.G.H.Oliv.)\n\nErica salteri (L.Bolus)\n\nErica saptouensis (E.G.H.Oliv.)\n\nErica savilea (Andrews)\n\nErica saxicola (Guthrie & Bolus)\n\nErica saxigena (Dulfer)\n\nErica scabriuscula (Link)\n\nErica schelpeorum (E.G.H.Oliv. & I.M.Oliv.)\n\nErica schlechteri (Bolus)\n\nErica schmidtii (Dulfer)\n\nErica schumannii (E.G.H.Oliv.)\n\nErica scoparia (L.)\n\nErica scytophylla (Guthrie & Bolus)\n\nErica selaginifolia (Salisb.)\n\nErica senilis (Klotzsch ex Benth.)\n\nErica seriphiifolia (Salisb.)\n\nErica serrata (Thunb.)\n\nErica sessiliflora (L.f.)\n\nErica setacea (Andrews)\n\nErica setociliata (H.A.Baker)\n\nErica setosa (Bartl.)\n\nErica setulosa (Benth.)\n\nErica sexfaria (Aiton)\n\nErica shannonea (Andrews)\n\nErica sicifolia (Salisb.)\n\nErica sicula (Guss.)\n\nErica silvatica ((Welw. ex Engl.) Beentje)\n\nErica simii ((S.Moore) E.G.H.Oliv.)\n\nErica similis ((N.E.Br.) E.G.H.Oliv.)\n\nErica sitiens (Klotzsch)\n\nErica situshiemalis (E.G.H.Oliv. & Pirie)\n\nErica sociorum (L.Bolus)\n\nErica solandra (Andrews)\n\nErica sonderiana (Guthrie & Bolus)\n\nErica sonora (Compton)\n\nErica sparrmanni (L.f.)\n\nErica sparsa (Sinclair)\n\nErica spectabilis (Klotzsch ex Benth.)\n\nErica sperata (E.G.H.Oliv.)\n\nErica sphaerocephala (J.C.Wendl. ex Benth.)\n\nErica spiculifolia (Salisb.)\n\nErica spinifera ((H.Perrier) Dorr & E.G.H.Oliv.)\n\nErica spumosa (L.)\n\nErica squarrosa (Salisb.)\n\nErica stagnalis (Salisb.)\n\nErica steinbergiana (H.L.Wendl. ex Klotzsch)\n\nErica stenantha (Klotzsch ex Benth.)\n\nErica stokoeanthus (E.G.H.Oliv.)\n\nErica stokoei (L.Bolus)\n\nErica straminea (J.C.Wendl.)\n\nErica straussiana (Gilg)\n\nErica strigilifolia (Salisb.)\n\nErica strigosa (Aiton)\n\nErica stylaris (Spreng.)\n\nErica subcapitata ((N.E.Br.) E.G.H.Oliv.)\n\nErica subdivaricata (P.J.Bergius)\n\nErica subimbricata (Compton)\n\nErica subterminalis (Klotzsch ex Benth.)\n\nErica subulata (J.C.Wendl.)\n\nErica subverticillaris (Diels ex L.Guthrie & Bolus)\n\nErica suffulta (J.C.Wendl. ex Benth.)\n\nErica swaziensis (E.G.H.Oliv.)\n\nErica sylvainiana (Dorr & E.G.H.Oliv.)\n\nErica symonsii (L.Bolus)\n\nErica syngenesia (Compton)\n\nErica tarantulae (E.G.H.Oliv.)\n\nErica taxifolia (Dryand.)\n\nErica taylorii (E.G.H.Oliv.)\n\nErica tegulifolia (Salisb.)\n\nErica tenella (Andrews)\n\nErica tenuicaulis (Klotzsch ex Benth.)\n\nErica tenuifolia (L.)\n\nErica tenuipes (Guthrie & Bolus)\n\nErica tenuis (Salisb.)\n\nErica terminalis (Salisb.)\n\nErica terniflora (E.G.H.Oliv.)\n\nErica tetragona (L.f.)\n\nErica tetralix (L.)\n\nErica tetrathecoides (Benth.)\n\nErica thamnoides (E.G.H.Oliv.)\n\nErica thimifolia (J.C.Wendl.)\n\nErica thodei (Guthrie & Bolus)\n\nErica thomae (L.Bolus)\n\nErica thomensis ((Henriq.) Dorr & E.G.H.Oliv.)\n\nErica thunbergii (Montin)\n\nErica tomentosa (Salisb.)\n\nErica toringbergensis (H.A.Baker)\n\nErica totta (Thunb.)\n\nErica tradouwensis (Compton)\n\nErica tragomontana (R.C.Turner)\n\nErica tragulifera (Salisb.)\n\nErica triceps (Link)\n\nErica trichadenia (Bolus)\n\nErica trichoclada (Guthrie & Bolus)\n\nErica trichophora (Benth.)\n\nErica trichophylla (Benth.)\n\nErica trichostigma (T.M.Salter)\n\nErica trichroma (Benth.)\n\nErica triflora (L.)\n\nErica trimera ((Engl.) Beentje)\n\nErica triphylla (Link)\n\nErica tristis (Bartl.)\n\nErica trivialis (Klotzsch ex Benth.)\n\nErica truncata (L.Bolus)\n\nErica tubercularis (Salisb.)\n\nErica tumida (Ker Gawl.)\n\nErica turbiniflora (Salisb.)\n\nErica turgida (Salisb.)\n\nErica turmalis (Salisb.)\n\nErica turneri (E.G.H.Oliv.)\n\nErica turrisbabylonica (H.A.Baker)\n\nErica tysonii (Bolus)\n\nErica uberiflora (E.G.H.Oliv.)\n\nErica umbellata (L.)\n\nErica umbelliflora (Klotzsch ex Benth.)\n\nErica umbonata (Compton)\n\nErica umbratica (E.G.H.Oliv. & I.M.Oliv.)\n\nErica unicolor (J.C.Wendl.)\n\nErica unilateralis (Klotzsch ex Benth.)\n\nErica urceolata ((Klotzsch) E.G.H.Oliv.)\n\nErica urna-viridis (Bolus)\n\nErica ustulescens (Guthrie & Bolus)\n\nErica utriculosa (L.Bolus)\n\nErica uysii (H.A.Baker)\n\nErica vagans (L.)\n\nErica valida (H.A.Baker)\n\nErica vallis-aranearum (E.G.H.Oliv.)\n\nErica vallis-fluminis (E.G.H.Oliv.)\n\nErica vallis-gratiae (Guthrie & Bolus)\n\nErica vanheurckii (Müll.Arg.)\n\nErica varderi (L.Bolus)\n\nErica velatiflora (E.G.H.Oliv.)\n\nErica velitaris (Salisb.)\n\nErica ventricosa (Thunb.)\n\nErica venustiflora (E.G.H.Oliv.)\n\nErica verecunda (Salisb.)\n\nErica vernicosa (E.G.H.Oliv.)\n\nErica versicolor (Andrews)\n\nErica verticillata (P.J.Bergius)\n\nErica vestita (Thunb.)\n\nErica viguieri ((H.Perrier) Dorr & E.G.H.Oliv.)\n\nErica villosa (Andrews)\n\nErica virginalis (Klotzsch ex Benth.)\n\nErica viridiflora (Andrews)\n\nErica viridimontana (E.G.H.Oliv. & I.M.Oliv.)\n\nErica viscaria (L.)\n\nErica viscosissima (E.G.H.Oliv.)\n\nErica vlokii (E.G.H.Oliv.)\n\nErica vogelpoelii (H.A.Baker)\n\nErica walkeria (Andrews)\n\nErica wangfatiana (Dorr & E.G.H.Oliv.)\n\nErica wendlandiana (Klotzsch)\n\nErica whyteana (Britten)\n\nErica wildii (Brenan)\n\nErica williamsiorum (E.G.H.Oliv.)\n\nErica winteri (H.A.Baker)\n\nErica wittebergensis (Dulfer)\n\nErica woodii (Bolus)\n\nErica wyliei (Bolus)\n\nErica xanthina (Guthrie & Bolus)\n\nErica xeranthemifolia (Salisb.)\n\nErica zebrensis (Compton)\n\nErica zeyheriana ((Klotzsch) E.G.H.Oliv.)\n\nErica zitzikammensis (Dulfer)\n\nErica zwartbergensis (Bolus)\n\nErica × darleyensis Bean – artificial hybrid\n\nErica × flavisepala Guthrie & Bolus\n\nErica × fontensis T.M.Salter\n\nErica × nelsonii Fagúndez\n\nErica × stuartii (Macfarl.) Mast.\n\nErica × veitchii Bean\n\nErica × vinacea L.Bolus\n\nErica × watsonii Benth.\n\nErica × williamsii Druce",
+      "source_url": "https://en.wikipedia.org/w/index.php?oldid=1323140401",
+      "revision_id": "1323140401",
+      "text_sha256": "692f56f44daee474fd23d06b7e1574b8accbc61103dd75fbcfd5f851883c8694",
+      "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+      "license": "CC-BY-SA-4.0; Wikipedia contributors",
+      "acquired_at": "2026-10-18T17:49:02.016929+00:00",
+      "parser_receipt_sha256": "",
+      "source_kind": "prose",
+      "parse_status": "parsed",
+      "score": -6.010533332824707,
+      "vector_distance": null,
+      "score_type": "raw_logit"
+    }
+  ],
+  "historical": {
+    "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1017",
+    "title": "Britannica page 1017",
+    "corpus": "britannica",
+    "text": "<x_0.21><y_0.0297>H E L<x_0.3154><y_0.05><class_Page-header>\n\n<x_0.4336><y_0.0312>( 781 )<x_0.5273><y_0.0508><class_Page-header>\n\n<x_0.6436><y_0.032>HEM<x_0.7549><y_0.0492><class_Section-header>\n\n<x_0.0791><y_0.0539>the fixth for the pigans, and the feventh for the hy- pocrites of all religions.<x_0.4756><y_0.0813><class_Text>\n\n<x_0.0762><y_0.082>Among Christians, there are two controverted quindices in regard to hell; is the one orchestra locality: the other the duration of its moments. The healthy of hell, and the reality of its fire, began frit to be controverted by Origen. That father, interpreted the freture account metaphorically, makes hell souffl not in external punilments, but in a confouficifa or fresh of guits, and a remainbame of poll pleasure. Among the modern, Mr YMillion advances a new hypothesis... According to him, the comets are farany hellis appointed in their orbits alternately to carry the channel into the cosmos of the fun, there to be forceful by its violent bars, and then to return with them beyond the orb of Saturn, there to flave them in their cold and difficult regions. Another modern author, not detailed with any hypothetical listeners advanced, alignes the fun to be the local hell.. As to the feecond quition, viz. the duration of both moments we have Origen again at the head of choice quite days that they are eternal; it being that father’s opinion, that not only men, but detaly, after a din course of punishment fortable to their respective critics, full be partained and refortered to heaven. The chief principle upon which Origen build his opinion, was the nature of punishment, which he took to be arcadency, applied only as phytic for the recovery of the patients' health. The chief objection to the certyly of heli torments among modern writers, is the disproportion between temporary crimes and extend punilments. Those who maintain the affirmative, ground their opinions on forture accounts, which expect the plans of fall under the figure of a worm which never dies, and a fire which is not quenched; as allo upon the words. \"I Thief shall agree into overlifting punilment, but \"to the rightness into like eternal.<x_0.4775><y_0.5563><class_Text>\n\n<x_0.0615><y_0.5555>HELLEBORUS, HELLEBORR, in botany, a genus of the polyandria polygynia clafs. I has an cally, the pe- rais are five or more; the reclaim is tubular and blue biarded; and the capital contains many feeds. There are five species, two of them native of Britain, viz. the females, or great balham black hellebore; and the visida, or wild black hellebore. The hellebors, when taken in large quantities, is polinous; but the root, in final dates, is fuppeded to attenuate the humours, and to promote urinary and uterine discharge.<x_0.4766><y_0.6922><class_Text>\n\n<x_0.0625><y_0.693>HELLENISM, in matters of language, a phrae in the idem, going, or collection of the Greek tongue.<x_0.4746><y_0.7211><class_Text>\n\n<x_0.0635><y_0.7219>This words is only of what breaking of the authors who, writing in a different language, express themselves in a philosophy peculiar to the Greek<x_0.4736><y_0.7602><class_Text>\n\n<x_0.0645><y_0.7609>HELLENISTIC, OF HARRISTIC LANDOABT, that ufed by the Greenian Jews who lived in Egypt and other parts where the Greek tango prevailed. In this lan- gauge it is fail the Septragint was written, and all the books of the New Telmaners; and that it was thus denominated to these that it was Greek filled with He- brafinn and Syriacifine.<x_0.4785><y_0.8547><class_Text>\n\n<x_0.0654><y_0.8555>HELLESPONTS, the entrance of the flereights which divides Afa from Europe, and paths from the Archi- Vol. II. No. 59.<x_0.4727><y_0.8969><class_Text>\n\n<x_0.5039><y_0.0531>pelago to Confantainople. It is now called the Darda- nelles, and is about two miles wide.<x_0.8994><y_0.0828><class_Text>\n\n<x_0.5029><y_0.0836>HELM _g? a flip_, is a piece of timber fallenred into the reader, which comes forward into the literary, or place where the prefix at the helm flere the flag, by holding the whiplaff in his hand, which is joined to the helm. They begin however to be left off, fleeting- which being died in their room.<x_0.8984><y_0.1641><class_Text>\n\n<x_0.502><y_0.1648>There are several terms in the tea-language relating to the helm; as, _hear up the helm;_ that is, let the flip my or most large before the wind. _Helm amid fribp_ or _right the helm;_ that is, keep it even with the middle of the hip. _Part, the helm_, put it over the the of field of the hip. _Starkbard the helm_, put it on the right side of the flip.<x_0.8975><y_0.2594><class_Text>\n\n<x_0.501><y_0.2586>HELMET, an ancient dective armour worn by horlemen both in war and in tournaments. It covered both the head and face, you leaving an anymore to the front fetured by bars, which was called the vitor.<x_0.8965><y_0.3109><class_Text>\n\n<x_0.5><y_0.3117>HELMINTHOLTHUIS, in natural history a name given by Lumana un pretrified bodies of rembling worms. Of the lie no reckons four genera. 1. Petrified li- thehyts, found in the mountains of Sweden. 2. Petirified shells. 3. Petrified zophytes. 4. Petrified reptiles.<x_0.8955><y_0.3922><class_Text>\n\n<x_0.499><y_0.393>HELMONT, a town of the Netherlands, in the province of Dutch Paraban, situated on the river Aa :E. long. 5\" 6/5, N. lat. 51\" 30\".<x_0.8945><y_0.4336><class_Text>\n\n<x_0.498><y_0.4328>HELMSSTAT, a town of Germany, in the circle of Lower Saxony, and dukedom of Brunfwie :E. long. 11\" 15, N. lat. 22\" 22.<x_0.8936><y_0.4742><class_Text>\n\n<x_0.4971><y_0.475>HELOTS, in Grecian antiquity, the inhabitants of Helon, a town of Lacom, conquer by the Spartan; who made them all prisoners of var, and reduced them into the condition of flares.<x_0.8926><y_0.5281><class_Text>\n\n<x_0.5><y_0.5289>The femme of Sparta were forbidden the excerite of any mean on mechanical employment, and therefore the whole care of fupplying the city with necefairs develop upon the filters.<x_0.8916><y_0.582><class_Text>\n\n<x_0.4961><y_0.5836>HELSINGTORDIN, a ports town of Sweden, fituated on the gulph of Finland, in 24\" 6' E. long. and 60\" 8' lat.<x_0.8906><y_0.6219><class_Text>\n\n<x_0.4951><y_0.6234>HELSINGIA, a province of Sweden, bounded by the Botnhic gulph on the cafl, and by Dalecarila on the well.<x_0.8926><y_0.6633><class_Text>\n\n<x_0.4941><y_0.6641>HELSINGIC CHARACTER, a peculiar kind of character, found inferited on flones in the province of Hel- fingia s the Runic and Hellingic characters may be easily transformed into each other.<x_0.8896><y_0.7172><class_Text>\n\n<x_0.4932><y_0.7188>HELLTON, a thorough of Cornwall, nine miles foutwelt of Falmouth; it finds two members to parla- ment.<x_0.8926><y_0.7578><class_Text>\n\n<x_0.4922><y_0.7586>HELNOETSLUTS, a port-town of the united Netherlands, fituated in the illand of Voorn, in the province of Holland, five miles south of the Breel; it is one of the bell chorus in Holland, and that to which the English packet always goes.<x_0.9004><y_0.8266><class_Text>\n\n<x_0.4912><y_0.8273>HEMEROBIUS, in zoology, a genus of deficits of the temperature, the characters of which are thefe. The mouth is furnished with two teeth; the pulpit are four; the wings are dellected, but not planted ; and:<x_0.9072><y_0.8977><class_Text>",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "text_sha256": "6a51098681aa9bbb8d7061df3f4f3af24e2be8e2f512b37f5a2d0d0fcdd408e9",
+    "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "license": "CC0-1.0; National Library of Scotland",
+    "acquired_at": "2026-10-18T15:56:06.167591+00:00",
+    "parser_receipt_sha256": "c26edb2f4a0f59a5e1f06954a3378b2ac48ad449676c70d382134e2c9987e3f3",
+    "source_kind": "prose",
+    "parse_status": "parsed"
+  },
+  "traces": [
+    {
+      "tool": "wikipedia.search",
+      "status": "completed",
+      "duration_ms": 208,
+      "occurred_at": "2026-10-18T17:48:54.959235+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 562,
+      "occurred_at": "2026-10-18T17:48:55.521571+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 594,
+      "occurred_at": "2026-10-18T17:48:56.142927+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 554,
+      "occurred_at": "2026-10-18T17:48:56.721623+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 631,
+      "occurred_at": "2026-10-18T17:48:57.373789+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 542,
+      "occurred_at": "2026-10-18T17:48:57.941722+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 554,
+      "occurred_at": "2026-10-18T17:48:58.511277+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 2084,
+      "occurred_at": "2026-10-18T17:49:00.608749+00:00"
+    },
+    {
+      "tool": "wikipedia.article",
+      "status": "completed",
+      "duration_ms": 1391,
+      "occurred_at": "2026-10-18T17:49:02.017030+00:00"
+    },
+    {
+      "tool": "wikipedia.cached_exact_title",
+      "status": "completed",
+      "duration_ms": 42,
+      "occurred_at": "2026-10-18T17:49:02.083521+00:00"
+    },
+    {
+      "tool": "nemotron.embed.document",
+      "status": "completed",
+      "duration_ms": 524,
+      "occurred_at": "2026-10-18T17:49:02.607186+00:00"
+    },
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 96,
+      "occurred_at": "2026-10-18T17:49:02.709943+00:00"
+    },
+    {
+      "tool": "lancedb.search",
+      "status": "completed",
+      "duration_ms": 7,
+      "occurred_at": "2026-10-18T17:49:02.716966+00:00"
+    },
+    {
+      "tool": "nemotron.rerank",
+      "status": "completed",
+      "duration_ms": 246,
+      "occurred_at": "2026-10-18T17:49:02.963247+00:00"
+    }
+  ],
+  "blockers": [],
+  "metrics": {
+    "historical_words": 1013,
+    "modern_words": 144,
+    "vocabulary_jaccard": 0.03007518796992481,
+    "jensen_shannon_divergence": 0.7495489253179461,
+    "historical_top_words": [
+      [
+        "the",
+        111
+      ],
+      [
+        "of",
+        61
+      ],
+      [
+        "in",
+        30
+      ],
+      [
+        "and",
+        29
+      ],
+      [
+        "to",
+        25
+      ],
+      [
+        "a",
+        22
+      ],
+      [
+        "is",
+        16
+      ],
+      [
+        "which",
+        12
+      ],
+      [
+        "it",
+        11
+      ],
+      [
+        "by",
+        10
+      ],
+      [
+        "that",
+        10
+      ],
+      [
+        "are",
+        9
+      ],
+      [
+        "helm",
+        9
+      ],
+      [
+        "or",
+        8
+      ],
+      [
+        "on",
+        8
+      ]
+    ],
+    "modern_top_words": [
+      [
+        "nick",
+        9
+      ],
+      [
+        "fury",
+        9
+      ],
+      [
+        "the",
+        9
+      ],
+      [
+        "agent",
+        8
+      ],
+      [
+        "of",
+        8
+      ],
+      [
+        "s",
+        8
+      ],
+      [
+        "h",
+        8
+      ],
+      [
+        "i",
+        8
+      ],
+      [
+        "e",
+        8
+      ],
+      [
+        "l",
+        8
+      ],
+      [
+        "d",
+        8
+      ],
+      [
+        "comics",
+        4
+      ],
+      [
+        "series",
+        4
+      ],
+      [
+        "a",
+        3
+      ],
+      [
+        "title",
+        3
+      ]
+    ],
+    "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+  },
+  "uncertainty": [
+    "Reranker logits are relevance scores, not calibrated probabilities; human match review is pending.",
+    "Top candidate margin is insufficient or only one candidate was returned."
+  ],
+  "candidate_query": "h e l",
+  "semantic_input": {
+    "query": "h e l\nH E L\n\n( 781 )\n\nHEM\n\nthe fixth for the pigans, and the feventh for the hy- pocrites of all religions.\n\nAmong Christians, there are two controverted quindices in regard to hell; is the one orchestra locality: the other the duration of its moments. The healthy of hell, and the reality of its fire, began frit to be controverted by Origen. That father, interpreted the freture account metaphorically, makes hell souffl not in external punilments, but in a confouficifa or fresh of guits, and a remainbame of poll pleasure. Among the modern, Mr YMillion advances a new hypothesis... According to him, the comets are farany hellis appointed in their orbits alternately to carry the channel into the cosmos of the fun, there to be forceful by its violent bars, and then to return with them beyond the orb of Saturn, there to flave them in their cold and difficult regions. Another modern author, not detailed with any hypothetical listeners advanced, alignes the fun to be the local hell.. As to the feeco",
+    "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+    "historical_prefix_characters": 1000,
+    "candidate_prefix_characters": 5000
+  },
+  "match_margin": 0.1792311668395996,
+  "retrieval_method": "nemotron_embed_lancedb_rerank",
+  "challenge_ready": true
+}
