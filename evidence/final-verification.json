@@ -1,0 +1,93 @@
+{
+  "verified_date": "2026-10-18",
+  "historical_images_selected": 100,
+  "historical_image_hashes_verified": 100,
+  "full_page_parse_accepted": 98,
+  "illustration_partial_parse_accepted": 1,
+  "nontext_cover_unmatched": 1,
+  "corpus_counts": {
+    "documents": 175,
+    "vectors": 0,
+    "historical_pages": 99,
+    "wikipedia_articles": 76
+  },
+  "matching_status_counts": {
+    "blocked": 1,
+    "not_run": 98,
+    "unreadable_or_nontext": 1
+  },
+  "nemotron_embedding_vectors": 0,
+  "live_nemotron_super_success": false,
+  "required_three_successes_verified": 0,
+  "six_agent_cases_attempted": 6,
+  "local_tests": "25 passed after native Azure Blob storage fix",
+  "lint": "Ruff check and format passed",
+  "secret_scan": "Gitleaks nonignored candidate files exit 0",
+  "apple_container_build": "PASSED after shallow-fetch retry",
+  "azure_deployment": "managed by root agent; not asserted by this lane",
+  "protected_governance_modified": false,
+  "commits_created": 0,
+  "files_staged": 0,
+  "evidence_files": [
+    "evidence/100-page-extraction.json",
+    "evidence/100-page-matching-status.json",
+    "evidence/apple-container-build-retry.log",
+    "evidence/apple-container-build.log",
+    "evidence/apple-container-smoke.json",
+    "evidence/dataset-download.json",
+    "evidence/documentation-validation.json",
+    "evidence/final-verification.json",
+    "evidence/hermes-framework-live-attempt.json",
+    "evidence/illustration-crop-retry.json",
+    "evidence/lexical-retrieval-improved.json",
+    "evidence/lexical-retrieval-live.json",
+    "evidence/page-visual-review.json",
+    "evidence/parse-live-all.json",
+    "evidence/parse-live-first-three.json",
+    "evidence/parse-retry-12000.json",
+    "evidence/ruff.txt",
+    "evidence/secret-scan.json",
+    "evidence/seed-boot-verification.json",
+    "evidence/setup-source-checks.json",
+    "evidence/six-case-evaluation.json",
+    "evidence/tests.txt"
+  ],
+  "apple_container_smoke": {
+    "health_http": 200,
+    "ready_http": 503,
+    "ready": {
+      "status": "blocked",
+      "counts": {
+        "documents": 175,
+        "vectors": 0,
+        "historical_pages": 99,
+        "wikipedia_articles": 76
+      },
+      "hermes_installed": true,
+      "inference_verified": false,
+      "message": "Run evaluation to establish model and evidence readiness."
+    },
+    "unauthorized_http": 401,
+    "runtime": "Apple Container linux/arm64",
+    "image_manifest": "sha256:f7176fa944cbf4ce2734c9511449507fe2341850d42c61a5132488525684289d"
+  },
+  "documentation_validation": {
+    "families": 1,
+    "languages": [
+      "en",
+      "es",
+      "de",
+      "fr"
+    ],
+    "metadata_and_links": "passed"
+  },
+  "azure_blob_storage": {
+    "native_blob_configuration_implemented": true,
+    "runtime_probe": "passed in deployed ACA at2026-10-18T16:46:08.642950Z;183docs99historical84Wiki0vectors",
+    "acr_run": "dtc",
+    "acr_build": "Succeeded",
+    "image_digest": "sha256:b1d133f174290316101c582ab8782ff95ce621fdb61813c5e6bfb2f4c9742b92",
+    "secrets_excluded_from_worker": true,
+    "runtime_probe_artifact": "evidence/azure-blob-runtime-probe.json"
+  }
+}

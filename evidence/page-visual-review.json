@@ -1,0 +1,25 @@
+{
+  "reviewer": "assistant visual inspection of original images",
+  "reviewed_date": "2026-10-18",
+  "full_corpus_visual_review": false,
+  "pages": [
+    {
+      "row_index": 452,
+      "image_sha256": "233256cb3c3c25e03e847aa65e26f3e82cd05f8ef6e302c7ce69fe42a042f2cf",
+      "classification": "nontext_book_cover",
+      "has_accepted_text": false,
+      "match_status": "unmatched_nontext",
+      "note": "Plain brown cover; do not invent prose or replace this sampled physical page.",
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:452"
+    },
+    {
+      "row_index": 2243,
+      "classification": "illustrated_plate",
+      "has_accepted_text": true,
+      "parse_status": "partial_illustration_ocr",
+      "note": "Astronomical figures; four region crops accepted after two full-page truncations. Exact figure interpretations remain unreviewed.",
+      "image_sha256": "0bd9a3e052398fa30c19e0b42ee28f70418b570cc1039ea2a454411dedb4972d",
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2243"
+    }
+  ]
+}

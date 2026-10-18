@@ -1,0 +1,901 @@
+{
+  "generated_at": "2026-10-18T16:10:31.438658+00:00",
+  "sample_size": 100,
+  "pages": [
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+      "row_index": 13,
+      "match_status": "blocked",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "result": {
+        "status": "blocked",
+        "question": "292 SHIP-BUILDING.",
+        "locale": "en",
+        "candidates": [],
+        "historical": {
+          "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+          "title": "Britannica page 13",
+          "corpus": "britannica",
+          "text": "<x_0.0576><y_0.0445>292 SHIP-BUILDING.<x_0.6514><y_0.0563><class_Page-header>\n\n<x_0.0615><y_0.0648>Fractical Building<x_0.126><y_0.1117><class_Section-header>\n\n<x_0.1182><y_0.057>ends in close contact with, and cooked or dowelled to, the sides of the diagonal timbers. In this state the frame--on in the hold presents various compartments, each representing the figure of a method.<x_0.5244><y_0.1172><class_Text>\n\n<x_0.1172><y_0.1109>A T reads—timber is then introduced into each rhombed, with an inclination opposite to that of the diagonal timbers, thereby dividing it into two parts. The trust--pieces so in- tended into one rhombed, are to the diagonal frames where the key-stone is to the arch; for no weight or pressure on the fabric can alter its position in a longitudinal direction till compression takes place at the autumn, and extension of the various ties.<x_0.5391><y_0.2141><class_Text>\n\n<x_0.1191><y_0.2094>\"This arch-like property of the diagonal frame not only opposes an alteration of position in a longitudinal direction, but also restate external pressure on the bottom, either from grounding or any other cause, because so impression can be made in its figure in these directions, without forcing the several parts of which it is composed into a shorter space.<x_0.54><y_0.2875><class_Text>\n\n<x_0.1201><y_0.2836>The beams are discussed in the system nearly as we usual, except that in buildings, where a ship necessarily re-quires the greatest security, two additional beams have been introduced.<x_0.541><y_0.3367><class_Text>\n\n<x_0.1367><y_0.3328>• The beams of the several decks are attached to the shiny’s side in the following manner.<x_0.542><y_0.3617><class_List-item>\n\n<x_0.1348><y_0.3586>1 Lc by And of pieces internal hoops, distinguished by the letter 2. These shelf-pieces are composed of several lengths of timber, scarded or joined together by coaks or circular downs, so as to form a full of internal hoop, extending from the hooks forward, to the transons shall --(in the plate the transons are not shown), we have chosen the perfected application of Sir Robert Seapings’ system, after the adoption of the circular stem into the service, —to the under side of which, as well as the whole part of the beams, they are securely cookies, and being then firmly bolted to the side, instead of becoming a mere local fixer of the beam to the shiny’s exterior frame, as likely were, they are seen continued and general security. The shelf-piece is also a tie to the top-side in a four and all direction, co-operating with the trusted frame, as already explained.<x_0.5605><y_0.5461><class_List-item>\n\n<x_0.1377><y_0.5453>2 Idly. By chocks, represented in Plate CCCCLV. (m.,) which are placed under all the shelf-pieces in walls of the beams, except the drop in such a manner as to receive the up and down arm of the iron knes. The lower ends of those under the span-deck-pipe step on the ends of the otp-bears; and those of the several decks above, step on the projecting part of the splashing beams. The chosen between the they and gun docks, and of their being driven into their respective places very tightly, thereby eating the pillars. Another advantage attending them is the great tendency to stiffen the shiny side, and to prevent the beans-ends from playing on the fasteners when the sihry is rolling or retaining under press of call.<x_0.5615><y_0.7016><class_List-item>\n\n<x_0.1309><y_0.7008>\"The current non-plate knees for securing the otlop-beans, and the iron frontal knees of the other decks, are described in (a) and (a). Place CCCCLV.<x_0.5625><y_0.743><class_Text>\n\n<x_0.1494><y_0.7359>\"The tendency of the ship to stretch or draw sammber in her upper works being by our means advised by the short plank out the inside between the ports, a true piece of plank is substituted in lieu of them,which being well secured, at the altumants, very materially and the trussal frame, and gives great artifacts, thereby opposing the in-clination to arch or log, add.\"<x_0.5596><y_0.8289><class_Text>\n\n<x_0.1504><y_0.8234>These various alterations from the old system of building had the effect of very greatly increasing the strength of the ship of the boys'l away. Among us many changes, it is not impossible that continuous conclusions may have been drawn as to the relative importance of each. We include much the opinion that this has been the case a very good de-gree, and that is part hitherto considered as quite authori- nate, and now wholly discontinued as useless, was one priin- cipal cause of the increase of strength which enabled ships<x_0.5586><y_0.9414><class_Text>\n\n<x_0.5439><y_0.0539>to preserve their sheet. This we shall presently endeavour to prove.<x_0.9561><y_0.0852><class_Text>\n\n<x_0.5459><y_0.0789>The lower ranges of riders and trusses, which were brought on the upper surfaces of the floors and the fututets, could have had little effect in preventing nothing beyond that there, which sense from the additional resistance they offered to compression, and the additional rigidity they pose to the structure in the event of groundning, or of being adore. They certainly served as a firm base upon which to erect a series of riders with diagonally, trusses, which were more advantageous by placed to afford efficient support to the ex tremities of the body. Yet the upper riders only seemed to the countries of the you-decks, and therefore not very far above the line of non-action. Presuming, however, that this second series of riders was of considerable utility, as a base for the might probably have been obtained within out so much incumbance to the hold, and consequently without the objective being proved against it, which was to to the diagonal riders, of diminishing the storage. According to the estimate made the IRS of Robert Seapings, the actual inclined contents of the diagonal frame were less than those of the ceiling which is superseded.<x_0.957><y_0.3289><class_Text>\n\n<x_0.5469><y_0.3273>The trusing between the ports has been discontinued in France. He Majesty's ship. We cannot but regret the change, as hetwe would this was the most advantageous innovation con-ship needed with the diagonal system, and one in which the ke-di was uncomfortable with compensating inconveniences.<x_0.959><y_0.3906><class_Text>\n\n<x_0.5488><y_0.3852>In investigating the reasons on which we found this opinion, we shall every describe the manner in which we consider this trussing must have acted, to prevent any alteration of form in the upper parts of the ship.<x_0.96><y_0.4414><class_Text>\n\n<x_0.5479><y_0.4359>We concern when, with the gun-dedic of a three-decker. The gun-deck, from its proximity to the line of inaction, from the support of the trussed frame, which extended to the shell and from the walks, may be assumed, at least in a new ship, as a most firm base on which to raise a series of supports. At some point on the upper edge of the greck skpirishing a, above, that is, the truss, firmly closed at its heel, extended upwards and at, in the after-body of the ship, to the lower edge of the middle-dock clamp, where it was secured (denoted), immediately above the head of this shore a second was fixed on the upper edge of the middle, deck spiriting, and extended upwards to the lower edge of the main-deck clamp, where it was secured, and immediate ly over the head of this shore a third was secured on the edge of the main-deck spiritting, and extended upwards to the lower edge of the quarter-deck clamp, where it was finally secured to that is point in the power of scientists to the quarter-deck was continuously and firmly shoel up from a point in the most rigid and unattereble part of the ship; and, in the same manner, a sister of points along the range of ex-certies to the counter-deck become shoutp from the same foundation. This is in the after-body. In the first-body a corresponding system of shorting run in an opposite direction, fun forward, and in a similar manner supported the range of securities of the forecasts, while each intervening deck periods, the same situation.<x_0.9609><y_0.7641><class_Text>\n\n<x_0.5664><y_0.7578>Radizing as these stores did in opposite direction from the most rigid part of the ship as their lines, they play-fished a setter of points of support to the principal long- undained ties, they formed with them a system of timeless and the triangular is a figure which admits of no an element of form for at longing as his sides remain the same; the angles are invariable. It might almost be called to impomphether, for the range of quarters-deck and forecast se- cortiles, by which we mean the clamp, shelf, and water-way, to drop at the extremities excepting to so far as the compressibility of the materials would admit.<x_0.9619><y_0.8977><class_Text>\n\n<x_0.5674><y_0.8922>To adapt another, and perhaps a stronger, view of this system of trussing, we may consider the whole top-side of a ship, with the securities of the gun-deck as a base: to<x_0.9727><y_0.9352><class_Text>",
+          "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+          "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+          "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+          "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+          "license": "CC0-1.0; National Library of Scotland",
+          "acquired_at": "2026-10-18T15:49:00.945202+00:00",
+          "parser_receipt_sha256": "0aace1eb2bb766876ea6ac19c6b2cb799f0a6c053f375de9b7ba1b5c6960185d",
+          "source_kind": "prose",
+          "parse_status": "parsed"
+        },
+        "traces": [
+          {
+            "tool": "wikipedia.search",
+            "status": "completed",
+            "duration_ms": 219,
+            "occurred_at": "2026-10-18T16:10:22.156236+00:00"
+          },
+          {
+            "tool": "wikipedia.article",
+            "status": "completed",
+            "duration_ms": 534,
+            "occurred_at": "2026-10-18T16:10:22.690608+00:00"
+          },
+          {
+            "tool": "wikipedia.article",
+            "status": "completed",
+            "duration_ms": 540,
+            "occurred_at": "2026-10-18T16:10:23.245092+00:00"
+          },
+          {
+            "tool": "wikipedia.article",
+            "status": "completed",
+            "duration_ms": 538,
+            "occurred_at": "2026-10-18T16:10:23.804733+00:00"
+          },
+          {
+            "tool": "wikipedia.article",
+            "status": "completed",
+            "duration_ms": 547,
+            "occurred_at": "2026-10-18T16:10:24.360409+00:00"
+          },
+          {
+            "tool": "wikipedia.article",
+            "status": "completed",
+            "duration_ms": 509,
+            "occurred_at": "2026-10-18T16:10:24.877527+00:00"
+          },
+          {
+            "tool": "wikipedia.article",
+            "status": "completed",
+            "duration_ms": 544,
+            "occurred_at": "2026-10-18T16:10:25.429811+00:00"
+          },
+          {
+            "tool": "wikipedia.article",
+            "status": "completed",
+            "duration_ms": 519,
+            "occurred_at": "2026-10-18T16:10:25.958037+00:00"
+          },
+          {
+            "tool": "wikipedia.article",
+            "status": "completed",
+            "duration_ms": 549,
+            "occurred_at": "2026-10-18T16:10:26.520158+00:00"
+          },
+          {
+            "tool": "nemotron.embed.document",
+            "status": "failed",
+            "duration_ms": 3017,
+            "error": "v1/embeddings: HTTP 503",
+            "occurred_at": "2026-10-18T16:10:29.546010+00:00"
+          }
+        ],
+        "blockers": [
+          "v1/embeddings: HTTP 503"
+        ],
+        "metrics": null,
+        "uncertainty": [],
+        "candidate_query": "ship building"
+      }
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:104",
+      "row_index": 104,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:115",
+      "row_index": 115,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:217",
+      "row_index": 217,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:220",
+      "row_index": 220,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:247",
+      "row_index": 247,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:251",
+      "row_index": 251,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:257",
+      "row_index": 257,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:258",
+      "row_index": 258,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:261",
+      "row_index": 261,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:266",
+      "row_index": 266,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:268",
+      "row_index": 268,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:270",
+      "row_index": 270,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:318",
+      "row_index": 318,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:374",
+      "row_index": 374,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:383",
+      "row_index": 383,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:403",
+      "row_index": 403,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:452",
+      "row_index": 452,
+      "match_status": "unreadable_or_nontext",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "No accepted OCR document; inspect parser receipts and page review"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:473",
+      "row_index": 473,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:493",
+      "row_index": 493,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:499",
+      "row_index": 499,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:513",
+      "row_index": 513,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:523",
+      "row_index": 523,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:546",
+      "row_index": 546,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:560",
+      "row_index": 560,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:563",
+      "row_index": 563,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:604",
+      "row_index": 604,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:611",
+      "row_index": 611,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:651",
+      "row_index": 651,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:681",
+      "row_index": 681,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:713",
+      "row_index": 713,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:756",
+      "row_index": 756,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:851",
+      "row_index": 851,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:914",
+      "row_index": 914,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:944",
+      "row_index": 944,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:948",
+      "row_index": 948,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1017",
+      "row_index": 1017,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1032",
+      "row_index": 1032,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1102",
+      "row_index": 1102,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1166",
+      "row_index": 1166,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1214",
+      "row_index": 1214,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1250",
+      "row_index": 1250,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1268",
+      "row_index": 1268,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1284",
+      "row_index": 1284,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1298",
+      "row_index": 1298,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1324",
+      "row_index": 1324,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1327",
+      "row_index": 1327,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1344",
+      "row_index": 1344,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1400",
+      "row_index": 1400,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1415",
+      "row_index": 1415,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1422",
+      "row_index": 1422,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1430",
+      "row_index": 1430,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1466",
+      "row_index": 1466,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1473",
+      "row_index": 1473,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1580",
+      "row_index": 1580,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1614",
+      "row_index": 1614,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1615",
+      "row_index": 1615,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1649",
+      "row_index": 1649,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1670",
+      "row_index": 1670,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1678",
+      "row_index": 1678,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1680",
+      "row_index": 1680,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1722",
+      "row_index": 1722,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1765",
+      "row_index": 1765,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1803",
+      "row_index": 1803,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1805",
+      "row_index": 1805,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1818",
+      "row_index": 1818,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1828",
+      "row_index": 1828,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1845",
+      "row_index": 1845,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1904",
+      "row_index": 1904,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1910",
+      "row_index": 1910,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1933",
+      "row_index": 1933,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1939",
+      "row_index": 1939,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1942",
+      "row_index": 1942,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1945",
+      "row_index": 1945,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2001",
+      "row_index": 2001,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2051",
+      "row_index": 2051,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2077",
+      "row_index": 2077,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2087",
+      "row_index": 2087,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2093",
+      "row_index": 2093,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2108",
+      "row_index": 2108,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2131",
+      "row_index": 2131,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2155",
+      "row_index": 2155,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2171",
+      "row_index": 2171,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2209",
+      "row_index": 2209,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2243",
+      "row_index": 2243,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2250",
+      "row_index": 2250,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2277",
+      "row_index": 2277,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2296",
+      "row_index": 2296,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2307",
+      "row_index": 2307,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2402",
+      "row_index": 2402,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2424",
+      "row_index": 2424,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2446",
+      "row_index": 2446,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2448",
+      "row_index": 2448,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2464",
+      "row_index": 2464,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2473",
+      "row_index": 2473,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2479",
+      "row_index": 2479,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2493",
+      "row_index": 2493,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2524",
+      "row_index": 2524,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2569",
+      "row_index": 2569,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    },
+    {
+      "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2570",
+      "row_index": 2570,
+      "match_status": "not_run",
+      "accepted_article_ids": [],
+      "review_state": "pending",
+      "reason": "Embedding gateway unavailable; remaining matching calls were not made"
+    }
+  ],
+  "all_matches_reviewed": false,
+  "selection": {
+    "method": "random_without_replacement",
+    "seed": 20261016,
+    "sort": "source_row_index"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "health_http": 200,
+  "ready_http": 503,
+  "ready": {
+    "status": "blocked",
+    "counts": {
+      "documents": 175,
+      "vectors": 0,
+      "historical_pages": 99,
+      "wikipedia_articles": 76
+    },
+    "hermes_installed": true,
+    "inference_verified": false,
+    "message": "Run evaluation to establish model and evidence readiness."
+  },
+  "unauthorized_http": 401,
+  "runtime": "Apple Container linux/arm64",
+  "image_manifest": "sha256:f7176fa944cbf4ce2734c9511449507fe2341850d42c61a5132488525684289d"
+}

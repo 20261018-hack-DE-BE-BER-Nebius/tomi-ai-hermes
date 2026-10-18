@@ -1,0 +1,17 @@
+{
+  "health_http": 200,
+  "ready_http": 503,
+  "ready": {
+    "status": "blocked",
+    "counts": {
+      "documents": 175,
+      "vectors": 0,
+      "historical_pages": 99,
+      "wikipedia_articles": 76
+    },
+    "hermes_installed": true,
+    "inference_verified": false,
+    "message": "Run evaluation to establish model and evidence readiness."
+  },
+  "source": "clean temporary LanceDB boot from bundled public seed"
+}

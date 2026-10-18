@@ -1,0 +1,248 @@
+{
+  "original_page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2243",
+  "original_image_sha256": "0bd9a3e052398fa30c19e0b42ee28f70418b570cc1039ea2a454411dedb4972d",
+  "original_width": 600,
+  "original_height": 815,
+  "method": "visually_selected_figure_regions",
+  "received_at": "2026-10-18T16:06:14.048950+00:00",
+  "regions": [
+    {
+      "index": 0,
+      "crop_image_sha256": "77f725db8bf23e065ca44ca0dc61f4c31d12acec56f4c18fde3281759d221e70",
+      "crop_box": [
+        0,
+        0,
+        300,
+        330
+      ],
+      "coordinates": "original_pixels_top_left",
+      "transform_crop_to_page": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "status": "partial_illustration_ocr",
+      "response": {
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+              "annotations": null,
+              "audio": null,
+              "content": "<x_0.0><y_0.0>Ng. 1.<x_0.9961><y_0.9969><class_Picture>",
+              "function_call": null,
+              "reasoning": null,
+              "refusal": null,
+              "role": "assistant"
+            },
+            "routed_experts": null,
+            "stop_reason": null,
+            "token_ids": null
+          }
+        ],
+        "created": 1792339574,
+        "ec_transfer_params": null,
+        "id": "chatcmpl-7bac09f9-8324-40e4-9c4d-f33de13e8fe1",
+        "kv_transfer_params": null,
+        "metrics": null,
+        "model": "nvidia/nemotron-3.5-parse",
+        "object": "chat.completion",
+        "prompt_logprobs": null,
+        "prompt_text": null,
+        "prompt_token_ids": null,
+        "service_tier": null,
+        "system_fingerprint": "vllm-0.26.0-d51b4524",
+        "usage": {
+          "completion_tokens": 12,
+          "prompt_tokens": 113,
+          "prompt_tokens_details": null,
+          "total_tokens": 125
+        }
+      }
+    },
+    {
+      "index": 1,
+      "crop_image_sha256": "65b9445e09659253061e2f823858554436225f57fc77429dffad60b8622bd2a9",
+      "crop_box": [
+        300,
+        0,
+        600,
+        330
+      ],
+      "coordinates": "original_pixels_top_left",
+      "transform_crop_to_page": [
+        1,
+        0,
+        300,
+        0,
+        1,
+        0
+      ],
+      "status": "partial_illustration_ocr",
+      "response": {
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+              "annotations": null,
+              "audio": null,
+              "content": "<x_0.0><y_0.0>Plate XLIII\nTyp. 2.<x_0.9961><y_0.9992><class_Picture>",
+              "function_call": null,
+              "reasoning": null,
+              "refusal": null,
+              "role": "assistant"
+            },
+            "routed_experts": null,
+            "stop_reason": null,
+            "token_ids": null
+          }
+        ],
+        "created": 1792339574,
+        "ec_transfer_params": null,
+        "id": "chatcmpl-516b7049-965a-40a5-ac95-77e7690f7946",
+        "kv_transfer_params": null,
+        "metrics": null,
+        "model": "nvidia/nemotron-3.5-parse",
+        "object": "chat.completion",
+        "prompt_logprobs": null,
+        "prompt_text": null,
+        "prompt_token_ids": null,
+        "service_tier": null,
+        "system_fingerprint": "vllm-0.26.0-d51b4524",
+        "usage": {
+          "completion_tokens": 16,
+          "prompt_tokens": 113,
+          "prompt_tokens_details": null,
+          "total_tokens": 129
+        }
+      }
+    },
+    {
+      "index": 2,
+      "crop_image_sha256": "8acd48d25ba62d6f73ec99d3d98234aee9b89bd50bd312a851954a170665d2c8",
+      "crop_box": [
+        0,
+        330,
+        600,
+        600
+      ],
+      "coordinates": "original_pixels_top_left",
+      "transform_crop_to_page": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        330
+      ],
+      "status": "partial_illustration_ocr",
+      "response": {
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+              "annotations": null,
+              "audio": null,
+              "content": "<x_0.0><y_0.0>L\nS\nX\nT\nW\nW\nO\nH\nC<x_0.999><y_0.9961><class_Picture>",
+              "function_call": null,
+              "reasoning": null,
+              "refusal": null,
+              "role": "assistant"
+            },
+            "routed_experts": null,
+            "stop_reason": null,
+            "token_ids": null
+          }
+        ],
+        "created": 1792339574,
+        "ec_transfer_params": null,
+        "id": "chatcmpl-24020125-8401-4dbf-90df-f59e84487b0a",
+        "kv_transfer_params": null,
+        "metrics": null,
+        "model": "nvidia/nemotron-3.5-parse",
+        "object": "chat.completion",
+        "prompt_logprobs": null,
+        "prompt_text": null,
+        "prompt_token_ids": null,
+        "service_tier": null,
+        "system_fingerprint": "vllm-0.26.0-d51b4524",
+        "usage": {
+          "completion_tokens": 23,
+          "prompt_tokens": 178,
+          "prompt_tokens_details": null,
+          "total_tokens": 201
+        }
+      }
+    },
+    {
+      "index": 3,
+      "crop_image_sha256": "aaaabf004765a2637135262a9d031ffd57c9b9ab024910abc439bff5d513df33",
+      "crop_box": [
+        0,
+        600,
+        600,
+        815
+      ],
+      "coordinates": "original_pixels_top_left",
+      "transform_crop_to_page": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        600
+      ],
+      "status": "partial_illustration_ocr",
+      "response": {
+        "choices": [
+          {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+              "annotations": null,
+              "audio": null,
+              "content": "<x_0.0><y_0.0>Walt\n1\n2\nAug. 4.<x_0.998><y_0.9961><class_Picture>",
+              "function_call": null,
+              "reasoning": null,
+              "refusal": null,
+              "role": "assistant"
+            },
+            "routed_experts": null,
+            "stop_reason": null,
+            "token_ids": null
+          }
+        ],
+        "created": 1792339574,
+        "ec_transfer_params": null,
+        "id": "chatcmpl-4b56e68c-115e-496b-a2ce-2d6424c2c9b3",
+        "kv_transfer_params": null,
+        "metrics": null,
+        "model": "nvidia/nemotron-3.5-parse",
+        "object": "chat.completion",
+        "prompt_logprobs": null,
+        "prompt_text": null,
+        "prompt_token_ids": null,
+        "service_tier": null,
+        "system_fingerprint": "vllm-0.26.0-d51b4524",
+        "usage": {
+          "completion_tokens": 18,
+          "prompt_tokens": 148,
+          "prompt_tokens_details": null,
+          "total_tokens": 166
+        }
+      }
+    }
+  ],
+  "accepted_regions": 4,
+  "document_saved": true
+}

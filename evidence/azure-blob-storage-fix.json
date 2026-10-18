@@ -1,0 +1,22 @@
+{
+  "observed_at_utc": "2026-10-18T16:28:38.105977+00:00",
+  "installed_lancedb": "0.40.0",
+  "source_url": "https://raw.githubusercontent.com/lancedb/lance/main/docs/src/guide/object_store.md",
+  "source_sha256": "833e0ddbb1a868404792b7683846068da3f0505e1ebd210444a6a4e72562a6a3",
+  "configuration": {
+    "TOMI_LANCEDB_URI": "az://lancedb/tomi",
+    "TOMI_AZURE_STORAGE_ACCOUNT_NAME": "tomicorpus2610181730",
+    "TOMI_AZURE_STORAGE_ACCOUNT_KEY": "required; Hermes Key Vault only",
+    "TOMI_DATA_DIR": "/data"
+  },
+  "storage_options": [
+    "account_name",
+    "account_key"
+  ],
+  "tests": "25 passed; Ruff passed",
+  "native_cloud_probe": "pending deployment; storage firewall deliberately remains restricted",
+  "managed_identity_verified": false,
+  "unsafe_commit_fallback": false,
+  "health_on_initialization_failure": 503,
+  "storage_secrets_forwarded_to_agent": false
+}

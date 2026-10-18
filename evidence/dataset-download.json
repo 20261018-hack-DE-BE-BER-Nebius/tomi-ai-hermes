@@ -1,0 +1,9 @@
+{
+  "downloaded_at": "2026-10-18T15:43:47Z",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/resolve/309f765b1ecc83e0a7f7762e44b4a927a7555443/data/train-00000-of-00001.parquet",
+  "bytes": 373913666,
+  "sha256": "08f167015db23cb027995b2b6a6bc953b01d7c1ddf667de950465cc2b601af5c",
+  "expected_sha256": "08f167015db23cb027995b2b6a6bc953b01d7c1ddf667de950465cc2b601af5c",
+  "verified": true,
+  "duration_s": 15.39
+}
