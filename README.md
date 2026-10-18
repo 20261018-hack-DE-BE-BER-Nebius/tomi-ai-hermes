@@ -2,6 +2,24 @@
 
 Python 3.14 and UV service for pinned Britannica/Wikimedia evidence, Nemotron parsing, embedding and reranking through Tomi AI core, LanceDB, and a pinned Hermes comparison agent.
 
+## Submission entry point
+
+This repository contains the comparison pipeline and its reproducible evidence. The live application is at <https://tomi-web.graysky-dd3771ab.swedencentral.azurecontainerapps.io>; its source is the sibling [tomi-web repository](https://github.com/20261018-hack-DE-BE-BER-Nebius/tomi-web).
+
+| Deliverable | Location |
+| --- | --- |
+| Setup and provider configuration | This README, [.env.example](.env.example), and [AI Core](https://github.com/20261018-hack-DE-BE-BER-Nebius/tomi-ai-core) |
+| Reproducible 100-page selection | [Pinned manifest](resources/upstream/britannica-manifest.json): 100 of 2,573 rows, random without replacement, seed 20261016 |
+| Source text, versions and parser receipts | [Portable corpus](resources/corpus/) and [extraction evidence](evidence/) |
+| Static website and compiled LaTeX | [Archive](archive/), [100-page compiled volume](archive/pdfs/britannica-100-pages.pdf), and [LaTeX source](archive/latex/main.tex) |
+| Per-page comparison analysis | The `match` command writes a 100-page coverage ledger; inspect the saved [evidence](evidence/) and its explicit review state |
+| Three intended successes and three failures | [Six-case evaluator](src/tomi_ai_hermes/application/evaluation.py) and actual [run evidence](evidence/); intended positives are not automatically successful |
+| Architecture, pitch and interview preparation | [Four-language project documentation](https://github.com/20261018-hack-DE-BE-BER-Nebius/tomi-project-knowledge-graph) |
+
+The NVIDIA route uses Parse 3.5, Embed VL, Rerank VL and Super VL with Hermes. A separate Astra lexical baseline is explicitly labelled in the application. Model access, an actual inference response, a reviewed comparison, and completion of the whole sample are separate checks; consult the saved receipts for their current status.
+
+The specific participant PDF requests a three-minute submission cut. A separate walkthrough is capped at five minutes. No portal submission or acceptance is implied by publishing this repository.
+
 ## Install and run
 
 ```sh
