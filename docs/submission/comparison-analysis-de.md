@@ -11,7 +11,7 @@ tags: [tomi, comparison, evidence, de]
 
 [EN](comparison-analysis-en.md) · [ES](comparison-analysis-es.md) · [DE](comparison-analysis-de.md) · [FR](comparison-analysis-fr.md)
 
-> Veröffentlichungsstand: Das endgültige Einreichungsvideo steht aus. Die automatische Transkription des Quell-MOV ist abgeschlossen (46 Abschnitte, 87 Segmente); Hör- und Treueprüfung bleiben unvollständig. Die Dauer der Zwischenfassung bestätigt keine finale Veröffentlichung.
+> Videostand: Beide finalen Dateien sind in diesem Repository enthalten und lokal verifiziert (Einreichung: 180.000 Sekunden; Rundgang: 279.722656 Sekunden). Unabhängige Sicht- und Technikprüfung bestanden; Hören, Verständlichkeit und Aussprache wurden nicht zertifiziert. Eine Portalabgabe wurde nicht durchgeführt. Die automatische MOV-Transkription ist abgeschlossen (46 Abschnitte, 87 Segmente), Hör- und Treueprüfung bleiben unvollständig.
 
 # Wortschatzanalyse dreier tatsächlicher Vergleiche
 

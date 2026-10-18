@@ -1,0 +1,130 @@
+[
+  {
+    "index": 1,
+    "title": "A workspace for evidence",
+    "start": 0,
+    "duration": 18.207323,
+    "capture": [
+      "19-public-deck.png",
+      "18-spanish-ui.png",
+      "23-public-comparison.png"
+    ],
+    "narration": "Tomi compares historical Encyclopaedia Britannica with modern Wikipedia. Start in the web workspace, choose a model, and ask a question. English, Spanish, German and French interfaces, theme controls and an anonymous demo session make the same research workflow accessible."
+  },
+  {
+    "index": 2,
+    "title": "A reproducible sample",
+    "start": 18.207323,
+    "duration": 21.64,
+    "capture": [
+      "05-archive.png",
+      "10-public-plate.png",
+      "09-public-cover.png"
+    ],
+    "narration": "We sampled one hundred historical scans without replacement using a fixed seed and pinned revision. Every image has a checked hash and a real Nemotron Parse three point five receipt. Ninety-five pages contain full extracted text; one astronomy plate remains partial. Three blank leaves and one non-text cover remain visible, without invented prose."
+  },
+  {
+    "index": 3,
+    "title": "From scans to documents",
+    "start": 39.847323,
+    "duration": 21.452313,
+    "capture": "05-archive.png",
+    "narration": "The archive pairs each original scan with a compiled document, raw parsing output and provenance. Open an individual PDF, download the combined volume, or inspect the editable LaTeX. The hundred source documents become one hundred eighty-seven compiled pages. Successful extraction does not certify every OCR character."
+  },
+  {
+    "index": 4,
+    "title": "Four required models",
+    "start": 61.29963600000001,
+    "duration": 25.68,
+    "capture": "21-public-architecture.png",
+    "narration": "The architecture separates model responsibilities. Parse reads scans. Embed represents text, and Rerank scores retrieved candidates. Those two models run on our assigned Nebius GPU. LanceDB stores vectors in Azure Blob storage. Super VL comes through Nebius Token Factory and powers the actual Hermes evidence tool. Rust services keep provider credentials outside the browser."
+  },
+  {
+    "index": 5,
+    "title": "Ask with a clear subject",
+    "start": 86.979636,
+    "duration": 18.812813,
+    "capture": "23-public-comparison.png",
+    "narration": "Here we choose Nemotron Super VL and ask a bounded comparison about shipbuilding. The original question stays separate from the topic used for discovery. The application streams progress, shows tool activity, and keeps unsupported answers visible. A completed request still requires source review."
+  },
+  {
+    "index": 6,
+    "title": "Follow the evidence",
+    "start": 105.792449,
+    "duration": 19.681563,
+    "capture": [
+      "24-public-sources.png",
+      "29-public-hermes-trace.png",
+      "13-exact-citations.png"
+    ],
+    "narration": "Open the sources to inspect historical and modern passages, pinned revisions and citations. The trace shows retrieval and model calls. Our Hermes extension lets the model select immutable span identifiers; the server binds exact quotes and Unicode offsets. Unknown spans and altered quotations are rejected."
+  },
+  {
+    "index": 7,
+    "title": "Explore the workspace",
+    "start": 125.474012,
+    "duration": 21.4,
+    "capture": [
+      "25-public-canvas.png",
+      "26-public-graph.png"
+    ],
+    "narration": "The evidence canvas and three-dimensional graph organize the conversation\u2019s actual sources. Reload restores the saved conversation evidence. Export preserves the conversation for review. Steering and cancellation let you control a running request instead of silently replacing the question. Source availability and uncertainty stay connected to the answer."
+  },
+  {
+    "index": 8,
+    "title": "Three narrow successes",
+    "start": 146.874012,
+    "duration": 21.76551,
+    "capture": "12-successes.png",
+    "narration": "The reviewed shipbuilding case contrasts timber shelf-pieces with the definition of a shipyard. Both measurement excerpts associate a litre with a cubic decimetre. Bleaching compares vessels and gas with the purpose of removing colour. These are deliberately narrow coverage observations, reviewed against their citations. Independent human certification remains pending."
+  },
+  {
+    "index": 9,
+    "title": "Three clear failures",
+    "start": 168.639522,
+    "duration": 21.259656,
+    "capture": [
+      "14-failures.png",
+      "27-public-third-failure.png"
+    ],
+    "narration": "The earlier broad questions failed. Shipbuilding retrieval favored companies, measurement retrieval returned policy instead of unit definitions, and noisy bleaching OCR could not support a full process comparison. We retain those original outputs and abstentions. Narrow successes do not erase these failures or establish general accuracy."
+  },
+  {
+    "index": 10,
+    "title": "The full sample ledger",
+    "start": 189.899178,
+    "duration": 25.242833,
+    "capture": "22-public-ledger.png",
+    "narration": "All hundred pages are accounted for. Ninety-six textual or partial pages completed semantic retrieval and reranking: twenty-three candidates and seventy-three ambiguous outcomes. Four non-text pages stay unmatched. The analysis records vocabulary overlap and normalized frequencies with both source revisions. Scores are not truth probabilities, and OCR noise limits interpretation."
+  },
+  {
+    "index": 11,
+    "title": "Visual creation",
+    "start": 215.142011,
+    "duration": 15.763427,
+    "capture": "07-image-generation.png",
+    "narration": "The platform also generates images from a prompt. This ship illustration was created through the deployed application. It is labelled as generated content and does not become historical evidence. The model selector makes the provider used for each capability visible."
+  },
+  {
+    "index": 12,
+    "title": "The fifth NVIDIA model",
+    "start": 230.905438,
+    "duration": 24.006552,
+    "capture": [
+      "16-audio-upload.png",
+      "17-public-speaker-segments.png"
+    ],
+    "narration": "Open speaker separation and select the official thirty-second audio sample. The deployed Nemotron diarization model returns six segments across five anonymous labels. Recording and upload are bounded to sixty seconds and one megabyte. This is batch speaker segmentation, without identity recognition. Realtime session issuance was tested; physical microphone playback was not."
+  },
+  {
+    "index": 13,
+    "title": "An inspectable handoff",
+    "start": 254.91199,
+    "duration": 24.8,
+    "capture": [
+      "20-deck-experience.png",
+      "21-public-architecture.png"
+    ],
+    "narration": "The pitch deck includes actual solution captures and editable Mermaid diagrams. Six application services are deployed, with the web service as the public entry point. The repository includes setup, sample selection, compiled documents, comparison analysis and all six cases. This walkthrough stays under five minutes; the separate submission cut follows the brief\u2019s three-minute limit."
+  }
+]

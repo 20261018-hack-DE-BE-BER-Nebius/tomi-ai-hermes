@@ -1,0 +1,25 @@
+Tomi compares historical Encyclopaedia Britannica with modern Wikipedia. Start in the web workspace, choose a model, and ask a question. English, Spanish, German and French interfaces, theme controls and an anonymous demo session make the same research workflow accessible.
+
+We sampled one hundred historical scans without replacement using a fixed seed and pinned revision. Every image has a checked hash and a real Nemotron Parse three point five receipt. Ninety-five pages contain full extracted text; one astronomy plate remains partial. Three blank leaves and one non-text cover remain visible, without invented prose.
+
+The archive pairs each original scan with a compiled document, raw parsing output and provenance. Open an individual PDF, download the combined volume, or inspect the editable LaTeX. The hundred source documents become one hundred eighty-seven compiled pages. Successful extraction does not certify every OCR character.
+
+The architecture separates model responsibilities. Parse reads scans. Embed represents text, and Rerank scores retrieved candidates. Those two models run on our assigned Nebius GPU. LanceDB stores vectors in Azure Blob storage. Super VL comes through Nebius Token Factory and powers the actual Hermes evidence tool. Rust services keep provider credentials outside the browser.
+
+Here we choose Nemotron Super VL and ask a bounded comparison about shipbuilding. The original question stays separate from the topic used for discovery. The application streams progress, shows tool activity, and keeps unsupported answers visible. A completed request still requires source review.
+
+Open the sources to inspect historical and modern passages, pinned revisions and citations. The trace shows retrieval and model calls. Our Hermes extension lets the model select immutable span identifiers; the server binds exact quotes and Unicode offsets. Unknown spans and altered quotations are rejected.
+
+The evidence canvas and three-dimensional graph organize the conversation’s actual sources. Reload restores the saved conversation evidence. Export preserves the conversation for review. Steering and cancellation let you control a running request instead of silently replacing the question. Source availability and uncertainty stay connected to the answer.
+
+The reviewed shipbuilding case contrasts timber shelf-pieces with the definition of a shipyard. Both measurement excerpts associate a litre with a cubic decimetre. Bleaching compares vessels and gas with the purpose of removing colour. These are deliberately narrow coverage observations, reviewed against their citations. Independent human certification remains pending.
+
+The earlier broad questions failed. Shipbuilding retrieval favored companies, measurement retrieval returned policy instead of unit definitions, and noisy bleaching OCR could not support a full process comparison. We retain those original outputs and abstentions. Narrow successes do not erase these failures or establish general accuracy.
+
+All hundred pages are accounted for. Ninety-six textual or partial pages completed semantic retrieval and reranking: twenty-three candidates and seventy-three ambiguous outcomes. Four non-text pages stay unmatched. The analysis records vocabulary overlap and normalized frequencies with both source revisions. Scores are not truth probabilities, and OCR noise limits interpretation.
+
+The platform also generates images from a prompt. This ship illustration was created through the deployed application. It is labelled as generated content and does not become historical evidence. The model selector makes the provider used for each capability visible.
+
+Open speaker separation and select the official thirty-second audio sample. The deployed Nemotron diarization model returns six segments across five anonymous labels. Recording and upload are bounded to sixty seconds and one megabyte. This is batch speaker segmentation, without identity recognition. Realtime session issuance was tested; physical microphone playback was not.
+
+The pitch deck includes actual solution captures and editable Mermaid diagrams. Six application services are deployed, with the web service as the public entry point. The repository includes setup, sample selection, compiled documents, comparison analysis and all six cases. This walkthrough stays under five minutes; the separate submission cut follows the brief’s three-minute limit.

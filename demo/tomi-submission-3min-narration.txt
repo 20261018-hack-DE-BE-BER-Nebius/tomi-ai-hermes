@@ -1,0 +1,15 @@
+Tomi compares historical Encyclopaedia Britannica with Wikipedia, making evidence and uncertainty visible. This demonstration shows the real NVIDIA pipeline, three narrowly supported comparisons, and three clear failures from our own runs.
+
+We selected one hundred pages from a pinned dataset, using random sampling without replacement and a recorded seed. Every image has a checked hash and a real Nemotron Parse three point five receipt. The sample contains ninety-five full text pages, one partial astronomy plate, three blank leaves, and one non-text cover. These are extraction outcomes, not certified OCR accuracy.
+
+Parse extracts the historical documents. Wikipedia candidates come from the organizer’s versioned snapshot. Nemotron Embed and Rerank run together on our assigned Nebius GPU. LanceDB stores vectors in Azure Blob storage. Nemotron Super VL, accessed through Token Factory, drives the Hermes comparison agent. Credentials stay behind the Rust gateway.
+
+Here are the three supported cases. Shipbuilding contrasts timber shelf-pieces with the modern definition of a shipyard. Both measurement excerpts associate the litre with a cubic decimetre. Bleaching compares historical attention to vessels and gas with the modern purpose of removing colour. We reviewed these limited claims against their sources. Independent human sign-off is still pending.
+
+The broader questions failed. Shipbuilding retrieval favored companies. Measurement retrieval found policy instead of unit definitions. Damaged bleaching text could not support a full process comparison. We preserve those original attempts and their abstentions. Later narrow successes do not erase the failed questions or establish general accuracy.
+
+Our Hermes extension gives the model immutable evidence span identifiers. The server resolves selected identifiers into exact quotes and Unicode offsets. Unknown identifiers, changed quotations, and references from only one corpus fail validation. This repairs quotation-copy errors while leaving factual entailment as a separate review step.
+
+The static archive includes all hundred scans, editable LaTeX, individual PDFs, and a compiled hundred-document volume totaling one hundred eighty-seven pages. The matching ledger records candidates, ambiguity and blockers. Relevance scores are not probabilities of truth. Original source revisions, hashes, comparison metrics and failures remain inspectable.
+
+The application connects streaming chat, source cards, the evidence canvas and a three-dimensional graph. Stored conversation evidence survives reload. The repository contains setup instructions, sample selection, comparison analysis and six documented cases. The result is an inspectable research workflow with useful answers and visible limits.

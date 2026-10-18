@@ -11,7 +11,7 @@ tags: [tomi, submission, evidence, en]
 
 [EN](demo-narration-en.md) · [ES](demo-narration-es.md) · [DE](demo-narration-de.md) · [FR](demo-narration-fr.md)
 
-> Publication status: the final submission video is pending. Automatic transcription of the source MOV completed (46 chunks, 87 segments); listening and fidelity review remain incomplete. Existing interim video duration does not certify final publication.
+> Video status: both final files are included in this repository and locally verified (submission 180.000 seconds; walkthrough 279.722656 seconds). Independent visual and technical QA passed; listening, intelligibility and pronunciation were not certified. Portal submission has not been performed. Automatic source-MOV transcription completed (46 chunks, 87 segments), but listening and fidelity review remain incomplete.
 
 # Tomi
 
@@ -57,7 +57,7 @@ Six application services run on Azure, with only the web service public. Native 
 
 ## Production and evidence limits
 
-The participant PDF requires three minutes. Measure the final rendered duration; word counts are not playback evidence. The English extended script stays below600words. The current model evidence is actual; sample-wide matching is complete with explicit ambiguity. The six-case review is by the assistant, with independent human certification pending. Public deployment and public NVIDIA path acceptance are separate checks. No submission receipt, award or physical audio fidelity is claimed.
+The participant PDF requires three minutes. The included final videos measure 180.000 and 279.722656 seconds and have matching hashes and full-decode receipts. The English extended preparation script stays below600words. All four required models have actual execution evidence; the public Nemotron comparison completed with seven sources and a review-required warning. Sample-wide matching is complete with explicit ambiguity. The six-case source review is by the assistant, with independent human certification pending. No portal submission, award or physical audio fidelity is claimed.
 
 [submission-guide-en](submission-guide-en.md) · [interview-preparation-en](interview-preparation-en.md)
 

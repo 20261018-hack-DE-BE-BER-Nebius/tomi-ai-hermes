@@ -11,7 +11,7 @@ tags: [tomi, submission, evidence, es]
 
 [EN](demo-narration-en.md) · [ES](demo-narration-es.md) · [DE](demo-narration-de.md) · [FR](demo-narration-fr.md)
 
-> Estado de publicación: el vídeo final de entrega sigue pendiente. La transcripción automática del MOV fuente terminó (46 fragmentos, 87 segmentos); faltan la escucha y la revisión de fidelidad. La duración del vídeo provisional no certifica la publicación final.
+> Estado de los vídeos: ambos archivos finales están incluidos en este repositorio y verificados localmente (entrega: 180.000 segundos; recorrido: 279.722656 segundos). La revisión visual y técnica independiente fue satisfactoria; no se certificaron escucha, inteligibilidad ni pronunciación. No se ha realizado la entrega en el portal. La transcripción automática del MOV terminó (46 fragmentos, 87 segmentos), pero faltan escucha y revisión de fidelidad.
 
 # Tomi
 
@@ -57,7 +57,7 @@ Seis servicios se ejecutan en Azure; solo la web es pública. Azure Blob nativo 
 
 ## Límites de producción y evidencias
 
-El PDF exige tres minutos. Medir la duración renderizada; las palabras no prueban reproducción. El guion ampliado inglés tiene menos de600palabras. Las evidencias de modelos son reales; la asociación completa terminó con ambigüedad explícita. La revisión de seis casos la realizó el asistente, sin certificación humana independiente. Despliegue y aceptación NVIDIA públicos se verifican aparte. No se declara presentación, premio ni fidelidad de audio físico.
+El PDF exige tres minutos. Los vídeos finales incluidos miden 180.000 y 279.722656 segundos y tienen hashes coincidentes y recibos de decodificación completa. El guion inglés ampliado de preparación sigue por debajo de600palabras. Los cuatro modelos exigidos tienen ejecuciones reales; la comparación Nemotron pública terminó con siete fuentes y aviso de revisión. La asociación completa terminó con ambigüedad explícita. El asistente revisó los seis casos; falta certificación humana independiente. No se afirma entrega en portal, premio ni fidelidad de audio físico.
 
 [submission-guide-es](submission-guide-es.md) · [interview-preparation-es](interview-preparation-es.md)
 

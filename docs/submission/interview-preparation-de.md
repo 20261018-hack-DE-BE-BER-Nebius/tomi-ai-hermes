@@ -11,7 +11,7 @@ tags: [tomi, interview, evidence, de]
 
 [EN](interview-preparation-en.md) · [ES](interview-preparation-es.md) · [DE](interview-preparation-de.md) · [FR](interview-preparation-fr.md)
 
-> Veröffentlichungsstand: Das endgültige Einreichungsvideo steht aus. Die automatische Transkription des Quell-MOV ist abgeschlossen (46 Abschnitte, 87 Segmente); Hör- und Treueprüfung bleiben unvollständig. Die Dauer der Zwischenfassung bestätigt keine finale Veröffentlichung.
+> Videostand: Beide finalen Dateien sind in diesem Repository enthalten und lokal verifiziert (Einreichung: 180.000 Sekunden; Rundgang: 279.722656 Sekunden). Unabhängige Sicht- und Technikprüfung bestanden; Hören, Verständlichkeit und Aussprache wurden nicht zertifiziert. Eine Portalabgabe wurde nicht durchgeführt. Die automatische MOV-Transkription ist abgeschlossen (46 Abschnitte, 87 Segmente), Hör- und Treueprüfung bleiben unvollständig.
 
 # Interviewvorbereitung
 
@@ -47,9 +47,9 @@ Dies sind wahrscheinliche Fragen, kein Veranstalter-Fragebogen. Antworten beruhe
 
 15. **Wie behandelt ihr Prompt-Injektion?** OCR und gefundener Text bleiben nicht vertrauenswürdige Daten. Der Agent erhält keine Anbieterschlüssel und besitzt nur ein begrenztes Lesewerkzeug. Echte Instruktionsangriffe führten zu Enthaltung; Regressionstests weisen fremde Belege ab. Das beweist einzelne Schutzmaßnahmen, keine allgemeine Immunität.
 
-16. **Was funktioniert öffentlich tatsächlich?** Die gespeicherte öffentliche Basisprüfung bestätigte Astra-Streaming, sieben Quellen, Steuerung, Abbruch, gespeicherte Ereignisse und Abmeldung. Der Vier-Modell-Hermes-Ablauf hat getrennte echte Lauf- und Fallbelege. Seine öffentliche Abnahme ist eine eigene Versionsprüfung und folgt nicht automatisch aus Astra.
+16. **Was funktioniert öffentlich tatsächlich?** Der öffentliche Nemotron-UI-Vergleich endete am 18. Oktober 2026 um 21:17:20 UTC mit sieben Quellen und sichtbarer `needs_review`-Warnung; nach erneutem Laden des Canvas erschien dieselbe Antwort. Der getrennte Core-API-Beleg von 21:08:42 UTC dokumentiert echte Super-VL-, Embed-, Rerank- und Hermes-Ausführung auf dem Parse-Korpus. Ein abgeschlossener Ablauf bestätigt keine semantische Prüfung jeder Aussage. Frühere Astra-, Steuerungs-, Abbruch-, Ereignisspeicher- und Abmeldeprüfungen bleiben getrennte Belege. [Öffentlicher UI-Beleg](../../demo/public-workspace-acceptance.json).
 
-17. **Welche multimodalen Funktionen sind geprüft?** Öffentliche Endpunkte lieferten ein echtes PNG und erteilten eine Realtime-Sitzung. Eine Sitzung belegt weder Mikrofonaufnahme noch Wiedergabe oder fertigen Sprachdialog. Physische audiovisuelle Interaktion und Diarisierung werden ohne eigene aktuelle Abnahme nicht behauptet.
+17. **Welche multimodalen Funktionen sind geprüft?** Öffentliche Bilderzeugung lieferte ein echtes PNG; die Ausgabe einer Realtime-Sitzung funktionierte. Das zusätzliche fünfte NVIDIA-Modell `nvidia/Nemotron-3-Diarization` verarbeitete eine offizielle 30-Sekunden-Probe über die öffentliche Batch-Route: HTTP 200 nach 34.29 Sekunden, sechs Segmente und fünf anonyme Labels, auch in der UI sichtbar. Das sind keine erkannten Identitäten und keine gemessene Sprecher-Genauigkeit. Dieses Modell ergänzt die vier vorgeschriebenen Challenge-Modelle. Physisches Mikrofon, Wiedergabe und vollständiger Realtime-Sprachdialog bleiben ungeprüft.
 
 18. **Wie sind Betrieb und Sicherheit aufgebaut?** Sechs Dienste laufen auf Azure, nur Web ist öffentlich; die vorgeschriebene Suchinferenz läuft auf Nebius. Anbieterschlüssel bleiben in Core. Geprüfte Geheimnisscans sind sauber. Administrative PostgreSQL-Laufzeitrolle und flüchtiger Covenant-Verlauf bleiben Grenzen; keine Produktions- oder LTS-Freigabe.
 

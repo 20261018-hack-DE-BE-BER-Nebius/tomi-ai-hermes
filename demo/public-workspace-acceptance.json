@@ -1,0 +1,46 @@
+{
+  "observed_at_utc": "2026-10-18T21:31:24.285959+00:00",
+  "verification_class": "actual public UI observation and downloaded conversation export",
+  "application": "https://tomi-web.graysky-dd3771ab.swedencentral.azurecontainerapps.io",
+  "run_started_at_utc": "2026-10-18T21:17:02Z",
+  "run_completed_at_utc": "2026-10-18T21:17:20Z",
+  "request_id": "3e1e3fe7-c329-40b7-af24-815bbe509172",
+  "selected_model": "nemotron-3.5-super-vl",
+  "actual_provider_model": "nvidia/Nemotron-3.5-Super-VL",
+  "hermes_status": "needs_review",
+  "source_count": 7,
+  "ui_result": "Completed with source-review warning",
+  "recorded_answers": 1,
+  "canvas_restored_after_reload": true,
+  "graph_nodes": 7,
+  "graph_orbit_interaction": true,
+  "export_download_succeeded": true,
+  "export_sha256": "08da50e6801638c2a62652a258fb040d871597e9ccfc84380a59636a382d6067",
+  "claims_limit": "A completed run and exact source spans do not certify general semantic accuracy. Separate earlier API-run source review is retained in core verification.",
+  "captures": [
+    {
+      "filename": "23-public-comparison.png",
+      "sha256": "5a43675e88b5b162bc50717f1900b554d081605972106c22f366f32170ce7ff4"
+    },
+    {
+      "filename": "24-public-sources.png",
+      "sha256": "f1f7403475bcc796290698f56f34528eac9513fa3cb757e68d512dd7e53d6b49"
+    },
+    {
+      "filename": "25-public-canvas.png",
+      "sha256": "120b2557870c3f8ed67f6563ad1dedda67c95186cc0804d68a3443a1c8142a57"
+    },
+    {
+      "filename": "26-public-graph.png",
+      "sha256": "ebf432fce605141087588a1269adc969f9498210c67c8f72cd7a502f066ba1d0"
+    },
+    {
+      "filename": "28-public-run-activity.png",
+      "sha256": "f8015eab9075b3da91f66e11d933b5f1b01b9496cbdb27c902b735acba1647d6"
+    },
+    {
+      "filename": "29-public-hermes-trace.png",
+      "sha256": "be6ef90f78027fa4dcd82991565269a22a7c8f0209f93ae8cb57ed5c9bba5a9e"
+    }
+  ]
+}

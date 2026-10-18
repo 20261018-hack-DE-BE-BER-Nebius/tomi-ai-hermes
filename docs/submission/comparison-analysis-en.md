@@ -11,7 +11,7 @@ tags: [tomi, comparison, evidence, en]
 
 [EN](comparison-analysis-en.md) · [ES](comparison-analysis-es.md) · [DE](comparison-analysis-de.md) · [FR](comparison-analysis-fr.md)
 
-> Publication status: the final submission video is pending. Automatic transcription of the source MOV completed (46 chunks, 87 segments); listening and fidelity review remain incomplete. Existing interim video duration does not certify final publication.
+> Video status: both final files are included in this repository and locally verified (submission 180.000 seconds; walkthrough 279.722656 seconds). Independent visual and technical QA passed; listening, intelligibility and pronunciation were not certified. Portal submission has not been performed. Automatic source-MOV transcription completed (46 chunks, 87 segments), but listening and fidelity review remain incomplete.
 
 # Vocabulary analysis of three actual comparisons
 

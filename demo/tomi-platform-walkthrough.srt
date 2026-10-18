@@ -1,0 +1,231 @@
+1
+00:00:00,000 --> 00:00:03,735
+Tomi compares historical Encyclopaedia Britannica with modern Wikipedia.
+
+2
+00:00:03,735 --> 00:00:09,337
+Start in the web workspace, choose a model, and ask a question.
+
+3
+00:00:09,337 --> 00:00:18,207
+English, Spanish, German and French interfaces, theme controls and an anonymous demo session make the same research workflow accessible.
+
+4
+00:00:18,207 --> 00:00:24,332
+We sampled one hundred historical scans without replacement using a fixed seed and pinned revision.
+
+5
+00:00:24,332 --> 00:00:30,456
+Every image has a checked hash and a real Nemotron Parse three point five receipt.
+
+6
+00:00:30,456 --> 00:00:34,948
+Ninety-five pages contain full extracted text; one astronomy plate remains partial.
+
+7
+00:00:34,948 --> 00:00:39,847
+Three blank leaves and one non-text cover remain visible, without invented prose.
+
+8
+00:00:39,847 --> 00:00:46,843
+The archive pairs each original scan with a compiled document, raw parsing output and provenance.
+
+9
+00:00:46,843 --> 00:00:52,905
+Open an individual PDF, download the combined volume, or inspect the editable LaTeX.
+
+10
+00:00:52,905 --> 00:00:57,569
+The hundred source documents become one hundred eighty-seven compiled pages.
+
+11
+00:00:57,569 --> 00:01:01,300
+Successful extraction does not certify every OCR character.
+
+12
+00:01:01,300 --> 00:01:03,677
+The architecture separates model responsibilities.
+
+13
+00:01:03,677 --> 00:01:05,104
+Parse reads scans.
+
+14
+00:01:05,104 --> 00:01:08,909
+Embed represents text, and Rerank scores retrieved candidates.
+
+15
+00:01:08,909 --> 00:01:13,189
+Those two models run on our assigned Nebius GPU.
+
+16
+00:01:13,189 --> 00:01:16,517
+LanceDB stores vectors in Azure Blob storage.
+
+17
+00:01:16,517 --> 00:01:23,175
+Super VL comes through Nebius Token Factory and powers the actual Hermes evidence tool.
+
+18
+00:01:23,175 --> 00:01:26,980
+Rust services keep provider credentials outside the browser.
+
+19
+00:01:26,980 --> 00:01:32,667
+Here we choose Nemotron Super VL and ask a bounded comparison about shipbuilding.
+
+20
+00:01:32,667 --> 00:01:37,480
+The original question stays separate from the topic used for discovery.
+
+21
+00:01:37,480 --> 00:01:42,730
+The application streams progress, shows tool activity, and keeps unsupported answers visible.
+
+22
+00:01:42,730 --> 00:01:45,792
+A completed request still requires source review.
+
+23
+00:01:45,792 --> 00:01:51,478
+Open the sources to inspect historical and modern passages, pinned revisions and citations.
+
+24
+00:01:51,478 --> 00:01:54,540
+The trace shows retrieval and model calls.
+
+25
+00:01:54,540 --> 00:02:02,412
+Our Hermes extension lets the model select immutable span identifiers; the server binds exact quotes and Unicode offsets.
+
+26
+00:02:02,412 --> 00:02:05,474
+Unknown spans and altered quotations are rejected.
+
+27
+00:02:05,474 --> 00:02:10,483
+The evidence canvas and three-dimensional graph organize the conversation’s actual sources.
+
+28
+00:02:10,483 --> 00:02:13,214
+Reload restores the saved conversation evidence.
+
+29
+00:02:13,214 --> 00:02:15,946
+Export preserves the conversation for review.
+
+30
+00:02:15,946 --> 00:02:22,776
+Steering and cancellation let you control a running request instead of silently replacing the question.
+
+31
+00:02:22,776 --> 00:02:26,874
+Source availability and uncertainty stay connected to the answer.
+
+32
+00:02:26,874 --> 00:02:32,649
+The reviewed shipbuilding case contrasts timber shelf-pieces with the definition of a shipyard.
+
+33
+00:02:32,649 --> 00:02:37,090
+Both measurement excerpts associate a litre with a cubic decimetre.
+
+34
+00:02:37,090 --> 00:02:41,977
+Bleaching compares vessels and gas with the purpose of removing colour.
+
+35
+00:02:41,977 --> 00:02:46,419
+These are deliberately narrow coverage observations, reviewed against their citations.
+
+36
+00:02:46,419 --> 00:02:48,640
+Independent human certification remains pending.
+
+37
+00:02:48,640 --> 00:02:50,950
+The earlier broad questions failed.
+
+38
+00:02:50,950 --> 00:03:01,580
+Shipbuilding retrieval favored companies, measurement retrieval returned policy instead of unit definitions, and noisy bleaching OCR could not support a full process comparison.
+
+39
+00:03:01,580 --> 00:03:04,815
+We retain those original outputs and abstentions.
+
+40
+00:03:04,815 --> 00:03:09,899
+Narrow successes do not erase these failures or establish general accuracy.
+
+41
+00:03:09,899 --> 00:03:12,990
+All hundred pages are accounted for.
+
+42
+00:03:12,990 --> 00:03:21,233
+Ninety-six textual or partial pages completed semantic retrieval and reranking: twenty-three candidates and seventy-three ambiguous outcomes.
+
+43
+00:03:21,233 --> 00:03:23,808
+Four non-text pages stay unmatched.
+
+44
+00:03:23,808 --> 00:03:29,990
+The analysis records vocabulary overlap and normalized frequencies with both source revisions.
+
+45
+00:03:29,990 --> 00:03:35,142
+Scores are not truth probabilities, and OCR noise limits interpretation.
+
+46
+00:03:35,142 --> 00:03:38,295
+The platform also generates images from a prompt.
+
+47
+00:03:38,295 --> 00:03:41,841
+This ship illustration was created through the deployed application.
+
+48
+00:03:41,841 --> 00:03:46,570
+It is labelled as generated content and does not become historical evidence.
+
+49
+00:03:46,570 --> 00:03:50,905
+The model selector makes the provider used for each capability visible.
+
+50
+00:03:50,905 --> 00:03:55,613
+Open speaker separation and select the official thirty-second audio sample.
+
+51
+00:03:55,613 --> 00:04:01,261
+The deployed Nemotron diarization model returns six segments across five anonymous labels.
+
+52
+00:04:01,261 --> 00:04:06,439
+Recording and upload are bounded to sixty seconds and one megabyte.
+
+53
+00:04:06,439 --> 00:04:10,205
+This is batch speaker segmentation, without identity recognition.
+
+54
+00:04:10,205 --> 00:04:14,912
+Realtime session issuance was tested; physical microphone playback was not.
+
+55
+00:04:14,912 --> 00:04:19,964
+The pitch deck includes actual solution captures and editable Mermaid diagrams.
+
+56
+00:04:19,964 --> 00:04:26,393
+Six application services are deployed, with the web service as the public entry point.
+
+57
+00:04:26,393 --> 00:04:32,823
+The repository includes setup, sample selection, compiled documents, comparison analysis and all six cases.
+
+58
+00:04:32,823 --> 00:04:39,712
+This walkthrough stays under five minutes; the separate submission cut follows the brief’s three-minute limit.

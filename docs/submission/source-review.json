@@ -93,185 +93,584 @@
     "source_output_scope": "No media, transcript text or local absolute paths are included in this export."
   },
   "video": {
-    "status": "final_cut_and_publication_pending",
-    "existing_interim_duration_seconds": 178.115156,
-    "existing_interim_full_decode": "passed",
-    "existing_interim_sha256": "201ce705ebb65b242f926559d439291385f1c24d4cb7dadfe07dfbe6f11be769",
-    "review_boundary": "Measured interim metadata does not certify final narration, listening, captions or submitted publication."
+    "status": "included_in_repository_locally_verified",
+    "outputs": [
+      {
+        "path": "demo/tomi-platform-walkthrough.mp4",
+        "duration_seconds": 279.722656,
+        "bytes": 11292364,
+        "sha256": "4e8738ae4caacfe8d681cce64d96e8c9fd0efdd9f9cdfefb7099516b5a9103e1",
+        "full_decode": "passed in copied verification receipt",
+        "local_hash_verified": true,
+        "verification_path": "demo/tomi-platform-walkthrough-verification.json",
+        "audio_processing": "Per-scene loudness normalization followed by 5 dB attenuation for AAC playback headroom"
+      },
+      {
+        "path": "demo/tomi-submission-3min.mp4",
+        "duration_seconds": 180.0,
+        "bytes": 7447272,
+        "sha256": "90defe04b5fb1db0e609d2d5cdb8f692c07a23899b7cd30160b24b961c442442",
+        "full_decode": "passed in copied verification receipt",
+        "local_hash_verified": true,
+        "verification_path": "demo/tomi-submission-3min-verification.json",
+        "audio_processing": "Per-scene loudness normalization followed by 5 dB attenuation for AAC playback headroom"
+      }
+    ],
+    "independent_visual_qa": "passed",
+    "audio_fidelity_verified": false,
+    "portal_submission_verified": false,
+    "review_boundary": "File hashes and decoder completion are verified; independent audiovisual review and public publication are separate checks.",
+    "independent_qa": {
+      "source_receipt": "demo/independent-qa.json",
+      "source_sha256": "7f326cffb3038d222fb77e1aecec52b16aaf28485249c4bf3aa74306efc559f8",
+      "observed_at": "2026-10-18T21:36:37.010388+00:00",
+      "status": "passed",
+      "full_decode": "passed for both frozen files",
+      "visual_review_scope": "All33 montage captures and both closing frames reviewed in revision2. Final walkthrough differs only in scene4 capture field; final scene4 was independently inspected at start, middle and end. Final full file decode/hash and float audio peak checked. Frozen short hash reconfirmed.",
+      "audio_listening_performed": false,
+      "intelligibility_certified": false,
+      "audio_peaks_dbfs": {
+        "walkthrough": -3.662232,
+        "submission": -4.485327
+      },
+      "scope_limit": "Rendered scenes, metadata, complete decode and numeric audio verification; no auditory intelligibility, pronunciation, or synchronization certification.",
+      "original_source_sha256": "6329eac77d37fde95e3e33d0a74263a5679c57caa3e5dac4fdd6d8260e04b049"
+    }
   },
   "exports": [
     {
       "source_note": "submission-guide/submission-guide-en.md",
       "source_sha256": "c3287444ca4204e01da635a7c81343b5cb2739c5ecca0ba2466a06f9cd0b64e6",
       "export_file": "submission-guide-en.md",
-      "export_sha256": "1deab45dd2cc9ce4ed50aed97ad363fb056ee0e21ed0f1c38cba799eefdb1e87",
+      "export_sha256": "c83d778dc0f84f70344eeaba8c761f9f335bd0162255b0192a990abe1b5c6754",
       "transformations": [
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels.",
         "Removed local absolute-path links; interim artifact facts remain distinct from public video publication.",
         "Updated third ASR attempt from pending to automatic transcription complete; listening/fidelity review incomplete, based on inspected completion receipt."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "1deab45dd2cc9ce4ed50aed97ad363fb056ee0e21ed0f1c38cba799eefdb1e87",
+          "reason": "Prepared two final video targets and explicitly pending verification; original private note unchanged."
+        },
+        {
+          "previous_export_sha256": "a060a77d570f20f1652b36263ddfddb4c610ab4af1b410496b3026108f6954ef",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "cdd0bfc667e0d70d796ff2e42a48b13835bb916a54cc3caeced0d06c7ca51c9d",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "490d575c5a2f492966334fd121b461bda9de6679690de3036c68b18910f4104c",
+          "reason": "Refreshed actual public Nemotron comparison and fifth-model batch diarization facts; preserved semantic-review and physical-audio limits."
+        },
+        {
+          "previous_export_sha256": "808c5440a69772b872ab63a2ede541619118efe03c8672ce61efaac9fd4e4915",
+          "reason": "Linked persisted public UI completion/reload/export proof; final walkthrough capture corrected."
+        },
+        {
+          "previous_export_sha256": "847b359e1ca3fe08a5449cebd7f112c6f3ea6152140838084c84242a428f3e07",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "submission-guide/submission-guide-es.md",
       "source_sha256": "170b1d306e612f8e7a778ef0c531bd1485064f5cda298c87af8421596df8d5b2",
       "export_file": "submission-guide-es.md",
-      "export_sha256": "b2fa72276aac9063ff2dde61588c90a33e9c95a9ee7fdf276743047adf074d77",
+      "export_sha256": "44530c2749b6b41c37686332b50f6a550e0b1b706e6d468bf753f62ae0fe1e48",
       "transformations": [
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels.",
         "Removed local absolute-path links; interim artifact facts remain distinct from public video publication.",
         "Updated third ASR attempt from pending to automatic transcription complete; listening/fidelity review incomplete, based on inspected completion receipt."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "b2fa72276aac9063ff2dde61588c90a33e9c95a9ee7fdf276743047adf074d77",
+          "reason": "Prepared two final video targets and explicitly pending verification; original private note unchanged."
+        },
+        {
+          "previous_export_sha256": "fe7b26b122a45fd8997af6fc72688bc790bfe3b42bbc57d702d51fabb7a29cab",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "cbaf1ae4ca2824479feb5ac16efb2777285373b4ee5f34e02cd64e11b0c2b5dd",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "a8513eea8fd214dfd9474eeb48f9aebeda5fc8d5b94da779203ad2c3b99ae68c",
+          "reason": "Refreshed actual public Nemotron comparison and fifth-model batch diarization facts; preserved semantic-review and physical-audio limits."
+        },
+        {
+          "previous_export_sha256": "ea325e43dde92e501e04a384201e3892829e58d3a3406caaae04ae3eb0fa0de8",
+          "reason": "Linked persisted public UI completion/reload/export proof; final walkthrough capture corrected."
+        },
+        {
+          "previous_export_sha256": "6ed4bf9571a0e1d8297da8af5e1edce5ddf3377d843ab6a0dd43a519ef910827",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "submission-guide/submission-guide-de.md",
       "source_sha256": "78d3089ba327d473bd526b6398d2bd9e9f658f230e9bf18caf8a592b841517c8",
       "export_file": "submission-guide-de.md",
-      "export_sha256": "4fa9b990d9deaf979a441a1cf9f19527a201b4143a4993402800479e4b23030d",
+      "export_sha256": "b09892163e48876fccd35ece11e47e58a988b90d28928ade9eb607061e74920e",
       "transformations": [
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels.",
         "Removed local absolute-path links; interim artifact facts remain distinct from public video publication.",
         "Updated third ASR attempt from pending to automatic transcription complete; listening/fidelity review incomplete, based on inspected completion receipt."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "4fa9b990d9deaf979a441a1cf9f19527a201b4143a4993402800479e4b23030d",
+          "reason": "Prepared two final video targets and explicitly pending verification; original private note unchanged."
+        },
+        {
+          "previous_export_sha256": "dc3323f48b2d9c621545258cf30f5d276cc021c1762f6079515cb552153bb77c",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "0b47da850fd9e321c1183b1c2576e6f015bcb3dc03215c4f7cae4434d790d7bc",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "94a67a2023c217bf91c8d17fc9fb7f02cf5722edaea2d211f38b11de2897cd64",
+          "reason": "Refreshed actual public Nemotron comparison and fifth-model batch diarization facts; preserved semantic-review and physical-audio limits."
+        },
+        {
+          "previous_export_sha256": "7bdeca44682697f6e1e3707aa6b3ec27453c38f40a5be750d78524ecc49702a7",
+          "reason": "Linked persisted public UI completion/reload/export proof; final walkthrough capture corrected."
+        },
+        {
+          "previous_export_sha256": "20da5b189cd1bb56f66dc4bd5c9e751f428c741c271f9e404285b58efb4b2a0e",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "submission-guide/submission-guide-fr.md",
       "source_sha256": "b564201be3ee6947375b25025c526f9e670389ee4e6588a2a33b1e19264e9282",
       "export_file": "submission-guide-fr.md",
-      "export_sha256": "51e76546f20f7133ed342755a2569125990201e561ddb39bb8e84134577f3deb",
+      "export_sha256": "005ac3a8a0145cdf5b98512fc5cab6e875806819ff0416b4975855f497e48789",
       "transformations": [
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels.",
         "Removed local absolute-path links; interim artifact facts remain distinct from public video publication.",
         "Updated third ASR attempt from pending to automatic transcription complete; listening/fidelity review incomplete, based on inspected completion receipt."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "51e76546f20f7133ed342755a2569125990201e561ddb39bb8e84134577f3deb",
+          "reason": "Prepared two final video targets and explicitly pending verification; original private note unchanged."
+        },
+        {
+          "previous_export_sha256": "63499c8a27ce45323e820762bcbb987aed374d49cbfc0a0b4a3ec284a936a3c9",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "15514d5078b243fea54220e1edcfdf7b5f7c0c1c66f40c3f33bb76e87aaa164b",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "a75a7d47b4bb8fad551da04a26fe8aa9070a66f5355e11c5ec3c1416b5a1e3b7",
+          "reason": "Refreshed actual public Nemotron comparison and fifth-model batch diarization facts; preserved semantic-review and physical-audio limits."
+        },
+        {
+          "previous_export_sha256": "b78c2ac26ced2c25106f3a524db16391b0f669a33d23e127e0839bcae5873c93",
+          "reason": "Linked persisted public UI completion/reload/export proof; final walkthrough capture corrected."
+        },
+        {
+          "previous_export_sha256": "f139586733c2a8bc81bb8f04fbb7132d08b5881dea3a214271e0cffef12f5a19",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "demo-narration/demo-narration-en.md",
       "source_sha256": "633248f943eb2b27017aae331d1644b527db29a20a861f11df69cde6e9455299",
       "export_file": "demo-narration-en.md",
-      "export_sha256": "6333a6ef5249f98bdb1731718631723b0ed21f5dfa30da2ad7b9b6060fd607c8",
+      "export_sha256": "380954ae0e4bbd0eb190ecbd6d08a6d695641188c5f71587b260820fed1aedab",
       "transformations": [
         "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "6333a6ef5249f98bdb1731718631723b0ed21f5dfa30da2ad7b9b6060fd607c8",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "74303a986ee2933c1f0a9620ff7b15675e9b15403a3aacdd6f91bae2aa9aa166",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "ce1d433385b9353b7d0029f3b27ee8e155e1dd6feb6274a657cc65b4d68c6b07",
+          "reason": "Refreshed actual public Nemotron comparison and fifth-model batch diarization facts; preserved semantic-review and physical-audio limits."
+        },
+        {
+          "previous_export_sha256": "bb273f645dc42f66a14203f7283d5681ccc6790f6b0f121150c1d5462689322d",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "demo-narration/demo-narration-es.md",
       "source_sha256": "39409397fa252b21e458f51aa64800bf089737b70d0a1e4ac71b3175cad5f953",
       "export_file": "demo-narration-es.md",
-      "export_sha256": "b442f1112e6976094a8299432859217b0acd60cb4c52810a03c2639586869983",
+      "export_sha256": "33bce5942140c51d9aa53e2e39ccb3baf10c3c65a6a2ef420e46e9f05a7ad598",
       "transformations": [
         "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "b442f1112e6976094a8299432859217b0acd60cb4c52810a03c2639586869983",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "3591db79f83edb6bfcada20a2e03a8842b3978391368d46660d1fc4ac7c74f08",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "eb7f06cb6c533d83fe7c27c0a95922d62f282be28acd5a8e54d449844a84093c",
+          "reason": "Refreshed actual public Nemotron comparison and fifth-model batch diarization facts; preserved semantic-review and physical-audio limits."
+        },
+        {
+          "previous_export_sha256": "0cf828088ee59ca4733e495fa4144e93799b62f904d89197d871051fe1fe5b75",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "demo-narration/demo-narration-de.md",
       "source_sha256": "4d14514260932642400d2391d1030e93f4f67391ab03fc4995dbcfcba18dc0c0",
       "export_file": "demo-narration-de.md",
-      "export_sha256": "550729acf7ef3b67854483080ced67cb8660f53a1fffd19aec68d134009e1f3d",
+      "export_sha256": "a9cb17732ecfbc0599e9e4d8b91b171804b21a73a0a540b92877082b3080789d",
       "transformations": [
         "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "550729acf7ef3b67854483080ced67cb8660f53a1fffd19aec68d134009e1f3d",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "6cb9ea40868480152c53df00ac2325d0aa960a58310d24f01dbaefc830ebf61b",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "9adb92b9ea11c6480e7115889a121847cdefa708056d2c3e58b7aa2dfa686600",
+          "reason": "Refreshed actual public Nemotron comparison and fifth-model batch diarization facts; preserved semantic-review and physical-audio limits."
+        },
+        {
+          "previous_export_sha256": "708830a15b7e3ebfe85b792ba5c6c06b3f89e21509038daaff50ab3ef4514aa6",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "demo-narration/demo-narration-fr.md",
       "source_sha256": "bf9a8d1798e2cf9a546fd6e7b9218fc9bd440853978b650dce0ac7acb75105df",
       "export_file": "demo-narration-fr.md",
-      "export_sha256": "d43a839d240f3249dec29622b1b109b2d5965d99c0bdea2bab172495913308f6",
+      "export_sha256": "36782662eadd1fd2591e89d0096c80baffb7bb1036bdadf57d9d4ce0bce8a982",
       "transformations": [
         "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "d43a839d240f3249dec29622b1b109b2d5965d99c0bdea2bab172495913308f6",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "2b74e105dd2e86456789e966155f70661104302ec2d849cca68ab0476a62ac2c",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "e00619db1d76db23d07215ea75f1787d3877b1b42d554bafe65d7051d603647c",
+          "reason": "Refreshed actual public Nemotron comparison and fifth-model batch diarization facts; preserved semantic-review and physical-audio limits."
+        },
+        {
+          "previous_export_sha256": "daaadbf1533426b0c576ca7200c2d879c816ba0f3e9d0b55969ec2e3a0f4d8b4",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "interview-preparation/interview-preparation-en.md",
       "source_sha256": "9ea63591a47284f5604d71f04a79d86e97542ce2f79b8b4e8fbb4e127bcb2d52",
       "export_file": "interview-preparation-en.md",
-      "export_sha256": "4138505eaeb663e2cab2013dcc970b5de65a27f9c0c0eaefed456804574411b1",
+      "export_sha256": "75fd9ed8a2b65036969297a066a7c1e643e9c9aa921d1beea2040768d5d0d2a1",
       "transformations": [
         "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "4138505eaeb663e2cab2013dcc970b5de65a27f9c0c0eaefed456804574411b1",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "9a029ba5581b376e141e873663d44e66fd139bf2f9418dfb914079edbd31dc9f",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "286fd100e2ef400481b5c842792cd5e60902d50d8241ea1c1276144c55a969be",
+          "reason": "Refreshed actual public Nemotron comparison and fifth-model batch diarization facts; preserved semantic-review and physical-audio limits."
+        },
+        {
+          "previous_export_sha256": "13ace7c8ab9d5c3828da29d1d7499266f59d22034e99cf00309dba61f82840b1",
+          "reason": "Linked persisted public UI completion/reload/export proof; final walkthrough capture corrected."
+        },
+        {
+          "previous_export_sha256": "62734d3452940c203e63e59353d21160eca1c72551e71b3ec80073258d187e19",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "interview-preparation/interview-preparation-es.md",
       "source_sha256": "cb57b21a613b5fca14d86fea0154635aeef963e742f8d90389ad4b003ec9d399",
       "export_file": "interview-preparation-es.md",
-      "export_sha256": "e926fef6e1b6ff8b5da05dea701b3cd06661a4a10456a7adcc685b89a7a94134",
+      "export_sha256": "ea1843c18f7e73c13cb8ee9a38be1c3b7627958049ac73c51ec915c672b9b82a",
       "transformations": [
         "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "e926fef6e1b6ff8b5da05dea701b3cd06661a4a10456a7adcc685b89a7a94134",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "48cc7a35f9fbed6c16d8ac1022f25ef28b8017c1896ae7b72acbf605b08ff34b",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "d15e59811cb59853d461c5d1c370adbd3b9e77ad690b8947fec7740bc35d5bb5",
+          "reason": "Refreshed actual public Nemotron comparison and fifth-model batch diarization facts; preserved semantic-review and physical-audio limits."
+        },
+        {
+          "previous_export_sha256": "ff622f280bd120748639f038c2285f2d8d944de091c24950a1c2fe61eebc3ac6",
+          "reason": "Linked persisted public UI completion/reload/export proof; final walkthrough capture corrected."
+        },
+        {
+          "previous_export_sha256": "0b0930bb559dd80de7f6b64fa378b3099c6fc4fbc9436194f0b1061c036de199",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "interview-preparation/interview-preparation-de.md",
       "source_sha256": "8b40fb1a0d9f33bef6e5c97b9772d23679d9cc84349ae30d434a73263485dd86",
       "export_file": "interview-preparation-de.md",
-      "export_sha256": "1bef1e5a84e680e7123c50deb8d9c3ce7075ab88adecfab6bcdda76c8bada0dc",
+      "export_sha256": "c8debdd62b2aa33c93e89426ad2c039781a4d3c891bff4086b8a15cf00b1d7fb",
       "transformations": [
         "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "1bef1e5a84e680e7123c50deb8d9c3ce7075ab88adecfab6bcdda76c8bada0dc",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "7695b8e40ec56b55bf6729324349ef06eedaf65609aa4ea1fce9f1c525f00f40",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "e26669d1d120730e1cee48c04407c061e35b84dc9e086c104a02faa12b97774e",
+          "reason": "Refreshed actual public Nemotron comparison and fifth-model batch diarization facts; preserved semantic-review and physical-audio limits."
+        },
+        {
+          "previous_export_sha256": "93c79ba39dd6ea9d32b566e0cef92d16eed8fb29da260f197f42acccc9b9088e",
+          "reason": "Linked persisted public UI completion/reload/export proof; final walkthrough capture corrected."
+        },
+        {
+          "previous_export_sha256": "cd18a63d71408a00ecfa82716ca0137a242bd00e8b0697caf38aa2e9cf9744d9",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "interview-preparation/interview-preparation-fr.md",
       "source_sha256": "34fa5cb28f05baff1f35b49bfda25524126e4891c65229f2a4cf4a19889d9139",
       "export_file": "interview-preparation-fr.md",
-      "export_sha256": "dc7b60ecb46b3747a7fb14c221480068b816fad225bd6937cbc7b6fb5d7a3f89",
+      "export_sha256": "37eab988c2024edd61e6120f482a7ff13f200703e9bc1a177016183c5f73b943",
       "transformations": [
         "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "dc7b60ecb46b3747a7fb14c221480068b816fad225bd6937cbc7b6fb5d7a3f89",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "01e8c57c1eb9fc60447b7d4ea2bca212387badecab7e87af5eab97a6a2e357ca",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "6b3914ab9c418f5a4a1b20fe1bf2ec3d0472214d1aeb3d589e51f3166209eb6c",
+          "reason": "Refreshed actual public Nemotron comparison and fifth-model batch diarization facts; preserved semantic-review and physical-audio limits."
+        },
+        {
+          "previous_export_sha256": "0111e29ffc9569c4c0a76d7174f96345a99c36f8c7e1144a63aa8560379b8e9d",
+          "reason": "Linked persisted public UI completion/reload/export proof; final walkthrough capture corrected."
+        },
+        {
+          "previous_export_sha256": "34f54c126ce2e5d2c496fa79a9a826678cd03f3b754f0ee5b37fcf9b8ece9ed0",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "submission-guide/comparison-analysis-en.md",
       "source_sha256": "bfed086a9e1d33650d83bf32f50c701fcd396cbb3c2d5308e3e39f76fe08621c",
       "export_file": "comparison-analysis-en.md",
-      "export_sha256": "1d11369933a0d9faf8847027b28a54fbb99d59dc95c03465f8be4787457b3e9c",
+      "export_sha256": "a9185b0287a93cbb84b50f47ce4baa7645ffcb546cbbef6143333e8a2293e341",
       "transformations": [
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "1d11369933a0d9faf8847027b28a54fbb99d59dc95c03465f8be4787457b3e9c",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "b203e7bf4a97dc2da2bc1742b0861d9426a61043c65c0508bcded80e2eb9a96f",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "4784f12e5eefb90c3926d962f2dfe4223df0fb4bc83d4b3420706cc2b91db97a",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "submission-guide/comparison-analysis-es.md",
       "source_sha256": "7216ab5a6e3b64071ddea74a16fe4d94fe2c15e7e628a0adc5793b485419f9a9",
       "export_file": "comparison-analysis-es.md",
-      "export_sha256": "50af276a55218a5992ec7d10c29f01fb37988cb0ef12051ce7a205d22886c66a",
+      "export_sha256": "9dee27d2d5321ca622559cd4f9140dc050805c360e45813a043229e745efe93c",
       "transformations": [
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "50af276a55218a5992ec7d10c29f01fb37988cb0ef12051ce7a205d22886c66a",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "5654fba213bba2c20bca2c20f0a1f657bcec1fdb30adad0b93002fff70b0dda6",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "2bdd1e34cc84f29de145d60b1aa0f91ed788afeed1332551eca6c04715541a80",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "submission-guide/comparison-analysis-de.md",
       "source_sha256": "c606ba3a7626a462d263ff0f1f6f7a4fb67f113cfbf090b3938bf3158477fbee",
       "export_file": "comparison-analysis-de.md",
-      "export_sha256": "edced8eaf66270691a8fad14e479eccacf6bd3d076df122b751c53f4242d2cf2",
+      "export_sha256": "7e3540f3c2dee6769ebff096aff34f7f70eac48c22db608ae6d68223334b819e",
       "transformations": [
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "edced8eaf66270691a8fad14e479eccacf6bd3d076df122b751c53f4242d2cf2",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "c5e74d04f9f476ad21af459037dbaf85c469bd85c30739e2db5e476a3d29d87f",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "bd699f465eca4660af4828e9dfb7ea28eb5092a680e7ace8b2dfa657b206088d",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     },
     {
       "source_note": "submission-guide/comparison-analysis-fr.md",
       "source_sha256": "83caf450ed67df6e96fc54adade23b6b1f15496b2e2ab118aeb8be092bfdd333",
       "export_file": "comparison-analysis-fr.md",
-      "export_sha256": "cfbc564140998bf14cf93032612cd618298e0901c54a705cbc0e721f5801fefc",
+      "export_sha256": "aa17567ab24d45415669867cbb90a4b6c8dc90b9ff6de0d4bbae68c7f66d5445",
       "transformations": [
         "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ],
+      "publication_revisions": [
+        {
+          "previous_export_sha256": "cfbc564140998bf14cf93032612cd618298e0901c54a705cbc0e721f5801fefc",
+          "reason": "Updated locally verified final-video metadata; Git publication pending and independent visual QA ongoing."
+        },
+        {
+          "previous_export_sha256": "0294986173d15f3ce9713121e6d9262a4fb658c9fed678e0f204e7763074a8e7",
+          "reason": "Recorded replacement-render metadata and repository package inclusion; independent visual QA ongoing, portal submission unperformed."
+        },
+        {
+          "previous_export_sha256": "ed35680829bd6bcc641733e49f1cf2d753de8c446d6c956e888d2caf8cb2c925",
+          "reason": "Applied independent final visual/technical QA pass; auditory certification remains unperformed."
+        }
       ]
     }
   ],
-  "index_sha256": "157e672af0eddc15cb0045235d8782643d00a148904a6d8bba55ca79694245ad",
+  "index_sha256": "59bfe81ec8ce9ee4906fe898db6591e3dc0172e1daca0668b92beef01373fa29",
   "validation": {
+    "checked_at": "2026-10-18T21:41:38.803024+00:00",
     "status": "passed",
-    "checked_at": "2026-10-18T21:10:32.497304+00:00",
-    "exported_notes": 16,
+    "relative_links_resolved": 254,
     "language_families": 4,
-    "total_public_export_files": 18,
-    "markdown_links": 198,
-    "resolved_local_links": 164,
     "qa_per_language": 20,
-    "source_hashes_unchanged": true,
+    "independent_visual_technical_qa": "passed",
     "errors": []
+  },
+  "updated_at": "2026-10-18T21:40:18.651319+00:00",
+  "current_public_execution": {
+    "core_revision": "c94186db2fbe1ccd307e232f18ec10e2d4fd52e7",
+    "nemotron_api": {
+      "source_repository": "tomi-ai-core",
+      "source_path": "verification/nebius-model-deployment/public-nvidia-comparison.json",
+      "source_sha256": "d40ffb61a4926ca7e8657c1670991827ff45375ad68f8524988709302639f955",
+      "observed_at": "2026-10-18T21:08:42.001Z",
+      "source_count": 7,
+      "semantic_review": "needs_review / span_verified_semantics_unreviewed",
+      "review_warning_present": true
+    },
+    "nemotron_ui": {
+      "source_path": "demo/public-workspace-acceptance.json",
+      "source_sha256": "86059b50016f8665b39f0400cd5255dcfa2c387df7b978b3651822a0c50fff8e",
+      "observed_at": "2026-10-18T21:31:24.285959+00:00",
+      "run_started_at": "2026-10-18T21:17:02Z",
+      "run_completed_at": "2026-10-18T21:17:20Z",
+      "source_count": 7,
+      "model": "nvidia/Nemotron-3.5-Super-VL",
+      "hermes_status": "needs_review",
+      "canvas_reload_same_answer": true,
+      "recorded_answers": 1,
+      "graph_orbit": true,
+      "export_download": true,
+      "export_sha256": "08da50e6801638c2a62652a258fb040d871597e9ccfc84380a59636a382d6067"
+    },
+    "diarization": {
+      "source_repository": "tomi-ai-core",
+      "source_path": "verification/nebius-model-deployment/public-diarization.json",
+      "source_sha256": "20bb9e8b0ac972ce53b7f5e7e17e9d3a2a72de8e39c32e45a38a88538c7bd214",
+      "observed_at": "2026-10-18T18:23:36.893165+00:00",
+      "http_status": 200,
+      "elapsed_seconds": 34.29,
+      "audio_duration_seconds": 30.0,
+      "segments": 6,
+      "anonymous_labels": 5,
+      "model": "nvidia/Nemotron-3-Diarization",
+      "additional_to_four_required_models": true,
+      "physical_microphone_verified": false,
+      "playback_verified": false,
+      "end_to_end_realtime_verified": false
+    }
   }
 }

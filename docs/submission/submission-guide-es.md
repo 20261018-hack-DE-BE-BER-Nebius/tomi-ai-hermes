@@ -11,7 +11,7 @@ tags: [tomi, submission, evidence, es]
 
 [EN](submission-guide-en.md) · [ES](submission-guide-es.md) · [DE](submission-guide-de.md) · [FR](submission-guide-fr.md)
 
-> Estado de publicación: el vídeo final de entrega sigue pendiente. La transcripción automática del MOV fuente terminó (46 fragmentos, 87 segmentos); faltan la escucha y la revisión de fidelidad. La duración del vídeo provisional no certifica la publicación final.
+> Estado de los vídeos: ambos archivos finales están incluidos en este repositorio y verificados localmente (entrega: 180.000 segundos; recorrido: 279.722656 segundos). La revisión visual y técnica independiente fue satisfactoria; no se certificaron escucha, inteligibilidad ni pronunciación. No se ha realizado la entrega en el portal. La transcripción automática del MOV terminó (46 fragmentos, 87 segmentos), pero faltan escucha y revisión de fidelidad.
 
 # Requisitos de entrega
 
@@ -26,19 +26,19 @@ Luma, consultado de nuevo el 18 de octubre de 2026 a las 17:04 UTC, publica el p
 | 100 páginas históricas | Las 100 identidades originales tienen hashes y llamadas Parse reales. Clasificación final: **95 páginas de texto completo, una lámina astronómica parcial (fila 2243), tres hojas en blanco revisadas visualmente (filas 374, 1615, 2077) y una cubierta sin texto (fila 452)**. Véase `evidence/page-content-classification.json`. |
 | Nemotron Parse 3.5 | Se conservan recibos del endpoint organizador. Las 98 respuestas aceptadas sin truncamiento incluyen las tres hojas con solo controles de diseño. La aceptación no certifica prosa útil, fidelidad OCR ni orden de lectura. |
 | Embed VL y Rerank VL | Ambos modelos produjeron resultados reales en la GPU Nebius asignada, a través de core. Los embeddings tienen 2048 dimensiones y el reranking produce puntuaciones de relevancia. Véanse `core-retrieval-live.json` y `gpu-models-live.json` de core. |
-| Nemotron 3.5 Super VL con Hermes | Hay recibos reales de inferencia Super VL y llamadas a la herramienta de evidencias Hermes. Los casos locales y la aceptación pública de extremo a extremo son verificaciones distintas; esta guía no certifica la última comparación pública. |
+| Nemotron 3.5 Super VL con Hermes | La ruta API pública Nemotron terminó con siete fuentes; la ejecución UI del 18 de octubre de 2026 a las 21:17:20 UTC conservó el aviso visible `needs_review` y la misma respuesta tras recargar el lienzo. Hay evidencias de Super VL, Embed, Rerank y Hermes, separadas de la extracción Parse. Integridad de citas y certificación semántica siguen siendo controles distintos. [Recibo de interfaz pública](../../demo/public-workspace-acceptance.json). |
 | Asociación Britannica → Wikipedia | La recuperación semántica terminó para **96 páginas textuales o parciales: 23 resultados candidatos y 73 ambiguos**. Tres hojas en blanco y una cubierta quedan sin asociación. Se conservan errores y reintentos selectivos. Estos resultados no miden exactitud de asociación. |
 | Análisis comparativo | Tres comparaciones con fuentes incluyen frecuencias, solapamiento Jaccard y divergencia Jensen–Shannon en `evidence/comparison-analysis.md` y `.json`. Se explicitan tokenización y límites OCR; BERTopic no se ejecutó y es opcional. |
 | Archivo estático y LaTeX compilado | 100 documentos fuente están compilados en 187 páginas PDF, con LaTeX editable y recibo sin avisos de glifos ausentes. Están disponibles el [archivo público](https://tomi-web.graysky-dd3771ab.swedencentral.azurecontainerapps.io/archive/) y los [resultados guardados](https://tomi-web.graysky-dd3771ab.swedencentral.azurecontainerapps.io/archive/results.html). |
 | Extensión Hermes | El agente invoca una herramienta de evidencias de solo lectura y elige identificadores ofrecidos. El servicio vincula citas y posiciones Unicode inmutables; rechaza identificadores desconocidos, modificaciones y citas de un solo corpus. La búsqueda y la pregunta original quedan separadas. Validez exacta de las citas no demuestra soporte semántico. |
 | Tres éxitos y tres fallos | `evidence/reviewed-six-cases.json` recoge tres comparaciones acotadas revisadas por el asistente: piezas de madera frente a la definición de astillero; continuidad litro/decímetro cúbico; recipientes/gas históricos frente a eliminación moderna de color textil. Se conservan tres fallos previos de preguntas amplias. La prosa del litro normaliza `dm 3` a `dm³`; las citas originales no cambian. Queda pendiente la revisión humana independiente. |
-| Repositorio y vídeo | Existe la versión de tres minutos: **178.115 segundos**, con decodificación completa correcta en el recibo. La narración usa la voz sintética Daniel de macOS. Quedan pendientes la versión larga, la revisión audiovisual final, una URL del vídeo accesible al jurado y el justificante de entrega. |
+| Repositorio y vídeo | La [entrega para el PDF](../../demo/tomi-submission-3min.mp4) dura **180.000 segundos**; el [recorrido de plataforma](../../demo/tomi-platform-walkthrough.mp4) separado dura **279.722656 segundos**, menos de 300. Los hashes de las copias coinciden con sus recibos de decodificación. [Índice, hashes y cobertura](../../demo/README.md). Los archivos están incluidos en este repositorio. La revisión visual y técnica independiente fue satisfactoria; la escucha sigue sin verificar y no se ha realizado entrega en el portal. |
 
 Rúbrica: cumplimiento 20, creatividad 20, Parse 15, Embed/Rerank 15, extensión Hermes 10 y Super VL 20; total 100. Lo ausente o no verificado recibe cero en sus comprobaciones correspondientes. No se atribuye una nota al proyecto. [S1]
 
 ## Entrada del repositorio y reproducción
 
-La README principal es la entrada a los 13 repositorios de implementación y al grafo. `repository-map.json` registra rutas y orígenes; sus revisiones guardadas son una instantánea y no prueban igualdad remota actual. La verificación final de publicación sigue en la lista.
+La README principal es la entrada a los 13 repositorios de implementación y al grafo. `repository-map.json` registra rutas y orígenes; sus revisiones guardadas son una instantánea y no prueban igualdad remota actual. La verificación de publicación Git se registra por separado; esta guía no afirma reproducción desde un clon limpio.
 
 Hermes contiene la muestra fijada en `resources/upstream/britannica-manifest.json`, la procedencia en `resources/upstream/provenance.json` y los textos, versiones y recibos Parse portables en `resources/corpus/`. Los resultados actuales son `evidence/reviewed-six-cases.json`, `evidence/100-page-semantic-summary.json`, `evidence/100-page-semantic-ledger.csv` y `evidence/page-content-classification.json`. El recibo de compilación es `archive/assets/compile-receipt.json`. Los recibos de modelos core están en `verification/nebius-model-deployment/` de su repositorio. Los fallos anteriores permanecen intactos.
 
@@ -63,12 +63,11 @@ Después del instalador, ejecutar directamente `.venv/bin/...`. Un `uv sync` pos
 - [x] Guardar tres éxitos acotados revisados por el asistente y tres fallos reales con citas inmutables.
 - [x] Aportar análisis de vocabulario, métricas y límites de interpretación.
 - [x] Compilar los 100 documentos, conservar diagnósticos y ofrecer archivo y resultados estáticos públicos.
-- [x] Renderizar la versión de entrega y verificar sus 178.115 segundos y la decodificación completa.
+- [x] Verificar ambos archivos finales localmente: entrega de 180.000 segundos y recorrido de 279.722656 segundos, hashes coincidentes y recibos de decodificación.
 - [x] Completar los escaneos documentados de secretos en código/evidencias y conservar sus recibos sin hallazgos.
 - [ ] Confirmar acceso autenticado a TechEurope, posible prórroga, enlaces finales y justificante real con fecha.
-- [ ] Verificar commits y URLs finales de los 14 repositorios y reproducir desde un clon limpio.
-- [ ] Obtener revisión humana independiente de los éxitos y validar la comparación Nemotron pública actual.
-- [ ] Terminar la versión larga y revisar audio, subtítulos, legibilidad y acceso del jurado al vídeo de entrega.
+- [ ] Obtener revisión humana independiente de las afirmaciones seleccionadas; la ejecución Nemotron pública está completa y conserva el aviso de revisión.
+- [x] La revisión visual y técnica independiente fue satisfactoria para los vídeos incluidos; no se certificaron escucha ni inteligibilidad del habla.
 - [ ] Escuchar y revisar la transcripción automática terminada del MOV antes de afirmar fidelidad verificada o un resumen revisado.
 
 ## Fuentes y límites

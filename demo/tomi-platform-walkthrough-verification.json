@@ -1,0 +1,25 @@
+{
+  "video": "tomi-platform-walkthrough.mp4",
+  "duration_seconds": 279.722656,
+  "max_seconds": 300,
+  "bytes": 11292364,
+  "sha256": "4e8738ae4caacfe8d681cce64d96e8c9fd0efdd9f9cdfefb7099516b5a9103e1",
+  "full_decode": "passed",
+  "narration": "macOS Daniel synthetic English voice",
+  "audio_processing": "Per-scene loudness normalization followed by 5 dB attenuation for AAC playback headroom",
+  "subtitle_timing": "phrase-level estimates within measured scene audio",
+  "streams": [
+    {
+      "codec": "h264",
+      "type": "video",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "codec": "aac",
+      "type": "audio",
+      "width": null,
+      "height": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "observed_at": "2026-10-18T21:36:37.010388+00:00",
+  "status": "passed",
+  "frozen_files": [
+    {
+      "kind": "walkthrough",
+      "video": "tomi-platform-walkthrough.mp4",
+      "sha256": "4e8738ae4caacfe8d681cce64d96e8c9fd0efdd9f9cdfefb7099516b5a9103e1",
+      "bytes": 11292364,
+      "duration_seconds": 279.722656,
+      "duration_limit_seconds": 300,
+      "receipt": "tomi-platform-walkthrough-verification.json",
+      "audio_peak_dbfs": -3.662232,
+      "audio_rms_dbfs": -21.361897
+    },
+    {
+      "kind": "submission",
+      "video": "tomi-submission-3min.mp4",
+      "sha256": "90defe04b5fb1db0e609d2d5cdb8f692c07a23899b7cd30160b24b961c442442",
+      "bytes": 7447272,
+      "duration_seconds": 180.0,
+      "duration_limit_seconds": 180,
+      "receipt": "tomi-submission-3min-verification.json",
+      "audio_peak_dbfs": -4.485327,
+      "audio_rms_dbfs": -21.376494
+    }
+  ],
+  "full_decode": "passed for both frozen files",
+  "video_streams": "1920x1080 H.264",
+  "audio_streams": "AAC with measurable non-silent decoded audio; both peaks below full scale",
+  "audio_listening_performed": false,
+  "audio_measurements_do_not_establish_intelligibility": true,
+  "visual_review_scope": "All33 montage captures and both closing frames reviewed in revision2. Final walkthrough differs only in scene4 capture field; final scene4 was independently inspected at start, middle and end. Final full file decode/hash and float audio peak checked. Frozen short hash reconfirmed.",
+  "resolved_issues": [
+    "walkthrough float audio above full scale",
+    "third failure card outside the viewport",
+    "GPT catalog entries under Four required models caption"
+  ],
+  "unintended_loading_or_wrong_section_observed": false,
+  "intentional_processing_capture": "Walkthrough shows speaker analysis in progress immediately before the actual completed result; this is an intentional flow step, not claimed completed output.",
+  "source_video_product_code_or_git_edited_by_reviewer": false,
+  "scope_limit": "Rendered scenes, metadata, complete decode and numeric audio verification; no auditory intelligibility, pronunciation, or synchronization certification.",
+  "review_provenance": "Independent reviewer inspected actual extracted video frames and performed complete decode, hash and numeric audio checks. Full diagnostic files and contact sheets are retained in the local delivery archive."
+}

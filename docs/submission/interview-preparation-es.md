@@ -11,7 +11,7 @@ tags: [tomi, interview, evidence, es]
 
 [EN](interview-preparation-en.md) · [ES](interview-preparation-es.md) · [DE](interview-preparation-de.md) · [FR](interview-preparation-fr.md)
 
-> Estado de publicación: el vídeo final de entrega sigue pendiente. La transcripción automática del MOV fuente terminó (46 fragmentos, 87 segmentos); faltan la escucha y la revisión de fidelidad. La duración del vídeo provisional no certifica la publicación final.
+> Estado de los vídeos: ambos archivos finales están incluidos en este repositorio y verificados localmente (entrega: 180.000 segundos; recorrido: 279.722656 segundos). La revisión visual y técnica independiente fue satisfactoria; no se certificaron escucha, inteligibilidad ni pronunciación. No se ha realizado la entrega en el portal. La transcripción automática del MOV terminó (46 fragmentos, 87 segmentos), pero faltan escucha y revisión de fidelidad.
 
 # Preparación de la entrevista
 
@@ -47,9 +47,9 @@ Son preguntas probables, no una entrevista proporcionada por el organizador. Las
 
 15. **¿Cómo tratáis la inyección de instrucciones?** OCR y texto recuperado son datos no confiables. El agente no recibe claves y dispone de una sola herramienta acotada de lectura. Las inyecciones reales provocaron abstención; regresiones rechazan referencias no autorizadas. Son pruebas de defensas concretas, no inmunidad universal.
 
-16. **¿Qué funciona públicamente?** La base pública guardada verificó streaming Astra, siete fuentes, redirección, cancelación, eventos guardados y cierre de sesión. La ruta Hermes de cuatro modelos tiene ejecuciones y casos revisados separados. Su aceptación pública es otra comprobación de versión, no se infiere del resultado Astra.
+16. **¿Qué funciona públicamente?** La comparación Nemotron en la interfaz pública terminó el 18 de octubre de 2026 a las 21:17:20 UTC con siete fuentes y el aviso visible `needs_review`; al recargar el lienzo se recuperó la misma respuesta. El recibo API independiente de core, de las 21:08:42 UTC, registra ejecuciones reales de Super VL, Embed, Rerank y Hermes sobre el corpus obtenido con Parse. Completar la ruta no certifica semánticamente cada afirmación. Las pruebas previas de Astra, redirección, cancelación, eventos guardados y cierre de sesión siguen siendo evidencias separadas. [Recibo de interfaz pública](../../demo/public-workspace-acceptance.json).
 
-17. **¿Qué multimodalidad habéis probado?** Las rutas públicas devolvieron PNG real y emitieron sesión realtime. Emitir una sesión no demuestra captura, reproducción ni conversación de voz. No declaramos interacción física audiovisual ni diarización sin el recibo independiente de aceptación vigente.
+17. **¿Qué multimodalidad habéis probado?** La generación pública devolvió un PNG real y funcionó la emisión de sesión realtime. El quinto modelo NVIDIA adicional, `nvidia/Nemotron-3-Diarization`, procesó una muestra oficial de 30 segundos en la ruta pública por lotes: HTTP 200 en 34.29 segundos, seis segmentos y cinco etiquetas anónimas, visibles también en la interfaz. No son identidades reconocidas ni una medida de exactitud de hablantes. Este modelo complementa los cuatro modelos exigidos. Siguen sin verificarse micrófono físico, reproducción y conversación realtime completa.
 
 18. **¿Cómo es el despliegue y la seguridad?** Seis servicios están en Azure y solo la web es pública; la recuperación exigida funciona en Nebius. Las claves de proveedor permanecen en core. Los escaneos revisados están limpios. Persisten rol PostgreSQL administrativo e historial Covenant efímero; no hay aprobación de producción ni LTS.
 

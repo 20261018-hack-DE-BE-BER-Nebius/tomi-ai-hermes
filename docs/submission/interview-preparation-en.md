@@ -11,7 +11,7 @@ tags: [tomi, interview, evidence, en]
 
 [EN](interview-preparation-en.md) · [ES](interview-preparation-es.md) · [DE](interview-preparation-de.md) · [FR](interview-preparation-fr.md)
 
-> Publication status: the final submission video is pending. Automatic transcription of the source MOV completed (46 chunks, 87 segments); listening and fidelity review remain incomplete. Existing interim video duration does not certify final publication.
+> Video status: both final files are included in this repository and locally verified (submission 180.000 seconds; walkthrough 279.722656 seconds). Independent visual and technical QA passed; listening, intelligibility and pronunciation were not certified. Portal submission has not been performed. Automatic source-MOV transcription completed (46 chunks, 87 segments), but listening and fidelity review remain incomplete.
 
 # Interview preparation
 
@@ -47,9 +47,9 @@ These are likely questions, not an organizer-provided interview. Answers use the
 
 15. **How do you handle prompt injection?** OCR and retrieved text remain untrusted data. The agent receives no provider key and has only a bounded read-only tool. Actual instruction-attack runs abstained; regression tests reject unauthorized evidence references. This is evidence of specific guards, not proof of immunity to every attack.
 
-16. **What actually works in the public application?** The saved public baseline verified an Astra stream, seven sources, steering, cancellation, stored conversation events and logout. The four-model Hermes route has separate actual execution and reviewed-case receipts. Its public acceptance is a separate release check, not inferred from the earlier Astra result.
+16. **What actually works in the public application?** The public Nemotron UI comparison completed on 18 October 2026 at 21:17:20 UTC with seven sources and a visible `needs_review` warning; reloading the canvas restored the same answer. The separate core API receipt at 21:08:42 UTC records actual Super VL, Embed, Rerank and Hermes execution against the Parse-derived corpus. Completion proves that route ran, not that every claim is semantically verified. The earlier Astra streaming, steering, cancellation, stored-event and logout checks remain separate evidence. [Public UI receipt](../../demo/public-workspace-acceptance.json).
 
-17. **What multimodal features have you verified?** Public endpoints returned an actual PNG and issued a realtime session. Session issuance is not microphone capture, playback or a completed voice conversation. Physical audio/video interaction and diarization are not claimed here without their separate current acceptance receipt.
+17. **What multimodal features have you verified?** Public image generation returned an actual PNG, and realtime session issuance succeeded. The additional fifth NVIDIA model, `nvidia/Nemotron-3-Diarization`, processed an official 30-second sample through the public batch route: HTTP 200 in 34.29 seconds, six segments and five anonymous labels, also shown in the UI. These labels are not recognized identities or a measured speaker-accuracy result. This model supplements the four required challenge models. Physical microphone use, playback and an end-to-end realtime voice conversation remain unverified.
 
 18. **What is your deployment and security posture?** Six application services run on Azure and only the web is public; required retrieval inference runs on Nebius. Provider keys are confined to core. Reviewed secret scans are clean. Known limits include the administrative PostgreSQL runtime role and ephemeral Covenant history; this is not production or LTS sign-off.
 

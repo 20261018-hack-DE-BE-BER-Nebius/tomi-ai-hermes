@@ -11,7 +11,7 @@ tags: [tomi, submission, evidence, de]
 
 [EN](demo-narration-en.md) · [ES](demo-narration-es.md) · [DE](demo-narration-de.md) · [FR](demo-narration-fr.md)
 
-> Veröffentlichungsstand: Das endgültige Einreichungsvideo steht aus. Die automatische Transkription des Quell-MOV ist abgeschlossen (46 Abschnitte, 87 Segmente); Hör- und Treueprüfung bleiben unvollständig. Die Dauer der Zwischenfassung bestätigt keine finale Veröffentlichung.
+> Videostand: Beide finalen Dateien sind in diesem Repository enthalten und lokal verifiziert (Einreichung: 180.000 Sekunden; Rundgang: 279.722656 Sekunden). Unabhängige Sicht- und Technikprüfung bestanden; Hören, Verständlichkeit und Aussprache wurden nicht zertifiziert. Eine Portalabgabe wurde nicht durchgeführt. Die automatische MOV-Transkription ist abgeschlossen (46 Abschnitte, 87 Segmente), Hör- und Treueprüfung bleiben unvollständig.
 
 # Tomi
 
@@ -57,7 +57,7 @@ Sechs Dienste laufen auf Azure, nur die Webanwendung ist öffentlich. Native Azu
 
 ## Produktions- und Nachweisgrenzen
 
-Das PDF verlangt drei Minuten. Die gerenderte Dauer messen; Wortzahlen beweisen keine Wiedergabe. Der englische Langtext bleibt unter600Wörtern. Modellbelege sind echt, die Stichprobenzuordnung ist mit ausdrücklicher Mehrdeutigkeit abgeschlossen. Die sechs Fälle wurden vom Assistenten geprüft, ohne unabhängige menschliche Zertifizierung. Öffentliche Bereitstellung und NVIDIA-Abnahme sind getrennte Prüfungen. Keine Einreichung, Auszeichnung oder physische Audiotreue wird behauptet.
+Das Teilnehmer-PDF verlangt drei Minuten. Die enthaltenen finalen Videos dauern 180.000 und 279.722656 Sekunden und besitzen passende Hashes sowie vollständige Dekodierbelege. Das englische erweiterte Vorbereitungsskript bleibt unter600Wörtern. Alle vier vorgeschriebenen Modelle sind tatsächlich ausgeführt; der öffentliche Nemotron-Vergleich endete mit sieben Quellen und Prüfhinweis. Die vollständige Stichprobe ist mit ausdrücklicher Mehrdeutigkeit bearbeitet. Die sechs Fälle prüfte der Assistent; unabhängige menschliche Zertifizierung steht aus. Portalabgabe, Preis oder physische Audiotreue werden nicht behauptet.
 
 [submission-guide-de](submission-guide-de.md) · [interview-preparation-de](interview-preparation-de.md)
 

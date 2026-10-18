@@ -11,7 +11,7 @@ tags: [tomi, comparison, evidence, es]
 
 [EN](comparison-analysis-en.md) · [ES](comparison-analysis-es.md) · [DE](comparison-analysis-de.md) · [FR](comparison-analysis-fr.md)
 
-> Estado de publicación: el vídeo final de entrega sigue pendiente. La transcripción automática del MOV fuente terminó (46 fragmentos, 87 segmentos); faltan la escucha y la revisión de fidelidad. La duración del vídeo provisional no certifica la publicación final.
+> Estado de los vídeos: ambos archivos finales están incluidos en este repositorio y verificados localmente (entrega: 180.000 segundos; recorrido: 279.722656 segundos). La revisión visual y técnica independiente fue satisfactoria; no se certificaron escucha, inteligibilidad ni pronunciación. No se ha realizado la entrega en el portal. La transcripción automática del MOV terminó (46 fragmentos, 87 segmentos), pero faltan escucha y revisión de fidelidad.
 
 # Análisis de vocabulario de tres comparaciones reales
 

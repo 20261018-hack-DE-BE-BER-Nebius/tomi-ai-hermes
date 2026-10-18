@@ -11,7 +11,7 @@ tags: [tomi, interview, evidence, fr]
 
 [EN](interview-preparation-en.md) · [ES](interview-preparation-es.md) · [DE](interview-preparation-de.md) · [FR](interview-preparation-fr.md)
 
-> État de publication : la vidéo finale de soumission reste en attente. La transcription automatique du MOV source est terminée (46 blocs, 87 segments) ; écoute et contrôle de fidélité restent incomplets. La durée de la version provisoire ne certifie pas la publication finale.
+> État des vidéos : les deux fichiers finaux sont inclus dans ce dépôt et vérifiés localement (soumission : 180.000 secondes ; visite : 279.722656 secondes). Revue visuelle et technique indépendante réussie ; écoute, intelligibilité et prononciation non certifiées. Aucune soumission au portail n’a été effectuée. La transcription automatique du MOV est terminée (46 blocs, 87 segments), mais écoute et contrôle de fidélité restent incomplets.
 
 # Préparation à l'entretien
 
@@ -47,9 +47,9 @@ Questions probables, et non questionnaire officiel. Les réponses décrivent la 
 
 15. **Comment traitez-vous l'injection ?** OCR et textes récupérés sont des données non fiables. L’agent ne reçoit aucune clé et dispose d’un seul outil borné en lecture. Les attaques réelles ont conduit à l’abstention ; les tests rejettent les références non autorisées. Cela prouve des protections précises, pas une immunité universelle.
 
-16. **Que fonctionne-t-il réellement en public ?** La preuve publique conservée a validé un flux Astra, sept sources, orientation, annulation, événements enregistrés et déconnexion. La chaîne Hermes à quatre modèles possède des preuves distinctes d’exécution et de cas revus. Son acceptation publique est une vérification de version séparée, non déduite du résultat Astra.
+16. **Que fonctionne-t-il réellement en public ?** La comparaison Nemotron dans l’interface publique s’est terminée le 18 octobre 2026 à 21:17:20 UTC avec sept sources et un avertissement `needs_review` visible ; recharger le canevas a restauré la même réponse. Le reçu API core distinct de 21:08:42 UTC documente les exécutions réelles de Super VL, Embed, Rerank et Hermes sur le corpus issu de Parse. Une exécution terminée ne certifie pas le soutien sémantique de chaque affirmation. Les contrôles Astra antérieurs, orientation, annulation, événements enregistrés et déconnexion restent des preuves séparées. [Reçu de l’interface publique](../../demo/public-workspace-acceptance.json).
 
-17. **Quelle multimodalité est vérifiée ?** Les endpoints publics ont retourné un vrai PNG et émis une session realtime. Une session ne prouve ni microphone, lecture audio ni conversation achevée. Interaction audiovisuelle physique et diarisation ne sont pas revendiquées sans leur propre reçu d’acceptation actuel.
+17. **Quelle multimodalité est vérifiée ?** La génération publique a retourné un vrai PNG et l’émission d’une session realtime a réussi. Le cinquième modèle NVIDIA supplémentaire, `nvidia/Nemotron-3-Diarization`, a traité un échantillon officiel de 30 secondes via la route publique par lots : HTTP 200 en 34.29 secondes, six segments et cinq étiquettes anonymes, également visibles dans l’interface. Ce ne sont ni des identités reconnues ni une mesure d’exactitude des locuteurs. Ce modèle complète les quatre modèles imposés. Microphone physique, lecture audio et conversation realtime de bout en bout restent non vérifiés.
 
 18. **Quel déploiement et quelle sécurité ?** Six services tournent sur Azure, seul le web est public ; la recherche imposée fonctionne sur Nebius. Les clés restent dans core. Les scans de secrets contrôlés sont propres. Rôle PostgreSQL administratif et historique Covenant éphémère restent des limites ; aucune validation production ou LTS.
 

@@ -11,7 +11,7 @@ tags: [tomi, submission, evidence, fr]
 
 [EN](demo-narration-en.md) · [ES](demo-narration-es.md) · [DE](demo-narration-de.md) · [FR](demo-narration-fr.md)
 
-> État de publication : la vidéo finale de soumission reste en attente. La transcription automatique du MOV source est terminée (46 blocs, 87 segments) ; écoute et contrôle de fidélité restent incomplets. La durée de la version provisoire ne certifie pas la publication finale.
+> État des vidéos : les deux fichiers finaux sont inclus dans ce dépôt et vérifiés localement (soumission : 180.000 secondes ; visite : 279.722656 secondes). Revue visuelle et technique indépendante réussie ; écoute, intelligibilité et prononciation non certifiées. Aucune soumission au portail n’a été effectuée. La transcription automatique du MOV est terminée (46 blocs, 87 segments), mais écoute et contrôle de fidélité restent incomplets.
 
 # Tomi
 
@@ -57,7 +57,7 @@ Six services fonctionnent sur Azure, seul le web étant public. Azure Blob natif
 
 ## Limites de production et de preuve
 
-Le PDF exige trois minutes. Mesurer la durée rendue ; le nombre de mots ne prouve pas la lecture. Le texte anglais étendu reste sous600mots. Les preuves modèles sont réelles ; les associations complètes sont terminées avec ambiguïtés explicites. Les six cas ont été vérifiés par l’assistant, sans certification humaine indépendante. Déploiement et acceptation NVIDIA publics sont distincts. Aucun accusé de soumission, prix ou fidélité audio physique n’est annoncé.
+Le PDF impose trois minutes. Les vidéos finales incluses durent 180.000 et 279.722656 secondes, avec empreintes conformes et reçus de décodage complet. Le script anglais étendu de préparation reste sous600mots. Les quatre modèles imposés ont réellement été exécutés ; la comparaison Nemotron publique s’est terminée avec sept sources et un avertissement de revue. L’échantillon complet est traité avec ambiguïtés explicites. L’assistant a revu les six cas ; la certification humaine indépendante reste en attente. Aucun dépôt au portail, prix ou fidélité audio physique n’est revendiqué.
 
 [submission-guide-fr](submission-guide-fr.md) · [interview-preparation-fr](interview-preparation-fr.md)
 

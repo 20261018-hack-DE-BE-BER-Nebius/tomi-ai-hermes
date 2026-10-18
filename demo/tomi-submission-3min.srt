@@ -1,0 +1,143 @@
+1
+00:00:00,000 --> 00:00:06,134
+Tomi compares historical Encyclopaedia Britannica with Wikipedia, making evidence and uncertainty visible.
+
+2
+00:00:06,134 --> 00:00:15,847
+This demonstration shows the real NVIDIA pipeline, three narrowly supported comparisons, and three clear failures from our own runs.
+
+3
+00:00:15,847 --> 00:00:23,428
+We selected one hundred pages from a pinned dataset, using random sampling without replacement and a recorded seed.
+
+4
+00:00:23,428 --> 00:00:29,746
+Every image has a checked hash and a real Nemotron Parse three point five receipt.
+
+5
+00:00:29,746 --> 00:00:37,327
+The sample contains ninety-five full text pages, one partial astronomy plate, three blank leaves, and one non-text cover.
+
+6
+00:00:37,327 --> 00:00:40,697
+These are extraction outcomes, not certified OCR accuracy.
+
+7
+00:00:40,697 --> 00:00:43,113
+Parse extracts the historical documents.
+
+8
+00:00:43,113 --> 00:00:46,979
+Wikipedia candidates come from the organizer’s versioned snapshot.
+
+9
+00:00:46,979 --> 00:00:52,295
+Nemotron Embed and Rerank run together on our assigned Nebius GPU.
+
+10
+00:00:52,295 --> 00:00:55,678
+LanceDB stores vectors in Azure Blob storage.
+
+11
+00:00:55,678 --> 00:01:01,477
+Nemotron Super VL, accessed through Token Factory, drives the Hermes comparison agent.
+
+12
+00:01:01,477 --> 00:01:04,377
+Credentials stay behind the Rust gateway.
+
+13
+00:01:04,377 --> 00:01:06,817
+Here are the three supported cases.
+
+14
+00:01:06,817 --> 00:01:11,291
+Shipbuilding contrasts timber shelf-pieces with the modern definition of a shipyard.
+
+15
+00:01:11,291 --> 00:01:15,358
+Both measurement excerpts associate the litre with a cubic decimetre.
+
+16
+00:01:15,358 --> 00:01:21,459
+Bleaching compares historical attention to vessels and gas with the modern purpose of removing colour.
+
+17
+00:01:21,459 --> 00:01:24,713
+We reviewed these limited claims against their sources.
+
+18
+00:01:24,713 --> 00:01:27,153
+Independent human sign-off is still pending.
+
+19
+00:01:27,153 --> 00:01:29,008
+The broader questions failed.
+
+20
+00:01:29,008 --> 00:01:30,864
+Shipbuilding retrieval favored companies.
+
+21
+00:01:30,864 --> 00:01:34,574
+Measurement retrieval found policy instead of unit definitions.
+
+22
+00:01:34,574 --> 00:01:39,212
+Damaged bleaching text could not support a full process comparison.
+
+23
+00:01:39,212 --> 00:01:42,923
+We preserve those original attempts and their abstentions.
+
+24
+00:01:42,923 --> 00:01:48,953
+Later narrow successes do not erase the failed questions or establish general accuracy.
+
+25
+00:01:48,953 --> 00:01:53,714
+Our Hermes extension gives the model immutable evidence span identifiers.
+
+26
+00:01:53,714 --> 00:01:58,950
+The server resolves selected identifiers into exact quotes and Unicode offsets.
+
+27
+00:01:58,950 --> 00:02:04,663
+Unknown identifiers, changed quotations, and references from only one corpus fail validation.
+
+28
+00:02:04,663 --> 00:02:10,852
+This repairs quotation-copy errors while leaving factual entailment as a separate review step.
+
+29
+00:02:10,852 --> 00:02:21,942
+The static archive includes all hundred scans, editable LaTeX, individual PDFs, and a compiled hundred-document volume totaling one hundred eighty-seven pages.
+
+30
+00:02:21,942 --> 00:02:26,167
+The matching ledger records candidates, ambiguity and blockers.
+
+31
+00:02:26,167 --> 00:02:29,864
+Relevance scores are not probabilities of truth.
+
+32
+00:02:29,864 --> 00:02:35,144
+Original source revisions, hashes, comparison metrics and failures remain inspectable.
+
+33
+00:02:35,144 --> 00:02:42,288
+The application connects streaming chat, source cards, the evidence canvas and a three-dimensional graph.
+
+34
+00:02:42,288 --> 00:02:44,839
+Stored conversation evidence survives reload.
+
+35
+00:02:44,839 --> 00:02:51,472
+The repository contains setup instructions, sample selection, comparison analysis and six documented cases.
+
+36
+00:02:51,472 --> 00:02:58,104
+The result is an inspectable research workflow with useful answers and visible limits.

@@ -11,7 +11,7 @@ tags: [tomi, submission, evidence, en]
 
 [EN](submission-guide-en.md) · [ES](submission-guide-es.md) · [DE](submission-guide-de.md) · [FR](submission-guide-fr.md)
 
-> Publication status: the final submission video is pending. Automatic transcription of the source MOV completed (46 chunks, 87 segments); listening and fidelity review remain incomplete. Existing interim video duration does not certify final publication.
+> Video status: both final files are included in this repository and locally verified (submission 180.000 seconds; walkthrough 279.722656 seconds). Independent visual and technical QA passed; listening, intelligibility and pronunciation were not certified. Portal submission has not been performed. Automatic source-MOV transcription completed (46 chunks, 87 segments), but listening and fidelity review remain incomplete.
 
 # Submission requirements
 
@@ -26,19 +26,19 @@ Luma's public event page, refreshed on October 18, 2026 at 17:04 UTC, lists **Oc
 | 100 selected historical pages | All 100 original identities have source hashes and actual Parse calls. Final classification: **95 full-text pages, one partial astronomy plate (row 2243), three visually reviewed blank leaves (rows 374, 1615, 2077), and one nontext cover (row 452)**. See `evidence/page-content-classification.json`. |
 | Nemotron Parse 3.5 | Organizer endpoint receipts are retained. The 98 accepted nontruncated responses include the three layout-only blank leaves. Acceptance does not certify usable prose, OCR fidelity or reading order. |
 | Embed VL and Rerank VL | Both models produced actual outputs on the assigned Nebius GPU through core. Embeddings have 2048 dimensions; reranking produces relevance scores. See core `core-retrieval-live.json` and `gpu-models-live.json`. |
-| Nemotron 3.5 Super VL with Hermes | Actual Super VL inference and Hermes evidence-tool calls are recorded. Local case evidence and public end-to-end acceptance are separate checks; this guide does not certify the latest public comparison. |
+| Nemotron 3.5 Super VL with Hermes | The public Nemotron API run completed with seven sources; the UI run at 21:17:20 UTC on 18 October 2026 retained a visible `needs_review` warning and restored the same answer after canvas reload. Super VL, Embed, Rerank and Hermes execution is evidenced separately from Parse extraction. Citation integrity and semantic certification remain different checks. [Public UI receipt](../../demo/public-workspace-acceptance.json). |
 | Britannica → Wikipedia matching | Semantic retrieval completed for **96 textual or partial pages: 23 candidate and 73 ambiguous outcomes**. Three blank leaves and one cover remain unmatched. Original failures and targeted retries are retained. These outcomes are not measured matching accuracy. |
 | Comparison analysis | Three source-cited comparisons include word frequencies, Jaccard overlap and Jensen–Shannon divergence in `evidence/comparison-analysis.md` and `.json`. Tokenization and OCR limitations are explicit; BERTopic was not run and is optional. |
 | Static archive and compiled LaTeX | 100 source documents are compiled into 187 PDF pages, with editable LaTeX and a retained compiler receipt reporting no missing-glyph warnings. [Public archive](https://tomi-web.graysky-dd3771ab.swedencentral.azurecontainerapps.io/archive/) and [recorded results](https://tomi-web.graysky-dd3771ab.swedencentral.azurecontainerapps.io/archive/results.html) are available. |
 | Hermes extension | The agent invokes one read-only evidence tool and selects offered span IDs. The service binds immutable quotes and Unicode offsets, rejecting unknown IDs, overrides and one-corpus citations. Discovery and the original question remain separate. Exact citation validity does not prove semantic support. |
 | Three successes and three failures | `evidence/reviewed-six-cases.json` records three narrow assistant-reviewed comparisons: timber shelf-pieces versus a shipyard definition; litre/cubic-decimetre continuity; historical vessel/gas discussion versus modern textile colour removal. Three earlier broad-question failures remain preserved. The litre prose normalizes `dm 3` to `dm³`; original quotes remain unchanged. Independent human review is pending. |
-| Repository and video | The three-minute cut exists: **178.115 seconds**, with successful full decoding recorded in its verification receipt. Narration uses the synthetic macOS Daniel voice. The longer cut, final audiovisual review, judge-accessible video URL and submission receipt remain pending. |
+| Repository and video | The [PDF submission](../../demo/tomi-submission-3min.mp4) is **180.000 seconds**; the separate [platform walkthrough](../../demo/tomi-platform-walkthrough.mp4) is **279.722656 seconds**, below 300. Actual copied hashes match the full-decode receipts. [Video index, hashes and coverage mapping](../../demo/README.md). The files are included in this repository. Independent visual and technical QA passed; listening, intelligibility and pronunciation were not certified. Portal submission has not been performed. |
 
 The judging allocation is completion 20, creativity 20, Parse 15, embedding/reranking 15, Hermes extension 10, Super VL 20: total 100. Missing or unverified components receive zero on their affected checks; no self-awarded total is asserted. [S1]
 
 ## Repository entry and reproducibility
 
-Use the main project README as the judge entry to the 13 implementation repositories and knowledge graph. `repository-map.json` records the local-to-origin inventory; its saved revisions are a snapshot, not proof of current remote equality. Final release verification remains on the checklist.
+Use the main project README as the judge entry to the 13 implementation repositories and knowledge graph. `repository-map.json` records the local-to-origin inventory; its saved revisions are a snapshot, not proof of current remote equality. Git release verification is recorded separately; this guide does not claim reproduction from a clean checkout.
 
 The Hermes repository contains the pinned sample in `resources/upstream/britannica-manifest.json`, source provenance in `resources/upstream/provenance.json`, and the portable text, source versions and Parse receipts in `resources/corpus/`. Current results are `evidence/reviewed-six-cases.json`, `evidence/100-page-semantic-summary.json`, `evidence/100-page-semantic-ledger.csv` and `evidence/page-content-classification.json`. The archive compiler receipt is `archive/assets/compile-receipt.json`. Core model receipts are under `verification/nebius-model-deployment/` in the core repository. Earlier failed receipts remain unchanged.
 
@@ -63,12 +63,11 @@ After installing Hermes, run the `.venv/bin/...` executables directly. A subsequ
 - [x] Save three narrow assistant-reviewed successes and three actual failures with immutable source citations.
 - [x] Provide vocabulary analysis, metrics and explicit interpretation limits.
 - [x] Compile the 100-document archive, retain diagnostics and provide the public static archive/results pages.
-- [x] Render the submission cut and verify its 178.115-second duration and full decoding.
+- [x] Verify both final files locally: 180.000-second submission and 279.722656-second walkthrough, matching SHA-256 values and full-decode receipts.
 - [x] Complete the documented source/evidence secret scans; retain their zero-finding receipts.
 - [ ] Confirm authenticated TechEurope access, any accepted extension, final links and an actual dated submission receipt.
-- [ ] Verify final release commits and URLs for all 14 repositories and reproduce from a clean checkout.
-- [ ] Obtain independent human review of the selected successes and validate the current public Nemotron comparison.
-- [ ] Complete the longer cut and final audio, caption, readability and judge-access review of the submission video.
+- [ ] Obtain independent human review of the selected comparison claims; the public Nemotron execution is complete and retains its review-required warning.
+- [x] Independent visual and technical QA passed for the included videos; listening and speech-intelligibility certification were not performed.
 - [ ] Listen to and check the completed automatic source-MOV transcript before claiming verified fidelity or a reviewed recording summary.
 
 ## Source review and recording boundary

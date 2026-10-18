@@ -1,0 +1,25 @@
+{
+  "video": "tomi-submission-3min.mp4",
+  "duration_seconds": 180.0,
+  "max_seconds": 180,
+  "bytes": 7447272,
+  "sha256": "90defe04b5fb1db0e609d2d5cdb8f692c07a23899b7cd30160b24b961c442442",
+  "full_decode": "passed",
+  "narration": "macOS Daniel synthetic English voice",
+  "audio_processing": "Per-scene loudness normalization followed by 5 dB attenuation for AAC playback headroom",
+  "subtitle_timing": "phrase-level estimates within measured scene audio",
+  "streams": [
+    {
+      "codec": "h264",
+      "type": "video",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "codec": "aac",
+      "type": "audio",
+      "width": null,
+      "height": null
+    }
+  ]
+}
