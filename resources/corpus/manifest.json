@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "files": {
+    "documents.jsonl": "126cfeb5c0486cec5f5a64cf98c4050d106381586150b2737f84ebe94117aa10",
+    "parse-receipts.jsonl": "92f691e6203377eccbb616e023eca96894b24247989b5c2d37de86ab26df088c"
+  },
+  "counts": {
+    "documents": 175,
+    "vectors": 0,
+    "historical_pages": 99,
+    "wikipedia_articles": 76
+  },
+  "vectors_included": false,
+  "attribution": {
+    "britannica": "CC0-1.0; National Library of Scotland",
+    "wikipedia": "CC-BY-SA-4.0; Wikipedia contributors; original revision links in each document"
+  }
+}

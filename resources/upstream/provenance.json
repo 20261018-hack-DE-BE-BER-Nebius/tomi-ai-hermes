@@ -1,0 +1,145 @@
+{
+  "checked_date": "2026-10-18",
+  "sources": [
+    {
+      "file": "hermes.md",
+      "url": "https://raw.githubusercontent.com/october-18-hackathon/nemotron-agentic-ai-challenge/88abda0d1882eb56a5cd78bc226f1fbc929cc33b/docs/hermes.md",
+      "sha256": "b42926e145af0f4fbd7465c4bcde0f4d50b3fadd3a532b5e4fa56596246d10ef",
+      "bytes": 3586,
+      "snapshot_retained": false
+    },
+    {
+      "file": "wikipedia-api.md",
+      "url": "https://raw.githubusercontent.com/october-18-hackathon/nemotron-agentic-ai-challenge/88abda0d1882eb56a5cd78bc226f1fbc929cc33b/docs/wikipedia-api.md",
+      "sha256": "258f22665e7f8ad6839b5bcd07360e8177e2ef02a69a3d91f626a9da7b5fbe6a",
+      "bytes": 4850,
+      "snapshot_retained": false
+    },
+    {
+      "file": "model-service.md",
+      "url": "https://raw.githubusercontent.com/october-18-hackathon/nemotron-agentic-ai-challenge/88abda0d1882eb56a5cd78bc226f1fbc929cc33b/docs/model-service.md",
+      "sha256": "cbc92e27bdb1a12c9525a09d3473111357ba5bac790c7b964d30092bd9ee010a",
+      "bytes": 9736,
+      "snapshot_retained": false
+    },
+    {
+      "file": "britannica-manifest.json",
+      "url": "https://raw.githubusercontent.com/october-18-hackathon/nemotron-agentic-ai-challenge/88abda0d1882eb56a5cd78bc226f1fbc929cc33b/src/nemotron_challenge/resources/britannica-manifest.json",
+      "sha256": "adb0d9a4cf71aff85817878e3c993fd87bcaf2c45a2a65b1f173321f5f83d8b2",
+      "bytes": 32766,
+      "snapshot_retained": true
+    },
+    {
+      "file": "starter.env.example",
+      "url": "https://raw.githubusercontent.com/october-18-hackathon/nemotron-agentic-ai-challenge/88abda0d1882eb56a5cd78bc226f1fbc929cc33b/.env.example",
+      "sha256": "3d0f37815f7b263fedf4db6a8614af0e86b93d886c29631b7c267c9ac79a2aea",
+      "bytes": 784,
+      "snapshot_retained": false
+    },
+    {
+      "file": "parse.py",
+      "url": "https://raw.githubusercontent.com/october-18-hackathon/nemotron-agentic-ai-challenge/88abda0d1882eb56a5cd78bc226f1fbc929cc33b/src/nemotron_challenge/clients/parse.py",
+      "error": "HTTP Error 404: Not Found",
+      "snapshot_retained": false
+    },
+    {
+      "file": "tree.json",
+      "url": "https://raw.githubusercontent.com/october-18-hackathon/nemotron-agentic-ai-challenge/88abda0d1882eb56a5cd78bc226f1fbc929cc33b/README.md",
+      "sha256": "4e9d1e9f880a766211f35a798e5cd3755d81f51cb1b1c090e59edc625d6125c6",
+      "bytes": 6366,
+      "snapshot_retained": false
+    },
+    {
+      "file": "hermes-pyproject.toml",
+      "url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/v0.22.2/pyproject.toml",
+      "sha256": "ff41b097147124ff2eb51a437d5f44eddea35104900c1c79c7edfb8b7352d901",
+      "bytes": 43035,
+      "snapshot_retained": false
+    },
+    {
+      "file": "hermes-run-agent.py",
+      "url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/v0.22.2/run_agent.py",
+      "sha256": "2bd45c545c2cf0dec95702e71232f026b1265b54bf234a1c03c8cf83f5236f10",
+      "bytes": 87832,
+      "snapshot_retained": false
+    }
+  ],
+  "additional_source_checksums": [
+    {
+      "file": "clients.py",
+      "sha256": "afbd7ae087bff4ecf50e9de7e76fdeacbffb61e46303a2efbaa2217c1412e48d",
+      "snapshot_retained": false
+    },
+    {
+      "file": "hermes-config.yaml",
+      "sha256": "bd787bc62925eb3868e5c8f7d3b5e4b7ebbaf1d04c892c6eec13a2700faa5ecc",
+      "snapshot_retained": false
+    },
+    {
+      "file": "hermes-pyproject.toml",
+      "sha256": "ff41b097147124ff2eb51a437d5f44eddea35104900c1c79c7edfb8b7352d901",
+      "snapshot_retained": false
+    },
+    {
+      "file": "hermes-release.json",
+      "sha256": "4d18847d757e17e83a7db4dd7601f2bfd1354346bfb8ebeb25a2d0ad54b75f17",
+      "snapshot_retained": false
+    },
+    {
+      "file": "hermes-run-agent.py",
+      "sha256": "2bd45c545c2cf0dec95702e71232f026b1265b54bf234a1c03c8cf83f5236f10",
+      "snapshot_retained": false
+    },
+    {
+      "file": "hermes.md",
+      "sha256": "b42926e145af0f4fbd7465c4bcde0f4d50b3fadd3a532b5e4fa56596246d10ef",
+      "snapshot_retained": false
+    },
+    {
+      "file": "model-service.md",
+      "sha256": "cbc92e27bdb1a12c9525a09d3473111357ba5bac790c7b964d30092bd9ee010a",
+      "snapshot_retained": false
+    },
+    {
+      "file": "nebius-participant-guide.md",
+      "sha256": "546baac836fce154a42e54c4358496baafeb90cbfc0e7ebcab6a5bce42f5694d",
+      "snapshot_retained": false
+    },
+    {
+      "file": "plugin-example.py",
+      "sha256": "1da9010311e32ea6a1a29ad6c8c0ada3a2c65b6d703dcd6d25e2b146c2dc8f21",
+      "snapshot_retained": false
+    },
+    {
+      "file": "plugin.yaml",
+      "sha256": "a084815667e123989f5632e8cd55b503445366348d6035aed2dde30223d6b9eb",
+      "snapshot_retained": false
+    },
+    {
+      "file": "starter-config.py",
+      "sha256": "508a5d6e3ed1bca8b27ab4797502efadb283b8f55dc2289bc76887f15619ce83",
+      "snapshot_retained": false
+    },
+    {
+      "file": "starter-tree.json",
+      "sha256": "c2d5e8f02be4e58416ad375e1e7e628ede38e78456b2454cf3b1de9dc8380189",
+      "snapshot_retained": false
+    },
+    {
+      "file": "starter.env.example",
+      "sha256": "3d0f37815f7b263fedf4db6a8614af0e86b93d886c29631b7c267c9ac79a2aea",
+      "snapshot_retained": false
+    },
+    {
+      "file": "tree.json",
+      "sha256": "4e9d1e9f880a766211f35a798e5cd3755d81f51cb1b1c090e59edc625d6125c6",
+      "snapshot_retained": false
+    },
+    {
+      "file": "wikipedia-api.md",
+      "sha256": "258f22665e7f8ad6839b5bcd07360e8177e2ef02a69a3d91f626a9da7b5fbe6a",
+      "snapshot_retained": false
+    }
+  ],
+  "note": "Research copies removed after interface review; immutable source URLs and checksums retained. Source code is obtained by explicit pinned installation scripts."
+}
