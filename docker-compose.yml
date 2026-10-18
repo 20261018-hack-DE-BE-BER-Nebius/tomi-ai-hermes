@@ -1,0 +1,33 @@
+services:
+  tomi-ai-hermes:
+    build:
+      context: .
+    image: tomi-ai-hermes:${TOMI_IMAGE_TAG:-dev}
+    env_file: .env
+    environment:
+      TOMI_HOST: 0.0.0.0
+      TOMI_PORT: 8083
+      TOMI_DATA_DIR: /data
+    ports:
+      - "127.0.0.1:${TOMI_HOST_PORT:-8083}:8083"
+    volumes:
+      - tomi_hermes_data:/data
+    healthcheck:
+      test: ["CMD", "/app/.venv/bin/python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8083/health',timeout=2)"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          cpus: "2.0"
+          memory: 2G
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+volumes:
+  tomi_hermes_data:
