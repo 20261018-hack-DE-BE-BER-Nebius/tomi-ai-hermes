@@ -14,7 +14,7 @@ This repository contains the comparison pipeline and its reproducible evidence. 
 | Static website and compiled LaTeX | [Archive](archive/), [100-page compiled volume](archive/pdfs/britannica-100-pages.pdf), and [LaTeX source](archive/latex/main.tex) |
 | Per-page comparison analysis | The `match` command writes a 100-page coverage ledger; inspect the saved [evidence](evidence/) and its explicit review state |
 | Three reviewed narrow successes and three actual failures | [Reviewed cases](evidence/reviewed-six-cases.json), [explicit questions](evidence/narrow-evaluation-cases.json), and preserved earlier [run evidence](evidence/); assistant review is separate from independent human certification |
-| Architecture, pitch and interview preparation | [Four-language project documentation](https://github.com/20261018-hack-DE-BE-BER-Nebius/tomi-project-knowledge-graph) |
+| Architecture, pitch and interview preparation | [Public four-language submission documentation](docs/submission/README.md) |
 
 The NVIDIA route uses Parse 3.5, Embed VL, Rerank VL and Super VL with Hermes. A separate Astra lexical baseline is explicitly labelled in the application. Model access, an actual inference response, a reviewed comparison, and completion of the whole sample are separate checks; consult the saved receipts for their current status.
 

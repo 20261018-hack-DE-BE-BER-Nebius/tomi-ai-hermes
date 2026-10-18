@@ -1,0 +1,277 @@
+{
+  "created_at": "2026-10-18T21:10:00.618364+00:00",
+  "purpose": "Public reviewer export of only 16 task-created notes; no visibility change or private-vault export.",
+  "note_count": 16,
+  "language_families": 4,
+  "original_notes_and_historical_receipts_modified": false,
+  "sources": [
+    {
+      "retrieved_at": "2026-10-18T17:02:43.047746+00:00",
+      "url": "https://raw.githubusercontent.com/dariolaportanebius/nebius-starter-skill/refs/heads/hackathon-participant-guide/README.md",
+      "bytes": 46256,
+      "sha256": "546baac836fce154a42e54c4358496baafeb90cbfc0e7ebcab6a5bce42f5694d",
+      "id": "S6"
+    },
+    {
+      "url": "https://luma.com/big-gtc-hack",
+      "retrieved_at": "2026-10-18T17:04:31.775810+00:00",
+      "status": 200,
+      "sha256": "6f7f5e08b64f739f2aa28a52607e1e62be126bd2ed38a4d4056f074cac09355e",
+      "bytes": 212474,
+      "id": "S4"
+    },
+    {
+      "url": "https://hackathons.techeurope.io/dashboard/hackathons/nebius-build-week-hackathon-in-partnership-with-nvidia?tab=competition",
+      "retrieved_at": "2026-10-18T17:04:32.547873+00:00",
+      "status": 200,
+      "sha256": "0cbccfbded58acabc21892a4035760fce6c81281180eadeca25a9c36ca1281a3",
+      "bytes": 26552,
+      "id": "S5"
+    },
+    {
+      "retrieved_at": "2026-10-18T17:03:55.229138+00:00",
+      "url": "https://raw.githubusercontent.com/october-18-hackathon/nemotron-agentic-ai-challenge/88abda0d1882eb56a5cd78bc226f1fbc929cc33b/README.md",
+      "final_url": "https://raw.githubusercontent.com/october-18-hackathon/nemotron-agentic-ai-challenge/88abda0d1882eb56a5cd78bc226f1fbc929cc33b/README.md",
+      "status": 200,
+      "sha256": "4e9d1e9f880a766211f35a798e5cd3755d81f51cb1b1c090e59edc625d6125c6",
+      "bytes": 6366,
+      "id": "S2"
+    },
+    {
+      "retrieved_at": "2026-10-18T17:03:55.977240+00:00",
+      "url": "https://raw.githubusercontent.com/october-18-hackathon/nemotron-agentic-ai-challenge/88abda0d1882eb56a5cd78bc226f1fbc929cc33b/templates/submission.md",
+      "final_url": "https://raw.githubusercontent.com/october-18-hackathon/nemotron-agentic-ai-challenge/88abda0d1882eb56a5cd78bc226f1fbc929cc33b/templates/submission.md",
+      "status": 200,
+      "sha256": "000c4bafe08f4535931c6d207ecf0dd5777e3a285b54763e83367788a50997b9",
+      "bytes": 957,
+      "id": "S3"
+    },
+    {
+      "id": "S1",
+      "sha256": "35b7a26bf888a9007eab997e45f051db797845b6c0228c17b6fe83faa8753644",
+      "pages": 13,
+      "required_video_minutes": 3,
+      "deliverables_page": 10,
+      "precedence_page": 12,
+      "filename": "Nebius NVIDIA Hackathon Challenge Participant Brief.pdf"
+    }
+  ],
+  "requirement_review": {
+    "source_observed_at": "2026-10-18T17:05:43.244760+00:00",
+    "brief_text_extracted_all_pages": true,
+    "brief_rendered_pages": [
+      9,
+      10
+    ],
+    "specific_video_minutes": 3,
+    "published_deadline": {
+      "local": "2026-10-18T18:30:00+02:00",
+      "utc": "2026-10-18T16:30:00Z",
+      "timezone": "Europe/Berlin",
+      "source": "luma.json",
+      "extension_verified": false
+    },
+    "submission_form": {
+      "url": "https://hackathons.techeurope.io/dashboard/hackathons/nebius-build-week-hackathon-in-partnership-with-nvidia?tab=competition",
+      "anonymous_html": "login shell",
+      "authenticated_form_inspected": false,
+      "submitted": false
+    }
+  },
+  "source_media": {
+    "filename": "e0b2d7712ef0.mov",
+    "source_sha256": "eac5395532c253ae18b9746d196fa92f3f7aca8cc6737207e7a2c0f005214d0d",
+    "contact_sheet_reviewed": true,
+    "automatic_transcription_status": "transcribed",
+    "duration_ms": 537365,
+    "chunk_count": 46,
+    "segment_count": 87,
+    "security_warning_count": 0,
+    "review_completion": "incomplete",
+    "audio_review_performed": false,
+    "receipt_sha256": "95b0fcc32ac4b515fad6b8de5b5b667da2fccd950a49bef52ad2455fad193731",
+    "source_output_scope": "No media, transcript text or local absolute paths are included in this export."
+  },
+  "video": {
+    "status": "final_cut_and_publication_pending",
+    "existing_interim_duration_seconds": 178.115156,
+    "existing_interim_full_decode": "passed",
+    "existing_interim_sha256": "201ce705ebb65b242f926559d439291385f1c24d4cb7dadfe07dfbe6f11be769",
+    "review_boundary": "Measured interim metadata does not certify final narration, listening, captions or submitted publication."
+  },
+  "exports": [
+    {
+      "source_note": "submission-guide/submission-guide-en.md",
+      "source_sha256": "c3287444ca4204e01da635a7c81343b5cb2739c5ecca0ba2466a06f9cd0b64e6",
+      "export_file": "submission-guide-en.md",
+      "export_sha256": "1deab45dd2cc9ce4ed50aed97ad363fb056ee0e21ed0f1c38cba799eefdb1e87",
+      "transformations": [
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels.",
+        "Removed local absolute-path links; interim artifact facts remain distinct from public video publication.",
+        "Updated third ASR attempt from pending to automatic transcription complete; listening/fidelity review incomplete, based on inspected completion receipt."
+      ]
+    },
+    {
+      "source_note": "submission-guide/submission-guide-es.md",
+      "source_sha256": "170b1d306e612f8e7a778ef0c531bd1485064f5cda298c87af8421596df8d5b2",
+      "export_file": "submission-guide-es.md",
+      "export_sha256": "b2fa72276aac9063ff2dde61588c90a33e9c95a9ee7fdf276743047adf074d77",
+      "transformations": [
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels.",
+        "Removed local absolute-path links; interim artifact facts remain distinct from public video publication.",
+        "Updated third ASR attempt from pending to automatic transcription complete; listening/fidelity review incomplete, based on inspected completion receipt."
+      ]
+    },
+    {
+      "source_note": "submission-guide/submission-guide-de.md",
+      "source_sha256": "78d3089ba327d473bd526b6398d2bd9e9f658f230e9bf18caf8a592b841517c8",
+      "export_file": "submission-guide-de.md",
+      "export_sha256": "4fa9b990d9deaf979a441a1cf9f19527a201b4143a4993402800479e4b23030d",
+      "transformations": [
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels.",
+        "Removed local absolute-path links; interim artifact facts remain distinct from public video publication.",
+        "Updated third ASR attempt from pending to automatic transcription complete; listening/fidelity review incomplete, based on inspected completion receipt."
+      ]
+    },
+    {
+      "source_note": "submission-guide/submission-guide-fr.md",
+      "source_sha256": "b564201be3ee6947375b25025c526f9e670389ee4e6588a2a33b1e19264e9282",
+      "export_file": "submission-guide-fr.md",
+      "export_sha256": "51e76546f20f7133ed342755a2569125990201e561ddb39bb8e84134577f3deb",
+      "transformations": [
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels.",
+        "Removed local absolute-path links; interim artifact facts remain distinct from public video publication.",
+        "Updated third ASR attempt from pending to automatic transcription complete; listening/fidelity review incomplete, based on inspected completion receipt."
+      ]
+    },
+    {
+      "source_note": "demo-narration/demo-narration-en.md",
+      "source_sha256": "633248f943eb2b27017aae331d1644b527db29a20a861f11df69cde6e9455299",
+      "export_file": "demo-narration-en.md",
+      "export_sha256": "6333a6ef5249f98bdb1731718631723b0ed21f5dfa30da2ad7b9b6060fd607c8",
+      "transformations": [
+        "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ]
+    },
+    {
+      "source_note": "demo-narration/demo-narration-es.md",
+      "source_sha256": "39409397fa252b21e458f51aa64800bf089737b70d0a1e4ac71b3175cad5f953",
+      "export_file": "demo-narration-es.md",
+      "export_sha256": "b442f1112e6976094a8299432859217b0acd60cb4c52810a03c2639586869983",
+      "transformations": [
+        "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ]
+    },
+    {
+      "source_note": "demo-narration/demo-narration-de.md",
+      "source_sha256": "4d14514260932642400d2391d1030e93f4f67391ab03fc4995dbcfcba18dc0c0",
+      "export_file": "demo-narration-de.md",
+      "export_sha256": "550729acf7ef3b67854483080ced67cb8660f53a1fffd19aec68d134009e1f3d",
+      "transformations": [
+        "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ]
+    },
+    {
+      "source_note": "demo-narration/demo-narration-fr.md",
+      "source_sha256": "bf9a8d1798e2cf9a546fd6e7b9218fc9bd440853978b650dce0ac7acb75105df",
+      "export_file": "demo-narration-fr.md",
+      "export_sha256": "d43a839d240f3249dec29622b1b109b2d5965d99c0bdea2bab172495913308f6",
+      "transformations": [
+        "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ]
+    },
+    {
+      "source_note": "interview-preparation/interview-preparation-en.md",
+      "source_sha256": "9ea63591a47284f5604d71f04a79d86e97542ce2f79b8b4e8fbb4e127bcb2d52",
+      "export_file": "interview-preparation-en.md",
+      "export_sha256": "4138505eaeb663e2cab2013dcc970b5de65a27f9c0c0eaefed456804574411b1",
+      "transformations": [
+        "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ]
+    },
+    {
+      "source_note": "interview-preparation/interview-preparation-es.md",
+      "source_sha256": "cb57b21a613b5fca14d86fea0154635aeef963e742f8d90389ad4b003ec9d399",
+      "export_file": "interview-preparation-es.md",
+      "export_sha256": "e926fef6e1b6ff8b5da05dea701b3cd06661a4a10456a7adcc685b89a7a94134",
+      "transformations": [
+        "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ]
+    },
+    {
+      "source_note": "interview-preparation/interview-preparation-de.md",
+      "source_sha256": "8b40fb1a0d9f33bef6e5c97b9772d23679d9cc84349ae30d434a73263485dd86",
+      "export_file": "interview-preparation-de.md",
+      "export_sha256": "1bef1e5a84e680e7123c50deb8d9c3ce7075ab88adecfab6bcdda76c8bada0dc",
+      "transformations": [
+        "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ]
+    },
+    {
+      "source_note": "interview-preparation/interview-preparation-fr.md",
+      "source_sha256": "34fa5cb28f05baff1f35b49bfda25524126e4891c65229f2a4cf4a19889d9139",
+      "export_file": "interview-preparation-fr.md",
+      "export_sha256": "dc7b60ecb46b3747a7fb14c221480068b816fad225bd6937cbc7b6fb5d7a3f89",
+      "transformations": [
+        "Removed superseded 97-full-text/one-blank appendix from public copy; final 95/three-blank accounting retained.",
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ]
+    },
+    {
+      "source_note": "submission-guide/comparison-analysis-en.md",
+      "source_sha256": "bfed086a9e1d33650d83bf32f50c701fcd396cbb3c2d5308e3e39f76fe08621c",
+      "export_file": "comparison-analysis-en.md",
+      "export_sha256": "1d11369933a0d9faf8847027b28a54fbb99d59dc95c03465f8be4787457b3e9c",
+      "transformations": [
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ]
+    },
+    {
+      "source_note": "submission-guide/comparison-analysis-es.md",
+      "source_sha256": "7216ab5a6e3b64071ddea74a16fe4d94fe2c15e7e628a0adc5793b485419f9a9",
+      "export_file": "comparison-analysis-es.md",
+      "export_sha256": "50af276a55218a5992ec7d10c29f01fb37988cb0ef12051ce7a205d22886c66a",
+      "transformations": [
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ]
+    },
+    {
+      "source_note": "submission-guide/comparison-analysis-de.md",
+      "source_sha256": "c606ba3a7626a462d263ff0f1f6f7a4fb67f113cfbf090b3938bf3158477fbee",
+      "export_file": "comparison-analysis-de.md",
+      "export_sha256": "edced8eaf66270691a8fad14e479eccacf6bd3d076df122b751c53f4242d2cf2",
+      "transformations": [
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ]
+    },
+    {
+      "source_note": "submission-guide/comparison-analysis-fr.md",
+      "source_sha256": "83caf450ed67df6e96fc54adade23b6b1f15496b2e2ab118aeb8be092bfdd333",
+      "export_file": "comparison-analysis-fr.md",
+      "export_sha256": "cfbc564140998bf14cf93032612cd618298e0901c54a705cbc0e721f5801fefc",
+      "transformations": [
+        "Converted links between exported notes to relative Markdown; setup links to primary README; other private-vault links to plain labels."
+      ]
+    }
+  ],
+  "index_sha256": "157e672af0eddc15cb0045235d8782643d00a148904a6d8bba55ca79694245ad",
+  "validation": {
+    "status": "passed",
+    "checked_at": "2026-10-18T21:10:32.497304+00:00",
+    "exported_notes": 16,
+    "language_families": 4,
+    "total_public_export_files": 18,
+    "markdown_links": 198,
+    "resolved_local_links": 164,
+    "qa_per_language": 20,
+    "source_hashes_unchanged": true,
+    "errors": []
+  }
+}
