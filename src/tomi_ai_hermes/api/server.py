@@ -30,6 +30,10 @@ class Request(BaseModel):
     require_semantic: bool = False
 
 
+class CompareRequest(Request):
+    discovery_query: str | None = Field(default=None, min_length=1, max_length=512)
+
+
 def create_app(
     config: Config | None = None, pipeline: Pipeline | None = None, comparison: Comparison | None = None
 ):
@@ -118,7 +122,7 @@ def create_app(
         return JSONResponse(result, status_code=503 if result["status"] == "blocked" else 200)
 
     @app.post("/v1/compare", dependencies=[Depends(authorize)])
-    def compare(request: Request):
+    def compare(request: CompareRequest):
         if storage_error:
             return unavailable()
         values = request.model_dump(exclude={"require_semantic"})
