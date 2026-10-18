@@ -1,0 +1,54 @@
+{
+  "dtp": {
+    "status": "Succeeded",
+    "createTime": "2026-10-18T17:41:29.841445+00:00",
+    "finishTime": "2026-10-18T17:43:57.387937+00:00",
+    "outputImages": [
+      {
+        "digest": "sha256:5b47013d2481fa13051d02ee97a46fbe02b70d663f429606165d391792892fa9",
+        "registry": "tomireg2610181730.azurecr.io",
+        "repository": "tomi-ai-hermes",
+        "tag": "hermes-evidence-20261018"
+      },
+      {
+        "digest": "sha256:5b47013d2481fa13051d02ee97a46fbe02b70d663f429606165d391792892fa9",
+        "registry": "tomireg2610181730.azurecr.io",
+        "repository": "tomi-ai-hermes",
+        "tag": "20261018-implementation"
+      }
+    ],
+    "platform": {
+      "architecture": "amd64",
+      "os": "linux",
+      "variant": null
+    }
+  },
+  "dtq": {
+    "status": "Succeeded",
+    "createTime": "2026-10-18T17:47:34.287796+00:00",
+    "finishTime": "2026-10-18T17:50:00.200837+00:00",
+    "outputImages": [
+      {
+        "digest": "sha256:e07c03888a518048504d34d9795078a7e5689887bb95ccef42bf9dc1f1940846",
+        "registry": "tomireg2610181730.azurecr.io",
+        "repository": "tomi-ai-hermes",
+        "tag": "hermes-scope-20261018"
+      },
+      {
+        "digest": "sha256:e07c03888a518048504d34d9795078a7e5689887bb95ccef42bf9dc1f1940846",
+        "registry": "tomireg2610181730.azurecr.io",
+        "repository": "tomi-ai-hermes",
+        "tag": "20261018-implementation"
+      }
+    ],
+    "platform": {
+      "architecture": "amd64",
+      "os": "linux",
+      "variant": null
+    }
+  },
+  "observed_at": "2026-10-18T17:52:17.054520+00:00",
+  "latest_run": "dtq",
+  "canonical_tag": "tomi-ai-hermes:20261018-implementation",
+  "latest_context": "Explicit allowlist836.581KiB; no.env/state/archive included"
+}

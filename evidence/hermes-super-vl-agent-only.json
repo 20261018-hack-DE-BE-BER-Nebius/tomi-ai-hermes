@@ -1,0 +1,304 @@
+{
+  "started_at": "2026-10-18T17:25:36.376534+00:00",
+  "validation_class": "actual Hermes plus core Super VL with manually selected cached real source pair; not full challenge semantic pipeline",
+  "question": "Compare shipbuilding methods and vocabulary using both sources.",
+  "model_alias": "nemotron-3.5-super-vl",
+  "evidence": {
+    "documents": [
+      {
+        "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+        "title": "Britannica page 13",
+        "corpus": "britannica",
+        "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+        "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+        "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+        "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+        "license": "CC0-1.0; National Library of Scotland",
+        "acquired_at": "2026-10-18T15:49:00.945202+00:00",
+        "parser_receipt_sha256": "0aace1eb2bb766876ea6ac19c6b2cb799f0a6c053f375de9b7ba1b5c6960185d",
+        "source_kind": "prose",
+        "parse_status": "parsed",
+        "excerpt_spans": [
+          {
+            "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+            "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+            "start_cp": 179,
+            "end_cp": 381,
+            "quote": "ends in close contact with, and cooked or dowelled to, the sides of the diagonal timbers. In this state the frame--on in the hold presents various compartments, each representing the figure of a method.",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+            "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+          },
+          {
+            "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+            "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+            "start_cp": 435,
+            "end_cp": 870,
+            "quote": "A T reads—timber is then introduced into each rhombed, with an inclination opposite to that of the diagonal timbers, thereby dividing it into two parts. The trust--pieces so in- tended into one rhombed, are to the diagonal frames where the key-stone is to the arch; for no weight or pressure on the fabric can alter its position in a longitudinal direction till compression takes place at the autumn, and extension of the various ties.",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+            "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+          },
+          {
+            "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+            "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+            "start_cp": 924,
+            "end_cp": 1283,
+            "quote": "\"This arch-like property of the diagonal frame not only opposes an alteration of position in a longitudinal direction, but also restate external pressure on the bottom, either from grounding or any other cause, because so impression can be made in its figure in these directions, without forcing the several parts of which it is composed into a shorter space.",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+            "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+          },
+          {
+            "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+            "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+            "start_cp": 1335,
+            "end_cp": 1519,
+            "quote": "The beams are discussed in the system nearly as we usual, except that in buildings, where a ship necessarily re-quires the greatest security, two additional beams have been introduced.",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+            "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+          },
+          {
+            "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+            "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+            "start_cp": 1572,
+            "end_cp": 1662,
+            "quote": "• The beams of the several decks are attached to the shiny’s side in the following manner.",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+            "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+          },
+          {
+            "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+            "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+            "start_cp": 1720,
+            "end_cp": 2520,
+            "quote": "1 Lc by And of pieces internal hoops, distinguished by the letter 2. These shelf-pieces are composed of several lengths of timber, scarded or joined together by coaks or circular downs, so as to form a full of internal hoop, extending from the hooks forward, to the transons shall --(in the plate the transons are not shown), we have chosen the perfected application of Sir Robert Seapings’ system, after the adoption of the circular stem into the service, —to the under side of which, as well as the whole part of the beams, they are securely cookies, and being then firmly bolted to the side, instead of becoming a mere local fixer of the beam to the shiny’s exterior frame, as likely were, they are seen continued and general security. The shelf-piece is also a tie to the top-side in a four and a",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+            "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+          },
+          {
+            "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+            "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+            "start_cp": 2520,
+            "end_cp": 2592,
+            "quote": "ll direction, co-operating with the trusted frame, as already explained.",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+            "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+          },
+          {
+            "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+            "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+            "start_cp": 2651,
+            "end_cp": 3372,
+            "quote": "2 Idly. By chocks, represented in Plate CCCCLV. (m.,) which are placed under all the shelf-pieces in walls of the beams, except the drop in such a manner as to receive the up and down arm of the iron knes. The lower ends of those under the span-deck-pipe step on the ends of the otp-bears; and those of the several decks above, step on the projecting part of the splashing beams. The chosen between the they and gun docks, and of their being driven into their respective places very tightly, thereby eating the pillars. Another advantage attending them is the great tendency to stiffen the shiny side, and to prevent the beans-ends from playing on the fasteners when the sihry is rolling or retaining under press of call.",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+            "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+          },
+          {
+            "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+            "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+            "start_cp": 3431,
+            "end_cp": 3580,
+            "quote": "\"The current non-plate knees for securing the otlop-beans, and the iron frontal knees of the other decks, are described in (a) and (a). Place CCCCLV.",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+            "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+          },
+          {
+            "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+            "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+            "start_cp": 3633,
+            "end_cp": 4003,
+            "quote": "\"The tendency of the ship to stretch or draw sammber in her upper works being by our means advised by the short plank out the inside between the ports, a true piece of plank is substituted in lieu of them,which being well secured, at the altumants, very materially and the trussal frame, and gives great artifacts, thereby opposing the in-clination to arch or log, add.\"",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+            "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+          },
+          {
+            "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+            "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+            "start_cp": 4057,
+            "end_cp": 4585,
+            "quote": "These various alterations from the old system of building had the effect of very greatly increasing the strength of the ship of the boys'l away. Among us many changes, it is not impossible that continuous conclusions may have been drawn as to the relative importance of each. We include much the opinion that this has been the case a very good de-gree, and that is part hitherto considered as quite authori- nate, and now wholly discontinued as useless, was one priin- cipal cause of the increase of strength which enabled ships",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+            "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+          },
+          {
+            "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+            "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+            "start_cp": 4639,
+            "end_cp": 4707,
+            "quote": "to preserve their sheet. This we shall presently endeavour to prove.",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+            "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+          }
+        ]
+      },
+      {
+        "document_id": "wikipedia:187377",
+        "title": "Shipbuilding",
+        "corpus": "wikipedia",
+        "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348971360",
+        "revision_id": "1348971360",
+        "text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73",
+        "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+        "license": "CC-BY-SA-4.0; Wikipedia contributors",
+        "acquired_at": "2026-10-18T17:14:11.143765+00:00",
+        "parser_receipt_sha256": "",
+        "source_kind": "prose",
+        "parse_status": "parsed",
+        "excerpt_spans": [
+          {
+            "document_id": "wikipedia:187377",
+            "text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73",
+            "start_cp": 0,
+            "end_cp": 800,
+            "quote": "Shipbuilding is the construction of ships and other floating vessels. In modern times, it normally takes place in a specialized facility known as a shipyard. Shipbuilders, also called shipwrights, follow a specialized occupation that traces its roots to before recorded history.\n\nUntil recently, with the development of complex non-maritime technologies during the industrial revolution, a ship has often represented the most advanced structure that the society building it could produce.: ch1 Some key industrial advances were developed to support shipbuilding, for instance the sawing of timbers by mechanical saws propelled by windmills in Dutch shipyards during the first half of the 17th century.: 34–37 The design process saw the early adoption of the logarithm (invented in 1615) to generate t",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348971360",
+            "revision_id": "1348971360"
+          },
+          {
+            "document_id": "wikipedia:187377",
+            "text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73",
+            "start_cp": 800,
+            "end_cp": 1600,
+            "quote": "he curves used to produce the shape of a hull, especially when scaling up these curves accurately in the mould loft.\n\nShipbuilding and ship repairs, both commercial and military, are referred to as naval engineering. The construction of boats is a similar activity called boat building.\n\nThe dismantling of ships is called ship breaking.\n\nThe earliest evidence of maritime transport by modern humans is the settlement of Australia between 50,000 and 60,000 years ago. This almost certainly involved rafts, possibly equipped with some sort of sail.: 29, 33 Much of the development beyond that raft technology occurred in the \"nursery\" areas of the Mediterranean and in Maritime Southeast Asia. Favoured by warmer waters and a number of inter-visible islands, boats (and, later, ships) with water-tight",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348971360",
+            "revision_id": "1348971360"
+          },
+          {
+            "document_id": "wikipedia:187377",
+            "text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73",
+            "start_cp": 1601,
+            "end_cp": 2400,
+            "quote": "hulls (unlike the \"flow through\" structure of a raft) could be developed.: 113 : 7, 63 The ships of ancient Egypt were built by joining the hull planks together, edge to edge, with tenons set in mortices cut in the mating edges. A similar technique, but with the tenons being pinned in position by dowels, was used in the Mediterranean for most of classical antiquity. Both these variants are \"shell first\" techniques, where any reinforcing frames are inserted after assembly of the planking has defined the hull shape.: 81–88 Carvel construction then took over in the Mediterranean. Northern Europe used clinker construction, but with some flush-planked ship-building in, for instance, the bottom planking of cogs.: ch4 The north-European and Mediterranean traditions merged in the late 15th centur",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348971360",
+            "revision_id": "1348971360"
+          },
+          {
+            "document_id": "wikipedia:187377",
+            "text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73",
+            "start_cp": 2400,
+            "end_cp": 3200,
+            "quote": "y, with carvel construction being adopted in the North and the centre-line mounted rudder replacing the quarter rudder of the Mediterranean. These changes broadly coincided with improvements in sailing rigs, with the three masted ship becoming common, with square sails on the fore and main masts, and a fore and aft sail on the mizzen.\n\nShip-building then saw a steady improvement in design techniques and introduction of new materials. Iron was used for more than fastenings (nails and bolts) as structural components such as iron knees were introduced, with examples existing in the mid-18th century and from the mid-19th century onwards. This was partly led by the shortage of \"compass timber\", the naturally curved timber that meant that shapes could be cut without weaknesses caused by cuts acr",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348971360",
+            "revision_id": "1348971360"
+          },
+          {
+            "document_id": "wikipedia:187377",
+            "text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73",
+            "start_cp": 3200,
+            "end_cp": 4000,
+            "quote": "oss the grain of the timber.: ch8 Ultimately, whole ships were made of iron and, later, steel.\n\nThe earliest known depictions (including paintings and models) of shallow-water sailing boats is from the 6th to 5th millennium BC of the Ubaid period of Mesopotamia. They were made from bundled reeds coated in bitumen and had bipod masts. They sailed in shallow coastal waters of the Persian Gulf.\n\nEvidence from Ancient Egypt shows that the early Egyptians knew how to assemble planks of wood into a ship hull as early as 3100 BC. Egyptian pottery as old as 4000 BC shows designs of early fluvial boats or other means for navigation. The Archaeological Institute of America reports that some of the oldest ships yet unearthed are known as the Abydos boats. These are a group of 14 ships discovered in A",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348971360",
+            "revision_id": "1348971360"
+          },
+          {
+            "document_id": "wikipedia:187377",
+            "text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73",
+            "start_cp": 4000,
+            "end_cp": 4800,
+            "quote": "bydos that were constructed of wooden planks which were \"sewn\" together. Discovered by Egyptologist David O'Connor of New York University, woven straps were found to have been used to lash the planks together, and reeds or grass stuffed between the planks helped to seal the seams. Because the ships are all buried together and near a mortuary belonging to Pharaoh Khasekhemwy, originally they were all thought to have belonged to him, but one of the 14 ships dates to 3000 BC, and the associated pottery jars buried with the vessels also suggest earlier dating. The ship dating to 3000 BC was about 75 feet (23 m) long and is now thought to perhaps have belonged to an earlier pharaoh. According to professor O'Connor, the 5,000-year-old ship may have even belonged to Pharaoh Aha.\n\nHōkūleʻa, a repl",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348971360",
+            "revision_id": "1348971360"
+          },
+          {
+            "document_id": "wikipedia:187377",
+            "text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73",
+            "start_cp": 4800,
+            "end_cp": 5599,
+            "quote": "ica Polynesian voyaging catamaran with crab claw sails\n\nFilipino double-outrigger (trimaran) paraw with a crab claw sail\n\nA Melanesian single-outrigger tepukei with a forward-mounted crab claw sail from the Solomon Islands\n\nNur al Marege, an Indonesian replica of a padewakang with tanja sails\n\nWaka, narrow Māori war canoes propelled by paddling\n\nThe Austronesian expansion, which began c. 3000 BC with migration from Taiwan to the island of Luzon in the Philippines, spread across Island Southeast Asia. Then, between 1500 BC and 1500 AD they settled uninhabited islands of the Pacific, and also sailed westward to Madagascar. This is associated with distinctive maritime technology: lashed lug construction techniques (both in outrigger canoes and in large planked sailing vessels), various types",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348971360",
+            "revision_id": "1348971360"
+          },
+          {
+            "document_id": "wikipedia:187377",
+            "text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73",
+            "start_cp": 5600,
+            "end_cp": 6400,
+            "quote": "of outrigger and twin-hulled canoes and a range of sailing rigs that included the crab claw sail. The origins of this technology is difficult to date, relying largely on linguistics (studying the words for parts of boats), the written comments of people from other cultures, including the observations of European explorers at the time of first contact and the later more systematic ethnographic observations of the types of craft in use. There is only a small body of archaeological evidence available. Since Island Southeast Asia contained effective maritime transport between its very large number of islands long before Austronesian seafaring, it is argued that Austronesians adopted an existing maritime technology from the existing inhabitants of this region.: 50, 64 : 85–88 : 487–488\n\nAustron",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348971360",
+            "revision_id": "1348971360"
+          },
+          {
+            "document_id": "wikipedia:187377",
+            "text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73",
+            "start_cp": 6400,
+            "end_cp": 7200,
+            "quote": "esian ships varied from simple canoes to large multihull ships. The simplest form of all ancestral Austronesian boats had five parts. The bottom part consists of a single piece of hollowed-out log. At the sides were two planks, and two horseshoe-shaped wood pieces formed the prow and stern. These were fitted tightly together edge-to-edge with dowels inserted into holes in between, and then lashed to each other with ropes (made from rattan or fiber) wrapped around protruding lugs on the planks. This characteristic and ancient Austronesian boatbuilding practice is known as the \" lashed-lug \" technique. They were commonly caulked with pastes made from various plants as well as tapa bark and fibres which would expand when wet, further tightening joints and making the hull watertight. They form",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348971360",
+            "revision_id": "1348971360"
+          },
+          {
+            "document_id": "wikipedia:187377",
+            "text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73",
+            "start_cp": 7200,
+            "end_cp": 7999,
+            "quote": "ed the shell of the boat, which was then reinforced by horizontal ribs. Shipwrecks of Austronesian ships can be identified from this construction as well as the absence of metal nails. Austronesian ships traditionally had no central rudders but were instead steered using an oar on one side.\n\nAustronesians traditionally made their sails from woven mats of the resilient and salt-resistant pandanus leaves. These sails allowed Austronesians to embark on long-distance voyaging.\n\nThe ancient Champa of Vietnam also uniquely developed basket-hulled boats whose hulls were composed of woven and resin - caulked bamboo, either entirely or in conjunction with plank strakes. They range from small coracles (the o thúng) to large ocean-going trading ships like the ghe mành.\n\nEarly Egyptians also knew how",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348971360",
+            "revision_id": "1348971360"
+          },
+          {
+            "document_id": "wikipedia:187377",
+            "text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73",
+            "start_cp": 8000,
+            "end_cp": 8800,
+            "quote": "to assemble planks of wood with treenails to fasten them together, using pitch for caulking the seams. The \" Khufu ship \", a 43.6-meter vessel sealed into a pit in the Giza pyramid complex at the foot of the Great Pyramid of Giza in the Fourth Dynasty around 2500 BC, is a full-size surviving example which may have fulfilled the symbolic function of a solar barque. Early Egyptians also knew how to fasten the planks of this ship together with mortise and tenon joints.\n\nThe oldest known tidal dock in the world was built around 2500 BC during the Harappan civilisation at Lothal near the present day Mangrol harbour on the Gujarat coast in India. Other ports were probably at Kot Bala and Dwarka. However, it is probable that many small-scale ports, and not massive ports, were used for the Harappa",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348971360",
+            "revision_id": "1348971360"
+          },
+          {
+            "document_id": "wikipedia:187377",
+            "text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73",
+            "start_cp": 8800,
+            "end_cp": 9600,
+            "quote": "n maritime trade. Ships from the harbour at these ancient port cities established trade with Mesopotamia. Shipbuilding and boatmaking may have been prosperous industries in ancient India. Native labourers may have manufactured the flotilla of boats used by Alexander the Great to navigate across the Hydaspes and even the Indus, under Nearchos. The Indians also exported teak for shipbuilding to ancient Persia. Other references to Indian timber used for shipbuilding is noted in the works of Ibn Jubayr.\n\nThe ships of Ancient Egypt's Eighteenth Dynasty were typically about 25 meters (80 ft) in length and had a single mast, sometimes consisting of two poles lashed together at the top making an \"A\" shape. They mounted a single square sail on a yard, with an additional spar along the bottom of the",
+            "offset_basis": "raw_codepoints",
+            "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348971360",
+            "revision_id": "1348971360"
+          }
+        ]
+      }
+    ],
+    "uncertainty": [
+      "Source pair manually selected for agent-only protocol integration; no semantic match success asserted."
+    ],
+    "metrics": null
+  },
+  "challenge_complete": false,
+  "agent_response": {
+    "final_response": "{\n  \"answer\": \"Both sources describe wooden-ship construction, but from different eras and with different emphasis. Wikipedia treats shipbuilding as a long, global sequence: shell-first planking (mortise-and-tenon, dowel-pinned) in ancient Egypt and the Mediterranean; carvel in the Mediterranean and clinker in northern Europe; lashed-lug Austronesian vessels; and, from the 18th\n{\n  \"answer\": \"century, iron knees became structural components and whole ships shifted to iron and then steel, while the Britannica passage treats the wood/iron transition as an incremental strengthening of the wooden frame. Vocabulary differs: Britannica uses 19th-c. naval terms such as \\\"diagonal timbers,\\\" \\\"rhombed,\\\" \\\"trust-pieces,\\\" \\\"shelf-pieces,\\\" \\\"chocks,\\\" \\\"knees,\\\" \\\"coaks,\\\" \\\"dowelled,\\\" and \\\"bolted,\\\" whereas Wikipedia frames methods as \\\"shell first,\\\" \\\"carvel,\\\" \\\"clinker,\\\" \\\"lashed-lug,\\\" \\\"mortise and tenon,\\\" \\\"treenails,\\\" and \\\"pitch\\\" caulking. A spelling/dialect difference (e.g., \\\"dowelled\\\") is vocabulary, not new knowledge; the substitution of iron knees and iron/steel hulls for timber is a factual change in method.\",\n  \"abstained\": false,\n  \"uncertainty\": [\"Britannica OCR is heavily corrupted (e.g., \\\"cooked or dowelled,\\\" \\\"autumn,\\\" \\\"shiny’s side,\\\" \\\"knes,\\\" \\\"otlop-beans,\\\" \\\"sammber,\\\" \\\"hog\\\"), so precise technical readings of that source are unreliable; the evidence pair is manually selected and no semantic match was asserted.\"],\n  \"claims\": [\n    {\n      \"text\": \"Both sources describe wooden hull assembly; Britannica details diagonal timbers with timber inclined opposite to them, dividing each section, with trust-pieces acting like a key-stone to an arch, while Wikipedia describes shell-first planking where edge-to-edge planks with mortise-and-tenon or dowel-pinned joints define the hull before frames are added.\",\n      \"category\": \"knowledge\",\n      \"citations\": [\n        {\"document_id\": \"britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13\", \"start_cp\": 435, \"end_cp\": 870, \"quote\": \"timber is then introduced into each rhombed, with an inclination opposite to that of the diagonal timbers, thereby dividing it into two parts. The trust--pieces ... are to the diagonal frames where the key-stone is to the arch\"},\n        {\"document_id\": \"wikipedia:187377\", \"start_cp\": 1601, \"end_cp\": 2400, \"quote\": \"joining the hull planks together, edge to edge, with tenons set in mortices cut in the mating edges ... \\\"shell first\\\" techniques, where any reinforcing frames are inserted after assembly of the planking has defined the hull shape\"}\n      ]\n    },\n    {\n      \"text\": \"Britannica credits the diagonal frame with arch-like resistance to longitudinal alteration and to external bottom pressure from grounding, whereas Wikipedia places iron knees as structural components from the mid-18th century and iron, then steel, whole ships from the mid-19th century, driven partly by scarcity of \\\"compass timber.\\\"\",\n      \"category\": \"knowledge\",\n      \"citations\": [\n        {\"document_id\": \"britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13\", \"start_cp\": 924, \"end_cp\": 1283, \"quote\": \"arch-like property of the diagonal frame not only opposes an alteration of position in a longitudinal direction, but also restate external pressure on the bottom, either from grounding or any other cause\"},\n        {\"document_id\": \"wikipedia:187377\", \"start_cp\": 2400, \"end_cp\": 3200, \"quote\": \"Iron was used for more than fastenings (nails and bolts) as structural components such as iron knees were introduced, with examples existing in the mid-18th century and from the mid-19th century onwards. This was partly led by the shortage of \\\"compass timber\\\"\"}\n      ]\n    },\n    {\n      \"text\": \"Britannica describes deck attachment via beams, shelf-pieces made of lengths of timber joined by coaks or circular dowels and bolted to the side, plus chocks and iron knees cooperating with the frame, while Wikipedia notes iron knees and the later replacement of wood by iron and steel as material changes.\",\n      \"category\": \"knowledge\",\n      \"citations\": [\n        {\"document_id\": \"britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13\", \"start_cp\": 1720, \"end_cp\": 2592, \"quote\": \"shelf-pieces are composed of several lengths of timber, scarded or joined together by coaks or circular downs ... firmly bolted to the side ... co-operating with the trusted frame\"},\n        {\"document_id\": \"wikipedia:187377\", \"start_cp\": 2400, \"end_cp\": 3200, \"quote\": \"structural components such as iron knees were introduced ... Ultimately, whole ships were made of iron and, later, steel.\"}\n      ]\n    },\n    {\n      \"text\": \"Vocabulary differs more than facts: Britannica uses \\\"diagonal timbers,\\\" \\\"rhombed,\\\" \\\"trust-pieces,\\\" \\\"shelf-pieces,\\\" \\\"chocks,\\\" \\\"knees,\\\" \\\"coaks,\\\" \\\"dowelled,\\\" and \\\"bolted,\\\" while Wikipedia uses \\\"shell first,\\\" \\\"carvel,\\\" \\\"clinker,\\\" \\\"lashed-lug,\\\" \\\"mortise and tenon,\\\" \\\"tenons,\\\" \\\"dowels,\\\" \\\"treenails,\\\" and \\\"pitch\\\" caulking; a spelling variant alone is not new knowledge.\",\n      \"category\": \"language\",\n      \"citations\": [\n        {\"document_id\": \"britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13\", \"start_cp\": 179, \"end_cp\": 381, \"quote\": \"cooked\n{\n  \"text\": \"cooked or dowelled to, the sides of the diagonal timbers\\\"},\n    {\"document_id\": \"wikipedia:187377\", \"start_cp\": 1601, \"end_cp\": 2400, \"quote\": \"\\\"shell first\\\" techniques, where any reinforcing frames are inserted after assembly of the planking has defined the hull shape\"}\n  ]\n}\n]\n}",
+    "tool_calls": [
+      {
+        "tool": "tomi_evidence",
+        "status": "completed",
+        "at_epoch": 1792344341.191974
+      }
+    ],
+    "api_calls": 4,
+    "framework_commit": "d923a5eb487a17c0a68801bba9ef0f56c81040a8"
+  },
+  "status": "failed",
+  "error_type": "EvidenceError",
+  "error": "Hermes did not return the required JSON answer",
+  "duration_seconds": 28.503,
+  "completed_at": "2026-10-18T17:26:04.879874+00:00"
+}

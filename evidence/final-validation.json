@@ -1,0 +1,12 @@
+{
+  "checked_at": "2026-10-18T20:50:15.842053+00:00",
+  "source_and_tests_exit_code": 0,
+  "evidence_scan_exit_code": 0,
+  "evidence_findings": 0,
+  "evidence_bytes_scanned": 5933373,
+  "initial_false_positive_findings": 40,
+  "resolution": "Public Wikipedia provenance source_key renamed source_locator; original anonymous source retained outsidepublishscope; scan rules unchanged.",
+  "original_case_receipts_reformatted": false,
+  "pytest_passed": 34,
+  "ruff": "pass"
+}

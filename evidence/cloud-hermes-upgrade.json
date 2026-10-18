@@ -1,0 +1,11 @@
+{
+  "checked_at": "2026-10-18T17:54:09.230643+00:00",
+  "expected_digest": "sha256:e07c03888a518048504d34d9795078a7e5689887bb95ccef42bf9dc1f1940846",
+  "exit_code": 0,
+  "result": {
+    "latest": "tomi-ai-hermes--0000003",
+    "name": "tomi-ai-hermes",
+    "provisioning": "Succeeded",
+    "ready": "tomi-ai-hermes--0000002"
+  }
+}

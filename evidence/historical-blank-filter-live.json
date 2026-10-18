@@ -1,0 +1,69 @@
+{
+  "started_at": "2026-10-18T20:40:34.673928+00:00",
+  "completed_at": "2026-10-18T20:40:51.019531+00:00",
+  "execution": "real normalized historical embedding through core; no mock",
+  "input_records": 99,
+  "excluded_blank_records": [
+    "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:374",
+    "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1615",
+    "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2077"
+  ],
+  "embedded_records": 96,
+  "selected_page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+  "traces": [
+    {
+      "tool": "nemotron.embed.query",
+      "status": "completed",
+      "duration_ms": 548,
+      "occurred_at": "2026-10-18T20:40:35.255578+00:00"
+    },
+    {
+      "tool": "nemotron.embed.history",
+      "status": "completed",
+      "duration_ms": 1540,
+      "occurred_at": "2026-10-18T20:40:36.795110+00:00"
+    },
+    {
+      "tool": "nemotron.embed.history",
+      "status": "completed",
+      "duration_ms": 2663,
+      "occurred_at": "2026-10-18T20:40:39.472779+00:00"
+    },
+    {
+      "tool": "nemotron.embed.history",
+      "status": "completed",
+      "duration_ms": 2127,
+      "occurred_at": "2026-10-18T20:40:41.610900+00:00"
+    },
+    {
+      "tool": "nemotron.embed.history",
+      "status": "completed",
+      "duration_ms": 4352,
+      "occurred_at": "2026-10-18T20:40:45.970928+00:00"
+    },
+    {
+      "tool": "nemotron.embed.history",
+      "status": "completed",
+      "duration_ms": 3071,
+      "occurred_at": "2026-10-18T20:40:49.051208+00:00"
+    },
+    {
+      "tool": "nemotron.embed.history",
+      "status": "completed",
+      "duration_ms": 1843,
+      "occurred_at": "2026-10-18T20:40:50.903114+00:00"
+    },
+    {
+      "tool": "lancedb.historical",
+      "status": "completed",
+      "duration_ms": 14,
+      "occurred_at": "2026-10-18T20:40:50.925432+00:00"
+    }
+  ],
+  "counts": {
+    "documents": 894,
+    "vectors": 851,
+    "historical_pages": 99,
+    "wikipedia_articles": 795
+  }
+}

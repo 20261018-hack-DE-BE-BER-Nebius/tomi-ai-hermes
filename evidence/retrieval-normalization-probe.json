@@ -1,0 +1,88 @@
+{
+  "documents": [
+    "Shipbuilding",
+    "Active Shipbuilding Experts' Federation",
+    "K Shipbuilding",
+    "Northumberland Shipbuilding Company"
+  ],
+  "experiments": [
+    {
+      "input": "292 SHIP-BUILDING.\n\nFractical Building\n\nends in close contact with, and cooked or dowelled to, the sides of the diagonal timbers. In this state the frame--on in the hold presents various compartments, each representing the figure of a method.\n\nA T reads\u2014timber is then introduced into each rhombed, with an inclination opposite to that of the diagonal timbers, thereby dividing it into two parts. The trust--pieces so in- tended into one rhombed, are to the diagonal frames where the key-stone is to the arch; for no weight or pressure on the fabric can alter its position in a longitudinal direction till compression takes place at the autumn, and extension of the various ties.\n\n\"This arch-like property of the diagonal frame not only opposes an alteration of position in a longitudinal direction, but also restate external pressure on the bottom, either from grounding or any other cause, because so impression can be made in its figure in these directions, without forcing the several parts of wh",
+      "label": "plain_ocr",
+      "ranked": [
+        {
+          "index": 0,
+          "relevance_score": -5.334793567657471,
+          "title": "Shipbuilding"
+        },
+        {
+          "index": 1,
+          "relevance_score": -6.283501625061035,
+          "title": "Active Shipbuilding Experts' Federation"
+        },
+        {
+          "index": 2,
+          "relevance_score": -6.457915782928467,
+          "title": "K Shipbuilding"
+        },
+        {
+          "index": 3,
+          "relevance_score": -6.503061294555664,
+          "title": "Northumberland Shipbuilding Company"
+        }
+      ]
+    },
+    {
+      "input": "shipbuilding\n292 SHIP-BUILDING.\n\nFractical Building\n\nends in close contact with, and cooked or dowelled to, the sides of the diagonal timbers. In this state the frame--on in the hold presents various compartments, each representing the figure of a method.\n\nA T reads\u2014timber is then introduced into each rhombed, with an inclination opposite to that of the diagonal timbers, thereby dividing it into two parts. The trust--pieces so in- tended into one rhombed, are to the diagonal frames where the key-stone is to the arch; for no weight or pressure on the fabric can alter its position in a longitudinal direction till compression takes place at the autumn, and extension of the various ties.\n\n\"This arch-like property of the diagonal frame not only opposes an alteration of position in a longitudinal direction, but also restate external pressure on the bottom, either from grounding or any other cause, because so impression can be made in its figure in these directions, without forcing the several parts of wh",
+      "label": "topic_and_plain",
+      "ranked": [
+        {
+          "index": 0,
+          "relevance_score": -3.204888820648194,
+          "title": "Shipbuilding"
+        },
+        {
+          "index": 1,
+          "relevance_score": -5.035618305206299,
+          "title": "Active Shipbuilding Experts' Federation"
+        },
+        {
+          "index": 3,
+          "relevance_score": -5.05678653717041,
+          "title": "Northumberland Shipbuilding Company"
+        },
+        {
+          "index": 2,
+          "relevance_score": -5.061258792877197,
+          "title": "K Shipbuilding"
+        }
+      ]
+    },
+    {
+      "input": "shipbuilding",
+      "label": "topic",
+      "ranked": [
+        {
+          "index": 0,
+          "relevance_score": 3.6135056018829346,
+          "title": "Shipbuilding"
+        },
+        {
+          "index": 2,
+          "relevance_score": -2.302445888519287,
+          "title": "K Shipbuilding"
+        },
+        {
+          "index": 1,
+          "relevance_score": -2.4078176021575928,
+          "title": "Active Shipbuilding Experts' Federation"
+        },
+        {
+          "index": 3,
+          "relevance_score": -2.579958915710449,
+          "title": "Northumberland Shipbuilding Company"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Nemotron Agentic AI Challenge: Wikipedia API",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/health": {
+      "get": {
+        "summary": "Health",
+        "operationId": "health_health_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "additionalProperties": {
+                    "type": "string"
+                  },
+                  "type": "object",
+                  "title": "Response Health Health Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ready": {
+      "get": {
+        "summary": "Ready",
+        "operationId": "ready_ready_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "additionalProperties": true,
+                  "type": "object",
+                  "title": "Response Ready Ready Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/corpus": {
+      "get": {
+        "summary": "Corpus Info",
+        "operationId": "corpus_info_v1_corpus_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "additionalProperties": true,
+                  "type": "object",
+                  "title": "Response Corpus Info V1 Corpus Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/search": {
+      "post": {
+        "summary": "Search",
+        "operationId": "search_v1_search_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/articles/{page_id}": {
+      "get": {
+        "summary": "Article",
+        "operationId": "article_v1_articles__page_id__get",
+        "parameters": [
+          {
+            "name": "page_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "pattern": "^[0-9]{1,20}$",
+              "title": "Page Id"
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "maximum": 100000000,
+              "minimum": 0,
+              "default": 0,
+              "title": "Offset"
+            }
+          },
+          {
+            "name": "max_chars",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "maximum": 20000,
+              "minimum": 1,
+              "default": 10000,
+              "title": "Max Chars"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ArticleResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ArticleResponse": {
+        "properties": {
+          "page_id": {
+            "type": "string",
+            "title": "Page Id"
+          },
+          "revision_id": {
+            "type": "string",
+            "title": "Revision Id"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "url": {
+            "type": "string",
+            "title": "Url"
+          },
+          "provenance": {
+            "$ref": "#/components/schemas/Provenance"
+          },
+          "license": {
+            "$ref": "#/components/schemas/LicenseInfo"
+          },
+          "text": {
+            "type": "string",
+            "title": "Text"
+          },
+          "offset": {
+            "type": "integer",
+            "title": "Offset"
+          },
+          "returned_chars": {
+            "type": "integer",
+            "title": "Returned Chars"
+          },
+          "total_chars": {
+            "type": "integer",
+            "title": "Total Chars"
+          },
+          "next_offset": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Next Offset"
+          }
+        },
+        "type": "object",
+        "required": [
+          "page_id",
+          "revision_id",
+          "title",
+          "url",
+          "provenance",
+          "text",
+          "offset",
+          "returned_chars",
+          "total_chars",
+          "next_offset"
+        ],
+        "title": "ArticleResponse"
+      },
+      "HTTPValidationError": {
+        "properties": {
+          "detail": {
+            "items": {
+              "$ref": "#/components/schemas/ValidationError"
+            },
+            "type": "array",
+            "title": "Detail"
+          }
+        },
+        "type": "object",
+        "title": "HTTPValidationError"
+      },
+      "LicenseInfo": {
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Name",
+            "default": "Creative Commons Attribution-ShareAlike 4.0 International"
+          },
+          "spdx": {
+            "type": "string",
+            "title": "Spdx",
+            "default": "CC-BY-SA-4.0"
+          },
+          "url": {
+            "type": "string",
+            "title": "Url",
+            "default": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          "attribution": {
+            "type": "string",
+            "title": "Attribution",
+            "default": "Wikipedia contributors"
+          },
+          "notice": {
+            "type": "string",
+            "title": "Notice",
+            "default": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+          }
+        },
+        "type": "object",
+        "title": "LicenseInfo"
+      },
+      "Provenance": {
+        "properties": {
+          "dataset": {
+            "type": "string",
+            "title": "Dataset",
+            "default": "wikimedia/structured-wikipedia"
+          },
+          "dataset_revision": {
+            "type": "string",
+            "title": "Dataset Revision",
+            "default": "417c267bb457fa645c22eb3b5c77764963194c70"
+          },
+          "dataset_url": {
+            "type": "string",
+            "title": "Dataset Url",
+            "default": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70"
+          },
+          "source_key": {
+            "type": "string",
+            "title": "Source Key"
+          },
+          "source_row_idx": {
+            "type": "integer",
+            "title": "Source Row Idx"
+          },
+          "source_shard": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Source Shard"
+          },
+          "text_sha256": {
+            "type": "string",
+            "title": "Text Sha256"
+          },
+          "extraction": {
+            "type": "string",
+            "title": "Extraction"
+          },
+          "revision_url": {
+            "type": "string",
+            "title": "Revision Url"
+          }
+        },
+        "type": "object",
+        "required": [
+          "source_key",
+          "source_row_idx",
+          "text_sha256",
+          "extraction",
+          "revision_url"
+        ],
+        "title": "Provenance"
+      },
+      "SearchHit": {
+        "properties": {
+          "page_id": {
+            "type": "string",
+            "title": "Page Id"
+          },
+          "revision_id": {
+            "type": "string",
+            "title": "Revision Id"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "url": {
+            "type": "string",
+            "title": "Url"
+          },
+          "provenance": {
+            "$ref": "#/components/schemas/Provenance"
+          },
+          "license": {
+            "$ref": "#/components/schemas/LicenseInfo"
+          },
+          "rank": {
+            "type": "integer",
+            "title": "Rank"
+          },
+          "bm25_score": {
+            "type": "number",
+            "title": "Bm25 Score"
+          },
+          "excerpt": {
+            "type": "string",
+            "title": "Excerpt"
+          },
+          "excerpt_offset": {
+            "type": "integer",
+            "title": "Excerpt Offset"
+          },
+          "total_chars": {
+            "type": "integer",
+            "title": "Total Chars"
+          }
+        },
+        "type": "object",
+        "required": [
+          "page_id",
+          "revision_id",
+          "title",
+          "url",
+          "provenance",
+          "rank",
+          "bm25_score",
+          "excerpt",
+          "excerpt_offset",
+          "total_chars"
+        ],
+        "title": "SearchHit"
+      },
+      "SearchRequest": {
+        "properties": {
+          "query": {
+            "type": "string",
+            "maxLength": 512,
+            "minLength": 1,
+            "title": "Query"
+          },
+          "top_k": {
+            "type": "integer",
+            "maximum": 100.0,
+            "minimum": 1.0,
+            "title": "Top K",
+            "default": 10
+          },
+          "excerpt_chars": {
+            "type": "integer",
+            "maximum": 2000.0,
+            "minimum": 100.0,
+            "title": "Excerpt Chars",
+            "default": 1000
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "query"
+        ],
+        "title": "SearchRequest"
+      },
+      "SearchResponse": {
+        "properties": {
+          "query": {
+            "type": "string",
+            "title": "Query"
+          },
+          "retrieval": {
+            "type": "string",
+            "title": "Retrieval",
+            "default": "lexical_bm25"
+          },
+          "corpus_revision": {
+            "type": "string",
+            "title": "Corpus Revision",
+            "default": "417c267bb457fa645c22eb3b5c77764963194c70"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          },
+          "hits": {
+            "items": {
+              "$ref": "#/components/schemas/SearchHit"
+            },
+            "type": "array",
+            "title": "Hits"
+          }
+        },
+        "type": "object",
+        "required": [
+          "query",
+          "count",
+          "hits"
+        ],
+        "title": "SearchResponse"
+      },
+      "ValidationError": {
+        "properties": {
+          "loc": {
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ]
+            },
+            "type": "array",
+            "title": "Location"
+          },
+          "msg": {
+            "type": "string",
+            "title": "Message"
+          },
+          "type": {
+            "type": "string",
+            "title": "Error Type"
+          },
+          "input": {
+            "title": "Input"
+          },
+          "ctx": {
+            "type": "object",
+            "title": "Context"
+          }
+        },
+        "type": "object",
+        "required": [
+          "loc",
+          "msg",
+          "type"
+        ],
+        "title": "ValidationError"
+      }
+    }
+  }
+}

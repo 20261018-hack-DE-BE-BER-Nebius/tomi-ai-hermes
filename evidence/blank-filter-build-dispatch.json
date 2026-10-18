@@ -1,0 +1,8 @@
+{
+  "at": "2026-10-18T20:40:53.950107+00:00",
+  "exit_code": 0,
+  "dockerfile": "FROM tomireg2610181730.azurecr.io/tomi-ai-hermes@sha256:e07c03888a518048504d34d9795078a7e5689887bb95ccef42bf9dc1f1940846\nCOPY --chown=10001:10001 retrieval.py /app/src/tomi_ai_hermes/application/retrieval.py\n",
+  "source_sha256": "63c11a6252518ecb49cd779f4016e5ac11d5f879a6ad3039ffabfb5343ec8414",
+  "stdout": "",
+  "stderr": "WARNING: Packing source code into tar to upload...\nWARNING: Uploading archived source code from '/var/folders/zb/6yrhsssj3tg5647b8fyhjs800000gn/T/build_archive_7897df9a24c04bb6bfe05e8d594a957a.tar.gz'...\nWARNING: Sending context (3.931 KiB) to registry: tomireg2610181730...\nWARNING: Queued a build with ID: dtu\n"
+}
