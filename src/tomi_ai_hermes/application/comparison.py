@@ -4,7 +4,7 @@ import json
 import uuid
 from datetime import UTC, datetime
 
-from tomi_ai_hermes.domain.answers import validate_answer
+from tomi_ai_hermes.domain.answers import bind_span_references, validate_answer
 from tomi_ai_hermes.domain.evidence import (
     DependencyUnavailable,
     Document,
@@ -19,9 +19,12 @@ class Comparison:
         self.config, self.pipeline, self.agent = config, pipeline, agent
 
     def run(
-        self, question: str, locale: str = "en", historical_page_id: str | None = None, top_k: int = 5
+        self, question: str, locale: str = "en", historical_page_id: str | None = None, top_k: int = 5,
+        discovery_query: str | None = None,
     ) -> dict:
-        result = self.pipeline.retrieve(question, locale, historical_page_id, top_k)
+        result = self.pipeline.retrieve(discovery_query or question, locale, historical_page_id, top_k)
+        result["discovery_question"] = discovery_query or question
+        result["question"] = question
         result["run_id"] = str(uuid.uuid4())
         result["created_at"] = datetime.now(UTC).isoformat()
         result["answer"], result["claims"], result["citations"] = "", [], []
@@ -38,6 +41,9 @@ class Comparison:
             dict({k: v for k, v in doc.to_dict().items() if k != "text"}, excerpt_spans=excerpt_spans(doc))
             for doc in documents[:3]
         ]
+        for document_index, document in enumerate(evidence_docs):
+            for span_index, span in enumerate(document["excerpt_spans"]):
+                span["span_id"] = f"d{document_index}s{span_index}"
         evidence = {
             "documents": evidence_docs,
             "uncertainty": result["uncertainty"],
@@ -46,7 +52,9 @@ class Comparison:
         try:
             response = self.agent.compare(result["question"], result["locale"], evidence)
             result["traces"].extend(response.get("tool_calls", []))
-            answer = validate_answer(response["final_response"], documents)
+            result["agent_output"] = response["final_response"]
+            result["offered_evidence"] = evidence_docs
+            answer = validate_answer(bind_span_references(response["final_response"], evidence_docs), documents)
             result.update(answer)
             result["status"] = "abstained" if answer.get("abstained") else "needs_review"
             result["citations"] = [ref for claim in answer["claims"] for ref in claim["citations"]]

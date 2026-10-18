@@ -28,6 +28,9 @@ def test_real_hermes_calls_only_evidence_tool(tmp_path):
         def do_POST(self):
             body = json.loads(self.rfile.read(int(self.headers["Content-Length"])))
             calls.append(body)
+            if "messages" not in body:
+                self.reply({"error": {"message": "Fixture supports chat completions only"}})
+                return
             used_tool = any(message.get("role") == "tool" for message in body["messages"])
             message = {
                 "role": "assistant",
@@ -85,6 +88,16 @@ def test_real_hermes_calls_only_evidence_tool(tmp_path):
             {tool["function"]["name"] for tool in call.get("tools", [])} <= {"tomi_evidence"}
             for call in calls
         )
+        # The live Super VL regression exhausted/continued JSON and invented spans.
+        # Check the actual framework transport, not only constructor parameters.
+        chat_calls = [call for call in calls if "messages" in call]
+        assert len(chat_calls) >= 2
+        assert all(call.get("reasoning_effort") == "none" for call in chat_calls)
+        assert "response_format" not in chat_calls[0]
+        final_calls = [call for call in chat_calls if any(m.get("role") == "tool" for m in call["messages"])]
+        assert final_calls
+        assert all(call.get("response_format") == {"type": "json_object"} for call in final_calls)
+        assert all(call.get("temperature") == 0 for call in chat_calls)
     finally:
         server.shutdown()
         server.server_close()
