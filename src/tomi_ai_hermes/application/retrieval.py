@@ -197,17 +197,23 @@ class Pipeline:
             return selected
 
     def _historical(self, question: str, documents: list, traces: list):
+        # Accepted Parse output can contain layout controls only (blank leaves).
+        # Preserve those source records, but never submit empty model inputs.
+        usable = [(doc, plain_ocr(doc.text).strip()) for doc in documents]
+        usable = [(doc, text) for doc, text in usable if text]
+        if not usable:
+            raise DependencyUnavailable("historical_corpus", "No historical page has normalized text")
         vector = self._call(traces, "nemotron.embed.query", lambda: self.core.embed([question], "query"))[0]
-        for offset in range(0, len(documents), 16):
-            batch = documents[offset : offset + 16]
+        for offset in range(0, len(usable), 16):
+            batch = usable[offset : offset + 16]
             embeddings = self._call(
                 traces,
                 "nemotron.embed.history",
-                lambda batch=batch: self.core.embed([plain_ocr(doc.text)[:5000] for doc in batch], "document"),
+                lambda batch=batch: self.core.embed([text[:5000] for _, text in batch], "document"),
             )
-            self.store.save_vectors(batch, embeddings)
+            self.store.save_vectors([doc for doc, _ in batch], embeddings)
         neighbors = self._call(traces, "lancedb.historical", lambda: self.store.search(vector, 200))
-        history_ids = {doc.document_id for doc in documents}
+        history_ids = {doc.document_id for doc, _ in usable}
         return next(
             (self.store.get(row["document_id"]) for row in neighbors if row["document_id"] in history_ids),
             None,

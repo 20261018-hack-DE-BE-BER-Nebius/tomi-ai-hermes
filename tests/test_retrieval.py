@@ -62,3 +62,32 @@ def test_exact_title_candidate_survives_bm25_omission_but_not_wrong_snapshot():
     pipeline._semantic = lambda result, historical, documents, top_k: seen.extend(documents)
     pipeline.retrieve("Compare shipbuilding methods and vocabulary.", historical_page_id=history.document_id)
     assert seen == [specialist, exact]
+
+
+def test_blank_parse_pages_remain_in_corpus_but_are_not_sent_to_embedding_provider():
+    blank = document(text="<x_0.1><y_0.2><class_Picture>\n")
+    prose = replace(document(text="<x_0.1>Timber ships<class_Text>"), document_id="britannica:2")
+    submitted = []
+    saved = []
+
+    class Core:
+        def embed(self, texts, input_type):
+            submitted.append((input_type, texts))
+            assert all(text.strip() for text in texts)
+            return [[1.0, 0.0] for _ in texts]
+
+    class Store:
+        def save_vectors(self, docs, vectors):
+            saved.extend(docs)
+
+        def search(self, vector, limit):
+            return [{"document_id": prose.document_id}]
+
+        def get(self, identity):
+            return prose
+
+    selected = Pipeline(Config(), Core(), None, Store())._historical("ships", [blank, prose], [])
+    assert selected == prose
+    assert saved == [prose]
+    assert submitted == [("query", ["ships"]), ("document", ["Timber ships"])]
+    assert blank.text == "<x_0.1><y_0.2><class_Picture>\n"
