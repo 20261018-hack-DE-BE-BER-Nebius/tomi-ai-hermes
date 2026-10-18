@@ -89,6 +89,19 @@ class Pipeline:
         result["candidate_query"] = query
         hits = self._call(traces, "wikipedia.search", lambda: self.wikipedia.search(query, max(top_k, 8)))
         documents = self._fetch_candidates(hits, result)
+        # Short BM25 queries can rank specialist companies above an encyclopedia
+        # entry. Retain an exact-title entry already verified in this snapshot.
+        exact = self._call(
+            traces,
+            "wikipedia.cached_exact_title",
+            lambda: [
+                doc for doc in self.store.all("wikipedia")
+                if doc.title.casefold() == query.casefold()
+                and doc.dataset_revision == self.config.wikipedia_revision
+            ],
+        )
+        identities = {doc.document_id for doc in documents}
+        documents.extend(doc for doc in exact if doc.document_id not in identities)
         if not documents:
             raise DependencyUnavailable("wikipedia", "No complete, hash-verified candidates")
         try:
@@ -111,21 +124,31 @@ class Pipeline:
 
     def _semantic(self, result, historical, documents, top_k):
         traces = result["traces"]
+        # Parse control tokens describe layout, not article meaning. Keep raw
+        # sources immutable for citations and normalize only model inputs.
+        texts = [plain_ocr(doc.text)[:5000] for doc in documents]
+        query = result["candidate_query"] + "\n" + plain_ocr(historical.text)[:1000]
+        result["semantic_input"] = {
+            "query": query,
+            "normalization": "remove Parse layout control tokens only; raw evidence unchanged",
+            "historical_prefix_characters": 1000,
+            "candidate_prefix_characters": 5000,
+        }
         vectors = self._call(
             traces,
             "nemotron.embed.document",
-            lambda: self.core.embed([doc.text[:5000] for doc in documents], "document"),
+            lambda: self.core.embed(texts, "document"),
         )
         self.store.save_vectors(documents, vectors)
         vector = self._call(
-            traces, "nemotron.embed.query", lambda: self.core.embed([historical.text[:1000]], "query")
+            traces, "nemotron.embed.query", lambda: self.core.embed([query], "query")
         )[0]
         neighbors = self._call(traces, "lancedb.search", lambda: self.store.search(vector, len(documents)))
         distances = {row["document_id"]: row["_distance"] for row in neighbors}
         ranked = self._call(
             traces,
             "nemotron.rerank",
-            lambda: self.core.rerank(historical.text[:1000], [doc.text[:5000] for doc in documents], top_k),
+            lambda: self.core.rerank(query, texts, top_k),
         )
         result["candidates"] = [
             dict(
@@ -180,7 +203,7 @@ class Pipeline:
             embeddings = self._call(
                 traces,
                 "nemotron.embed.history",
-                lambda batch=batch: self.core.embed([doc.text[:5000] for doc in batch], "document"),
+                lambda batch=batch: self.core.embed([plain_ocr(doc.text)[:5000] for doc in batch], "document"),
             )
             self.store.save_vectors(batch, embeddings)
         neighbors = self._call(traces, "lancedb.historical", lambda: self.store.search(vector, 200))
