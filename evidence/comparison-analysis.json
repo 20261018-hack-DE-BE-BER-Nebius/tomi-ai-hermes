@@ -1,0 +1,729 @@
+{
+  "computed_at": "2026-10-18T20:43:15.510960+00:00",
+  "method": "Existing production lexical_metrics on complete actual historical and cited modern article texts; remove Parse control tokens, Unicode letter tokens, casefold, no stopword removal. Metrics are descriptive, not factual agreement.",
+  "cases": [
+    {
+      "id": "success-candidate-01-shipbuilding",
+      "claim": "The historical excerpt says shelf-pieces are composed of several lengths of timber, while the modern excerpt defines a shipyard as a specialized facility where shipbuilding normally takes place.",
+      "historical_page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+      "modern_title": "Shipbuilding",
+      "modern_page_id": "wikipedia:187377",
+      "historical_text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2",
+      "modern_text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73",
+      "receipt_path": "evidence/live-nemotron-narrow-20261018T1742Z/success-candidate-01-shipbuilding.json",
+      "receipt_sha256": "ed7238f8cc1377a6d3b1491e513dd6b528af39b2d2ac6141c2eab83992bfefe6",
+      "metrics": {
+        "historical_words": 1419,
+        "modern_words": 5593,
+        "vocabulary_jaccard": 0.10974409448818898,
+        "jensen_shannon_divergence": 0.47297167134124657,
+        "historical_top_words": [
+          [
+            "the",
+            167
+          ],
+          [
+            "of",
+            85
+          ],
+          [
+            "to",
+            45
+          ],
+          [
+            "in",
+            37
+          ],
+          [
+            "and",
+            36
+          ],
+          [
+            "a",
+            35
+          ],
+          [
+            "as",
+            19
+          ],
+          [
+            "which",
+            18
+          ],
+          [
+            "is",
+            14
+          ],
+          [
+            "ship",
+            12
+          ],
+          [
+            "this",
+            12
+          ],
+          [
+            "on",
+            12
+          ],
+          [
+            "from",
+            11
+          ],
+          [
+            "we",
+            11
+          ],
+          [
+            "deck",
+            11
+          ]
+        ],
+        "modern_top_words": [
+          [
+            "the",
+            427
+          ],
+          [
+            "of",
+            212
+          ],
+          [
+            "and",
+            168
+          ],
+          [
+            "in",
+            141
+          ],
+          [
+            "to",
+            127
+          ],
+          [
+            "a",
+            106
+          ],
+          [
+            "ships",
+            72
+          ],
+          [
+            "with",
+            60
+          ],
+          [
+            "were",
+            58
+          ],
+          [
+            "as",
+            52
+          ],
+          [
+            "was",
+            46
+          ],
+          [
+            "from",
+            45
+          ],
+          [
+            "by",
+            43
+          ],
+          [
+            "is",
+            42
+          ],
+          [
+            "for",
+            42
+          ]
+        ],
+        "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+      },
+      "historical_top_normalized": [
+        {
+          "word": "the",
+          "count": 167,
+          "frequency": 0.11768851303735024
+        },
+        {
+          "word": "of",
+          "count": 85,
+          "frequency": 0.059901338971106416
+        },
+        {
+          "word": "to",
+          "count": 45,
+          "frequency": 0.03171247357293869
+        },
+        {
+          "word": "in",
+          "count": 37,
+          "frequency": 0.026074700493305146
+        },
+        {
+          "word": "and",
+          "count": 36,
+          "frequency": 0.02536997885835095
+        }
+      ],
+      "modern_top_normalized": [
+        {
+          "word": "the",
+          "count": 427,
+          "frequency": 0.07634543178973717
+        },
+        {
+          "word": "of",
+          "count": 212,
+          "frequency": 0.03790452351153227
+        },
+        {
+          "word": "and",
+          "count": 168,
+          "frequency": 0.030037546933667083
+        },
+        {
+          "word": "in",
+          "count": 141,
+          "frequency": 0.025210084033613446
+        },
+        {
+          "word": "to",
+          "count": 127,
+          "frequency": 0.02270695512247452
+        }
+      ],
+      "citations": [
+        {
+          "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+          "end_cp": 2520,
+          "offset_basis": "raw_codepoints",
+          "quote": "1 Lc by And of pieces internal hoops, distinguished by the letter 2. These shelf-pieces are composed of several lengths of timber, scarded or joined together by coaks or circular downs, so as to form a full of internal hoop, extending from the hooks forward, to the transons shall --(in the plate the transons are not shown), we have chosen the perfected application of Sir Robert Seapings’ system, after the adoption of the circular stem into the service, —to the under side of which, as well as the whole part of the beams, they are securely cookies, and being then firmly bolted to the side, instead of becoming a mere local fixer of the beam to the shiny’s exterior frame, as likely were, they are seen continued and general security. The shelf-piece is also a tie to the top-side in a four and a",
+          "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+          "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+          "start_cp": 1720,
+          "text_sha256": "4bdd311a6eb6a14bd8632709e16b2a598e914e7dadcddc412814fcd94378ebe2"
+        },
+        {
+          "document_id": "wikipedia:187377",
+          "end_cp": 800,
+          "offset_basis": "raw_codepoints",
+          "quote": "Shipbuilding is the construction of ships and other floating vessels. In modern times, it normally takes place in a specialized facility known as a shipyard. Shipbuilders, also called shipwrights, follow a specialized occupation that traces its roots to before recorded history.\n\nUntil recently, with the development of complex non-maritime technologies during the industrial revolution, a ship has often represented the most advanced structure that the society building it could produce.: ch1 Some key industrial advances were developed to support shipbuilding, for instance the sawing of timbers by mechanical saws propelled by windmills in Dutch shipyards during the first half of the 17th century.: 34–37 The design process saw the early adoption of the logarithm (invented in 1615) to generate t",
+          "revision_id": "1348971360",
+          "source_url": "https://en.wikipedia.org/w/index.php?oldid=1348971360",
+          "start_cp": 0,
+          "text_sha256": "4e0ee6694b55edc40293146c4a9f0fddc6a7ec7b983ea5a733fc935ee8a93e73"
+        }
+      ],
+      "selected_word_frequencies": [
+        {
+          "word": "timber",
+          "historical_count": 2,
+          "modern_count": 4,
+          "historical_per1000": 1.4094432699083863,
+          "modern_per1000": 0.7151796888968354
+        },
+        {
+          "word": "ship",
+          "historical_count": 12,
+          "modern_count": 35,
+          "historical_per1000": 8.456659619450317,
+          "modern_per1000": 6.257822277847309
+        },
+        {
+          "word": "shipbuilding",
+          "historical_count": 0,
+          "modern_count": 41,
+          "historical_per1000": 0.0,
+          "modern_per1000": 7.330591811192562
+        }
+      ]
+    },
+    {
+      "id": "success-candidate-02-litre",
+      "claim": "Britannica names the litre as \"cubic decimetre\"; Wikipedia names it as \"cubic decimetre (dm³)\" and \"1 cubic decimetre (dm³)\".",
+      "historical_page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:104",
+      "modern_title": "Litre",
+      "modern_page_id": "wikipedia:18094",
+      "historical_text_sha256": "004b7e594ad00eb4a8b991c060453349d2039a3f9d4079cf5f4cf32109c46bef",
+      "modern_text_sha256": "df0bdfb1592b80d73a6682ea11855af012ce85f537890b7bdc9b24d9b60bb609",
+      "receipt_path": "evidence/live-nemotron-narrow-20261018T1742Z/success-candidate-02-litre.json",
+      "receipt_sha256": "c09e08bdbfba50594255c8fa62918dcb4bc51132b2754aeeb6e6e406bae0ab76",
+      "metrics": {
+        "historical_words": 1460,
+        "modern_words": 1903,
+        "vocabulary_jaccard": 0.11850501367365543,
+        "jensen_shannon_divergence": 0.5141121252829898,
+        "historical_top_words": [
+          [
+            "the",
+            117
+          ],
+          [
+            "a",
+            89
+          ],
+          [
+            "of",
+            75
+          ],
+          [
+            "and",
+            61
+          ],
+          [
+            "brit",
+            33
+          ],
+          [
+            "in",
+            25
+          ],
+          [
+            "is",
+            24
+          ],
+          [
+            "or",
+            21
+          ],
+          [
+            "are",
+            16
+          ],
+          [
+            "as",
+            15
+          ],
+          [
+            "lb",
+            15
+          ],
+          [
+            "inches",
+            13
+          ],
+          [
+            "by",
+            13
+          ],
+          [
+            "to",
+            11
+          ],
+          [
+            "at",
+            11
+          ]
+        ],
+        "modern_top_words": [
+          [
+            "the",
+            141
+          ],
+          [
+            "of",
+            80
+          ],
+          [
+            "in",
+            59
+          ],
+          [
+            "and",
+            57
+          ],
+          [
+            "a",
+            49
+          ],
+          [
+            "is",
+            40
+          ],
+          [
+            "litre",
+            39
+          ],
+          [
+            "for",
+            37
+          ],
+          [
+            "as",
+            29
+          ],
+          [
+            "was",
+            29
+          ],
+          [
+            "l",
+            25
+          ],
+          [
+            "to",
+            22
+          ],
+          [
+            "used",
+            20
+          ],
+          [
+            "cubic",
+            19
+          ],
+          [
+            "one",
+            19
+          ]
+        ],
+        "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+      },
+      "historical_top_normalized": [
+        {
+          "word": "the",
+          "count": 117,
+          "frequency": 0.08013698630136987
+        },
+        {
+          "word": "a",
+          "count": 89,
+          "frequency": 0.06095890410958904
+        },
+        {
+          "word": "of",
+          "count": 75,
+          "frequency": 0.05136986301369863
+        },
+        {
+          "word": "and",
+          "count": 61,
+          "frequency": 0.04178082191780822
+        },
+        {
+          "word": "brit",
+          "count": 33,
+          "frequency": 0.022602739726027398
+        }
+      ],
+      "modern_top_normalized": [
+        {
+          "word": "the",
+          "count": 141,
+          "frequency": 0.07409353652128219
+        },
+        {
+          "word": "of",
+          "count": 80,
+          "frequency": 0.04203888596952181
+        },
+        {
+          "word": "in",
+          "count": 59,
+          "frequency": 0.031003678402522335
+        },
+        {
+          "word": "and",
+          "count": 57,
+          "frequency": 0.02995270625328429
+        },
+        {
+          "word": "a",
+          "count": 49,
+          "frequency": 0.025748817656332107
+        }
+      ],
+      "citations": [
+        {
+          "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:104",
+          "end_cp": 485,
+          "offset_basis": "raw_codepoints",
+          "quote": "is litre or cubic decimetre = 10 diclitres = 100 centiltes = 27/430 Brit. cubic inches, and so liere was nearly I Brit. Als. Also lo litre as 10 dec metres a 1 becollires ≈ 27/10/7 lb. bubels s and 22 becollires are nearly equal to 11 Brit; quarters, the satellites no 10 kiltser or cubic meters at 3hr 34:300698 Brit. quarters.",
+          "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+          "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+          "start_cp": 157,
+          "text_sha256": "004b7e594ad00eb4a8b991c060453349d2039a3f9d4079cf5f4cf32109c46bef"
+        },
+        {
+          "document_id": "wikipedia:18094",
+          "end_cp": 800,
+          "offset_basis": "raw_codepoints",
+          "quote": "The litre (Commonwealth spelling) or liter (American spelling) (SI symbols L and l, other symbol used: ℓ) is a metric unit of volume. It is equal to 1 cubic decimetre (dm 3), 1000 cubic centimetres (cm 3) or 0.001 cubic metres (m 3). A cubic decimetre (or litre) occupies a volume of 10 cm × 10 cm × 10 cm (see figure) and is thus equal to one-thousandth of a cubic metre.\n\nThe original French metric system used the litre as a base unit. The word litre is derived from an older French unit, the litron, whose name came from Byzantine Greek —where it was a unit of weight, not volume—via Late Medieval Latin, and which equalled approximately 0.82 litres. The litre was also used in several subsequent versions of the metric system and is accepted for use with the SI, despite it not being an SI unit.",
+          "revision_id": "1341552788",
+          "source_url": "https://en.wikipedia.org/w/index.php?oldid=1341552788",
+          "start_cp": 0,
+          "text_sha256": "df0bdfb1592b80d73a6682ea11855af012ce85f537890b7bdc9b24d9b60bb609"
+        }
+      ],
+      "selected_word_frequencies": [
+        {
+          "word": "litre",
+          "historical_count": 2,
+          "modern_count": 39,
+          "historical_per1000": 1.36986301369863,
+          "modern_per1000": 20.493956910141883
+        },
+        {
+          "word": "cubic",
+          "historical_count": 5,
+          "modern_count": 19,
+          "historical_per1000": 3.4246575342465753,
+          "modern_per1000": 9.984235417761429
+        },
+        {
+          "word": "brit",
+          "historical_count": 33,
+          "modern_count": 0,
+          "historical_per1000": 22.602739726027398,
+          "modern_per1000": 0.0
+        }
+      ]
+    },
+    {
+      "id": "success-candidate-03-bleaching",
+      "claim": "The historical excerpt covers vessels and gas, while the modern excerpt defines textile bleaching as removing colour.",
+      "historical_page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:115",
+      "modern_title": "Textile bleaching",
+      "modern_page_id": "wikipedia:11501704",
+      "historical_text_sha256": "b1ecbf458765782ad9e5203a04abcceda0900a3e33855a30d02f97db6ca2df6a",
+      "modern_text_sha256": "63b542cc80b394335449719bae076e4be8dac667a0e6986c84e7fa01f91e49fb",
+      "receipt_path": "evidence/live-nemotron-narrow-20261018T1742Z/success-candidate-03-bleaching.json",
+      "receipt_sha256": "3c0c4447945f01d1b4a3b9c6935c30add904e9d59182c5edc6f08022c598a7dd",
+      "metrics": {
+        "historical_words": 1220,
+        "modern_words": 1145,
+        "vocabulary_jaccard": 0.09639830508474577,
+        "jensen_shannon_divergence": 0.5462795725865615,
+        "historical_top_words": [
+          [
+            "the",
+            130
+          ],
+          [
+            "of",
+            55
+          ],
+          [
+            "to",
+            42
+          ],
+          [
+            "in",
+            31
+          ],
+          [
+            "be",
+            25
+          ],
+          [
+            "it",
+            23
+          ],
+          [
+            "is",
+            21
+          ],
+          [
+            "which",
+            20
+          ],
+          [
+            "and",
+            19
+          ],
+          [
+            "a",
+            19
+          ],
+          [
+            "this",
+            15
+          ],
+          [
+            "or",
+            12
+          ],
+          [
+            "its",
+            12
+          ],
+          [
+            "for",
+            11
+          ],
+          [
+            "by",
+            11
+          ]
+        ],
+        "modern_top_words": [
+          [
+            "the",
+            79
+          ],
+          [
+            "of",
+            42
+          ],
+          [
+            "and",
+            41
+          ],
+          [
+            "bleaching",
+            37
+          ],
+          [
+            "in",
+            25
+          ],
+          [
+            "a",
+            23
+          ],
+          [
+            "is",
+            21
+          ],
+          [
+            "to",
+            21
+          ],
+          [
+            "it",
+            15
+          ],
+          [
+            "or",
+            12
+          ],
+          [
+            "that",
+            12
+          ],
+          [
+            "with",
+            12
+          ],
+          [
+            "as",
+            11
+          ],
+          [
+            "are",
+            11
+          ],
+          [
+            "was",
+            11
+          ]
+        ],
+        "interpretation": "Lexical differences alone do not establish a change in factual knowledge."
+      },
+      "historical_top_normalized": [
+        {
+          "word": "the",
+          "count": 130,
+          "frequency": 0.10655737704918032
+        },
+        {
+          "word": "of",
+          "count": 55,
+          "frequency": 0.045081967213114756
+        },
+        {
+          "word": "to",
+          "count": 42,
+          "frequency": 0.03442622950819672
+        },
+        {
+          "word": "in",
+          "count": 31,
+          "frequency": 0.02540983606557377
+        },
+        {
+          "word": "be",
+          "count": 25,
+          "frequency": 0.020491803278688523
+        }
+      ],
+      "modern_top_normalized": [
+        {
+          "word": "the",
+          "count": 79,
+          "frequency": 0.06899563318777292
+        },
+        {
+          "word": "of",
+          "count": 42,
+          "frequency": 0.03668122270742358
+        },
+        {
+          "word": "and",
+          "count": 41,
+          "frequency": 0.03580786026200873
+        },
+        {
+          "word": "bleaching",
+          "count": 37,
+          "frequency": 0.032314410480349345
+        },
+        {
+          "word": "in",
+          "count": 25,
+          "frequency": 0.021834061135371178
+        }
+      ],
+      "citations": [
+        {
+          "document_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:115",
+          "end_cp": 863,
+          "offset_basis": "raw_codepoints",
+          "quote": "When the liquor is entirely worn off from the\nveffel, it must not be immediately filled with water, or at least to the height of five or its inches above the\nreturn of the leader tube, otherwise the gas, which\ncontinues to escape from the difficulty veffle then\naffords no refinance, might attack the pneumatic veffel\ninficit.",
+          "revision_id": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+          "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/tree/309f765b1ecc83e0a7f7762e44b4a927a7555443",
+          "start_cp": 537,
+          "text_sha256": "b1ecbf458765782ad9e5203a04abcceda0900a3e33855a30d02f97db6ca2df6a"
+        },
+        {
+          "document_id": "wikipedia:11501704",
+          "end_cp": 800,
+          "offset_basis": "raw_codepoints",
+          "quote": "The textile bleaching (or bleaching of textiles) is one of the steps in the textile manufacturing process. The objective of bleaching is to remove the natural color for the following steps such as dyeing or printing or to achieve full white. All raw textile materials, when they are in natural form, are known as ' greige' material. They have their natural color, odor and impurities that are not suited to clothing materials. Not only the natural impurities will remain in the greige material, but also the add-ons that were made during its cultivation, growth and manufacture in the form of pesticides, fungicides, worm killers, sizes, lubricants, etc. The removal of these natural coloring matters and add-ons during the previous state of manufacturing is called scouring and bleaching.: 193\n\nA co",
+          "revision_id": "1338304831",
+          "source_url": "https://en.wikipedia.org/w/index.php?oldid=1338304831",
+          "start_cp": 0,
+          "text_sha256": "63b542cc80b394335449719bae076e4be8dac667a0e6986c84e7fa01f91e49fb"
+        }
+      ],
+      "selected_word_frequencies": [
+        {
+          "word": "veffel",
+          "historical_count": 4,
+          "modern_count": 0,
+          "historical_per1000": 3.278688524590164,
+          "modern_per1000": 0.0
+        },
+        {
+          "word": "gas",
+          "historical_count": 3,
+          "modern_count": 0,
+          "historical_per1000": 2.459016393442623,
+          "modern_per1000": 0.0
+        },
+        {
+          "word": "bleaching",
+          "historical_count": 2,
+          "modern_count": 37,
+          "historical_per1000": 1.639344262295082,
+          "modern_per1000": 32.314410480349345
+        }
+      ]
+    }
+  ]
+}
